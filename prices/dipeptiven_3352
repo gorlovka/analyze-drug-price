@@ -1,0 +1,755 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "dipeptiven",
+            "rus_name" : "Дипептивен",
+            "form" : "концентрат д/пригот. р-ра д/инф. 20%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 28,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "dipeptiven",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959535296"
+                              }
+                           ],
+                           "phone" : "+74959535296",
+                           "city" : "Москва",
+                           "latitude" : 55.7362,
+                           "address" : "Новокузнецкая улица, 20/21-19 с5"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "2",
+                           "name" : "Дипептивен, конц д/инф фл 20% 100мл",
+                           "price" : "2299"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "6",
+                           "name" : "Дипептивен 20% р-р д/инф.100мл 1р",
+                           "price" : "2245"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "10",
+                           "name" : "Дипептивен 20% 100мл 1 конц д/р-ра д/и",
+                           "price" : "2329"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6114,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Фармацевтическая компания &quot;БЕЛЫЙ ЛОТОС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959804897"
+                              }
+                           ],
+                           "phone" : "+74959804897",
+                           "city" : "Москва",
+                           "latitude" : 55.7268,
+                           "address" : "улица Шаболовка, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "2",
+                           "name" : "Дипептивен 20% конц. р-р д/инф 100мл х10",
+                           "price" : "21800"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5901,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490247"
+                              }
+                           ],
+                           "phone" : "+74996490247",
+                           "city" : "Москва",
+                           "latitude" : 55.7732,
+                           "address" : "1-я Тверская-Ямская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "10",
+                           "name" : "Дипептивен конц д/инф 20% 100мл 10",
+                           "price" : "23077.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955451350"
+                              },
+                              {
+                                 "number" : "+79262305469"
+                              }
+                           ],
+                           "phone" : "+74955451350; +79262305469",
+                           "city" : "Москва",
+                           "latitude" : 55.7384,
+                           "address" : "Марксистская улица, 3 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "6",
+                           "name" : "Дипептивен р-р д/инф 200мг/мл 100мл фл",
+                           "price" : "2230"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6748,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490244"
+                              }
+                           ],
+                           "phone" : "+74996490244",
+                           "city" : "Москва",
+                           "latitude" : 55.7464,
+                           "address" : "улица Сергия Радонежского, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "10",
+                           "name" : "Дипептивен конц д/инф 20% 100мл 10",
+                           "price" : "23077.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6087,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.7192,
+                           "address" : "улица Шаболовка, 30/12"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "1",
+                           "name" : "Дипептивен фл. 20% 100мл 10",
+                           "price" : "20995"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6344,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490250"
+                              }
+                           ],
+                           "phone" : "+74996490250",
+                           "city" : "Москва",
+                           "latitude" : 55.7842,
+                           "address" : "проспект Мира, 51"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "10",
+                           "name" : "Дипептивен конц д/инф 20% 100мл 10",
+                           "price" : "23077.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490249"
+                              }
+                           ],
+                           "phone" : "+74996490249",
+                           "city" : "Москва",
+                           "latitude" : 55.7227,
+                           "address" : "Фрунзенская набережная, 36/2"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "10",
+                           "name" : "Дипептивен конц д/инф 20% 100мл 10",
+                           "price" : "23077.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6333,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955856015"
+                              },
+                              {
+                                 "number" : "+79162130905"
+                              }
+                           ],
+                           "phone" : "+74955856015; +79162130905",
+                           "city" : "Москва",
+                           "latitude" : 55.7856,
+                           "address" : "улица Гиляровского, 50"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "4",
+                           "name" : "Дипептивен р-р д/инф 200мг/мл 100мл фл",
+                           "price" : "2350"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "1",
+                           "name" : "Дипептивен,раствор для инфузий,20% 100мл 1шт",
+                           "price" : "18000"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490237"
+                              }
+                           ],
+                           "phone" : "+74996490237",
+                           "city" : "Москва",
+                           "latitude" : 55.7741,
+                           "address" : "Бауманская улица, 26 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "10",
+                           "name" : "Дипептивен конц д/инф 20% 100мл 10",
+                           "price" : "23077.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5479,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992156351"
+                              }
+                           ],
+                           "phone" : "+74992156351",
+                           "city" : "Москва",
+                           "latitude" : 55.7583,
+                           "address" : "Шмитовский проезд, 16 с2"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "10",
+                           "name" : "Дипептивен конц д/инф 20% 100мл 10",
+                           "price" : "23077.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6155,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490248"
+                              }
+                           ],
+                           "phone" : "+74996490248",
+                           "city" : "Москва",
+                           "latitude" : 55.794,
+                           "address" : "Шереметьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "10",
+                           "name" : "Дипептивен конц д/инф 20% 100мл 10",
+                           "price" : "23077.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "10",
+                           "name" : "Дипептивен конц д/инф фл 20% 100мл",
+                           "price" : "2279"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490242"
+                              }
+                           ],
+                           "phone" : "+74996490242",
+                           "city" : "Москва",
+                           "latitude" : 55.7755,
+                           "address" : "проспект Маршала Жукова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "10",
+                           "name" : "Дипептивен конц д/инф 20% 100мл 10",
+                           "price" : "23077.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7154,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья-2",
+                           "phones" : [
+                              {
+                                 "number" : "+74956264772"
+                              }
+                           ],
+                           "phone" : "+74956264772",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "Просторная улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "1",
+                           "name" : "Дипептивен???20% 50мл 10",
+                           "price" : "19600"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "30",
+                           "name" : "Дипептивен конц д/р-ра для инфузий 20% фл 100мл n10",
+                           "price" : "2240"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.467,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490241"
+                              }
+                           ],
+                           "phone" : "+74996490241",
+                           "city" : "Москва",
+                           "latitude" : 55.8165,
+                           "address" : "Волоколамское шоссе, 56 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "10",
+                           "name" : "Дипептивен конц д/инф 20% 100мл 10",
+                           "price" : "23077.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7934,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИНАД-ЭКСПЕРТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956522369"
+                              },
+                              {
+                                 "number" : "+74956522370"
+                              }
+                           ],
+                           "phone" : "+74956522369; +74956522370",
+                           "city" : "Москва",
+                           "latitude" : 55.7997,
+                           "address" : "7-я Парковая улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "33",
+                           "name" : "Дипептивен 20% 100 мл.фл. 10",
+                           "price" : "23328"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4172,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МЕДЦЕНТР-МОСИНТУР ЛТД&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955061407"
+                              },
+                              {
+                                 "number" : "+74952238910"
+                              }
+                           ],
+                           "phone" : "+74955061407; +74952238910",
+                           "city" : "Москва",
+                           "latitude" : 55.7302,
+                           "address" : "Кунцевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "5",
+                           "name" : "Дипептивен 20% 100 мл",
+                           "price" : "23350.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8205,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ИЗМАЙЛОВО",
+                           "phones" : [
+                              {
+                                 "number" : "+74956625463"
+                              }
+                           ],
+                           "phone" : "+74956625463",
+                           "city" : "Москва",
+                           "latitude" : 55.7745,
+                           "address" : "Большой Купавенский проезд, 4"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "1",
+                           "name" : "Дипептивен??? конц д/инф 20% 100мл 10",
+                           "price" : "23088"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "10",
+                           "name" : "Дипептивен конц д/инф 20% 100мл 10",
+                           "price" : "23077.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490240"
+                              }
+                           ],
+                           "phone" : "+74996490240",
+                           "city" : "Москва",
+                           "latitude" : 55.6513,
+                           "address" : "Люблинская улица, 163/1"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "10",
+                           "name" : "Дипептивен конц д/инф 20% 100мл 10",
+                           "price" : "23077.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4767,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956490245"
+                              }
+                           ],
+                           "phone" : "+74956490245",
+                           "city" : "Москва",
+                           "latitude" : 55.8471,
+                           "address" : "Ленинградское шоссе, 80 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "10",
+                           "name" : "Дипептивен конц д/инф 20% 100мл 10",
+                           "price" : "23077.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "1",
+                           "name" : "Дипептивен концентрат для раствора 20% 100мл 10 флаконы",
+                           "price" : "21497"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья Юг",
+                           "phones" : [
+                              {
+                                 "number" : "+74959710100"
+                              }
+                           ],
+                           "phone" : "+74959710100",
+                           "city" : "Москва",
+                           "latitude" : 55.8571,
+                           "address" : "улица Героев Панфиловцев, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1705",
+                           "quantity" : "1",
+                           "name" : "Дипептивен ??? конц д/р-ра д/инф 20% фл",
+                           "price" : "22710"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "N(2)-L-аланил-L-глутамин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

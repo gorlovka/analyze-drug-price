@@ -1,0 +1,371 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "simvastatin_sz",
+            "rus_name" : "Симвастатин-сз",
+            "form" : "таб., покр. пленочной оболочкой, 20 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 13,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "simvastatin_sz",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "7592",
+                           "quantity" : "5",
+                           "name" : "Симвастатин-сз таб.20 мг 30",
+                           "price" : "124"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6637,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; Форте&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956766200"
+                              },
+                              {
+                                 "number" : "+74955071442"
+                              }
+                           ],
+                           "phone" : "+74956766200; +74955071442",
+                           "city" : "Москва",
+                           "latitude" : 55.7299,
+                           "address" : "2-й Крутицкий переулок, 18с1"
+                        },
+                        "drug" : {
+                           "descid" : "7592",
+                           "quantity" : "1",
+                           "name" : "Симвастатин-сз табл. п/о пленочной 20 мг 28, северная звезда зао",
+                           "price" : "135"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6333,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955856015"
+                              },
+                              {
+                                 "number" : "+79162130905"
+                              }
+                           ],
+                           "phone" : "+74955856015; +79162130905",
+                           "city" : "Москва",
+                           "latitude" : 55.7856,
+                           "address" : "улица Гиляровского, 50"
+                        },
+                        "drug" : {
+                           "descid" : "7592",
+                           "quantity" : "1",
+                           "name" : "Симвастатин-сз тб п/о 20мг уп конт яч n10x3",
+                           "price" : "110.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6761,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Целитель г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956326238"
+                              }
+                           ],
+                           "phone" : "+74956326238",
+                           "city" : "Москва",
+                           "latitude" : 55.7377,
+                           "address" : "Малая Калитниковская улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "7592",
+                           "quantity" : "1",
+                           "name" : "Симвастатин-сз таб. п/о плен. 20мг 30 северная звезда зао(россия)",
+                           "price" : "132.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6733,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ ФАРМ Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953635014"
+                              }
+                           ],
+                           "phone" : "+74953635014",
+                           "city" : "Москва",
+                           "latitude" : 55.7301,
+                           "address" : "Волгоградский проспект, 10"
+                        },
+                        "drug" : {
+                           "descid" : "7592",
+                           "quantity" : "2",
+                           "name" : "Симвастатин-сз тб п/о 20мг уп конт яч n10x3",
+                           "price" : "121.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6863,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Здоровый стиль&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959589295"
+                              }
+                           ],
+                           "phone" : "+74959589295",
+                           "city" : "Москва",
+                           "latitude" : 55.7038,
+                           "address" : "улица Трофимова, 36 к1"
+                        },
+                        "drug" : {
+                           "descid" : "7592",
+                           "quantity" : "1",
+                           "name" : "Симвастатин-сз таб. п/о плен. 20мг 30",
+                           "price" : "131"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5673,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Целитель+&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957794761"
+                              }
+                           ],
+                           "phone" : "+74957794761",
+                           "city" : "Москва",
+                           "latitude" : 55.6698,
+                           "address" : "Новочерёмушкинская улица, 57"
+                        },
+                        "drug" : {
+                           "descid" : "7592",
+                           "quantity" : "1",
+                           "name" : "Симвастатин-сз таб п.п.о. 20мг n30 уп кнт-яч пк &amp;lt;10*3&amp;gt;",
+                           "price" : "78"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ЗДОРОВЬЕ ПЛЮС",
+                           "phones" : [
+                              {
+                                 "number" : "+74991223092"
+                              }
+                           ],
+                           "phone" : "+74991223092",
+                           "city" : "Москва",
+                           "latitude" : 55.6542,
+                           "address" : "улица Каховка, 10к3"
+                        },
+                        "drug" : {
+                           "descid" : "7592",
+                           "quantity" : "1",
+                           "name" : "Симвастатин -сз 20мг n30 таб.",
+                           "price" : "127.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "7592",
+                           "quantity" : "1",
+                           "name" : "Симвастатин-сз табл. п/о пленочной 20 мг 30, северная звезда зао",
+                           "price" : "125"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8587,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Вивафарм ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957038888"
+                              }
+                           ],
+                           "phone" : "+74957038888",
+                           "city" : "Москва",
+                           "latitude" : 55.7403,
+                           "address" : "Новокосинская улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "7592",
+                           "quantity" : "2",
+                           "name" : "Симвастатин-сз таб. п/о плен. 20мг 30",
+                           "price" : "131"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люксор - Фарм Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992005500"
+                              },
+                              {
+                                 "number" : "+79260961147"
+                              }
+                           ],
+                           "phone" : "+74992005500; +79260961147",
+                           "city" : "Москва",
+                           "latitude" : 55.8932,
+                           "address" : "Алтуфьевское шоссе, 87"
+                        },
+                        "drug" : {
+                           "descid" : "7592",
+                           "quantity" : "3",
+                           "name" : "Симвастатин-сз табл. п/о пленочной 20 мг 30, северная звезда зао",
+                           "price" : "123.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7608,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарм Крафт&quot;5",
+                           "phones" : [
+                              {
+                                 "number" : "+79264684755"
+                              },
+                              {
+                                 "number" : "+79264539423"
+                              }
+                           ],
+                           "phone" : "+79264684755; +79264539423",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9155,
+                           "address" : "Шараповский проезд, 1"
+                        },
+                        "drug" : {
+                           "descid" : "7592",
+                           "quantity" : "3",
+                           "name" : "Симвастатин-сз таб п.п.о. 20мг n30 уп кнт-яч пк &amp;lt;10*3&amp;gt;",
+                           "price" : "50"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4439,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФГУП &quot;Аптека 21&quot;, г.Электросталь",
+                           "phones" : [
+                              {
+                                 "number" : "+74967029162"
+                              }
+                           ],
+                           "phone" : "+74967029162",
+                           "city" : "Электросталь",
+                           "latitude" : 55.7854,
+                           "address" : "проспект Ленина, 44/14, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "7592",
+                           "quantity" : "10",
+                           "name" : "Симвастатин-сз, тбл п/о плен.20мг 30",
+                           "price" : "131.6"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "симвастатин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

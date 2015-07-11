@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "alcenorm",
+            "rus_name" : "Альценорм",
+            "form" : "капс. 3 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "alcenorm",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4172,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МЕДЦЕНТР-МОСИНТУР ЛТД&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955061407"
+                              },
+                              {
+                                 "number" : "+74952238910"
+                              }
+                           ],
+                           "phone" : "+74955061407; +74952238910",
+                           "city" : "Москва",
+                           "latitude" : 55.7302,
+                           "address" : "Кунцевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "6342",
+                           "quantity" : "4",
+                           "name" : "Альценорм 3 мг 28 капсул",
+                           "price" : "1380"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ривастигмин + ривастигмин (в форме гидротартрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

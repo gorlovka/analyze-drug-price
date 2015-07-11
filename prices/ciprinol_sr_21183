@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ciprinol_sr",
+            "rus_name" : "Ципринол® ср",
+            "form" : "таб. пролонгир. действия, покр. пленочной оболочкой, 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ciprinol_sr",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6133,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №292 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+79684012831"
+                              }
+                           ],
+                           "phone" : "+79684012831",
+                           "city" : "Москва",
+                           "latitude" : 55.7111,
+                           "address" : "улица Серпуховский Вал, 17"
+                        },
+                        "drug" : {
+                           "descid" : "5103",
+                           "quantity" : "1",
+                           "name" : "Ципринол ср табл.п.о. 500мг n10",
+                           "price" : "250"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4351,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №466",
+                           "phones" : [
+                              {
+                                 "number" : "+74995004024"
+                              }
+                           ],
+                           "phone" : "+74995004024",
+                           "city" : "Москва",
+                           "latitude" : 55.8628,
+                           "address" : "Планерная улица, 7"
+                        },
+                        "drug" : {
+                           "descid" : "5103",
+                           "quantity" : "1",
+                           "name" : "Ципринол ср табл.п.о. 500мг n10",
+                           "price" : "252"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ципрофлоксацин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

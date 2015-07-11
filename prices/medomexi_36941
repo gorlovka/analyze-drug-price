@@ -1,0 +1,532 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "medomexi",
+            "rus_name" : "Медомекси",
+            "form" : "таб. 125 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 20,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "medomexi",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "2",
+                           "name" : "Медомекси тбл п/о 125мг 30",
+                           "price" : "169.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси тбл п/о 125мг 30",
+                           "price" : "178"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6863,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Здоровый стиль&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959589295"
+                              }
+                           ],
+                           "phone" : "+74959589295",
+                           "city" : "Москва",
+                           "latitude" : 55.7038,
+                           "address" : "улица Трофимова, 36 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси 0125 n30 табл п/о",
+                           "price" : "179"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7222,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармацевтическая гильдия&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952217904"
+                              }
+                           ],
+                           "phone" : "+74952217904",
+                           "city" : "Москва",
+                           "latitude" : 55.7805,
+                           "address" : "Вельяминовская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "2",
+                           "name" : "Медомекси тбл п/о 125мг 30",
+                           "price" : "155"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7372,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Престиж-групп&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997489982"
+                              }
+                           ],
+                           "phone" : "+74997489982",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "5-я улица Соколиной Горы, 19 к2"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси тбл п/о 125мг 30",
+                           "price" : "179"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7027,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека в Люблино&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678611"
+                              }
+                           ],
+                           "phone" : "+74999678611",
+                           "city" : "Москва",
+                           "latitude" : 55.8111,
+                           "address" : "Краснобогатырская улица, 23"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси тбл п/о 125мг 30",
+                           "price" : "147"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6043,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЭВЕРЕСТ&quot;.",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678592"
+                              }
+                           ],
+                           "phone" : "+74999678592",
+                           "city" : "Москва",
+                           "latitude" : 55.6579,
+                           "address" : "Болотниковская улица, 12 к3"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси тбл п/о 125мг 30",
+                           "price" : "167.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4734,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармгрупп&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957896028"
+                              }
+                           ],
+                           "phone" : "+74957896028",
+                           "city" : "Москва",
+                           "latitude" : 55.8033,
+                           "address" : "улица Маршала Василевского, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "2",
+                           "name" : "Медомекси тбл п/о 125мг 30",
+                           "price" : "181"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ЗДОРОВЬЕ ПЛЮС",
+                           "phones" : [
+                              {
+                                 "number" : "+74991223092"
+                              }
+                           ],
+                           "phone" : "+74991223092",
+                           "city" : "Москва",
+                           "latitude" : 55.6542,
+                           "address" : "улица Каховка, 10к3"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "3",
+                           "name" : "Медомекси 125 n30 таб",
+                           "price" : "175"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7506,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956602415"
+                              }
+                           ],
+                           "phone" : "+74956602415",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "Краснодонская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси тбл п/о 125мг 30",
+                           "price" : "174.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7651,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека в Марьино",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6813,
+                           "address" : "Ставропольская улица, 50/22"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси тбл п/о 125мг 30",
+                           "price" : "149.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Малина&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999038725"
+                              }
+                           ],
+                           "phone" : "+74999038725",
+                           "city" : "Москва",
+                           "latitude" : 55.8593,
+                           "address" : "Алтуфьевское шоссе, 22"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси,тбл п/п/о 125мг 30",
+                           "price" : "172"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5117,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Марена-Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74959914072"
+                              },
+                              {
+                                 "number" : "+74957732879"
+                              }
+                           ],
+                           "phone" : "+74959914072; +74957732879",
+                           "city" : "Москва",
+                           "latitude" : 55.8517,
+                           "address" : "Кронштадтский бульвар, 47"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси таб п/о 125мг 30",
+                           "price" : "196"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4898,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Глициния-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959675403"
+                              },
+                              {
+                                 "number" : "+74959675406"
+                              }
+                           ],
+                           "phone" : "+74959675403; +74959675406",
+                           "city" : "Москва",
+                           "latitude" : 55.8467,
+                           "address" : "Авангардная улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси таб п/о 125мг 30",
+                           "price" : "140"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8233,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья-3",
+                           "phones" : [
+                              {
+                                 "number" : "+74959434303"
+                              }
+                           ],
+                           "phone" : "+74959434303",
+                           "city" : "Москва",
+                           "latitude" : 55.8225,
+                           "address" : "Хабаровская улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси тб 125мг 30",
+                           "price" : "180.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси 125мг 30 таблетки",
+                           "price" : "167"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6019,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "&quot;БОГАТЫРЬ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953140060"
+                              },
+                              {
+                                 "number" : "+74957896029"
+                              }
+                           ],
+                           "phone" : "+74953140060; +74957896029",
+                           "city" : "Москва",
+                           "latitude" : 55.6094,
+                           "address" : "Кировоградская улица, 28 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси тбл п/о 125мг 30",
+                           "price" : "179"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5067,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО « ИНТЕРТОРГ»",
+                           "phones" : [
+                              {
+                                 "number" : "+74959716524"
+                              }
+                           ],
+                           "phone" : "+74959716524",
+                           "city" : "Москва",
+                           "latitude" : 55.6194,
+                           "address" : "Новоясеневский проспект, 1к1"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси тбл п/о 0,125 30",
+                           "price" : "178.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5251,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ФармМедТрейд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.5337,
+                           "address" : "Южнобутовская улица, 81"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси таб. 125мг 30",
+                           "price" : "177"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Атрика&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8106,
+                           "address" : "проспект Ленина, 06, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси тбл п/о 125мг 30",
+                           "price" : "154"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "этилметилгидроксипиридина сукцинат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

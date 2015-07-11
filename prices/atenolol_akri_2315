@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "atenolol_akri",
+            "rus_name" : "Атенолол-акри®",
+            "form" : "таб. 100 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "atenolol_akri",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5059,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 6 (ООО Феерия Фарм Запад)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991981909"
+                              }
+                           ],
+                           "phone" : "+74991981909",
+                           "city" : "Москва",
+                           "latitude" : 55.8,
+                           "address" : "улица Алабяна, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1221",
+                           "quantity" : "4",
+                           "name" : "Атенолол акри, тбл 100мг 30",
+                           "price" : "27"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8074,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 16",
+                           "phones" : [
+                              {
+                                 "number" : "+74996827245"
+                              }
+                           ],
+                           "phone" : "+74996827245",
+                           "city" : "Москва",
+                           "latitude" : 55.8175,
+                           "address" : "Байкальская улица, 29"
+                        },
+                        "drug" : {
+                           "descid" : "1221",
+                           "quantity" : "7",
+                           "name" : "Атенолол - акри 100мг 30 тб.",
+                           "price" : "31.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "атенолол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

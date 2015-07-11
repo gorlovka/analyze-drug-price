@@ -1,0 +1,508 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "mycosyst",
+            "rus_name" : "Микосист®",
+            "form" : "капс. 100 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 18,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "mycosyst",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "4",
+                           "name" : "Микосист капс 100мг 28",
+                           "price" : "1465"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6075,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №390",
+                           "phones" : [
+                              {
+                                 "number" : "+74999788881"
+                              }
+                           ],
+                           "phone" : "+74999788881",
+                           "city" : "Москва",
+                           "latitude" : 55.7767,
+                           "address" : "Краснопролетарская улица, 14/2"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "1",
+                           "name" : "Микосист капс. 100мг n28",
+                           "price" : "1515"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5853,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аклауд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992504120"
+                              },
+                              {
+                                 "number" : "+74992504001"
+                              }
+                           ],
+                           "phone" : "+74992504120; +74992504001",
+                           "city" : "Москва",
+                           "latitude" : 55.7736,
+                           "address" : "2-я Брестская улица, 37 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "1",
+                           "name" : "Микосист, капс 100мг 28",
+                           "price" : "2229"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; Фармкомпания на Пироговской&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992487181"
+                              }
+                           ],
+                           "phone" : "+74992487181",
+                           "city" : "Москва",
+                           "latitude" : 55.7342,
+                           "address" : "Погодинская улица, 1с1"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "5",
+                           "name" : "Микосист капс. 100мг 28",
+                           "price" : "2220"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5834,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №896 ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7917,
+                           "address" : "улица Нижняя Масловка, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "1",
+                           "name" : "Микосист капс. 100мг n28",
+                           "price" : "1515"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6443,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ИП Бескрайняя Е.С.",
+                           "phones" : [
+                              {
+                                 "number" : "+74991749461"
+                              }
+                           ],
+                           "phone" : "+74991749461",
+                           "city" : "Москва",
+                           "latitude" : 55.8058,
+                           "address" : "3-я Мытищинская улица, 3 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "1",
+                           "name" : "Микосист капс. 100мг 28",
+                           "price" : "1700"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5533,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО фирма &quot;Тревел Мединшур&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956133280"
+                              },
+                              {
+                                 "number" : "+74954111749"
+                              }
+                           ],
+                           "phone" : "+74956133280; +74954111749",
+                           "city" : "Москва",
+                           "latitude" : 55.8008,
+                           "address" : "улица 8 Марта, 1 с10"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "1",
+                           "name" : "Микосист 100мг n28 капс.",
+                           "price" : "2201"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5878,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Калина Фарм МСК",
+                           "phones" : [
+                              {
+                                 "number" : "+74991267745"
+                              },
+                              {
+                                 "number" : "+74956646053"
+                              },
+                              {
+                                 "number" : "+74956646056"
+                              },
+                              {
+                                 "number" : "+78005500321"
+                              }
+                           ],
+                           "phone" : "+74991267745; +74956646053; +74956646056; +78005500321",
+                           "city" : "Москва",
+                           "latitude" : 55.6915,
+                           "address" : "улица Шверника, 12/2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "1",
+                           "name" : "Микосист, капс 100мг 28",
+                           "price" : "2045"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7376,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №480 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74957252698"
+                              }
+                           ],
+                           "phone" : "+74957252698",
+                           "city" : "Москва",
+                           "latitude" : 55.8149,
+                           "address" : "Открытое шоссе, 9с1а"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "1",
+                           "name" : "Микосист капс. 100мг n28",
+                           "price" : "1515"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5431,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №139",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6557,
+                           "address" : "Профсоюзная улица, 61а"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "1",
+                           "name" : "Микосист капс. 100мг n28",
+                           "price" : "1680"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4172,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МЕДЦЕНТР-МОСИНТУР ЛТД&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955061407"
+                              },
+                              {
+                                 "number" : "+74952238910"
+                              }
+                           ],
+                           "phone" : "+74955061407; +74952238910",
+                           "city" : "Москва",
+                           "latitude" : 55.7302,
+                           "address" : "Кунцевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "5",
+                           "name" : "Микосист 100 мг 28 капсул",
+                           "price" : "2257.19"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4389,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «Лилия»",
+                           "phones" : [
+                              {
+                                 "number" : "+74956646042"
+                              },
+                              {
+                                 "number" : "+74956646041"
+                              }
+                           ],
+                           "phone" : "+74956646042; +74956646041",
+                           "city" : "Москва",
+                           "latitude" : 55.8497,
+                           "address" : "Сходненская улица, 37"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "1",
+                           "name" : "Микосист, капс 100мг 28",
+                           "price" : "1593"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8555,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 42",
+                           "phones" : [
+                              {
+                                 "number" : "+74957041418"
+                              }
+                           ],
+                           "phone" : "+74957041418",
+                           "city" : "Москва",
+                           "latitude" : 55.6917,
+                           "address" : "Саранская улица, 4/24"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "1",
+                           "name" : "Микосист капс. 100мг 28",
+                           "price" : "1511.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7199,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ФармМедТрейд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6128,
+                           "address" : "Ореховый бульвар, 15"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "3",
+                           "name" : "Микосист капс. 100мг 28",
+                           "price" : "2199"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3505,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 484",
+                           "phones" : [
+                              {
+                                 "number" : "+79269042076"
+                              },
+                              {
+                                 "number" : "+74986022215"
+                              }
+                           ],
+                           "phone" : "+79269042076; +74986022215",
+                           "city" : "Московская область",
+                           "latitude" : 55.8193,
+                           "address" : "Красногорск, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "3",
+                           "name" : "Микосист капс. 100мг n28",
+                           "price" : "1615"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7389,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №433",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538314"
+                              }
+                           ],
+                           "phone" : "+74995538314",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9063,
+                           "address" : "улица Щербакова, 2 к1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "1",
+                           "name" : "Микосист капс. 100мг n28",
+                           "price" : "1477"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.0433,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 130",
+                           "phones" : [
+                              {
+                                 "number" : "+74955903373"
+                              },
+                              {
+                                 "number" : "+74955902488"
+                              }
+                           ],
+                           "phone" : "+74955903373; +74955902488",
+                           "city" : "Краснознаменск",
+                           "latitude" : 55.5947,
+                           "address" : "проспект Мира, 13, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "1",
+                           "name" : "Микосист капс. 100мг n28",
+                           "price" : "1515"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2123,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 330",
+                           "phones" : [
+                              {
+                                 "number" : "+74964671529"
+                              }
+                           ],
+                           "phone" : "+74964671529",
+                           "city" : "Раменское",
+                           "latitude" : 55.5887,
+                           "address" : "Коммунистическая улица, 20, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "1",
+                           "name" : "Микосист капс. 100мг n28",
+                           "price" : "1515"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "флуконазол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

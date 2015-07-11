@@ -1,0 +1,168 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "glibenclamide",
+            "rus_name" : "Глибенкламид",
+            "form" : "таб. 5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "glibenclamide",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "2074",
+                           "quantity" : "7",
+                           "name" : "Глибенкламид 5мг 50 табл",
+                           "price" : "58"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5847,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диасфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266856"
+                              },
+                              {
+                                 "number" : "+74956266857"
+                              }
+                           ],
+                           "phone" : "+74956266856; +74956266857",
+                           "city" : "Москва",
+                           "latitude" : 55.7756,
+                           "address" : "1-я Брестская улица, 66"
+                        },
+                        "drug" : {
+                           "descid" : "2074",
+                           "quantity" : "18",
+                           "name" : "Глибенкламид 5мг 50 табл",
+                           "price" : "59"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "2074",
+                           "quantity" : "10",
+                           "name" : "Глибенкламид тб 5мг конт n50",
+                           "price" : "66"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7975,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Мебиус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959659820"
+                              },
+                              {
+                                 "number" : "+74959659819"
+                              }
+                           ],
+                           "phone" : "+74959659820; +74959659819",
+                           "city" : "Москва",
+                           "latitude" : 55.8024,
+                           "address" : "9-я Парковая улица, 43/26"
+                        },
+                        "drug" : {
+                           "descid" : "2074",
+                           "quantity" : "1",
+                           "name" : "Глибенкламид 0,005 50 тб.",
+                           "price" : "67"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7694,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека на Братиславской",
+                           "phones" : [
+                              {
+                                 "number" : "+74953479231"
+                              }
+                           ],
+                           "phone" : "+74953479231",
+                           "city" : "Москва",
+                           "latitude" : 55.6526,
+                           "address" : "Братиславская улица, 31 к3"
+                        },
+                        "drug" : {
+                           "descid" : "2074",
+                           "quantity" : "3",
+                           "name" : "Глибенкламид 5мг n50 таб.",
+                           "price" : "66.8"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "глибенкламид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

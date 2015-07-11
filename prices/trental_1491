@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "trental",
+            "rus_name" : "Трентал®",
+            "form" : "концентрат д/пригот. р-ра д/инф. 100 мг/5 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "trental",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.503,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аспект&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995500503"
+                              }
+                           ],
+                           "phone" : "+74995500503",
+                           "city" : "Москва",
+                           "latitude" : 55.704,
+                           "address" : "улица Столетова, 7"
+                        },
+                        "drug" : {
+                           "descid" : "785",
+                           "quantity" : "1",
+                           "name" : "Трентал конц-т д/р-ра д/инф 5мл n5 индия амп aventis pharma ltd.(индия)",
+                           "price" : "180"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "пентоксифиллин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

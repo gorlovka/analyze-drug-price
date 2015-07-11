@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "lifferon",
+            "rus_name" : "Лайфферон®",
+            "form" : "лиофилизат д/пригот. р-ра д/в/м, субконъюнктивального введ. и закапывания в глаз 500 тыс.МЕ",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "lifferon",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Терра Вита&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996189219"
+                              }
+                           ],
+                           "phone" : "+74996189219",
+                           "city" : "Москва",
+                           "latitude" : 55.6806,
+                           "address" : "Нагатинская набережная, 16к3"
+                        },
+                        "drug" : {
+                           "descid" : "3889",
+                           "quantity" : "1",
+                           "name" : "Лайфферон лиоф. д/приг. р-ра для в/м, субконъюнкт. введ. и закапывания в глаз 3м",
+                           "price" : "1307.7"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "интерферон альфа-2b человеческий рекомбинантный"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

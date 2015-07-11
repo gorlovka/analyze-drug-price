@@ -1,0 +1,102 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "brulamycin",
+            "rus_name" : "Бруламицин",
+            "form" : "р-р д/в/в и в/м введения 40 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "brulamycin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "2660",
+                           "quantity" : "10",
+                           "name" : "Бруламицин р-р д/и 40мг амп 1мл n5x2",
+                           "price" : "185"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.775,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОПТИФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953686195"
+                              }
+                           ],
+                           "phone" : "+74953686195",
+                           "city" : "Москва",
+                           "latitude" : 55.757,
+                           "address" : "1-я Владимирская улица, 14"
+                        },
+                        "drug" : {
+                           "descid" : "2660",
+                           "quantity" : "1",
+                           "name" : "Бруламицин р-р д/инъ амп 40мг 1мл 10",
+                           "price" : "192"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Атрика&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8106,
+                           "address" : "проспект Ленина, 06, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2660",
+                           "quantity" : "1",
+                           "name" : "Бруламицин р-р д/инъ амп 40мг 1мл 10",
+                           "price" : "167"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тобрамицин (в форме сульфата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,87 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "moditen_depo",
+            "rus_name" : "Модитен депо",
+            "form" : "р-р д/в/м введения масляный 25 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "moditen_depo",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "284",
+                           "quantity" : "1",
+                           "name" : "Модитен-депо 25мг/мл 5 р-р д/ин масл",
+                           "price" : "365"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5366,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Pharmacorp Ltd",
+                           "phones" : [
+                              {
+                                 "number" : "+74993911628"
+                              }
+                           ],
+                           "phone" : "+74993911628",
+                           "city" : "Москва",
+                           "latitude" : 55.7471,
+                           "address" : "Пресненская набережная, 10блокС"
+                        },
+                        "drug" : {
+                           "descid" : "284",
+                           "quantity" : "5",
+                           "name" : "Модитен-депо р-р. 25мг/мл 5",
+                           "price" : "680"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "флуфеназин деканоат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

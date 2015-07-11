@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "amosin",
+            "rus_name" : "Амосин®",
+            "form" : "капс. 250 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "amosin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "1411",
+                           "quantity" : "3",
+                           "name" : "Амосин,капсулы,250мг 20шт",
+                           "price" : "50"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4196,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 455",
+                           "phones" : [
+                              {
+                                 "number" : "+74965730366"
+                              }
+                           ],
+                           "phone" : "+74965730366",
+                           "city" : "Электросталь",
+                           "latitude" : 55.7677,
+                           "address" : "улица Ялагина, 26, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1411",
+                           "quantity" : "10",
+                           "name" : "Амосин капс. 250мг n20",
+                           "price" : "46"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амоксициллин (в форме тригидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

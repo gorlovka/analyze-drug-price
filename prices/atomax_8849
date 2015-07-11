@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "atomax",
+            "rus_name" : "Атомакс®",
+            "form" : "таб., покр. пленочной оболочкой, 20 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "atomax",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1011,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №405 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Жуковский",
+                           "latitude" : 55.605,
+                           "address" : "улица Гагарина, 21, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3165",
+                           "quantity" : "1",
+                           "name" : "Атомакс табл.п.о. 20мг n30",
+                           "price" : "318"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1292,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 060",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Жуковский",
+                           "latitude" : 55.5913,
+                           "address" : "улица Чкалова, 21, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3165",
+                           "quantity" : "1",
+                           "name" : "Атомакс табл.п.о. 20мг n30",
+                           "price" : "136"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "аторвастатин (в форме аторвастатина кальция тригидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

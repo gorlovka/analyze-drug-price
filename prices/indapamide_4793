@@ -1,0 +1,765 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "indapamide",
+            "rus_name" : "Индапамид",
+            "form" : "капс. 2.5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 29,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "indapamide",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6287,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №651",
+                           "phones" : [
+                              {
+                                 "number" : "+79260298909"
+                              }
+                           ],
+                           "phone" : "+79260298909",
+                           "city" : "Москва",
+                           "latitude" : 55.7432,
+                           "address" : "Пятницкая улица, 17/4 с1"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "6",
+                           "name" : "Индапамид капс. 2,5мг n30",
+                           "price" : "88"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "1",
+                           "name" : "Индапамид капс 2,5мг 30",
+                           "price" : "28"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.671,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 11",
+                           "phones" : [
+                              {
+                                 "number" : "+74959111480"
+                              }
+                           ],
+                           "phone" : "+74959111480",
+                           "city" : "Москва",
+                           "latitude" : 55.7401,
+                           "address" : "Таганская улица, 31/22"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "2",
+                           "name" : "Индапамид, капс 2.5мг 30**",
+                           "price" : "28.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6733,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ ФАРМ Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953635014"
+                              }
+                           ],
+                           "phone" : "+74953635014",
+                           "city" : "Москва",
+                           "latitude" : 55.7301,
+                           "address" : "Волгоградский проспект, 10"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "2",
+                           "name" : "Индапамид капc 2.5мг блист n10x3",
+                           "price" : "28.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6208,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 25",
+                           "phones" : [
+                              {
+                                 "number" : "+74959840741"
+                              }
+                           ],
+                           "phone" : "+74959840741",
+                           "city" : "Москва",
+                           "latitude" : 55.7087,
+                           "address" : "Большая Тульская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "1",
+                           "name" : "Индапамид, капс 2.5мг 30**",
+                           "price" : "24.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.571,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строитель 2+&quot; 1",
+                           "phones" : [
+                              {
+                                 "number" : "+74956145758"
+                              }
+                           ],
+                           "phone" : "+74956145758",
+                           "city" : "Москва",
+                           "latitude" : 55.7919,
+                           "address" : "улица Нижняя Масловка, 20"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "2",
+                           "name" : "Индапамид 2,5мг капс. 30",
+                           "price" : "98.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959402329"
+                              }
+                           ],
+                           "phone" : "+74959402329",
+                           "city" : "Москва",
+                           "latitude" : 55.7724,
+                           "address" : "5-я Магистральная улица, 10"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "3",
+                           "name" : "Индапамид, капс 2.5мг 30",
+                           "price" : "23.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7222,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармацевтическая гильдия&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952217904"
+                              }
+                           ],
+                           "phone" : "+74952217904",
+                           "city" : "Москва",
+                           "latitude" : 55.7805,
+                           "address" : "Вельяминовская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "5",
+                           "name" : "Индапамид капс 2.5мг 30",
+                           "price" : "24.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 18",
+                           "phones" : [
+                              {
+                                 "number" : "+79039616643"
+                              }
+                           ],
+                           "phone" : "+79039616643",
+                           "city" : "Москва",
+                           "latitude" : 55.7986,
+                           "address" : "Большая Черкизовская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "3",
+                           "name" : "Индапамид капс. 2,5мг 30",
+                           "price" : "28"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5673,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Целитель+&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957794761"
+                              }
+                           ],
+                           "phone" : "+74957794761",
+                           "city" : "Москва",
+                           "latitude" : 55.6698,
+                           "address" : "Новочерёмушкинская улица, 57"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "2",
+                           "name" : "Индапамид капс 2,5мг n30 уп кнт-яч пк &amp;lt;10*3&amp;gt;",
+                           "price" : "25"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5837,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ИП Серегина М.А.",
+                           "phones" : [
+                              {
+                                 "number" : "+79645197959"
+                              }
+                           ],
+                           "phone" : "+79645197959",
+                           "city" : "Москва",
+                           "latitude" : 55.8467,
+                           "address" : "Ботаническая улица, 41 к7"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "1",
+                           "name" : "Индапамид капс 2,5мг n30 уп кнт-яч пк &amp;lt;10*3&amp;gt;",
+                           "price" : "28"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7533,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 26",
+                           "phones" : [
+                              {
+                                 "number" : "+74956406230"
+                              }
+                           ],
+                           "phone" : "+74956406230",
+                           "city" : "Москва",
+                           "latitude" : 55.6641,
+                           "address" : "Братиславская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "1",
+                           "name" : "Индапамид, капс 2.5мг 30**",
+                           "price" : "24.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6876,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ-Фарм Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955148591"
+                              }
+                           ],
+                           "phone" : "+74955148591",
+                           "city" : "Москва",
+                           "latitude" : 55.8621,
+                           "address" : "улица Дудинка, 3"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "9",
+                           "name" : "Индапамид капc 2.5мг блист n10x3",
+                           "price" : "28.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4554,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956642416"
+                              }
+                           ],
+                           "phone" : "+74956642416",
+                           "city" : "Москва",
+                           "latitude" : 55.8315,
+                           "address" : "Подмосковная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "4",
+                           "name" : "Индапамид капс. 2,5мг 30",
+                           "price" : "18"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6383,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 24",
+                           "phones" : [
+                              {
+                                 "number" : "+74957868043"
+                              }
+                           ],
+                           "phone" : "+74957868043",
+                           "city" : "Москва",
+                           "latitude" : 55.8735,
+                           "address" : "Полярная улица, 6 к1"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "1",
+                           "name" : "Индапамид, капс 2.5мг 30*",
+                           "price" : "25.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6964,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «ТОРГМЕТ»",
+                           "phones" : [
+                              {
+                                 "number" : "+74956600255"
+                              }
+                           ],
+                           "phone" : "+74956600255",
+                           "city" : "Москва",
+                           "latitude" : 55.8798,
+                           "address" : "улица Малыгина, 5 к1"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "2",
+                           "name" : "Индапамид 2.5мг капс. х30 (r)",
+                           "price" : "25.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4958,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;Аптека 192 &quot;На Клинской",
+                           "phones" : [
+                              {
+                                 "number" : "+74954552233"
+                              },
+                              {
+                                 "number" : "+74954550175"
+                              }
+                           ],
+                           "phone" : "+74954552233; +74954550175",
+                           "city" : "Москва",
+                           "latitude" : 55.869,
+                           "address" : "Клинская улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "2",
+                           "name" : "Индапамид 0.0025 n30 капс озон.ооо (россия)",
+                           "price" : "26"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6044,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 14",
+                           "phones" : [
+                              {
+                                 "number" : "+74953150002"
+                              }
+                           ],
+                           "phone" : "+74953150002",
+                           "city" : "Москва",
+                           "latitude" : 55.6147,
+                           "address" : "Кировоградская улица, вл22Г"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "2",
+                           "name" : "Индапамид, капс 2.5мг 30**",
+                           "price" : "28.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люксор - Фарм Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992005500"
+                              },
+                              {
+                                 "number" : "+79260961147"
+                              }
+                           ],
+                           "phone" : "+74992005500; +79260961147",
+                           "city" : "Москва",
+                           "latitude" : 55.8932,
+                           "address" : "Алтуфьевское шоссе, 87"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "3",
+                           "name" : "Индапамид капс. 2.5 мг 30, производство медикаментов ооо",
+                           "price" : "25"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.668,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЖА Аптека&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994768475"
+                              }
+                           ],
+                           "phone" : "+74994768475",
+                           "city" : "Москва",
+                           "latitude" : 55.8925,
+                           "address" : "Студёный проезд, 28"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "2",
+                           "name" : "Индапамид капс 2,5мг n30 уп кнт-яч пк &amp;lt;10*3&amp;gt;",
+                           "price" : "25"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3651,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 10",
+                           "phones" : [
+                              {
+                                 "number" : "+74959840526"
+                              }
+                           ],
+                           "phone" : "+74959840526",
+                           "city" : "Новоивановское",
+                           "latitude" : 55.705,
+                           "address" : "улица Агрохимиков, 2, Московская область, Одинцовский район"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "3",
+                           "name" : "Индапамид капс. 2,5мг 30 (промед)",
+                           "price" : "25.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7585,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 19",
+                           "phones" : [
+                              {
+                                 "number" : "+74953977600"
+                              }
+                           ],
+                           "phone" : "+74953977600",
+                           "city" : "Москва",
+                           "latitude" : 55.6101,
+                           "address" : "Гурьевский проезд, 31 к2"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "1",
+                           "name" : "Индапамид капс. 2,5мг 30 (промед)",
+                           "price" : "25.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3652,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 1",
+                           "phones" : [
+                              {
+                                 "number" : "+74957940135"
+                              },
+                              {
+                                 "number" : "+74957510010"
+                              }
+                           ],
+                           "phone" : "+74957940135; +74957510010",
+                           "city" : "Москва",
+                           "latitude" : 55.8433,
+                           "address" : "Митинская улица, 21"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "2",
+                           "name" : "Индапамид, капс 2.5мг 30*",
+                           "price" : "25.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6741,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 32",
+                           "phones" : [
+                              {
+                                 "number" : "+74957451404"
+                              }
+                           ],
+                           "phone" : "+74957451404",
+                           "city" : "Москва",
+                           "latitude" : 55.5816,
+                           "address" : "Загорьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "5",
+                           "name" : "Индапамид капс. 2,5мг 30 (промед)",
+                           "price" : "25.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9357,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 2",
+                           "phones" : [
+                              {
+                                 "number" : "+74965219407"
+                              }
+                           ],
+                           "phone" : "+74965219407",
+                           "city" : "Балашиха",
+                           "latitude" : 55.804,
+                           "address" : "Советская улица, 21, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "8",
+                           "name" : "Индапамид 2.5мг 30 капс/вертекс/",
+                           "price" : "28.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4074,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 4",
+                           "phones" : [
+                              {
+                                 "number" : "+74986011113"
+                              }
+                           ],
+                           "phone" : "+74986011113",
+                           "city" : "Химки",
+                           "latitude" : 55.9012,
+                           "address" : "проспект Мельникова, 2Б"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "9",
+                           "name" : "Индапамид, капс 2.5мг 30**",
+                           "price" : "26.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9864,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула здоровья",
+                           "phones" : [
+                              {
+                                 "number" : "+74955055909"
+                              }
+                           ],
+                           "phone" : "+74955055909",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7981,
+                           "address" : "шоссе Энтузиастов, 80"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "7",
+                           "name" : "Индапамид капс 2.5мг 30 промед",
+                           "price" : "23.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9914,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ИНТЕКО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965671185"
+                              }
+                           ],
+                           "phone" : "+74965671185",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9228,
+                           "address" : "площадь Ленина, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "2",
+                           "name" : "Индапамид капс 2,5мг 30",
+                           "price" : "28"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2214,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 15",
+                           "phones" : [
+                              {
+                                 "number" : "+79637825591"
+                              }
+                           ],
+                           "phone" : "+79637825591",
+                           "city" : "Солнечногорский район",
+                           "latitude" : 56.0131,
+                           "address" : "Ржавки, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "165",
+                           "quantity" : "13",
+                           "name" : "Индапамид 2,5мг 30 капс",
+                           "price" : "28"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "индапамид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

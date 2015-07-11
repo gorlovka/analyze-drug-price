@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "epirubicin_ebewe",
+            "rus_name" : "Эпирубицин-эбеве",
+            "form" : "концентрат д/пригот. р-ра д/в/в и внутриполостного введения 100 мг/50 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "epirubicin_ebewe",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6114,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Фармацевтическая компания &quot;БЕЛЫЙ ЛОТОС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959804897"
+                              }
+                           ],
+                           "phone" : "+74959804897",
+                           "city" : "Москва",
+                           "latitude" : 55.7268,
+                           "address" : "улица Шаболовка, 2"
+                        },
+                        "drug" : {
+                           "descid" : "2824",
+                           "quantity" : "20",
+                           "name" : "Эпирубицин-эбеве конц д/пригот р-ра 100мг х 1фл",
+                           "price" : "3877.85"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "эпирубицина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

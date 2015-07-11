@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "temcital",
+            "rus_name" : "Темцитал®",
+            "form" : "капс. 180 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "temcital",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "6168",
+                           "quantity" : "33",
+                           "name" : "Темцитал 180мг капс. 5",
+                           "price" : "61338"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "темозоломид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

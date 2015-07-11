@@ -1,0 +1,165 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "doxazosin_sandoz",
+            "rus_name" : "Доксазозин сандоз",
+            "form" : "таб. 2 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "doxazosin_sandoz",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6203,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;Экофарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993179363"
+                              },
+                              {
+                                 "number" : "+79150100092"
+                              }
+                           ],
+                           "phone" : "+74993179363; +79150100092",
+                           "city" : "Москва",
+                           "latitude" : 55.6565,
+                           "address" : "Варшавское шоссе, 81 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5636",
+                           "quantity" : "1",
+                           "name" : "Доксазозин сандоз таб. 2 мг 30",
+                           "price" : "243"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4362,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Тонистарк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954442715"
+                              }
+                           ],
+                           "phone" : "+74954442715",
+                           "city" : "Москва",
+                           "latitude" : 55.723,
+                           "address" : "улица Багрицкого, 8"
+                        },
+                        "drug" : {
+                           "descid" : "5636",
+                           "quantity" : "1",
+                           "name" : "Доксазозин-сандоз тбл 2мг 30",
+                           "price" : "176"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5983,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Горпром-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79035081695"
+                              },
+                              {
+                                 "number" : "+79035081693"
+                              }
+                           ],
+                           "phone" : "+79035081695; +79035081693",
+                           "city" : "Москва",
+                           "latitude" : 55.8657,
+                           "address" : "улица Декабристов, 10 к2"
+                        },
+                        "drug" : {
+                           "descid" : "5636",
+                           "quantity" : "1",
+                           "name" : "Доксазозин-сандоз тбл 2мг 30",
+                           "price" : "225"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6918,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЭЛ Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74952275378"
+                              },
+                              {
+                                 "number" : "+74952275379"
+                              }
+                           ],
+                           "phone" : "+74952275378; +74952275379",
+                           "city" : "Москва",
+                           "latitude" : 55.8621,
+                           "address" : "Ярославское шоссе, 55"
+                        },
+                        "drug" : {
+                           "descid" : "5636",
+                           "quantity" : "4",
+                           "name" : "Доксазозин-сандоз тбл 2мг 30",
+                           "price" : "143"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.808,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 312",
+                           "phones" : [
+                              {
+                                 "number" : "+74965378149"
+                              }
+                           ],
+                           "phone" : "+74965378149",
+                           "city" : "поселок городского типа Черкизово",
+                           "latitude" : 55.9639,
+                           "address" : "Вокзальная улица, 6/2"
+                        },
+                        "drug" : {
+                           "descid" : "5636",
+                           "quantity" : "1",
+                           "name" : "Доксазозин сандоз табл. 2мг n30",
+                           "price" : "86.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "доксазозин (в форме мезилата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

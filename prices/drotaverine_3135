@@ -1,0 +1,113 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "drotaverine",
+            "rus_name" : "Дротаверин",
+            "form" : "таб., покр. оболочкой, 80 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "drotaverine",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4687,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Янтарь Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959425985"
+                              }
+                           ],
+                           "phone" : "+74959425985",
+                           "city" : "Москва",
+                           "latitude" : 55.8142,
+                           "address" : "Волоколамское шоссе, 45"
+                        },
+                        "drug" : {
+                           "descid" : "1606",
+                           "quantity" : "4",
+                           "name" : "Дротаверин г/хл. форте таб. 80мг 20",
+                           "price" : "54.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4028,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1774",
+                                    "1778"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1774, 1778",
+                           "city" : "Москва",
+                           "latitude" : 55.7554,
+                           "address" : "Рублёвское шоссе, 52а"
+                        },
+                        "drug" : {
+                           "descid" : "1606",
+                           "quantity" : "1",
+                           "name" : "Дротаверин г/хл форте таб. 80мг 20",
+                           "price" : "36"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Рэдберн&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954917449"
+                              },
+                              {
+                                 "number" : "+74954917818"
+                              }
+                           ],
+                           "phone" : "+74954917449; +74954917818",
+                           "city" : "Москва",
+                           "latitude" : 55.8267,
+                           "address" : "Волоколамский проезд, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1606",
+                           "quantity" : "2",
+                           "name" : "Дротаверин тб форте 80мг 20",
+                           "price" : "52"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "дротаверина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

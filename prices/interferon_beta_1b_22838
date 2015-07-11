@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "interferon_beta_1b",
+            "rus_name" : "Интерферон бета-1b",
+            "form" : "р-р д/п/к введения 8 млн.МЕ/0.5 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "interferon_beta_1b",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3465,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Еврофармекс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955174654"
+                              }
+                           ],
+                           "phone" : "+74955174654",
+                           "city" : "Москва",
+                           "latitude" : 55.85,
+                           "address" : "Ангелов переулок, 9 к2"
+                        },
+                        "drug" : {
+                           "descid" : "5454",
+                           "quantity" : "5",
+                           "name" : "Интерферон бета-1b р-р д/и п/к 8000000ме/0,5мл шпр комп салф",
+                           "price" : "14500"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "рекомбинантный интерферон бета-1b"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "bacperazone",
+            "rus_name" : "Бакперазон",
+            "form" : "порошок д/пригот. р-ра д/в/в и в/м введения 1 г+1 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "bacperazone",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "5551",
+                           "quantity" : "10",
+                           "name" : "Бакперазон пор. д/р-ра д/ин. в/в в/м 2,0",
+                           "price" : "108"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цефоперазон (в форме натриевой соли) + сульбактам (в форме натриевой соли)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

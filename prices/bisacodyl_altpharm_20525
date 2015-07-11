@@ -1,0 +1,985 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "bisacodyl_altpharm",
+            "rus_name" : "Бисакодил-альтфарм",
+            "form" : "суппозитории рект. 10 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 36,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "bisacodyl_altpharm",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6091,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Домашняя медицина&quot;.",
+                           "phones" : [
+                              {
+                                 "number" : "+74956299468"
+                              }
+                           ],
+                           "phone" : "+74956299468",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "Тверская улица, 12 с8"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "3",
+                           "name" : "Бисакодил-альтфарм супп рект 10мг бл n5x2",
+                           "price" : "42"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6187,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Сиджам&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992380505"
+                              }
+                           ],
+                           "phone" : "+74992380505",
+                           "city" : "Москва",
+                           "latitude" : 55.7359,
+                           "address" : "улица Большая Полянка, 28 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "10",
+                           "name" : "Бисакодил-альтфарм супп рект 10мг бл n5x2",
+                           "price" : "36"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва (Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992382865"
+                              },
+                              {
+                                 "number" : "+74992387410"
+                              }
+                           ],
+                           "phone" : "+74992382865; +74992387410",
+                           "city" : "Москва",
+                           "latitude" : 55.7341,
+                           "address" : "улица Большая Полянка, 30"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "13",
+                           "name" : "Бисакодил-альтфарм свечи 10",
+                           "price" : "38"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "2",
+                           "name" : "Бисакодил-альтфарм свечи 10",
+                           "price" : "39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5947,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Официна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992513420"
+                              },
+                              {
+                                 "number" : "+79859995613"
+                              }
+                           ],
+                           "phone" : "+74992513420; +79859995613",
+                           "city" : "Москва",
+                           "latitude" : 55.7725,
+                           "address" : "3-я Тверская-Ямская улица, 21/23"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "4",
+                           "name" : "Бисакодил-альтфарм свечи 10 мг х10",
+                           "price" : "35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955451350"
+                              },
+                              {
+                                 "number" : "+79262305469"
+                              }
+                           ],
+                           "phone" : "+74955451350; +79262305469",
+                           "city" : "Москва",
+                           "latitude" : 55.7384,
+                           "address" : "Марксистская улица, 3 с1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "3",
+                           "name" : "Бисакодил-альтфарм супп рект 10мг блист n5x2",
+                           "price" : "35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5839,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;С-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957750767"
+                              }
+                           ],
+                           "phone" : "+74957750767",
+                           "city" : "Москва",
+                           "latitude" : 55.7751,
+                           "address" : "площадь Тверская Застава, 2с1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "1",
+                           "name" : "Бисакодил-альтфарм 10мг супп. рект. х10 (r) альтфарм ооо(россия)",
+                           "price" : "40.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6637,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; Форте&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956766200"
+                              },
+                              {
+                                 "number" : "+74955071442"
+                              }
+                           ],
+                           "phone" : "+74956766200; +74955071442",
+                           "city" : "Москва",
+                           "latitude" : 55.7299,
+                           "address" : "2-й Крутицкий переулок, 18с1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "2",
+                           "name" : "Бисакодил-альтфарм супп. рект. 10 мг 10, альтфарм ооо",
+                           "price" : "39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6333,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955856015"
+                              },
+                              {
+                                 "number" : "+79162130905"
+                              }
+                           ],
+                           "phone" : "+74955856015; +79162130905",
+                           "city" : "Москва",
+                           "latitude" : 55.7856,
+                           "address" : "улица Гиляровского, 50"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "1",
+                           "name" : "Бисакодил-альтфарм супп рект 10мг блист n5x2",
+                           "price" : "39.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6977,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СИГМА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74951248018"
+                              }
+                           ],
+                           "phone" : "+74951248018",
+                           "city" : "Москва",
+                           "latitude" : 55.7582,
+                           "address" : "Красноказарменная улица, 9"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "2",
+                           "name" : "Бисакодил-альтфарма,супп рект. 10мг 10",
+                           "price" : "42"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6594,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "72 аптека На Автозаводской г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956751155"
+                              },
+                              {
+                                 "number" : "+74956750598"
+                              }
+                           ],
+                           "phone" : "+74956751155; +74956750598",
+                           "city" : "Москва",
+                           "latitude" : 55.7128,
+                           "address" : "Восточная улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "2",
+                           "name" : "Бисакодил-альтфарм супп. рект. 10мг 10",
+                           "price" : "39.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЮНИКС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993755785"
+                              }
+                           ],
+                           "phone" : "+74993755785",
+                           "city" : "Москва",
+                           "latitude" : 55.7938,
+                           "address" : "Бутырская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "1",
+                           "name" : "Бисакодил-альтфарм супп. рект. 10мг 10",
+                           "price" : "42"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5498,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Феникс-Мир",
+                           "phones" : [
+                              {
+                                 "number" : "+74956563926"
+                              }
+                           ],
+                           "phone" : "+74956563926",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "Красноармейская улица, 2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "3",
+                           "name" : "Бисакодил-альтфарм 10мг супп. рект. х10 (r) альтфарм ооо(россия)",
+                           "price" : "40"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "11",
+                           "name" : "Бисакодил- альтфарм супп.10мг n10",
+                           "price" : "39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "50",
+                           "name" : "Бисакодил-альтфарм супп рект 10мг бл n5x2",
+                           "price" : "39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4746,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №007",
+                           "phones" : [
+                              {
+                                 "number" : "+78127530098"
+                              },
+                              {
+                                 "number" : "+78127537914"
+                              }
+                           ],
+                           "phone" : "+78127530098; +78127537914",
+                           "city" : "Москва",
+                           "latitude" : 55.7763,
+                           "address" : "проспект Маршала Жукова, 30"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "1",
+                           "name" : "Бисакодил-альтфарм свечи 10мг n10",
+                           "price" : "40.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.738,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АСАКИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957770006"
+                              },
+                              {
+                                 "number" : "+74953501401"
+                              }
+                           ],
+                           "phone" : "+74957770006; +74953501401",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Люблинская улица, 50 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "1",
+                           "name" : "Бисакодил-альтфарма,супп рект. 10мг 10",
+                           "price" : "38"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5088,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №977",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.668,
+                           "address" : "Ленинский проспект, 130 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "2",
+                           "name" : "Бисакодил-альтфарм супп.рект. 10мг n10",
+                           "price" : "41"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7934,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИНАД-ЭКСПЕРТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956522369"
+                              },
+                              {
+                                 "number" : "+74956522370"
+                              }
+                           ],
+                           "phone" : "+74956522369; +74956522370",
+                           "city" : "Москва",
+                           "latitude" : 55.7997,
+                           "address" : "7-я Парковая улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "1",
+                           "name" : "Бисакодил-альтфарм 10 мг св. 10",
+                           "price" : "40"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4914,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ДискомСтандарт",
+                           "phones" : [
+                              {
+                                 "number" : "+74954344268"
+                              }
+                           ],
+                           "phone" : "+74954344268",
+                           "city" : "Москва",
+                           "latitude" : 55.6672,
+                           "address" : "проспект Вернадского, 97 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "5",
+                           "name" : "Бисакодил-альтфарм супп. рект. 10мг 10",
+                           "price" : "39.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "2",
+                           "name" : "Бисакодил-альтфарм супп. рект. 10 мг 10, альтфарм ооо",
+                           "price" : "40"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4009,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Калина Фарм МСК",
+                           "phones" : [
+                              {
+                                 "number" : "+74954481534"
+                              },
+                              {
+                                 "number" : "+74954470039"
+                              },
+                              {
+                                 "number" : "+78005500321"
+                              }
+                           ],
+                           "phone" : "+74954481534; +74954470039; +78005500321",
+                           "city" : "Москва",
+                           "latitude" : 55.7202,
+                           "address" : "улица Толбухина, 7 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "2",
+                           "name" : "Бисакодил-альтфарм, супп рект 10мг 10",
+                           "price" : "37"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Рэдберн&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954917449"
+                              },
+                              {
+                                 "number" : "+74954917818"
+                              }
+                           ],
+                           "phone" : "+74954917449; +74954917818",
+                           "city" : "Москва",
+                           "latitude" : 55.8267,
+                           "address" : "Волоколамский проезд, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "4",
+                           "name" : "Бисакодил-альтфарм супп рект 10мг 10",
+                           "price" : "38.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5984,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авеста&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999018322"
+                              }
+                           ],
+                           "phone" : "+74999018322",
+                           "city" : "Москва",
+                           "latitude" : 55.8843,
+                           "address" : "Костромская улица, 16"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "1",
+                           "name" : "Бисакодил-альтфарм супп. рект. 10мг n10 (уп.контур.) альтфарм ооо россия",
+                           "price" : "39.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5343,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Трэйси Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954857932"
+                              },
+                              {
+                                 "number" : "+74999410341"
+                              }
+                           ],
+                           "phone" : "+74954857932; +74999410341",
+                           "city" : "Москва",
+                           "latitude" : 55.8766,
+                           "address" : "улица Софьи Ковалевской, 2"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "2",
+                           "name" : "Бисакодил-альтфарма,супп рект. 10мг 10",
+                           "price" : "40"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6961,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №082",
+                           "phones" : [
+                              {
+                                 "number" : "+78127511919"
+                              }
+                           ],
+                           "phone" : "+78127511919",
+                           "city" : "Москва",
+                           "latitude" : 55.6192,
+                           "address" : "улица Маршала Захарова, 20"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "4",
+                           "name" : "Бисакодил-альтфарм свечи 10мг n10",
+                           "price" : "41.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8546,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Инновация&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79852892871"
+                              }
+                           ],
+                           "phone" : "+79852892871",
+                           "city" : "Москва",
+                           "latitude" : 55.7008,
+                           "address" : "Лермонтовский проспект, 19 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "1",
+                           "name" : "Бисакодил-альтфарм супп рект 10мг n10 уп кнт-яч пк &amp;lt;5*2&amp;gt;",
+                           "price" : "42"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люксор - Фарм Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992005500"
+                              },
+                              {
+                                 "number" : "+79260961147"
+                              }
+                           ],
+                           "phone" : "+74992005500; +79260961147",
+                           "city" : "Москва",
+                           "latitude" : 55.8932,
+                           "address" : "Алтуфьевское шоссе, 87"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "1",
+                           "name" : "Бисакодил-альтфарм супп. рект. 10 мг 10, альтфарм ооо",
+                           "price" : "39.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.668,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЖА Аптека&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994768475"
+                              }
+                           ],
+                           "phone" : "+74994768475",
+                           "city" : "Москва",
+                           "latitude" : 55.8925,
+                           "address" : "Студёный проезд, 28"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "3",
+                           "name" : "Бисакодил-альтфарм супп рект 10мг n10 уп кнт-яч пк &amp;lt;5*2&amp;gt;",
+                           "price" : "41.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4242,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №191",
+                           "phones" : [
+                              {
+                                 "number" : "+78123358097"
+                              }
+                           ],
+                           "phone" : "+78123358097",
+                           "city" : "Москва",
+                           "latitude" : 55.8475,
+                           "address" : "Туристская улица, 6 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "5",
+                           "name" : "Бисакодил-альтфарм свечи 10мг n10",
+                           "price" : "41.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4147,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746321981"
+                              }
+                           ],
+                           "phone" : "+74746321981",
+                           "city" : "Москва",
+                           "latitude" : 55.6481,
+                           "address" : "улица 50 лет Октября, 1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "1",
+                           "name" : "Бисакодил-альтфарм 0.01 n10 супп",
+                           "price" : "34.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3244,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НОТА-БЕНА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994096060"
+                              },
+                              {
+                                 "number" : "+74955658916"
+                              }
+                           ],
+                           "phone" : "+74994096060; +74955658916",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8067,
+                           "address" : "Южный бульвар, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "5",
+                           "name" : "Бисакодил-альтфарм свечи 10мг n10 россия",
+                           "price" : "42"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7608,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарм Крафт&quot;5",
+                           "phones" : [
+                              {
+                                 "number" : "+79264684755"
+                              },
+                              {
+                                 "number" : "+79264539423"
+                              }
+                           ],
+                           "phone" : "+79264684755; +79264539423",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9155,
+                           "address" : "Шараповский проезд, 1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "1",
+                           "name" : "Бисакодил-альтфарм супп рект 10мг n10 уп кнт-яч пк &amp;lt;5*2&amp;gt;",
+                           "price" : "37"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5825,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Жень-Шень",
+                           "phones" : [
+                              {
+                                 "number" : "+74957148227"
+                              }
+                           ],
+                           "phone" : "+74957148227",
+                           "city" : "Москва",
+                           "latitude" : 55.5628,
+                           "address" : "улица Грина, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "1",
+                           "name" : "Бисакодил-альтфарм 0,01 n10 супп",
+                           "price" : "40.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0107,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВИТА-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955229477"
+                              }
+                           ],
+                           "phone" : "+74955229477",
+                           "city" : "Балашиха",
+                           "latitude" : 55.749,
+                           "address" : "Пролетарская улица, 3"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "3",
+                           "name" : "Бисакодил-альтфарм 10мг супп. рект. х10 (r) альтфарм ооо",
+                           "price" : "39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2958,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Река Смородина&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957360033"
+                              }
+                           ],
+                           "phone" : "+74957360033",
+                           "city" : "Внуково",
+                           "latitude" : 55.611,
+                           "address" : "Большая Внуковская улица, 19/8, Москва, район Внуково"
+                        },
+                        "drug" : {
+                           "descid" : "4884",
+                           "quantity" : "3",
+                           "name" : "Бисакодил-альтфарма,супп рект. 10мг 10",
+                           "price" : "41"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "бисакодил"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

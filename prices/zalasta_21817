@@ -1,0 +1,115 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "zalasta",
+            "rus_name" : "Заласта®",
+            "form" : "таб. 2.5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "zalasta",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5253",
+                           "quantity" : "3",
+                           "name" : "Заласта 0,005 n28 табл",
+                           "price" : "1315"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8157,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;АНСИмед&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954685225"
+                              },
+                              {
+                                 "number" : "+74995302091"
+                              }
+                           ],
+                           "phone" : "+74954685225; +74995302091",
+                           "city" : "Москва",
+                           "latitude" : 55.7974,
+                           "address" : "Измайловский бульвар, 67 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5253",
+                           "quantity" : "2",
+                           "name" : "Заласта 0,005 n28 табл",
+                           "price" : "1224"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4958,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;Аптека 192 &quot;На Клинской",
+                           "phones" : [
+                              {
+                                 "number" : "+74954552233"
+                              },
+                              {
+                                 "number" : "+74954550175"
+                              }
+                           ],
+                           "phone" : "+74954552233; +74954550175",
+                           "city" : "Москва",
+                           "latitude" : 55.869,
+                           "address" : "Клинская улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "5253",
+                           "quantity" : "1",
+                           "name" : "Заласта 0.005 n28 табл крка польска сп.з.о.о. (польша)",
+                           "price" : "1302"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "оланзапин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

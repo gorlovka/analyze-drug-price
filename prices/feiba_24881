@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "feiba",
+            "rus_name" : "Фейба",
+            "form" : "лиофилизат д/пригот. р-ра д/инф. 1000 ЕД",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "feiba",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7579,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ЮГ",
+                           "phones" : [
+                              {
+                                 "number" : "+74955041811"
+                              }
+                           ],
+                           "phone" : "+74955041811",
+                           "city" : "Москва",
+                           "latitude" : 55.659,
+                           "address" : "Братиславская улица, 16 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4674",
+                           "quantity" : "1",
+                           "name" : "Фейба??? лиоф д/инф 1000ед фл 1",
+                           "price" : "25942"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "4674",
+                           "quantity" : "33",
+                           "name" : "Фейба 1000 ед лиоф. пор. 1",
+                           "price" : "61328"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "антиингибиторный коагулянтный комплекс"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

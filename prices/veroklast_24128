@@ -1,0 +1,87 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "veroklast",
+            "rus_name" : "Верокласт",
+            "form" : "лиофилизат д/пригот. р-ра д/инф. 4 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "veroklast",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955451350"
+                              },
+                              {
+                                 "number" : "+79262305469"
+                              }
+                           ],
+                           "phone" : "+74955451350; +79262305469",
+                           "city" : "Москва",
+                           "latitude" : 55.7384,
+                           "address" : "Марксистская улица, 3 с1"
+                        },
+                        "drug" : {
+                           "descid" : "5763",
+                           "quantity" : "2",
+                           "name" : "Верокласт лиоф д/инф 4мг фл",
+                           "price" : "1640"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "5763",
+                           "quantity" : "33",
+                           "name" : "Верокласт 4мг лиоф. фл, 1",
+                           "price" : "1593"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "золедроновая кислота"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

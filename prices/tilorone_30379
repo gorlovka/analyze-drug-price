@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "tilorone",
+            "rus_name" : "Тилорон",
+            "form" : "капс. 125 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "tilorone",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.352,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АНТЕВА",
+                           "phones" : [
+                              {
+                                 "number" : "+74957314399"
+                              }
+                           ],
+                           "phone" : "+74957314399",
+                           "city" : "Москва",
+                           "latitude" : 55.6395,
+                           "address" : "улица Шолохова, 12"
+                        },
+                        "drug" : {
+                           "descid" : "6476",
+                           "quantity" : "1",
+                           "name" : "Тилорон 125мг n10 капс.",
+                           "price" : "746"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тилорон (в форме дигидрохлорида) + тилорон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "tautax",
+            "rus_name" : "Таутакс",
+            "form" : "конц. д/пригот. р-ра д/инф. 40 мг/2 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "tautax",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6114,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Фармацевтическая компания &quot;БЕЛЫЙ ЛОТОС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959804897"
+                              }
+                           ],
+                           "phone" : "+74959804897",
+                           "city" : "Москва",
+                           "latitude" : 55.7268,
+                           "address" : "улица Шаболовка, 2"
+                        },
+                        "drug" : {
+                           "descid" : "2866",
+                           "quantity" : "4",
+                           "name" : "Таутакс конц р-р 40мг/2мл фл х1",
+                           "price" : "17736"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "доцетаксел безводный"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,90 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "zeptol",
+            "rus_name" : "Зептол",
+            "form" : "таб. пролонгир. действия, покр. пленочной оболочкой, 400 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "zeptol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5248,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЛАТИС-ТОРГ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991381001"
+                              },
+                              {
+                                 "number" : "+74991381065"
+                              },
+                              {
+                                 "number" : "+79166721665"
+                              }
+                           ],
+                           "phone" : "+74991381001; +74991381065; +79166721665",
+                           "city" : "Москва",
+                           "latitude" : 55.6846,
+                           "address" : "улица Крупской, 19/17"
+                        },
+                        "drug" : {
+                           "descid" : "1533",
+                           "quantity" : "1",
+                           "name" : "Зептол, ретард тбл 400мг 30",
+                           "price" : "65.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8157,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;АНСИмед&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954685225"
+                              },
+                              {
+                                 "number" : "+74995302091"
+                              }
+                           ],
+                           "phone" : "+74954685225; +74995302091",
+                           "city" : "Москва",
+                           "latitude" : 55.7974,
+                           "address" : "Измайловский бульвар, 67 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1533",
+                           "quantity" : "2",
+                           "name" : "Зептол 400мг 30 тб пл/о пролонг",
+                           "price" : "97.83"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "карбамазепин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "benzylpenicillin_sodium_salt",
+            "rus_name" : "Бензилпенициллина натриевая соль кристаллическая",
+            "form" : "порошок д/пригот. р-ра д/в/в и в/м введения 1 млн.ЕД",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "benzylpenicillin_sodium_salt",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6187,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Сиджам&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992380505"
+                              }
+                           ],
+                           "phone" : "+74992380505",
+                           "city" : "Москва",
+                           "latitude" : 55.7359,
+                           "address" : "улица Большая Полянка, 28 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5974",
+                           "quantity" : "30",
+                           "name" : "Бензилпенициллина натриевая соль кристаллическая пор д/и 100",
+                           "price" : "5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "5974",
+                           "quantity" : "120",
+                           "name" : "Бензилпенициллина натриевая соль кристаллическая пор д/и 100",
+                           "price" : "5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "бензилпенициллина натриевая соль"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

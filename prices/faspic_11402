@@ -1,0 +1,942 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "faspic",
+            "rus_name" : "Фаспик",
+            "form" : "гранулы д/пригот. р-ра д/приема внутрь (мятные) 200 мг/3 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 35,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "faspic",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6099,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999684753"
+                              }
+                           ],
+                           "phone" : "+74999684753",
+                           "city" : "Москва",
+                           "latitude" : 55.7658,
+                           "address" : "улица Большая Дмитровка, 23"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "3",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "91"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6429,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Вега&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956247180"
+                              }
+                           ],
+                           "phone" : "+74956247180",
+                           "city" : "Москва",
+                           "latitude" : 55.7592,
+                           "address" : "улица Покровка, 9 с1"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг 12 мята",
+                           "price" : "92"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6017,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956503600"
+                              },
+                              {
+                                 "number" : "+74956503625"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74956503600; +74956503625; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.7648,
+                           "address" : "Малый Палашёвский переулок, 2/8"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6637,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956766597"
+                              }
+                           ],
+                           "phone" : "+74956766597",
+                           "city" : "Москва",
+                           "latitude" : 55.7326,
+                           "address" : "Воронцовская улица, 48"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "79"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5829,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579698"
+                              }
+                           ],
+                           "phone" : "+74996579698",
+                           "city" : "Москва",
+                           "latitude" : 55.7208,
+                           "address" : "Фрунзенская набережная, 40"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "2",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "84"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7066,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 5",
+                           "phones" : [
+                              {
+                                 "number" : "+74959796597"
+                              }
+                           ],
+                           "phone" : "+74959796597",
+                           "city" : "Москва",
+                           "latitude" : 55.782,
+                           "address" : "Большая Семёновская улица, 26"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик 200мг гран. пак. 12",
+                           "price" : "93.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6533,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957397698"
+                              }
+                           ],
+                           "phone" : "+74957397698",
+                           "city" : "Москва",
+                           "latitude" : 55.8155,
+                           "address" : "улица Кибальчича, 12 к2"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "2",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "96"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7372,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Престиж-групп&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997489982"
+                              }
+                           ],
+                           "phone" : "+74997489982",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "5-я улица Соколиной Горы, 19 к2"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "2",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг 12 мята",
+                           "price" : "91.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74996122568"
+                              }
+                           ],
+                           "phone" : "+74996122568",
+                           "city" : "Москва",
+                           "latitude" : 55.6774,
+                           "address" : "Нагатинская улица, 28"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "2",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "77"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "10",
+                           "name" : "Фаспик гр прием внутрь мята 200мг пак 3г n12",
+                           "price" : "105"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.595,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 33",
+                           "phones" : [
+                              {
+                                 "number" : "+74996432190"
+                              }
+                           ],
+                           "phone" : "+74996432190",
+                           "city" : "Москва",
+                           "latitude" : 55.6734,
+                           "address" : "Нагорный бульвар, 7"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик, гран. 200мг мятные 12",
+                           "price" : "91.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4315,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Мёбиус",
+                           "phones" : [
+                              {
+                                 "number" : "+74954442072"
+                              }
+                           ],
+                           "phone" : "+74954442072",
+                           "city" : "Москва",
+                           "latitude" : 55.7202,
+                           "address" : "Можайское шоссе, 17"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. 200мг/3г 12пак.( мятные)",
+                           "price" : "100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6089,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999045455"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74999045455; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8623,
+                           "address" : "улица Декабристов, 20 к2"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "2",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "89"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7533,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 26",
+                           "phones" : [
+                              {
+                                 "number" : "+74956406230"
+                              }
+                           ],
+                           "phone" : "+74956406230",
+                           "city" : "Москва",
+                           "latitude" : 55.6641,
+                           "address" : "Братиславская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик, гран. 200мг мятные 12",
+                           "price" : "99.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7156,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957805527"
+                              }
+                           ],
+                           "phone" : "+74957805527",
+                           "city" : "Москва",
+                           "latitude" : 55.6465,
+                           "address" : "Новочеркасский бульвар, 10 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "4",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "93"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. д/приг. р-ра д/приема внутрь 200 мг 12 мятные пакетики, замбон с.п.а.",
+                           "price" : "98"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8157,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;АНСИмед&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954685225"
+                              },
+                              {
+                                 "number" : "+74995302091"
+                              }
+                           ],
+                           "phone" : "+74954685225; +74995302091",
+                           "city" : "Москва",
+                           "latitude" : 55.7974,
+                           "address" : "Измайловский бульвар, 67 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "3",
+                           "name" : "Фаспик 200мг мятные гран. д/приг. р-ра д/приема внутрь пак. х12 (r)",
+                           "price" : "90.87"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "10",
+                           "name" : "Фаспик гран д/р-ра 200мг 12 мята",
+                           "price" : "103.07"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.831,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Формула Здоровья Вешняки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953750926"
+                              }
+                           ],
+                           "phone" : "+74953750926",
+                           "city" : "Москва",
+                           "latitude" : 55.7347,
+                           "address" : "Вешняковская улица, 17а"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран 200мг 12",
+                           "price" : "98"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4042,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74954174116"
+                              }
+                           ],
+                           "phone" : "+74954174116",
+                           "city" : "Москва",
+                           "latitude" : 55.7422,
+                           "address" : "Оршанская улица, 9"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "87"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4013,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ооо &quot;НЕО-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.7223,
+                           "address" : "улица Толбухина, 12 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "2",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "91"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Рэдберн&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954917449"
+                              },
+                              {
+                                 "number" : "+74954917818"
+                              }
+                           ],
+                           "phone" : "+74954917449; +74954917818",
+                           "city" : "Москва",
+                           "latitude" : 55.8267,
+                           "address" : "Волоколамский проезд, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "12",
+                           "name" : "Фаспик гран д/р-р орал мята 200мг 3г 1",
+                           "price" : "7.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5984,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авеста&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999018322"
+                              }
+                           ],
+                           "phone" : "+74999018322",
+                           "city" : "Москва",
+                           "latitude" : 55.8843,
+                           "address" : "Костромская улица, 16"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. д/р-ра внутр. мятные 200мг пак. n12 швейцария",
+                           "price" : "99.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999093368"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74999093368; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8946,
+                           "address" : "Алтуфьевское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "97"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7131,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 13",
+                           "phones" : [
+                              {
+                                 "number" : "+74952297377"
+                              }
+                           ],
+                           "phone" : "+74952297377",
+                           "city" : "Москва",
+                           "latitude" : 55.6021,
+                           "address" : "Домодедовская улица, 42"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик, гран. 200мг мятные 12",
+                           "price" : "78.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5959,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953882348"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74953882348; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.5844,
+                           "address" : "Варшавское шоссе, 158 к2"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "97"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3298,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538222"
+                              },
+                              {
+                                 "number" : "+74955538222"
+                              }
+                           ],
+                           "phone" : "+74995538222; +74955538222",
+                           "city" : "Одинцово",
+                           "latitude" : 55.6948,
+                           "address" : "улица Чистяковой, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "84"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9692,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538026"
+                              }
+                           ],
+                           "phone" : "+74995538026",
+                           "city" : "Железнодорожный",
+                           "latitude" : 55.7442,
+                           "address" : "Береговая улица, 4а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "93"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4755,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999684914"
+                              }
+                           ],
+                           "phone" : "+74999684914",
+                           "city" : "Коммунарка",
+                           "latitude" : 55.5695,
+                           "address" : "Ясная улица, 1, Москва"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "2",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "91"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4912,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579697"
+                              }
+                           ],
+                           "phone" : "+74996579697",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9411,
+                           "address" : "Лихачёвское шоссе, 11а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "87"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5081,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538447"
+                              },
+                              {
+                                 "number" : "+74995855515"
+                              },
+                              {
+                                 "number" : "+74995538447"
+                              },
+                              {
+                                 "number" : "+74995855515"
+                              }
+                           ],
+                           "phone" : "+74995538447; +74995855515; +74995538447; +74995855515",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.945,
+                           "address" : "Дирижабельная улица, 24, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "90"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9722,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579670"
+                              }
+                           ],
+                           "phone" : "+74996579670",
+                           "city" : "Балашиха",
+                           "latitude" : 55.831,
+                           "address" : "улица Свердлова, 38, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "77"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4813,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956639748"
+                              }
+                           ],
+                           "phone" : "+74956639748",
+                           "city" : "Лобня",
+                           "latitude" : 56.005,
+                           "address" : "Кольцевая улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "3",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "102"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9986,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965669412"
+                              },
+                              {
+                                 "number" : "+74965669412"
+                              }
+                           ],
+                           "phone" : "+74965669412; +74965669412",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9147,
+                           "address" : "Краснознаменская улица, 12, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "84"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5373,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74967557043"
+                              }
+                           ],
+                           "phone" : "+74967557043",
+                           "city" : "Подольск",
+                           "latitude" : 55.4233,
+                           "address" : "улица Свердлова, 30/1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3567",
+                           "quantity" : "1",
+                           "name" : "Фаспик гран. д/приг. р-ра 200мг мята 12",
+                           "price" : "84"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ибупрофен"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

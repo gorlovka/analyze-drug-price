@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "parlazin",
+            "rus_name" : "Парлазин®",
+            "form" : "капли д/приема внутрь 10 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "parlazin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Терра Вита&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996189219"
+                              }
+                           ],
+                           "phone" : "+74996189219",
+                           "city" : "Москва",
+                           "latitude" : 55.6806,
+                           "address" : "Нагатинская набережная, 16к3"
+                        },
+                        "drug" : {
+                           "descid" : "1638",
+                           "quantity" : "1",
+                           "name" : "Парлазин капли внутр.пр фл/кап 20 мл х1",
+                           "price" : "270.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9224,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74985207135"
+                              }
+                           ],
+                           "phone" : "+74985207135",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7602,
+                           "address" : "Разинское шоссе, 12, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1638",
+                           "quantity" : "1",
+                           "name" : "Парлазин 20 мл капли",
+                           "price" : "263.4"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цетиризина дигидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

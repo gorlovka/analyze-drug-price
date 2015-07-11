@@ -1,0 +1,728 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "serlift",
+            "rus_name" : "Серлифт",
+            "form" : "таб, покр. пленочной оболочкой, 50 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 27,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "serlift",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959535296"
+                              }
+                           ],
+                           "phone" : "+74959535296",
+                           "city" : "Москва",
+                           "latitude" : 55.7362,
+                           "address" : "Новокузнецкая улица, 20/21-19 с5"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт, тбл п/о 50мг 28",
+                           "price" : "624"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "2",
+                           "name" : "Серлифт 50мг 28 табл п/о",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6364,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люция&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959531618"
+                              },
+                              {
+                                 "number" : "+74959530128"
+                              }
+                           ],
+                           "phone" : "+74959531618; +74959530128",
+                           "city" : "Москва",
+                           "latitude" : 55.7316,
+                           "address" : "Новокузнецкая улица, 43/16"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "2",
+                           "name" : "Серлифт табл. п/о пленочн. 50мг 28",
+                           "price" : "655"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5853,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аклауд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992504120"
+                              },
+                              {
+                                 "number" : "+74992504001"
+                              }
+                           ],
+                           "phone" : "+74992504120; +74992504001",
+                           "city" : "Москва",
+                           "latitude" : 55.7736,
+                           "address" : "2-я Брестская улица, 37 с1"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "2",
+                           "name" : "Серлифт табл. п/о пленочн. 50мг 28",
+                           "price" : "635"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6714,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОПТИФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678604"
+                              }
+                           ],
+                           "phone" : "+74999678604",
+                           "city" : "Москва",
+                           "latitude" : 55.7428,
+                           "address" : "Большая Андроньевская улица, 11/13"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт тбл п/о 50мг 28",
+                           "price" : "556.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "2",
+                           "name" : "Серлифт,таблетки,50мг 28шт",
+                           "price" : "528"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "2",
+                           "name" : "Серлифт тбл п/о 50мг 28",
+                           "price" : "579"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490237"
+                              }
+                           ],
+                           "phone" : "+74996490237",
+                           "city" : "Москва",
+                           "latitude" : 55.7741,
+                           "address" : "Бауманская улица, 26 с1"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "10",
+                           "name" : "Серлифт таб п/о 50мг 28",
+                           "price" : "524.21"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7138,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953604472"
+                              }
+                           ],
+                           "phone" : "+74953604472",
+                           "city" : "Москва",
+                           "latitude" : 55.7698,
+                           "address" : "Ухтомская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт тбл п/о 50мг 28",
+                           "price" : "583"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.721,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490239"
+                              }
+                           ],
+                           "phone" : "+74996490239",
+                           "city" : "Москва",
+                           "latitude" : 55.7463,
+                           "address" : "Авиамоторная улица, 51"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "10",
+                           "name" : "Серлифт таб п/о 50мг 28",
+                           "price" : "522.23"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7372,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Престиж-групп&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997489982"
+                              }
+                           ],
+                           "phone" : "+74997489982",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "5-я улица Соколиной Горы, 19 к2"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт тбл п/о 50мг 28",
+                           "price" : "624.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490242"
+                              }
+                           ],
+                           "phone" : "+74996490242",
+                           "city" : "Москва",
+                           "latitude" : 55.7755,
+                           "address" : "проспект Маршала Жукова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "10",
+                           "name" : "Серлифт таб п/о 50мг 28",
+                           "price" : "623.23"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5619,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991250777"
+                              }
+                           ],
+                           "phone" : "+74991250777",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "улица Кржижановского, 3"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт, тбл п/о 50мг 28",
+                           "price" : "509"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "15",
+                           "name" : "Серлифт тб плен/об 50мг бл n14x2",
+                           "price" : "525"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.775,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОПТИФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953686195"
+                              }
+                           ],
+                           "phone" : "+74953686195",
+                           "city" : "Москва",
+                           "latitude" : 55.757,
+                           "address" : "1-я Владимирская улица, 14"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт тбл п/о 50мг 28",
+                           "price" : "555.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7506,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956602415"
+                              }
+                           ],
+                           "phone" : "+74956602415",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "Краснодонская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт тбл п/о 50мг 28",
+                           "price" : "545.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957879355"
+                              }
+                           ],
+                           "phone" : "+74957879355",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "5-я Парковая улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт, тбл п/о 50мг 28",
+                           "price" : "639"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7651,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека в Марьино",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6813,
+                           "address" : "Ставропольская улица, 50/22"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт тбл п/о 50мг 28",
+                           "price" : "495.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7613,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957837209"
+                              }
+                           ],
+                           "phone" : "+74957837209",
+                           "city" : "Москва",
+                           "latitude" : 55.6765,
+                           "address" : "Краснодарская улица, 48"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт тбл п/о 50мг 28",
+                           "price" : "616"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5117,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Марена-Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74959914072"
+                              },
+                              {
+                                 "number" : "+74957732879"
+                              }
+                           ],
+                           "phone" : "+74959914072; +74957732879",
+                           "city" : "Москва",
+                           "latitude" : 55.8517,
+                           "address" : "Кронштадтский бульвар, 47"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт табл. п/о пленочн. 50мг 28",
+                           "price" : "610"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4898,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Глициния-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959675403"
+                              },
+                              {
+                                 "number" : "+74959675406"
+                              }
+                           ],
+                           "phone" : "+74959675403; +74959675406",
+                           "city" : "Москва",
+                           "latitude" : 55.8467,
+                           "address" : "Авангардная улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт табл. п/о пленочн. 50мг 28",
+                           "price" : "670"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5255,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарм-Хаус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217801"
+                              },
+                              {
+                                 "number" : "+74959914587"
+                              }
+                           ],
+                           "phone" : "+74959217801; +74959914587",
+                           "city" : "Москва",
+                           "latitude" : 55.6441,
+                           "address" : "Профсоюзная улица, 102/47"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт табл. п/о пленочн. 50мг 28",
+                           "price" : "599"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "10",
+                           "name" : "Серлифт таб п/о 50мг 28",
+                           "price" : "580.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490240"
+                              }
+                           ],
+                           "phone" : "+74996490240",
+                           "city" : "Москва",
+                           "latitude" : 55.6513,
+                           "address" : "Люблинская улица, 163/1"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "10",
+                           "name" : "Серлифт таб п/о 50мг 28",
+                           "price" : "528.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6019,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "&quot;БОГАТЫРЬ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953140060"
+                              },
+                              {
+                                 "number" : "+74957896029"
+                              }
+                           ],
+                           "phone" : "+74953140060; +74957896029",
+                           "city" : "Москва",
+                           "latitude" : 55.6094,
+                           "address" : "Кировоградская улица, 28 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт тбл п/о 50мг 28",
+                           "price" : "599"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5887,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Ромашки",
+                           "phones" : [
+                              {
+                                 "number" : "+74999083503"
+                              },
+                              {
+                                 "number" : "+74999678645"
+                              }
+                           ],
+                           "phone" : "+74999083503; +74999678645",
+                           "city" : "Москва",
+                           "latitude" : 55.8993,
+                           "address" : "Алтуфьевское шоссе, 88"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт, тбл п/о 50мг 28",
+                           "price" : "599"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Атрика&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8106,
+                           "address" : "проспект Ленина, 06, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4310",
+                           "quantity" : "1",
+                           "name" : "Серлифт тбл п/о 50мг 28",
+                           "price" : "553.3"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "сертралин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

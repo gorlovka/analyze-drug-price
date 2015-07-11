@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "aranesp",
+            "rus_name" : "Аранесп",
+            "form" : "р-р д/инъекц. 300 мкг/0.6 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "aranesp",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490249"
+                              }
+                           ],
+                           "phone" : "+74996490249",
+                           "city" : "Москва",
+                           "latitude" : 55.7227,
+                           "address" : "Фрунзенская набережная, 36/2"
+                        },
+                        "drug" : {
+                           "descid" : "4052",
+                           "quantity" : "10",
+                           "name" : "Аранесп р-р д/ин 300мкг/0,6мл шприц 1",
+                           "price" : "48442.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490242"
+                              }
+                           ],
+                           "phone" : "+74996490242",
+                           "city" : "Москва",
+                           "latitude" : 55.7755,
+                           "address" : "проспект Маршала Жукова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "4052",
+                           "quantity" : "10",
+                           "name" : "Аранесп р-р д/ин 300мкг/0,6мл шприц 1",
+                           "price" : "48442.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "дарбэпоэтин альфа (рекомбинантный)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,112 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "volulight",
+            "rus_name" : "Волюлайт",
+            "form" : "р-р д/инф.",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "volulight",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7934,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИНАД-ЭКСПЕРТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956522369"
+                              },
+                              {
+                                 "number" : "+74956522370"
+                              }
+                           ],
+                           "phone" : "+74956522369; +74956522370",
+                           "city" : "Москва",
+                           "latitude" : 55.7997,
+                           "address" : "7-я Парковая улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "6399",
+                           "quantity" : "33",
+                           "name" : "Волюлайт 500мл р-р динф. 20",
+                           "price" : "9899"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "6399",
+                           "quantity" : "33",
+                           "name" : "Волюлайт 500 мл р-р д/и 20",
+                           "price" : "10770"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "6399",
+                           "quantity" : "1",
+                           "name" : "Волюлайт раствор для инфузий 500мл 20 контейнеры",
+                           "price" : "10297"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "Na+ + K+ + Mg2+ + Cl- + CH3COO- + натрия хлорид + калия хлорид + гидроксиэтилкрахмал 130/0.4 + натрия ацетата тригидрат + магния хлорида гексагидрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

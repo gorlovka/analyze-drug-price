@@ -1,0 +1,221 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "lisinopril_krka",
+            "rus_name" : "Лизиноприл-крка",
+            "form" : "таб. 10 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 7,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "lisinopril_krka",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6145,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 4 (ООО Феерия Фарм Север)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956026573"
+                              }
+                           ],
+                           "phone" : "+74956026573",
+                           "city" : "Москва",
+                           "latitude" : 55.7937,
+                           "address" : "улица Сущёвский Вал, 55"
+                        },
+                        "drug" : {
+                           "descid" : "8058",
+                           "quantity" : "5",
+                           "name" : "Лизиноприл крка, тбл 10мг 30",
+                           "price" : "63.36"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6723,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 8",
+                           "phones" : [
+                              {
+                                 "number" : "+74955101755"
+                              }
+                           ],
+                           "phone" : "+74955101755",
+                           "city" : "Москва",
+                           "latitude" : 55.7819,
+                           "address" : "Русаковская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "8058",
+                           "quantity" : "1",
+                           "name" : "Лизиноприл-крка тб 10мг бл n10x3",
+                           "price" : "217.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.595,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ФАРМА ЛАКС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991238405"
+                              }
+                           ],
+                           "phone" : "+74991238405",
+                           "city" : "Москва",
+                           "latitude" : 55.678,
+                           "address" : "Севастопольский проспект, 19 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8058",
+                           "quantity" : "1",
+                           "name" : "Лизиноприл-крка 10мг тб 30",
+                           "price" : "226"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НатурРецепт&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956549961"
+                              },
+                              {
+                                 "number" : "+74956549962"
+                              },
+                              {
+                                 "number" : "+74956549496"
+                              }
+                           ],
+                           "phone" : "+74956549961; +74956549962; +74956549496",
+                           "city" : "Москва",
+                           "latitude" : 55.6591,
+                           "address" : "Мячковский бульвар, 1"
+                        },
+                        "drug" : {
+                           "descid" : "8058",
+                           "quantity" : "1",
+                           "name" : "Лизиноприл-крка 0,005 n30 табл",
+                           "price" : "129"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Берклий&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79269030728"
+                              },
+                              {
+                                 "number" : "+74997042889"
+                              }
+                           ],
+                           "phone" : "+79269030728; +74997042889",
+                           "city" : "Москва",
+                           "latitude" : 55.6355,
+                           "address" : "Профсоюзная улица, 103а"
+                        },
+                        "drug" : {
+                           "descid" : "8058",
+                           "quantity" : "1",
+                           "name" : "Лизиноприл-крка таб. 10мг 30",
+                           "price" : "237.07"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Рэдберн&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954917449"
+                              },
+                              {
+                                 "number" : "+74954917818"
+                              }
+                           ],
+                           "phone" : "+74954917449; +74954917818",
+                           "city" : "Москва",
+                           "latitude" : 55.8267,
+                           "address" : "Волоколамский проезд, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8058",
+                           "quantity" : "2",
+                           "name" : "Лизиноприл-крка тб 10мг 30",
+                           "price" : "136"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3244,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НОТА-БЕНА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994096060"
+                              },
+                              {
+                                 "number" : "+74955658916"
+                              }
+                           ],
+                           "phone" : "+74994096060; +74955658916",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8067,
+                           "address" : "Южный бульвар, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8058",
+                           "quantity" : "1",
+                           "name" : "Лизиноприл-крка 0,01 n30 табл",
+                           "price" : "234"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "лизиноприл"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

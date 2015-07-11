@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "diclofenac",
+            "rus_name" : "Диклофенак",
+            "form" : "мазь д/наружн. прим. 1%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "diclofenac",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6554,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лотос&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956826565"
+                              }
+                           ],
+                           "phone" : "+74956826565",
+                           "city" : "Москва",
+                           "latitude" : 55.8119,
+                           "address" : "улица Павла Корчагина, 2/1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "2",
+                           "name" : "Диклофенак 1% 30,0 мазь/озон",
+                           "price" : "38"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "диклофенак натрия + диклофенак диэтиламина"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "arbidol",
+            "rus_name" : "Арбидол®",
+            "form" : "капс. 50 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "arbidol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6723,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 8",
+                           "phones" : [
+                              {
+                                 "number" : "+74955101755"
+                              }
+                           ],
+                           "phone" : "+74955101755",
+                           "city" : "Москва",
+                           "latitude" : 55.7819,
+                           "address" : "Русаковская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "1414",
+                           "quantity" : "1",
+                           "name" : "Арбидол капс 50мг бл n10",
+                           "price" : "819.1"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "этилового эфира 6-бром-5-гидрокси-1-метил-4-диметиламинометил-2-фенилтиометилиндол-3-карбоновой кислоты гидрохлорид моногидрат + умифеновир (метилфенилтиометил-диметиламинометил-гидроксиброминдол карбоновой кислоты этиловый эфир)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "tizidone",
+            "rus_name" : "Тизидон",
+            "form" : "капс. 150 мг",
+            "has_desc" : false,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "tizidone",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5901,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490247"
+                              }
+                           ],
+                           "phone" : "+74996490247",
+                           "city" : "Москва",
+                           "latitude" : 55.7732,
+                           "address" : "1-я Тверская-Ямская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "8558",
+                           "quantity" : "10",
+                           "name" : "Тизидон капс 150мг 100",
+                           "price" : "15630.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6155,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490248"
+                              }
+                           ],
+                           "phone" : "+74996490248",
+                           "city" : "Москва",
+                           "latitude" : 55.794,
+                           "address" : "Шереметьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8558",
+                           "quantity" : "10",
+                           "name" : "Тизидон капс 150мг 100",
+                           "price" : "15630.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4767,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956490245"
+                              }
+                           ],
+                           "phone" : "+74956490245",
+                           "city" : "Москва",
+                           "latitude" : 55.8471,
+                           "address" : "Ленинградское шоссе, 80 с1"
+                        },
+                        "drug" : {
+                           "descid" : "8558",
+                           "quantity" : "10",
+                           "name" : "Тизидон капс 150мг 100",
+                           "price" : "15630.2"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "теризидон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "levofloxacin_teva",
+            "rus_name" : "Левофлоксацин-тева",
+            "form" : "р-р д/инф. 5 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "levofloxacin_teva",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5862,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "Фармсервис медикал",
+                           "phones" : [
+                              {
+                                 "number" : "+74992501012"
+                              }
+                           ],
+                           "phone" : "+74992501012",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "1-я Тверская-Ямская улица, 36 с1"
+                        },
+                        "drug" : {
+                           "descid" : "6364",
+                           "quantity" : "1",
+                           "name" : "Левофлоксацин-тева р-р д/инф 5мг/мл100мл",
+                           "price" : "600"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3624,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Трилистник на Митинском",
+                           "phones" : [
+                              {
+                                 "number" : "+74957528330"
+                              }
+                           ],
+                           "phone" : "+74957528330",
+                           "city" : "Москва",
+                           "latitude" : 55.8442,
+                           "address" : "Митинская улица, 27 к2"
+                        },
+                        "drug" : {
+                           "descid" : "6364",
+                           "quantity" : "13",
+                           "name" : "Левофлоксацин-тева р-р д/инф. 100мл",
+                           "price" : "515"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "левофлоксацин + левофлоксацин (в форме гемигидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

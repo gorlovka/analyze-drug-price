@@ -1,0 +1,109 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "microiodid_100",
+            "rus_name" : "Микройодид 100",
+            "form" : "таб. 100 мкг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "microiodid_100",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6114,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Фармацевтическая компания &quot;БЕЛЫЙ ЛОТОС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959804897"
+                              }
+                           ],
+                           "phone" : "+74959804897",
+                           "city" : "Москва",
+                           "latitude" : 55.7268,
+                           "address" : "улица Шаболовка, 2"
+                        },
+                        "drug" : {
+                           "descid" : "7605",
+                           "quantity" : "4",
+                           "name" : "Микройодид 100мкг таб х100",
+                           "price" : "75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6333,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955856015"
+                              },
+                              {
+                                 "number" : "+79162130905"
+                              }
+                           ],
+                           "phone" : "+74955856015; +79162130905",
+                           "city" : "Москва",
+                           "latitude" : 55.7856,
+                           "address" : "улица Гиляровского, 50"
+                        },
+                        "drug" : {
+                           "descid" : "7605",
+                           "quantity" : "1",
+                           "name" : "Микройодид 100 тб 100мг уп конт яч n25x4",
+                           "price" : "99.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4949,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Островитянова",
+                           "phones" : [
+                              {
+                                 "number" : "+74954387475"
+                              }
+                           ],
+                           "phone" : "+74954387475",
+                           "city" : "Москва",
+                           "latitude" : 55.6449,
+                           "address" : "улица Островитянова, 5"
+                        },
+                        "drug" : {
+                           "descid" : "7605",
+                           "quantity" : "1",
+                           "name" : "Микройодид 100мкг n50 таб.",
+                           "price" : "53"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "калия йодид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

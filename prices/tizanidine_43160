@@ -1,0 +1,208 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "tizanidine",
+            "rus_name" : "Тизанидин",
+            "form" : "таб. 2 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 7,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "tizanidine",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6474,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Московская аптека ( 335 у ВДНХ)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956831423"
+                              }
+                           ],
+                           "phone" : "+74956831423",
+                           "city" : "Москва",
+                           "latitude" : 55.8256,
+                           "address" : "проспект Мира, 182"
+                        },
+                        "drug" : {
+                           "descid" : "8799",
+                           "quantity" : "2",
+                           "name" : "Тизанидин 2мг n30 таб. тева",
+                           "price" : "115"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7862,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Парус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957702729"
+                              }
+                           ],
+                           "phone" : "+74957702729",
+                           "city" : "Москва",
+                           "latitude" : 55.7425,
+                           "address" : "Кусковская улица, 31 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8799",
+                           "quantity" : "2",
+                           "name" : "Тизанидин тбл 2мг 30",
+                           "price" : "107.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7506,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956602415"
+                              }
+                           ],
+                           "phone" : "+74956602415",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "Краснодонская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "8799",
+                           "quantity" : "1",
+                           "name" : "Тизанидин тбл 2мг 30",
+                           "price" : "98"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4315,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Мёбиус",
+                           "phones" : [
+                              {
+                                 "number" : "+74954442072"
+                              }
+                           ],
+                           "phone" : "+74954442072",
+                           "city" : "Москва",
+                           "latitude" : 55.7202,
+                           "address" : "Можайское шоссе, 17"
+                        },
+                        "drug" : {
+                           "descid" : "8799",
+                           "quantity" : "2",
+                           "name" : "Тизанидин таб. 2мг 30",
+                           "price" : "93"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7482,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Верхние поля",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6655,
+                           "address" : "улица Верхние Поля, 9 к2 с4"
+                        },
+                        "drug" : {
+                           "descid" : "8799",
+                           "quantity" : "1",
+                           "name" : "Тизанидин 2мг n30 таб. тева",
+                           "price" : "116"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7363,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Доброфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953984945"
+                              }
+                           ],
+                           "phone" : "+74953984945",
+                           "city" : "Москва",
+                           "latitude" : 55.6103,
+                           "address" : "Воронежская улица, 24"
+                        },
+                        "drug" : {
+                           "descid" : "8799",
+                           "quantity" : "2",
+                           "name" : "Тизанидин тбл 2мг 30",
+                           "price" : "98"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.546,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Голубинская",
+                           "phones" : [
+                              {
+                                 "number" : "+74954232169"
+                              },
+                              {
+                                 "number" : "+74954238372"
+                              },
+                              {
+                                 "number" : "+74954233522"
+                              }
+                           ],
+                           "phone" : "+74954232169; +74954238372; +74954233522",
+                           "city" : "Москва",
+                           "latitude" : 55.5939,
+                           "address" : "Голубинская улица, 32/2"
+                        },
+                        "drug" : {
+                           "descid" : "8799",
+                           "quantity" : "1",
+                           "name" : "Тизанидин 2мг n30 таб. тева",
+                           "price" : "105.21"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тизанидин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

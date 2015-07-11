@@ -1,0 +1,87 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "tresiba_flextouch",
+            "rus_name" : "Тресиба® флекстач®",
+            "form" : "р-р д/п/к введения 100 ЕД/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "tresiba_flextouch",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "8496",
+                           "quantity" : "2",
+                           "name" : "Тресиба флекстач р-р д/п/к 100ед 3мл 5",
+                           "price" : "7630"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6016,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Семья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999785551"
+                              },
+                              {
+                                 "number" : "+74999730180"
+                              }
+                           ],
+                           "phone" : "+74999785551; +74999730180",
+                           "city" : "Москва",
+                           "latitude" : 55.7809,
+                           "address" : "Сущёвская улица, 13/15"
+                        },
+                        "drug" : {
+                           "descid" : "8496",
+                           "quantity" : "2",
+                           "name" : "Тресиба флекстач р-р для п/к введ. 100ед",
+                           "price" : "7435"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "инсулин деглудек"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

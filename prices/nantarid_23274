@@ -1,0 +1,115 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "nantarid",
+            "rus_name" : "Нантарид®",
+            "form" : "таб., покр. пленочной обол., 25 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "nantarid",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "5530",
+                           "quantity" : "2",
+                           "name" : "Нантарид,таблетки, 0,2 60 шт",
+                           "price" : "1932"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5530",
+                           "quantity" : "1",
+                           "name" : "Нантарид табл п/о 0,2 n60",
+                           "price" : "2250"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7934,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИНАД-ЭКСПЕРТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956522369"
+                              },
+                              {
+                                 "number" : "+74956522370"
+                              }
+                           ],
+                           "phone" : "+74956522369; +74956522370",
+                           "city" : "Москва",
+                           "latitude" : 55.7997,
+                           "address" : "7-я Парковая улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "5530",
+                           "quantity" : "33",
+                           "name" : "Нантарид 0.2 таб. 60",
+                           "price" : "1968"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кветиапин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

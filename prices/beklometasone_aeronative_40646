@@ -1,0 +1,87 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "beklometasone_aeronative",
+            "rus_name" : "Беклометазон-аэронатив",
+            "form" : "аэрозоль д/инг. дозир. 250 мкг/1 доза",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "beklometasone_aeronative",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4138,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО Звездочка",
+                           "phones" : [
+                              {
+                                 "number" : "+74991416569"
+                              },
+                              {
+                                 "number" : "+74959978003"
+                              },
+                              {
+                                 "number" : "+74959978053"
+                              }
+                           ],
+                           "phone" : "+74991416569; +74959978003; +74959978053",
+                           "city" : "Москва",
+                           "latitude" : 55.7383,
+                           "address" : "Ярцевская улица, 22 с1"
+                        },
+                        "drug" : {
+                           "descid" : "8460",
+                           "quantity" : "1",
+                           "name" : "Беклометазон-аэронатив аэр.д/инг.250мкг.200доз",
+                           "price" : "374"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5425,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954226311"
+                              }
+                           ],
+                           "phone" : "+74954226311",
+                           "city" : "Москва",
+                           "latitude" : 55.6024,
+                           "address" : "улица Паустовского, 1"
+                        },
+                        "drug" : {
+                           "descid" : "8460",
+                           "quantity" : "2",
+                           "name" : "Беклометазон-аэронатив аэр.динг. 250мкг200доз 1",
+                           "price" : "461.7"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "беклометазон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "avastin",
+            "rus_name" : "Авастин®",
+            "form" : "концентрат д/пригот. р-ра д/инф. 100 мг/4 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "avastin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6114,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Фармацевтическая компания &quot;БЕЛЫЙ ЛОТОС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959804897"
+                              }
+                           ],
+                           "phone" : "+74959804897",
+                           "city" : "Москва",
+                           "latitude" : 55.7268,
+                           "address" : "улица Шаболовка, 2"
+                        },
+                        "drug" : {
+                           "descid" : "3374",
+                           "quantity" : "2",
+                           "name" : "Авастин 100мг/4мл конц.д/приг.р-ра д/инф х1 фл",
+                           "price" : "16600"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;КедрФарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994093601"
+                              }
+                           ],
+                           "phone" : "+74994093601",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "Хорошёвское шоссе, 46"
+                        },
+                        "drug" : {
+                           "descid" : "3374",
+                           "quantity" : "5",
+                           "name" : "Авастин конц д/р-ра для инфузий 100мг/4мл фл n1",
+                           "price" : "17500"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "бевацизумаб"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

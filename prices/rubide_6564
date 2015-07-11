@@ -1,0 +1,215 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "rubide",
+            "rus_name" : "Рубида",
+            "form" : "лиофилизат д/пригот. р-ра д/в/в введения. 5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 7,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "rubide",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва (Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992382865"
+                              },
+                              {
+                                 "number" : "+74992387410"
+                              }
+                           ],
+                           "phone" : "+74992382865; +74992387410",
+                           "city" : "Москва",
+                           "latitude" : 55.7341,
+                           "address" : "улица Большая Полянка, 30"
+                        },
+                        "drug" : {
+                           "descid" : "2200",
+                           "quantity" : "10",
+                           "name" : "Рубида лиоф.д/приг.в/в р-ра 5мг фл.х1",
+                           "price" : "2600"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6344,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490250"
+                              }
+                           ],
+                           "phone" : "+74996490250",
+                           "city" : "Москва",
+                           "latitude" : 55.7842,
+                           "address" : "проспект Мира, 51"
+                        },
+                        "drug" : {
+                           "descid" : "2200",
+                           "quantity" : "10",
+                           "name" : "Рубида лиоф. д/приг р-ра д/в/в введ 5мг",
+                           "price" : "2481.51"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490249"
+                              }
+                           ],
+                           "phone" : "+74996490249",
+                           "city" : "Москва",
+                           "latitude" : 55.7227,
+                           "address" : "Фрунзенская набережная, 36/2"
+                        },
+                        "drug" : {
+                           "descid" : "2200",
+                           "quantity" : "10",
+                           "name" : "Рубида лиоф. д/приг р-ра д/в/в введ 5мг",
+                           "price" : "2481.51"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6333,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955856015"
+                              },
+                              {
+                                 "number" : "+79162130905"
+                              }
+                           ],
+                           "phone" : "+74955856015; +79162130905",
+                           "city" : "Москва",
+                           "latitude" : 55.7856,
+                           "address" : "улица Гиляровского, 50"
+                        },
+                        "drug" : {
+                           "descid" : "2200",
+                           "quantity" : "3",
+                           "name" : "Рубида лиоф д/и в/в 5мг фл пач карт",
+                           "price" : "2460"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "2200",
+                           "quantity" : "1",
+                           "name" : "Рубида,лиофилизат,5мг 1шт",
+                           "price" : "3136"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5366,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Pharmacorp Ltd",
+                           "phones" : [
+                              {
+                                 "number" : "+74993911628"
+                              }
+                           ],
+                           "phone" : "+74993911628",
+                           "city" : "Москва",
+                           "latitude" : 55.7471,
+                           "address" : "Пресненская набережная, 10блокС"
+                        },
+                        "drug" : {
+                           "descid" : "2200",
+                           "quantity" : "5",
+                           "name" : "Рубида лиоф д/ин 5мг 1",
+                           "price" : "4200"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "2200",
+                           "quantity" : "1",
+                           "name" : "Рубида лиофилизат для приг. раствора для в/в введения 5мг 1 флакон",
+                           "price" : "2797"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "идарубицина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,827 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "medrol",
+            "rus_name" : "Медрол®",
+            "form" : "таб. 16 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 29,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "medrol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6279,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (76, Пятницкая)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959150427"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1334"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74959150427; +74952311697, доб. 1334",
+                           "city" : "Москва",
+                           "latitude" : 55.7445,
+                           "address" : "Пятницкая улица, 9/28"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "4",
+                           "name" : "Медрол таб. 16мг 50",
+                           "price" : "570"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6159,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (13, Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0984"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0984",
+                           "city" : "Москва",
+                           "latitude" : 55.7411,
+                           "address" : "улица Большая Полянка, 4/10"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол таб. 16мг 50",
+                           "price" : "790"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6429,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Вега&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956247180"
+                              }
+                           ],
+                           "phone" : "+74956247180",
+                           "city" : "Москва",
+                           "latitude" : 55.7592,
+                           "address" : "улица Покровка, 9 с1"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол тбл 16мг 50",
+                           "price" : "707"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва (Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992382865"
+                              },
+                              {
+                                 "number" : "+74992387410"
+                              }
+                           ],
+                           "phone" : "+74992382865; +74992387410",
+                           "city" : "Москва",
+                           "latitude" : 55.7341,
+                           "address" : "улица Большая Полянка, 30"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "3",
+                           "name" : "Медрол таб. 16мг n 50",
+                           "price" : "640"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "4",
+                           "name" : "Медрол 16мг 50 табл",
+                           "price" : "649"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.61,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (10, Крымский Вал)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992389577"
+                              }
+                           ],
+                           "phone" : "+74992389577",
+                           "city" : "Москва",
+                           "latitude" : 55.7309,
+                           "address" : "улица Крымский Вал, 6"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "3",
+                           "name" : "Медрол таб. 16мг 50",
+                           "price" : "510"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6714,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОПТИФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678604"
+                              }
+                           ],
+                           "phone" : "+74999678604",
+                           "city" : "Москва",
+                           "latitude" : 55.7428,
+                           "address" : "Большая Андроньевская улица, 11/13"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "2",
+                           "name" : "Медрол тбл 16мг 50",
+                           "price" : "680"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "5",
+                           "name" : "Медрол,таблетки,16мг 50шт",
+                           "price" : "623"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7015,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Омега&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957071279"
+                              },
+                              {
+                                 "number" : "+74959782004"
+                              }
+                           ],
+                           "phone" : "+74957071279; +74959782004",
+                           "city" : "Москва",
+                           "latitude" : 55.7648,
+                           "address" : "Солдатская улица, 6а"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол тбл 16мг 50",
+                           "price" : "719"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7183,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Белиссимо-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959883195"
+                              }
+                           ],
+                           "phone" : "+74959883195",
+                           "city" : "Москва",
+                           "latitude" : 55.7511,
+                           "address" : "шоссе Энтузиастов, 24/43"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол тбл 16мг 50",
+                           "price" : "800.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5878,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Калина Фарм МСК",
+                           "phones" : [
+                              {
+                                 "number" : "+74991267745"
+                              },
+                              {
+                                 "number" : "+74956646053"
+                              },
+                              {
+                                 "number" : "+74956646056"
+                              },
+                              {
+                                 "number" : "+78005500321"
+                              }
+                           ],
+                           "phone" : "+74991267745; +74956646053; +74956646056; +78005500321",
+                           "city" : "Москва",
+                           "latitude" : 55.6915,
+                           "address" : "улица Шверника, 12/2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол, тбл 16мг 50",
+                           "price" : "717"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6625,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Ромашка-Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74996125870"
+                              },
+                              {
+                                 "number" : "+74993811015"
+                              },
+                              {
+                                 "number" : "+74993811016"
+                              }
+                           ],
+                           "phone" : "+74996125870; +74993811015; +74993811016",
+                           "city" : "Москва",
+                           "latitude" : 55.6791,
+                           "address" : "проспект Андропова, 30"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол, тбл 16мг 50",
+                           "price" : "818"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5248,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЛАТИС-ТОРГ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991381001"
+                              },
+                              {
+                                 "number" : "+74991381065"
+                              },
+                              {
+                                 "number" : "+79166721665"
+                              }
+                           ],
+                           "phone" : "+74991381001; +74991381065; +79166721665",
+                           "city" : "Москва",
+                           "latitude" : 55.6846,
+                           "address" : "улица Крупской, 19/17"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол, тбл 16мг 50",
+                           "price" : "644.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5673,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Целитель+&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957794761"
+                              }
+                           ],
+                           "phone" : "+74957794761",
+                           "city" : "Москва",
+                           "latitude" : 55.6698,
+                           "address" : "Новочерёмушкинская улица, 57"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол таб 16мг n50 уп кнт-яч пк &amp;lt;10*5&amp;gt;",
+                           "price" : "716"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7862,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Парус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957702729"
+                              }
+                           ],
+                           "phone" : "+74957702729",
+                           "city" : "Москва",
+                           "latitude" : 55.7425,
+                           "address" : "Кусковская улица, 31 к1"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол тбл 16мг 50",
+                           "price" : "532.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6491,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999684911"
+                              }
+                           ],
+                           "phone" : "+74999684911",
+                           "city" : "Москва",
+                           "latitude" : 55.654,
+                           "address" : "Каширское шоссе, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "3",
+                           "name" : "Медрол таб. 16мг 50",
+                           "price" : "658"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7506,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956602415"
+                              }
+                           ],
+                           "phone" : "+74956602415",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "Краснодонская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол тбл 16мг 50",
+                           "price" : "799.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7638,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лилия&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953597511"
+                              },
+                              {
+                                 "number" : "+74953457311"
+                              }
+                           ],
+                           "phone" : "+74953597511; +74953457311",
+                           "city" : "Москва",
+                           "latitude" : 55.6789,
+                           "address" : "Совхозная улица, 16"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол, тбл 16мг 50",
+                           "price" : "757"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8088,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Авиценна Фарма",
+                           "phones" : [
+                              {
+                                 "number" : "+74956038512"
+                              },
+                              {
+                                 "number" : "+79671612272"
+                              }
+                           ],
+                           "phone" : "+74956038512; +79671612272",
+                           "city" : "Москва",
+                           "latitude" : 55.791,
+                           "address" : "Нижняя Первомайская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол, тбл 16мг 50",
+                           "price" : "639"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6918,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЭЛ Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74952275378"
+                              },
+                              {
+                                 "number" : "+74952275379"
+                              }
+                           ],
+                           "phone" : "+74952275378; +74952275379",
+                           "city" : "Москва",
+                           "latitude" : 55.8621,
+                           "address" : "Ярославское шоссе, 55"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол, тбл 16мг 50",
+                           "price" : "699"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7591,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москава (23, Братиславская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0971",
+                                    "1309"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0971, 1309",
+                           "city" : "Москва",
+                           "latitude" : 55.6598,
+                           "address" : "Братиславская улица, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол таб. 16мг 50",
+                           "price" : "564"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5216,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лавка здоровья и красоты&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954209711"
+                              },
+                              {
+                                 "number" : "+74954202188"
+                              }
+                           ],
+                           "phone" : "+74954209711; +74954202188",
+                           "city" : "Москва",
+                           "latitude" : 55.633,
+                           "address" : "Профсоюзная улица, 109"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "2",
+                           "name" : "Медрол 16мг n50 таб.",
+                           "price" : "599.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6666,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "АПТЕКА ЦАРИЦЫНСКАЯ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957283766"
+                              }
+                           ],
+                           "phone" : "+74957283766",
+                           "city" : "Москва",
+                           "latitude" : 55.6188,
+                           "address" : "Каспийская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "2",
+                           "name" : "Медрол таб. 16мг 50",
+                           "price" : "785"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8269,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (5, Хабаровская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957708948"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1981",
+                                    "1302"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957708948; +74952311697, доб. 1981, 1302",
+                           "city" : "Москва",
+                           "latitude" : 55.8214,
+                           "address" : "Хабаровская улица, 12/23"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол таб. 16мг 50",
+                           "price" : "683"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8611,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 3",
+                           "phones" : [
+                              {
+                                 "number" : "+74986618944"
+                              }
+                           ],
+                           "phone" : "+74986618944",
+                           "city" : "Реутов",
+                           "latitude" : 55.751,
+                           "address" : "Южная улица, 3в, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "2",
+                           "name" : "Медрол 16 мг n50 табл",
+                           "price" : "616"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4416,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №969",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8493,
+                           "address" : "Химкинский бульвар, 23"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол табл. 16мг n50",
+                           "price" : "727"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8562,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Андервуд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997966630"
+                              }
+                           ],
+                           "phone" : "+74997966630",
+                           "city" : "Москва",
+                           "latitude" : 55.6865,
+                           "address" : "улица Генерала Кузнецова, 20"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол, тбл 16мг 50",
+                           "price" : "660"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5994,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Оксалин&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952013616"
+                              }
+                           ],
+                           "phone" : "+74952013616",
+                           "city" : "Москва",
+                           "latitude" : 55.5934,
+                           "address" : "Варшавское шоссе, 152"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол, тбл 16мг 50",
+                           "price" : "870"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4437,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Эко-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217912"
+                              },
+                              {
+                                 "number" : "+74959217637"
+                              }
+                           ],
+                           "phone" : "+74959217912; +74959217637",
+                           "city" : "Химки",
+                           "latitude" : 55.8902,
+                           "address" : "Пролетарская улица, 1/30, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "756",
+                           "quantity" : "1",
+                           "name" : "Медрол, тбл 16мг 50",
+                           "price" : "678"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "метилпреднизолон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

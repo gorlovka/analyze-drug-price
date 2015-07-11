@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "furosemide",
+            "rus_name" : "Фуросемид",
+            "form" : "р-р д/инъекц. 20 мг/2 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "furosemid",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6084,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека на Плещеева (Юнайтедфарм)",
+                           "phones" : [
+                              {
+                                 "number" : "+74999017918"
+                              }
+                           ],
+                           "phone" : "+74999017918",
+                           "city" : "Москва",
+                           "latitude" : 55.8848,
+                           "address" : "улица Плещеева, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1561",
+                           "quantity" : "2",
+                           "name" : "Фуросемид, р-р д/инъ 20мг 2мл 10",
+                           "price" : "26"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "фуросемид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "hemomycin",
+            "rus_name" : "Хемомицин",
+            "form" : "порошок д/пригот. сусп. д/приема внутрь 100 мг/5 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "hemomycin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5936,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Феерия г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74955855080"
+                              },
+                              {
+                                 "number" : "+74955459469"
+                              }
+                           ],
+                           "phone" : "+74955855080; +74955459469",
+                           "city" : "Москва",
+                           "latitude" : 55.6516,
+                           "address" : "улица Каховка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1352",
+                           "quantity" : "1",
+                           "name" : "Хемомицин, пор д/приготов. сусп. 100мг/5мл фл 1",
+                           "price" : "155"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "азитромицин + азитромицин (в форме дигидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

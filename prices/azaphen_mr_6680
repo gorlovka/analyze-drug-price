@@ -1,0 +1,214 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "azaphen_mr",
+            "rus_name" : "Азафен® мв",
+            "form" : "таб. с модифицированным высвоб. 150 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 7,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "azaphen_mr",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5599,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №20",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74959892599"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74959892599",
+                           "city" : "Москва",
+                           "latitude" : 55.7932,
+                           "address" : "Театральная аллея, 3с1"
+                        },
+                        "drug" : {
+                           "descid" : "2911",
+                           "quantity" : "2",
+                           "name" : "Азафен мв таб.модиф.высвоб. 150мг №30",
+                           "price" : "534.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2958,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Река Смородина&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957360033"
+                              }
+                           ],
+                           "phone" : "+74957360033",
+                           "city" : "Внуково",
+                           "latitude" : 55.611,
+                           "address" : "Большая Внуковская улица, 19/8, Москва, район Внуково"
+                        },
+                        "drug" : {
+                           "descid" : "2911",
+                           "quantity" : "1",
+                           "name" : "Азафен мв, тбл с модиф высвоб 150мг 30",
+                           "price" : "503.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5429,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 266",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74967570710"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74967570710",
+                           "city" : "Подольск",
+                           "latitude" : 55.4275,
+                           "address" : "улица Свердлова, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2911",
+                           "quantity" : "1",
+                           "name" : "Азафен мв таб.модиф.высвоб. 150мг №30",
+                           "price" : "645"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5284,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Подольск",
+                           "latitude" : 55.4239,
+                           "address" : "улица Готвальда, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2911",
+                           "quantity" : "1",
+                           "name" : "Азафен мв таб. 150мг 30",
+                           "price" : "617"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2089,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №614",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Раменское",
+                           "latitude" : 55.5758,
+                           "address" : "улица Чугунова, 15б, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2911",
+                           "quantity" : "2",
+                           "name" : "Азафен мв таб.модиф.высвоб. 150мг №30",
+                           "price" : "668"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5208,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 080",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74967622999"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74967622999",
+                           "city" : "Климовск",
+                           "latitude" : 55.3596,
+                           "address" : "улица Победы, 2/18, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2911",
+                           "quantity" : "1",
+                           "name" : "Азафен мв таб.модиф.высвоб. 150мг №30",
+                           "price" : "659"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8939,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №1 041",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74967964386"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74967964386",
+                           "city" : "Домодедово",
+                           "latitude" : 55.2704,
+                           "address" : "1-я Вокзальная улица, 28б"
+                        },
+                        "drug" : {
+                           "descid" : "2911",
+                           "quantity" : "1",
+                           "name" : "Азафен мв таб.модиф.высвоб. 150мг №30",
+                           "price" : "278"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "пипофезин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

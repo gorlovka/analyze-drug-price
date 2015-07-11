@@ -1,0 +1,156 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "trazograph",
+            "rus_name" : "Тразограф®",
+            "form" : "р-р д/инъекций 76%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "trazograph",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957293797"
+                              }
+                           ],
+                           "phone" : "+74957293797",
+                           "city" : "Москва",
+                           "latitude" : 55.7638,
+                           "address" : "Малая Грузинская улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "447",
+                           "quantity" : "1",
+                           "name" : "Тразограф, р-р д/инъ 76% 20мл амп т/с 5",
+                           "price" : "593"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "447",
+                           "quantity" : "1",
+                           "name" : "Тразограф ( урографин) р-р д/инъ 76% 20мл амп т/с 5",
+                           "price" : "535"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5619,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991250777"
+                              }
+                           ],
+                           "phone" : "+74991250777",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "улица Кржижановского, 3"
+                        },
+                        "drug" : {
+                           "descid" : "447",
+                           "quantity" : "1",
+                           "name" : "Тразограф, р-р д/инъ 76% 20мл амп т/с 5",
+                           "price" : "489"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5273,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Улыбка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997838587"
+                              }
+                           ],
+                           "phone" : "+74997838587",
+                           "city" : "Москва",
+                           "latitude" : 55.6789,
+                           "address" : "улица Марии Ульяновой, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "447",
+                           "quantity" : "1",
+                           "name" : "Тразограф, р-р д/инъ 76% 20мл амп т/с 5",
+                           "price" : "469"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957879355"
+                              }
+                           ],
+                           "phone" : "+74957879355",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "5-я Парковая улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "447",
+                           "quantity" : "1",
+                           "name" : "Тразограф, р-р д/инъ 76% 20мл амп т/с 5",
+                           "price" : "548"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "меглюмина диатризоат + натрия диатризоат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

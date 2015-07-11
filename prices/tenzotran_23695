@@ -1,0 +1,240 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "tenzotran",
+            "rus_name" : "Тензотран",
+            "form" : "таб, покр. пленочной оболочкой, 200 мкг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 8,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "tenzotran",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6025,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОКТАВИЯ&quot; г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999735057"
+                              }
+                           ],
+                           "phone" : "+74999735057",
+                           "city" : "Москва",
+                           "latitude" : 55.7777,
+                           "address" : "Долгоруковская улица, 38 с1"
+                        },
+                        "drug" : {
+                           "descid" : "5670",
+                           "quantity" : "1",
+                           "name" : "Тензотран 0,0004 n28 табл п/о",
+                           "price" : "520"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5862,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "Фармсервис медикал",
+                           "phones" : [
+                              {
+                                 "number" : "+74992501012"
+                              }
+                           ],
+                           "phone" : "+74992501012",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "1-я Тверская-Ямская улица, 36 с1"
+                        },
+                        "drug" : {
+                           "descid" : "5670",
+                           "quantity" : "1",
+                           "name" : "Тензотран 0,0004 n14 таб",
+                           "price" : "298"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6016,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Семья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999785551"
+                              },
+                              {
+                                 "number" : "+74999730180"
+                              }
+                           ],
+                           "phone" : "+74999785551; +74999730180",
+                           "city" : "Москва",
+                           "latitude" : 55.7809,
+                           "address" : "Сущёвская улица, 13/15"
+                        },
+                        "drug" : {
+                           "descid" : "5670",
+                           "quantity" : "3",
+                           "name" : "Тензотран 0,0002 n28 табл п/о",
+                           "price" : "322"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.601,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Формула Здоровья Запад&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957410180"
+                              }
+                           ],
+                           "phone" : "+74957410180",
+                           "city" : "Москва",
+                           "latitude" : 55.7844,
+                           "address" : "Сущёвская улица, 31"
+                        },
+                        "drug" : {
+                           "descid" : "5670",
+                           "quantity" : "1",
+                           "name" : "Тензотран тб 0.2 14 актавис",
+                           "price" : "185"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5670",
+                           "quantity" : "1",
+                           "name" : "Тензотран 0,0004 n28 табл п/о",
+                           "price" : "550"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8203,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авиценна Фарма 3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957403143"
+                              },
+                              {
+                                 "number" : "+79269147136"
+                              }
+                           ],
+                           "phone" : "+74957403143; +79269147136",
+                           "city" : "Москва",
+                           "latitude" : 55.7916,
+                           "address" : "Нижняя Первомайская улица, 77"
+                        },
+                        "drug" : {
+                           "descid" : "5670",
+                           "quantity" : "2",
+                           "name" : "Тензотран табл.п/о плен.0,2 28",
+                           "price" : "389"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4927,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО “Дубкифарм”",
+                           "phones" : [
+                              {
+                                 "number" : "+74956418097"
+                              }
+                           ],
+                           "phone" : "+74956418097",
+                           "city" : "Москва",
+                           "latitude" : 55.8554,
+                           "address" : "улица Лавочкина, 7Ас1"
+                        },
+                        "drug" : {
+                           "descid" : "5670",
+                           "quantity" : "3",
+                           "name" : "Тензотран тб п/о 0,2 28",
+                           "price" : "330"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9914,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ИНТЕКО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965671185"
+                              }
+                           ],
+                           "phone" : "+74965671185",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9228,
+                           "address" : "площадь Ленина, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5670",
+                           "quantity" : "1",
+                           "name" : "Тензотран 0,0004 n14 табл п/о",
+                           "price" : "318"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "моксонидин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

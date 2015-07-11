@@ -1,0 +1,131 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "mycoflucan",
+            "rus_name" : "Микофлюкан®",
+            "form" : "таб. 50 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "mycoflucan",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "1491",
+                           "quantity" : "10",
+                           "name" : "Микофлюкан тб 50мг бл n4",
+                           "price" : "395"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8611,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 3",
+                           "phones" : [
+                              {
+                                 "number" : "+74986618944"
+                              }
+                           ],
+                           "phone" : "+74986618944",
+                           "city" : "Реутов",
+                           "latitude" : 55.751,
+                           "address" : "Южная улица, 3в, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1491",
+                           "quantity" : "1",
+                           "name" : "Микофлюкан 0,15 1таб",
+                           "price" : "193"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9224,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74985207135"
+                              }
+                           ],
+                           "phone" : "+74985207135",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7602,
+                           "address" : "Разинское шоссе, 12, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1491",
+                           "quantity" : "1",
+                           "name" : "Микофлюкан 0,15 1таб",
+                           "price" : "195.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.969,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 10",
+                           "phones" : [
+                              {
+                                 "number" : "+79256120252"
+                              }
+                           ],
+                           "phone" : "+79256120252",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7954,
+                           "address" : "улица Некрасова, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1491",
+                           "quantity" : "1",
+                           "name" : "Микофлюкан 0,15 1таб",
+                           "price" : "213"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "флуконазол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

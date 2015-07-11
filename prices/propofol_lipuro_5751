@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "propofol_lipuro",
+            "rus_name" : "Пропофол-липуро",
+            "form" : "эмульсия д/в/в введения 1% (200 мг/20 мл)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "propofol_lipuro",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999093368"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74999093368; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8946,
+                           "address" : "Алтуфьевское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "2552",
+                           "quantity" : "1",
+                           "name" : "Пропофол липуро эмульс. д/ин. 1% 20мл 5",
+                           "price" : "625"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "пропофол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

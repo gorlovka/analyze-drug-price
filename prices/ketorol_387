@@ -1,0 +1,823 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ketorol",
+            "rus_name" : "Кеторол®",
+            "form" : "р-р д/в/м введения 30 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 30,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ketorol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва (Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992382865"
+                              },
+                              {
+                                 "number" : "+74992387410"
+                              }
+                           ],
+                           "phone" : "+74992382865; +74992387410",
+                           "city" : "Москва",
+                           "latitude" : 55.7341,
+                           "address" : "улица Большая Полянка, 30"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "3",
+                           "name" : "Кеторол р-р д/ин. амп. 1мл 10",
+                           "price" : "120"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "2",
+                           "name" : "Кеторол 1мл 10 р-р д/ин",
+                           "price" : "135"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.602,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Аптека 5 &quot;На Триумфальной&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956997993"
+                              },
+                              {
+                                 "number" : "+74956996243"
+                              }
+                           ],
+                           "phone" : "+74956997993; +74956996243",
+                           "city" : "Москва",
+                           "latitude" : 55.7703,
+                           "address" : "Воротниковский переулок, 8с1"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "5",
+                           "name" : "Кеторол р-р д/ин. амп. 1мл 10",
+                           "price" : "127.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5862,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "Фармсервис медикал",
+                           "phones" : [
+                              {
+                                 "number" : "+74992501012"
+                              }
+                           ],
+                           "phone" : "+74992501012",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "1-я Тверская-Ямская улица, 36 с1"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "6",
+                           "name" : "Кеторол р-р д/ин. амп. 1мл 10",
+                           "price" : "140"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6094,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобал-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217612"
+                              },
+                              {
+                                 "number" : "+74959217601"
+                              }
+                           ],
+                           "phone" : "+74959217612; +74959217601",
+                           "city" : "Москва",
+                           "latitude" : 55.7208,
+                           "address" : "улица Шаболовка, 24"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "4",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10",
+                           "price" : "145"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6208,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 25",
+                           "phones" : [
+                              {
+                                 "number" : "+74959840741"
+                              }
+                           ],
+                           "phone" : "+74959840741",
+                           "city" : "Москва",
+                           "latitude" : 55.7087,
+                           "address" : "Большая Тульская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "1",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10*",
+                           "price" : "146.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Фиалка",
+                           "phones" : [
+                              {
+                                 "number" : "+74956479126"
+                              },
+                              {
+                                 "number" : "+74952109168"
+                              },
+                              {
+                                 "number" : "+74952109169"
+                              }
+                           ],
+                           "phone" : "+74956479126; +74952109168; +74952109169",
+                           "city" : "Москва",
+                           "latitude" : 55.8079,
+                           "address" : "проспект Мира, 95 с1"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "4",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10",
+                           "price" : "137"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.538,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 15",
+                           "phones" : [
+                              {
+                                 "number" : "+74959830895"
+                              }
+                           ],
+                           "phone" : "+74959830895",
+                           "city" : "Москва",
+                           "latitude" : 55.6837,
+                           "address" : "Ленинский проспект, 74"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "1",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10*",
+                           "price" : "144.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4906,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЛекФарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959913603"
+                              },
+                              {
+                                 "number" : "+74959912803"
+                              }
+                           ],
+                           "phone" : "+74959913603; +74959912803",
+                           "city" : "Москва",
+                           "latitude" : 55.7973,
+                           "address" : "улица Маршала Рыбалко, 9"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "8",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10",
+                           "price" : "128"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4571,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Авиценна г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991925743"
+                              },
+                              {
+                                 "number" : "+74957461322"
+                              }
+                           ],
+                           "phone" : "+74991925743; +74957461322",
+                           "city" : "Москва",
+                           "latitude" : 55.7844,
+                           "address" : "Живописная улица, 12 к1"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "2",
+                           "name" : "Кеторол р-р д/ин. амп. 1мл 10",
+                           "price" : "143.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5073,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Форте г.Москва (торговый центр)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957821187"
+                              }
+                           ],
+                           "phone" : "+74957821187",
+                           "city" : "Москва",
+                           "latitude" : 55.6779,
+                           "address" : "проспект Вернадского, 14а"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "1",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10",
+                           "price" : "143"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7913,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 5",
+                           "phones" : [
+                              {
+                                 "number" : "+74956444035"
+                              }
+                           ],
+                           "phone" : "+74956444035",
+                           "city" : "Москва",
+                           "latitude" : 55.754,
+                           "address" : "3-я Владимирская улица, 27"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "1",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10*",
+                           "price" : "143.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6402,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармстар&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994996561"
+                              },
+                              {
+                                 "number" : "+79857267056"
+                              }
+                           ],
+                           "phone" : "+74994996561; +79857267056",
+                           "city" : "Москва",
+                           "latitude" : 55.8494,
+                           "address" : "Снежная улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "1",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10",
+                           "price" : "135"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7907,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Лиана",
+                           "phones" : [
+                              {
+                                 "number" : "+74994097584"
+                              }
+                           ],
+                           "phone" : "+74994097584",
+                           "city" : "Москва",
+                           "latitude" : 55.7147,
+                           "address" : "1-я Новокузьминская улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "5",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10",
+                           "price" : "112.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4687,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Янтарь Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959425985"
+                              }
+                           ],
+                           "phone" : "+74959425985",
+                           "city" : "Москва",
+                           "latitude" : 55.8142,
+                           "address" : "Волоколамское шоссе, 45"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "2",
+                           "name" : "Кеторол р-р д/ин. амп. 1мл 10",
+                           "price" : "129.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957879355"
+                              }
+                           ],
+                           "phone" : "+74957879355",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "5-я Парковая улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "1",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10",
+                           "price" : "125"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4362,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Тонистарк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954442715"
+                              }
+                           ],
+                           "phone" : "+74954442715",
+                           "city" : "Москва",
+                           "latitude" : 55.723,
+                           "address" : "улица Багрицкого, 8"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "5",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10",
+                           "price" : "133.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7724,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Радуга&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79859917203"
+                              },
+                              {
+                                 "number" : "+79859913803"
+                              }
+                           ],
+                           "phone" : "+79859917203; +79859913803",
+                           "city" : "Москва",
+                           "latitude" : 55.676,
+                           "address" : "Краснодарская улица, 65/18к1"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "2",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10",
+                           "price" : "139"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7834,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Здравница Плюс",
+                           "phones" : [
+                              {
+                                 "number" : "+74959805483"
+                              }
+                           ],
+                           "phone" : "+74959805483",
+                           "city" : "Москва",
+                           "latitude" : 55.6733,
+                           "address" : "Тихорецкий бульвар, 1с6"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "3",
+                           "name" : "Кеторол р-р д/ин. амп. 1мл 10",
+                           "price" : "144"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4132,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 20",
+                           "phones" : [
+                              {
+                                 "number" : "+74956385692"
+                              },
+                              {
+                                 "number" : "+74957562026"
+                              }
+                           ],
+                           "phone" : "+74956385692; +74957562026",
+                           "city" : "Москва",
+                           "latitude" : 55.8057,
+                           "address" : "улица Маршала Катукова, 23"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "1",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10*",
+                           "price" : "143.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5879,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Адонис-Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74959243094"
+                              }
+                           ],
+                           "phone" : "+74959243094",
+                           "city" : "Москва",
+                           "latitude" : 55.885,
+                           "address" : "Алтуфьевское шоссе, 64"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "2",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10",
+                           "price" : "131"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8611,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 3",
+                           "phones" : [
+                              {
+                                 "number" : "+74986618944"
+                              }
+                           ],
+                           "phone" : "+74986618944",
+                           "city" : "Реутов",
+                           "latitude" : 55.751,
+                           "address" : "Южная улица, 3в, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "3",
+                           "name" : "Кеторол 1,0 10 р-р д/ин",
+                           "price" : "120.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6044,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 14",
+                           "phones" : [
+                              {
+                                 "number" : "+74953150002"
+                              }
+                           ],
+                           "phone" : "+74953150002",
+                           "city" : "Москва",
+                           "latitude" : 55.6147,
+                           "address" : "Кировоградская улица, вл22Г"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "1",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10*",
+                           "price" : "144.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4389,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «Лилия»",
+                           "phones" : [
+                              {
+                                 "number" : "+74956646042"
+                              },
+                              {
+                                 "number" : "+74956646041"
+                              }
+                           ],
+                           "phone" : "+74956646042; +74956646041",
+                           "city" : "Москва",
+                           "latitude" : 55.8497,
+                           "address" : "Сходненская улица, 37"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "9",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10",
+                           "price" : "112.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5994,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Оксалин&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952013616"
+                              }
+                           ],
+                           "phone" : "+74952013616",
+                           "city" : "Москва",
+                           "latitude" : 55.5934,
+                           "address" : "Варшавское шоссе, 152"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "2",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10",
+                           "price" : "130"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3652,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 1",
+                           "phones" : [
+                              {
+                                 "number" : "+74957940135"
+                              },
+                              {
+                                 "number" : "+74957510010"
+                              }
+                           ],
+                           "phone" : "+74957940135; +74957510010",
+                           "city" : "Москва",
+                           "latitude" : 55.8433,
+                           "address" : "Митинская улица, 21"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "1",
+                           "name" : "Кеторол, р-р д/инъ 30мг 1мл 10*",
+                           "price" : "143.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9224,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74985207135"
+                              }
+                           ],
+                           "phone" : "+74985207135",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7602,
+                           "address" : "Разинское шоссе, 12, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "3",
+                           "name" : "Кеторол 1,0 10 р-р д/ин",
+                           "price" : "134.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6988,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАКС-М&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955486445"
+                              }
+                           ],
+                           "phone" : "+74955486445",
+                           "city" : "Московская область",
+                           "latitude" : 55.5551,
+                           "address" : "Видное, 9"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "1",
+                           "name" : "Кеторол р-р д/ин. амп 1мл 10",
+                           "price" : "128"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.969,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 10",
+                           "phones" : [
+                              {
+                                 "number" : "+79256120252"
+                              }
+                           ],
+                           "phone" : "+79256120252",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7954,
+                           "address" : "улица Некрасова, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "4",
+                           "name" : "Кеторол 1,0 10 р-р д/ин",
+                           "price" : "123.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1161,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 9",
+                           "phones" : [
+                              {
+                                 "number" : "+74955108695"
+                              }
+                           ],
+                           "phone" : "+74955108695",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7532,
+                           "address" : "Шоссейная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "195",
+                           "quantity" : "5",
+                           "name" : "Кеторол 1,0 10 р-р д/ин",
+                           "price" : "125.7"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кеторолака трометамол (кеторолака трометамин)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

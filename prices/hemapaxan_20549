@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "hemapaxan",
+            "rus_name" : "Гемапаксан",
+            "form" : "р-р д/инъекц. 2000 анти-Ха МЕ/0.2 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "hemapaxan",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490249"
+                              }
+                           ],
+                           "phone" : "+74996490249",
+                           "city" : "Москва",
+                           "latitude" : 55.7227,
+                           "address" : "Фрунзенская набережная, 36/2"
+                        },
+                        "drug" : {
+                           "descid" : "4890",
+                           "quantity" : "10",
+                           "name" : "Гемапаксан р-р д/ин 10тыс анти-ха ме/мл 0,2мл шпр 6",
+                           "price" : "1033.03"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.467,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490241"
+                              }
+                           ],
+                           "phone" : "+74996490241",
+                           "city" : "Москва",
+                           "latitude" : 55.8165,
+                           "address" : "Волоколамское шоссе, 56 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4890",
+                           "quantity" : "10",
+                           "name" : "Гемапаксан р-р д/ин 10тыс анти-ха ме/мл 0,2мл шпр 6",
+                           "price" : "1033.03"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5173,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997246656"
+                              }
+                           ],
+                           "phone" : "+74997246656",
+                           "city" : "Москва",
+                           "latitude" : 55.6324,
+                           "address" : "Профсоюзная улица, 126"
+                        },
+                        "drug" : {
+                           "descid" : "4890",
+                           "quantity" : "2",
+                           "name" : "Гемапаксан, р-р для п/к 10тыс.анти-ха ме/мл,0.2мл-шприцы 6",
+                           "price" : "972"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "эноксапарин натрия"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

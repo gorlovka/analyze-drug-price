@@ -1,0 +1,115 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "vfend",
+            "rus_name" : "Вифенд®",
+            "form" : "таб., покр. оболочкой, 50 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "vfend",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1655",
+                           "quantity" : "1",
+                           "name" : "Вифенд 0,2 n14 табл п/плен/оболоч",
+                           "price" : "24870"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5366,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Pharmacorp Ltd",
+                           "phones" : [
+                              {
+                                 "number" : "+74993911628"
+                              }
+                           ],
+                           "phone" : "+74993911628",
+                           "city" : "Москва",
+                           "latitude" : 55.7471,
+                           "address" : "Пресненская набережная, 10блокС"
+                        },
+                        "drug" : {
+                           "descid" : "1655",
+                           "quantity" : "2",
+                           "name" : "Вифенд таблетки 50мг 14",
+                           "price" : "8750"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7934,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИНАД-ЭКСПЕРТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956522369"
+                              },
+                              {
+                                 "number" : "+74956522370"
+                              }
+                           ],
+                           "phone" : "+74956522369; +74956522370",
+                           "city" : "Москва",
+                           "latitude" : 55.7997,
+                           "address" : "7-я Парковая улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "1655",
+                           "quantity" : "33",
+                           "name" : "Вифенд 50 мг таб. 14",
+                           "price" : "4924"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "вориконазол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "urocard",
+            "rus_name" : "Урокард",
+            "form" : "таб. 4 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "urocard",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5847,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диасфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266856"
+                              },
+                              {
+                                 "number" : "+74956266857"
+                              }
+                           ],
+                           "phone" : "+74956266856; +74956266857",
+                           "city" : "Москва",
+                           "latitude" : 55.7756,
+                           "address" : "1-я Брестская улица, 66"
+                        },
+                        "drug" : {
+                           "descid" : "6489",
+                           "quantity" : "6",
+                           "name" : "Урокард 4мг табл 30",
+                           "price" : "298"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1161,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 9",
+                           "phones" : [
+                              {
+                                 "number" : "+74955108695"
+                              }
+                           ],
+                           "phone" : "+74955108695",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7532,
+                           "address" : "Шоссейная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "6489",
+                           "quantity" : "2",
+                           "name" : "Урокард 4 мг 30 таб",
+                           "price" : "308"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "доксазозин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

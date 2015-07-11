@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "capoten",
+            "rus_name" : "Капотен®",
+            "form" : "таб. 50 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "capoten",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5724,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Авиа-Чайка г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999087181"
+                              }
+                           ],
+                           "phone" : "+74999087181",
+                           "city" : "Москва",
+                           "latitude" : 55.9037,
+                           "address" : "Абрамцевская улица, 9 к1"
+                        },
+                        "drug" : {
+                           "descid" : "973",
+                           "quantity" : "1",
+                           "name" : "Капотен таб. 50мг 40",
+                           "price" : "199"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "каптоприл"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,130 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "trihexyphenidyl",
+            "rus_name" : "Тригексифенидил",
+            "form" : "таб. 2 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "trihexyphenidyl",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.602,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Аптека 5 &quot;На Триумфальной&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956997993"
+                              },
+                              {
+                                 "number" : "+74956996243"
+                              }
+                           ],
+                           "phone" : "+74956997993; +74956996243",
+                           "city" : "Москва",
+                           "latitude" : 55.7703,
+                           "address" : "Воротниковский переулок, 8с1"
+                        },
+                        "drug" : {
+                           "descid" : "5331",
+                           "quantity" : "15",
+                           "name" : "Тригексифенидил таб. 2 мг 50 пачки картонные",
+                           "price" : "85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4687,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Янтарь Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959425985"
+                              }
+                           ],
+                           "phone" : "+74959425985",
+                           "city" : "Москва",
+                           "latitude" : 55.8142,
+                           "address" : "Волоколамское шоссе, 45"
+                        },
+                        "drug" : {
+                           "descid" : "5331",
+                           "quantity" : "2",
+                           "name" : "Тригексифенидил 0,002 n50 табл",
+                           "price" : "95.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3375,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №1 123",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8164,
+                           "address" : "улица Чайковского, 8а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5331",
+                           "quantity" : "8",
+                           "name" : "Тригексифенидил табл. 2мг n50",
+                           "price" : "89"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3373,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955610855"
+                              }
+                           ],
+                           "phone" : "+74955610855",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8168,
+                           "address" : "улица Чайковского, 7"
+                        },
+                        "drug" : {
+                           "descid" : "5331",
+                           "quantity" : "8",
+                           "name" : "Тригексифенидил табл. 2мг n50",
+                           "price" : "89"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тригексифенидила гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

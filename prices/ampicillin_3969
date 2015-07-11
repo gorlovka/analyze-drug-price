@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ampicillin",
+            "rus_name" : "Ампициллин",
+            "form" : "капс. 250 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ampicillin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7412,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АСАКИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957770006"
+                              }
+                           ],
+                           "phone" : "+74957770006",
+                           "city" : "Москва",
+                           "latitude" : 55.6993,
+                           "address" : "улица Юных Ленинцев, 12"
+                        },
+                        "drug" : {
+                           "descid" : "1023",
+                           "quantity" : "2",
+                           "name" : "Ампициллин, капс 250мг 20",
+                           "price" : "19"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ампициллин (в форме тригидрата) + ампициллин + ампициллин (в форме натриевой соли) + ампициллина тригидрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

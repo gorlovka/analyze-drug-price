@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "presartan",
+            "rus_name" : "Презартан",
+            "form" : "таб., покр. пленочной оболочкой, 25 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "presartan",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6761,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Целитель г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956326238"
+                              }
+                           ],
+                           "phone" : "+74956326238",
+                           "city" : "Москва",
+                           "latitude" : 55.7377,
+                           "address" : "Малая Калитниковская улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1765",
+                           "quantity" : "1",
+                           "name" : "Презартан 0.1 n28 табл п/плен/оболоч ипка лабораториз лимитед (индия)",
+                           "price" : "471.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5619,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991250777"
+                              }
+                           ],
+                           "phone" : "+74991250777",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "улица Кржижановского, 3"
+                        },
+                        "drug" : {
+                           "descid" : "1765",
+                           "quantity" : "1",
+                           "name" : "Презартан , тбл п/о 28",
+                           "price" : "337"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "лозартан калия"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

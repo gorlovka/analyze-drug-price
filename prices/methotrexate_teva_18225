@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "methotrexate_teva",
+            "rus_name" : "Метотрексат-тева",
+            "form" : "р-р д/инъекц. 5 мг/2 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "methotrexate_teva",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5216,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лавка здоровья и красоты&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954209711"
+                              },
+                              {
+                                 "number" : "+74954202188"
+                              }
+                           ],
+                           "phone" : "+74954209711; +74954202188",
+                           "city" : "Москва",
+                           "latitude" : 55.633,
+                           "address" : "Профсоюзная улица, 109"
+                        },
+                        "drug" : {
+                           "descid" : "4526",
+                           "quantity" : "4",
+                           "name" : "Метотрексат тева 25/мл р-р 2 мл",
+                           "price" : "253.3"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "метотрексат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,655 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "gemzar",
+            "rus_name" : "Гемзар®",
+            "form" : "лиофилизат д/пригот. р-ра д/инф. 200 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 24,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "gemzar",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "6",
+                           "name" : "Гемзар 200мг лиоф.пор д/ин фл. 1",
+                           "price" : "1138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "24",
+                           "name" : "Гемзар 200мг 1 лиоф д/инф",
+                           "price" : "1200"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5901,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490247"
+                              }
+                           ],
+                           "phone" : "+74996490247",
+                           "city" : "Москва",
+                           "latitude" : 55.7732,
+                           "address" : "1-я Тверская-Ямская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "10",
+                           "name" : "Гемзар лиоф д/инф 200мг фл 1",
+                           "price" : "1217.93"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5847,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диасфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266856"
+                              },
+                              {
+                                 "number" : "+74956266857"
+                              }
+                           ],
+                           "phone" : "+74956266856; +74956266857",
+                           "city" : "Москва",
+                           "latitude" : 55.7756,
+                           "address" : "1-я Брестская улица, 66"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "6",
+                           "name" : "Гемзар 200мг 1 лиоф д/инф",
+                           "price" : "1120"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6344,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490250"
+                              }
+                           ],
+                           "phone" : "+74996490250",
+                           "city" : "Москва",
+                           "latitude" : 55.7842,
+                           "address" : "проспект Мира, 51"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "10",
+                           "name" : "Гемзар лиоф д/инф 200мг фл 1",
+                           "price" : "1199.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490237"
+                              }
+                           ],
+                           "phone" : "+74996490237",
+                           "city" : "Москва",
+                           "latitude" : 55.7741,
+                           "address" : "Бауманская улица, 26 с1"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "10",
+                           "name" : "Гемзар лиоф д/инф 200мг фл 1",
+                           "price" : "1199.31"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5479,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992156351"
+                              }
+                           ],
+                           "phone" : "+74992156351",
+                           "city" : "Москва",
+                           "latitude" : 55.7583,
+                           "address" : "Шмитовский проезд, 16 с2"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "10",
+                           "name" : "Гемзар лиоф д/инф 200мг фл 1",
+                           "price" : "1199.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5366,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Pharmacorp Ltd",
+                           "phones" : [
+                              {
+                                 "number" : "+74993911628"
+                              }
+                           ],
+                           "phone" : "+74993911628",
+                           "city" : "Москва",
+                           "latitude" : 55.7471,
+                           "address" : "Пресненская набережная, 10блокС"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "10",
+                           "name" : "Гемзар лиофилизат 200мг 1",
+                           "price" : "1290"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "10",
+                           "name" : "Гемзар 200мг лиоф. пор. д/ин. фл. х1 б м",
+                           "price" : "1220"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5724,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Солнышко-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959914592"
+                              }
+                           ],
+                           "phone" : "+74959914592",
+                           "city" : "Москва",
+                           "latitude" : 55.6848,
+                           "address" : "Профсоюзная улица, 5/9"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "3",
+                           "name" : "Гемзар, лиоф. д/инф фл 200мг",
+                           "price" : "1123"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490242"
+                              }
+                           ],
+                           "phone" : "+74996490242",
+                           "city" : "Москва",
+                           "latitude" : 55.7755,
+                           "address" : "проспект Маршала Жукова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "10",
+                           "name" : "Гемзар лиоф д/инф 200мг фл 1",
+                           "price" : "1217.93"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7154,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья-2",
+                           "phones" : [
+                              {
+                                 "number" : "+74956264772"
+                              }
+                           ],
+                           "phone" : "+74956264772",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "Просторная улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "3",
+                           "name" : "Гемзар лиоф д/инф 200мг 1",
+                           "price" : "1065"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АКМ фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952116138"
+                              },
+                              {
+                                 "number" : "+74952116147"
+                              }
+                           ],
+                           "phone" : "+74952116138; +74952116147",
+                           "city" : "Москва",
+                           "latitude" : 55.7969,
+                           "address" : "улица Маршала Бирюзова, 26"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "11",
+                           "name" : "Гемзар, лиоф. д/инф фл 200мг",
+                           "price" : "1115"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5273,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Улыбка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997838587"
+                              }
+                           ],
+                           "phone" : "+74997838587",
+                           "city" : "Москва",
+                           "latitude" : 55.6789,
+                           "address" : "улица Марии Ульяновой, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "1",
+                           "name" : "Гемзар, лиоф. д/инф фл 200мг",
+                           "price" : "1201"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7452,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490238"
+                              }
+                           ],
+                           "phone" : "+74996490238",
+                           "city" : "Москва",
+                           "latitude" : 55.6968,
+                           "address" : "улица Чистова, 16к1"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "10",
+                           "name" : "Гемзар лиоф д/инф 200мг фл 1",
+                           "price" : "1217.93"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957879355"
+                              }
+                           ],
+                           "phone" : "+74957879355",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "5-я Парковая улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "1",
+                           "name" : "Гемзар, лиоф. д/инф фл 200мг",
+                           "price" : "1089"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.467,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490241"
+                              }
+                           ],
+                           "phone" : "+74996490241",
+                           "city" : "Москва",
+                           "latitude" : 55.8165,
+                           "address" : "Волоколамское шоссе, 56 к1"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "10",
+                           "name" : "Гемзар лиоф д/инф 200мг фл 1",
+                           "price" : "1182.35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5983,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Горпром-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79035081695"
+                              },
+                              {
+                                 "number" : "+79035081693"
+                              }
+                           ],
+                           "phone" : "+79035081695; +79035081693",
+                           "city" : "Москва",
+                           "latitude" : 55.8657,
+                           "address" : "улица Декабристов, 10 к2"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "5",
+                           "name" : "Гемзар, лиоф. д/инф фл 200мг",
+                           "price" : "1145"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5255,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарм-Хаус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217801"
+                              },
+                              {
+                                 "number" : "+74959914587"
+                              }
+                           ],
+                           "phone" : "+74959217801; +74959914587",
+                           "city" : "Москва",
+                           "latitude" : 55.6441,
+                           "address" : "Профсоюзная улица, 102/47"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "2",
+                           "name" : "Гемзар, лиоф. д/инф фл 200мг",
+                           "price" : "1123"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "10",
+                           "name" : "Гемзар лиоф д/инф 200мг фл 1",
+                           "price" : "1182.35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490240"
+                              }
+                           ],
+                           "phone" : "+74996490240",
+                           "city" : "Москва",
+                           "latitude" : 55.6513,
+                           "address" : "Люблинская улица, 163/1"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "10",
+                           "name" : "Гемзар лиоф д/инф 200мг фл 1",
+                           "price" : "1182.35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5173,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997246656"
+                              }
+                           ],
+                           "phone" : "+74997246656",
+                           "city" : "Москва",
+                           "latitude" : 55.6324,
+                           "address" : "Профсоюзная улица, 126"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "2",
+                           "name" : "Гемзар, лиоф. д/инф 200мг фл 1",
+                           "price" : "1124"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "2",
+                           "name" : "Гемзар лиофилизат для раствора 200мг 1 флакон",
+                           "price" : "1031"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Авиценна",
+                           "phones" : [
+                              {
+                                 "number" : "+79295627410"
+                              }
+                           ],
+                           "phone" : "+79295627410",
+                           "city" : "Химки",
+                           "latitude" : 55.8973,
+                           "address" : "Совхозная улица, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "88",
+                           "quantity" : "5",
+                           "name" : "Гемзар (гемцитабин) лиоф. д/р-ра д/инф. 200 мг фл. 1*",
+                           "price" : "1128.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "гемцитабин + гемцитабин (в форме гидрохлорида)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,283 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "asparcam_farmak",
+            "rus_name" : "Аспаркам-фармак",
+            "form" : "р-р д/в/в введения 45.2 г+40 г/1 л",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 10,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "asparcam_farmak",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5947,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Официна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992513420"
+                              },
+                              {
+                                 "number" : "+79859995613"
+                              }
+                           ],
+                           "phone" : "+74992513420; +79859995613",
+                           "city" : "Москва",
+                           "latitude" : 55.7725,
+                           "address" : "3-я Тверская-Ямская улица, 21/23"
+                        },
+                        "drug" : {
+                           "descid" : "5626",
+                           "quantity" : "5",
+                           "name" : "Аспаркам-фармак р-р в/в 5мл 10",
+                           "price" : "54"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "5626",
+                           "quantity" : "1",
+                           "name" : "Аспаркам-фармак 10мл n10 амп р-р в/в",
+                           "price" : "93.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6443,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ИП Бескрайняя Е.С.",
+                           "phones" : [
+                              {
+                                 "number" : "+74991749461"
+                              }
+                           ],
+                           "phone" : "+74991749461",
+                           "city" : "Москва",
+                           "latitude" : 55.8058,
+                           "address" : "3-я Мытищинская улица, 3 к2"
+                        },
+                        "drug" : {
+                           "descid" : "5626",
+                           "quantity" : "5",
+                           "name" : "Аспаркам - фармак р-р в/в введ. амп. 5 мл. 10",
+                           "price" : "66.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6631,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №356",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.8336,
+                           "address" : "улица Бажова, 8"
+                        },
+                        "drug" : {
+                           "descid" : "5626",
+                           "quantity" : "1",
+                           "name" : "Аспаркам-фармак р-р для в/м введения 10мл n10",
+                           "price" : "98"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5673,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Целитель+&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957794761"
+                              }
+                           ],
+                           "phone" : "+74957794761",
+                           "city" : "Москва",
+                           "latitude" : 55.6698,
+                           "address" : "Новочерёмушкинская улица, 57"
+                        },
+                        "drug" : {
+                           "descid" : "5626",
+                           "quantity" : "1",
+                           "name" : "Аспаркам-фармак р-р для в/в введ 5мл n10 амп с нож пк",
+                           "price" : "58"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Берклий&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79269030728"
+                              },
+                              {
+                                 "number" : "+74997042889"
+                              }
+                           ],
+                           "phone" : "+79269030728; +74997042889",
+                           "city" : "Москва",
+                           "latitude" : 55.6355,
+                           "address" : "Профсоюзная улица, 103а"
+                        },
+                        "drug" : {
+                           "descid" : "5626",
+                           "quantity" : "3",
+                           "name" : "Аспаркам-фармак р-р в/в 5мл 10",
+                           "price" : "69.82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "5626",
+                           "quantity" : "1",
+                           "name" : "Аспаркам-фармак раствор для инъекций 10мл 10 ампулы",
+                           "price" : "95"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.668,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЖА Аптека&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994768475"
+                              }
+                           ],
+                           "phone" : "+74994768475",
+                           "city" : "Москва",
+                           "latitude" : 55.8925,
+                           "address" : "Студёный проезд, 28"
+                        },
+                        "drug" : {
+                           "descid" : "5626",
+                           "quantity" : "10",
+                           "name" : "Аспаркам-фармак р-р для в/в введ 5мл n10 амп с нож пк",
+                           "price" : "74"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4147,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746321981"
+                              }
+                           ],
+                           "phone" : "+74746321981",
+                           "city" : "Москва",
+                           "latitude" : 55.6481,
+                           "address" : "улица 50 лет Октября, 1"
+                        },
+                        "drug" : {
+                           "descid" : "5626",
+                           "quantity" : "1",
+                           "name" : "Аспаркам-фармак 10мл n10 амп р-р в/в",
+                           "price" : "93.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Авиценна",
+                           "phones" : [
+                              {
+                                 "number" : "+79295627410"
+                              }
+                           ],
+                           "phone" : "+79295627410",
+                           "city" : "Химки",
+                           "latitude" : 55.8973,
+                           "address" : "Совхозная улица, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5626",
+                           "quantity" : "1",
+                           "name" : "Аспаркам-фармак р-р в/в введ. амп. 5 мл 10",
+                           "price" : "72.4"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "калия аспарагинат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

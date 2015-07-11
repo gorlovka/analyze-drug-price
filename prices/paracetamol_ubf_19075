@@ -1,0 +1,630 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "paracetamol_ubf",
+            "rus_name" : "Парацетамол-убф",
+            "form" : "таб. 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 23,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "paracetamol_ubf",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957455287"
+                              }
+                           ],
+                           "phone" : "+74957455287",
+                           "city" : "Москва",
+                           "latitude" : 55.7587,
+                           "address" : "улица Земляной Вал, 24/30"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "18",
+                           "name" : "Парацетамол-убф, тбл 500мг 10",
+                           "price" : "4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5947,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Официна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992513420"
+                              },
+                              {
+                                 "number" : "+79859995613"
+                              }
+                           ],
+                           "phone" : "+74992513420; +79859995613",
+                           "city" : "Москва",
+                           "latitude" : 55.7725,
+                           "address" : "3-я Тверская-Ямская улица, 21/23"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "49",
+                           "name" : "Парацетамол-убф таб. 500мг 20 (уп яч)",
+                           "price" : "13"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6637,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; Форте&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956766200"
+                              },
+                              {
+                                 "number" : "+74955071442"
+                              }
+                           ],
+                           "phone" : "+74956766200; +74955071442",
+                           "city" : "Москва",
+                           "latitude" : 55.7299,
+                           "address" : "2-й Крутицкий переулок, 18с1"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "23",
+                           "name" : "Парацетамол-убф табл. 500 мг 20, уралбиофарм оао",
+                           "price" : "13"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "216",
+                           "name" : "Парацетамол-убф, табл. 500 мг 10",
+                           "price" : "3.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5282,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957549158"
+                              }
+                           ],
+                           "phone" : "+74957549158",
+                           "city" : "Москва",
+                           "latitude" : 55.7832,
+                           "address" : "улица Гризодубовой, 4 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "162",
+                           "name" : "Парацетамол-убф, тбл 500мг 10",
+                           "price" : "4.65"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5878,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Калина Фарм МСК",
+                           "phones" : [
+                              {
+                                 "number" : "+74991267745"
+                              },
+                              {
+                                 "number" : "+74956646053"
+                              },
+                              {
+                                 "number" : "+74956646056"
+                              },
+                              {
+                                 "number" : "+78005500321"
+                              }
+                           ],
+                           "phone" : "+74991267745; +74956646053; +74956646056; +78005500321",
+                           "city" : "Москва",
+                           "latitude" : 55.6915,
+                           "address" : "улица Шверника, 12/2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "80",
+                           "name" : "Парацетамол-убф, тбл 500мг 10",
+                           "price" : "4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7154,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья-2",
+                           "phones" : [
+                              {
+                                 "number" : "+74956264772"
+                              }
+                           ],
+                           "phone" : "+74956264772",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "Просторная улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "1",
+                           "name" : "Парацетамол-убф тб 500мг уп б/яч конт n10x1 уралбиофарм рос",
+                           "price" : "4.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4746,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №007",
+                           "phones" : [
+                              {
+                                 "number" : "+78127530098"
+                              },
+                              {
+                                 "number" : "+78127537914"
+                              }
+                           ],
+                           "phone" : "+78127530098; +78127537914",
+                           "city" : "Москва",
+                           "latitude" : 55.7763,
+                           "address" : "проспект Маршала Жукова, 30"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "21",
+                           "name" : "Парацетамол-убф 500мг №20 таб",
+                           "price" : "12.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4914,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ДискомСтандарт",
+                           "phones" : [
+                              {
+                                 "number" : "+74954344268"
+                              }
+                           ],
+                           "phone" : "+74954344268",
+                           "city" : "Москва",
+                           "latitude" : 55.6672,
+                           "address" : "проспект Вернадского, 97 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "27",
+                           "name" : "Парацетамол-убф таб. 500мг 20",
+                           "price" : "13.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993207983"
+                              }
+                           ],
+                           "phone" : "+74993207983",
+                           "city" : "Москва",
+                           "latitude" : 55.6332,
+                           "address" : "улица Медиков, 16"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "72",
+                           "name" : "Парацетамол-убф, тбл 500мг 10",
+                           "price" : "4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6048,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953120632"
+                              }
+                           ],
+                           "phone" : "+74953120632",
+                           "city" : "Москва",
+                           "latitude" : 55.6286,
+                           "address" : "Чертановская улица, 9 к3"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "56",
+                           "name" : "Парацетамол-убф, тбл 500мг 10",
+                           "price" : "4.09"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Берклий&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79269030728"
+                              },
+                              {
+                                 "number" : "+74997042889"
+                              }
+                           ],
+                           "phone" : "+79269030728; +74997042889",
+                           "city" : "Москва",
+                           "latitude" : 55.6355,
+                           "address" : "Профсоюзная улица, 103а"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "3",
+                           "name" : "Парацетамол-убф таб. 500мг 20 (уп яч)",
+                           "price" : "14.01"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5178,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997935489"
+                              }
+                           ],
+                           "phone" : "+74997935489",
+                           "city" : "Москва",
+                           "latitude" : 55.6331,
+                           "address" : "Профсоюзная улица, 124"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "10",
+                           "name" : "Парацетамол-убф, тбл 500мг 10",
+                           "price" : "4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6666,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "АПТЕКА ЦАРИЦЫНСКАЯ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957283766"
+                              }
+                           ],
+                           "phone" : "+74957283766",
+                           "city" : "Москва",
+                           "latitude" : 55.6188,
+                           "address" : "Каспийская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "608",
+                           "name" : "Парацетамол-убф таб 500мг n10",
+                           "price" : "4.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6961,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №082",
+                           "phones" : [
+                              {
+                                 "number" : "+78127511919"
+                              }
+                           ],
+                           "phone" : "+78127511919",
+                           "city" : "Москва",
+                           "latitude" : 55.6192,
+                           "address" : "улица Маршала Захарова, 20"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "21",
+                           "name" : "Парацетамол-убф 500мг №20 таб",
+                           "price" : "12.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люксор - Фарм Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992005500"
+                              },
+                              {
+                                 "number" : "+79260961147"
+                              }
+                           ],
+                           "phone" : "+74992005500; +79260961147",
+                           "city" : "Москва",
+                           "latitude" : 55.8932,
+                           "address" : "Алтуфьевское шоссе, 87"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "6",
+                           "name" : "Парацетамол-убф табл. 500 мг 20, уралбиофарм оао",
+                           "price" : "13.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4242,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №191",
+                           "phones" : [
+                              {
+                                 "number" : "+78123358097"
+                              }
+                           ],
+                           "phone" : "+78123358097",
+                           "city" : "Москва",
+                           "latitude" : 55.8475,
+                           "address" : "Туристская улица, 6 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "20",
+                           "name" : "Парацетамол-убф 500мг №20 таб",
+                           "price" : "12.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4147,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746321981"
+                              }
+                           ],
+                           "phone" : "+74746321981",
+                           "city" : "Москва",
+                           "latitude" : 55.6481,
+                           "address" : "улица 50 лет Октября, 1"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "73",
+                           "name" : "Парацетамол-убф, табл. 500 мг 10",
+                           "price" : "3.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4232,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997622503"
+                              }
+                           ],
+                           "phone" : "+74997622503",
+                           "city" : "Москва",
+                           "latitude" : 55.8626,
+                           "address" : "улица Вилиса Лациса, 21 к2"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "12",
+                           "name" : "Парацетамол-убф, тбл 500мг 10",
+                           "price" : "4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Авиценна",
+                           "phones" : [
+                              {
+                                 "number" : "+79295627410"
+                              }
+                           ],
+                           "phone" : "+79295627410",
+                           "city" : "Химки",
+                           "latitude" : 55.8973,
+                           "address" : "Совхозная улица, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "27",
+                           "name" : "Парацетамол-убф таб 500мг n20( уп конт яч n10х2)",
+                           "price" : "14.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3684,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГудМедикал&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959711538"
+                              }
+                           ],
+                           "phone" : "+74959711538",
+                           "city" : "Московский",
+                           "latitude" : 55.5929,
+                           "address" : "Радужная улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "36",
+                           "name" : "Парацетамол-убф таб. 500мг 20 (уп яч)",
+                           "price" : "14.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8633,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лэнд-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965358525"
+                              }
+                           ],
+                           "phone" : "+74965358525",
+                           "city" : "Пушкино",
+                           "latitude" : 55.9958,
+                           "address" : "Пушкинское шоссе, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "2",
+                           "name" : "Парацетамол-убф, тбл 500мг 10",
+                           "price" : "4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8643,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лэнд-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965357660"
+                              }
+                           ],
+                           "phone" : "+74965357660",
+                           "city" : "Пушкино",
+                           "latitude" : 55.9957,
+                           "address" : "Пушкинское шоссе, 4а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4752",
+                           "quantity" : "28",
+                           "name" : "Парацетамол-убф, тбл 500мг 10",
+                           "price" : "4"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "парацетамол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

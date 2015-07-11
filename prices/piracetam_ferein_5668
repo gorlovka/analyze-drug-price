@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "piracetam_ferein",
+            "rus_name" : "Пирацетам-ферейн",
+            "form" : "капс. 400 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "piracetam_ferein",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.463,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Н2О-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957988752"
+                              }
+                           ],
+                           "phone" : "+74957988752",
+                           "city" : "Москва",
+                           "latitude" : 55.8086,
+                           "address" : "улица Маршала Василевского, 17"
+                        },
+                        "drug" : {
+                           "descid" : "2527",
+                           "quantity" : "3",
+                           "name" : "Пирацетам ферейн, капс 400мг 60",
+                           "price" : "67"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "пирацетам"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

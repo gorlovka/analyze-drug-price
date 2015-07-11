@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "terizidon_mak",
+            "rus_name" : "Теризидон-мак",
+            "form" : "капс. 250 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "terizidon_mak",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4172,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МЕДЦЕНТР-МОСИНТУР ЛТД&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955061407"
+                              },
+                              {
+                                 "number" : "+74952238910"
+                              }
+                           ],
+                           "phone" : "+74955061407; +74952238910",
+                           "city" : "Москва",
+                           "latitude" : 55.7302,
+                           "address" : "Кунцевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "5553",
+                           "quantity" : "3",
+                           "name" : "Теризидон,мак 250 мг капсул",
+                           "price" : "15637.7"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "теризидон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

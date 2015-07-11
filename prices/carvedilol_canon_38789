@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "carvedilol_canon",
+            "rus_name" : "Карведилол канон",
+            "form" : "таб. 25 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "carvedilol_canon",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5911,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармапарк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955653137"
+                              }
+                           ],
+                           "phone" : "+74955653137",
+                           "city" : "Москва",
+                           "latitude" : 55.638,
+                           "address" : "микрорайон Северное Чертаново, 5г"
+                        },
+                        "drug" : {
+                           "descid" : "7950",
+                           "quantity" : "1",
+                           "name" : "Карведилол канон 25мг 30 таблетки",
+                           "price" : "128"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "7950",
+                           "quantity" : "1",
+                           "name" : "Карведилол-канон 25мг 30 таблетки",
+                           "price" : "114"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "карведилол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

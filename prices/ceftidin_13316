@@ -1,0 +1,87 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ceftidin",
+            "rus_name" : "Цефтидин",
+            "form" : "порошок д/пригот. р-ра д/в/м и в/в введения 1 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ceftidin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "3863",
+                           "quantity" : "2",
+                           "name" : "Цефтидин 1г 1 пор д/ин в/в и в/м",
+                           "price" : "68"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3465,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Еврофармекс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955174654"
+                              }
+                           ],
+                           "phone" : "+74955174654",
+                           "city" : "Москва",
+                           "latitude" : 55.85,
+                           "address" : "Ангелов переулок, 9 к2"
+                        },
+                        "drug" : {
+                           "descid" : "3863",
+                           "quantity" : "50",
+                           "name" : "Цефтидин пор для в/в и в/м введ 1г фл n1",
+                           "price" : "67"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цефтазидим"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

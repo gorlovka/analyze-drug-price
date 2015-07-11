@@ -1,0 +1,115 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "cytosar",
+            "rus_name" : "Цитозар®",
+            "form" : "порошок д/пригот. р-ра д/инъекц. 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "cytosar",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва (Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992382865"
+                              },
+                              {
+                                 "number" : "+74992387410"
+                              }
+                           ],
+                           "phone" : "+74992382865; +74992387410",
+                           "city" : "Москва",
+                           "latitude" : 55.7341,
+                           "address" : "улица Большая Полянка, 30"
+                        },
+                        "drug" : {
+                           "descid" : "996",
+                           "quantity" : "7",
+                           "name" : "Цитозар пор.д/ин.фл.500мг с р-лем",
+                           "price" : "482"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6016,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Семья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999785551"
+                              },
+                              {
+                                 "number" : "+74999730180"
+                              }
+                           ],
+                           "phone" : "+74999785551; +74999730180",
+                           "city" : "Москва",
+                           "latitude" : 55.7809,
+                           "address" : "Сущёвская улица, 13/15"
+                        },
+                        "drug" : {
+                           "descid" : "996",
+                           "quantity" : "6",
+                           "name" : "Цитозар пор.д/ин.фл.500мг с р-лем",
+                           "price" : "465"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7934,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИНАД-ЭКСПЕРТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956522369"
+                              },
+                              {
+                                 "number" : "+74956522370"
+                              }
+                           ],
+                           "phone" : "+74956522369; +74956522370",
+                           "city" : "Москва",
+                           "latitude" : 55.7997,
+                           "address" : "7-я Парковая улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "996",
+                           "quantity" : "33",
+                           "name" : "Цитозар 500 мг пор. лиоф. фл.",
+                           "price" : "448"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цитарабин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "zodac",
+            "rus_name" : "Зодак®",
+            "form" : "сироп 5 мг/5 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "zodac",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5173,
+                           "roundtheclock" : 1,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №69",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6676,
+                           "address" : "Ленинский проспект, 99"
+                        },
+                        "drug" : {
+                           "descid" : "1693",
+                           "quantity" : "4",
+                           "name" : "Зодак сироп 5мг/5мл 100мл",
+                           "price" : "186"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цетиризина дигидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

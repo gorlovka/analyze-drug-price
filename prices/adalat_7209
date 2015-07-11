@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "adalat",
+            "rus_name" : "Адалат®",
+            "form" : "р-р д/инф. 100 мкг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "adalat",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6087,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.7192,
+                           "address" : "улица Шаболовка, 30/12"
+                        },
+                        "drug" : {
+                           "descid" : "3152",
+                           "quantity" : "3",
+                           "name" : "Адалат р-р д/ин. 50мл+система",
+                           "price" : "520"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "нифедипин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

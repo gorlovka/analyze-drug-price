@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "amosin",
+            "rus_name" : "Амосин®",
+            "form" : "порошок д/пригот. сусп. д/приема внутрь 125 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "amosin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6961,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №082",
+                           "phones" : [
+                              {
+                                 "number" : "+78127511919"
+                              }
+                           ],
+                           "phone" : "+78127511919",
+                           "city" : "Москва",
+                           "latitude" : 55.6192,
+                           "address" : "улица Маршала Захарова, 20"
+                        },
+                        "drug" : {
+                           "descid" : "1411",
+                           "quantity" : "1",
+                           "name" : "Амосин 125мг №10 порошок для приготовл. сусп. для приёма внутрь",
+                           "price" : "37.7"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амоксициллин (в форме тригидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

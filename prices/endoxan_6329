@@ -1,0 +1,165 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "endoxan",
+            "rus_name" : "Эндоксан",
+            "form" : "порошок д/пригот. р-ра д/в/в введения 200 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "endoxan",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5479,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992156351"
+                              }
+                           ],
+                           "phone" : "+74992156351",
+                           "city" : "Москва",
+                           "latitude" : 55.7583,
+                           "address" : "Шмитовский проезд, 16 с2"
+                        },
+                        "drug" : {
+                           "descid" : "2787",
+                           "quantity" : "10",
+                           "name" : "Эндоксан пор д/ин 200мг 1",
+                           "price" : "195.95"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Фиалка",
+                           "phones" : [
+                              {
+                                 "number" : "+74956479126"
+                              },
+                              {
+                                 "number" : "+74952109168"
+                              },
+                              {
+                                 "number" : "+74952109169"
+                              }
+                           ],
+                           "phone" : "+74956479126; +74952109168; +74952109169",
+                           "city" : "Москва",
+                           "latitude" : 55.8079,
+                           "address" : "проспект Мира, 95 с1"
+                        },
+                        "drug" : {
+                           "descid" : "2787",
+                           "quantity" : "18",
+                           "name" : "Эндоксан, пор.д/инъ фл 200мг 1",
+                           "price" : "199"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "2787",
+                           "quantity" : "33",
+                           "name" : "Эндоксан 200мг пор. 1",
+                           "price" : "178"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "2787",
+                           "quantity" : "1",
+                           "name" : "Эндоксан порошок для раствора 200мг 1 флакон",
+                           "price" : "197"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3624,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Трилистник на Митинском",
+                           "phones" : [
+                              {
+                                 "number" : "+74957528330"
+                              }
+                           ],
+                           "phone" : "+74957528330",
+                           "city" : "Москва",
+                           "latitude" : 55.8442,
+                           "address" : "Митинская улица, 27 к2"
+                        },
+                        "drug" : {
+                           "descid" : "2787",
+                           "quantity" : "120",
+                           "name" : "Эндоксан, пор.д/инъ фл 200мг 1",
+                           "price" : "190"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "циклофосфамид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

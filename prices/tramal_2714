@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "tramal",
+            "rus_name" : "Трамал",
+            "form" : "р-р д/инъекц. 100 мг/2 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "tramal",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4439,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФГУП &quot;Аптека 21&quot;, г.Электросталь",
+                           "phones" : [
+                              {
+                                 "number" : "+74967029162"
+                              }
+                           ],
+                           "phone" : "+74967029162",
+                           "city" : "Электросталь",
+                           "latitude" : 55.7854,
+                           "address" : "проспект Ленина, 44/14, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1416",
+                           "quantity" : "6",
+                           "name" : "Трамал, р-р д/инъ 100мг 2мл 5",
+                           "price" : "128.2"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "трамадола гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

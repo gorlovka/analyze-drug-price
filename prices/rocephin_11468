@@ -1,0 +1,886 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "rocephin",
+            "rus_name" : "Роцефин",
+            "form" : "порошок д/пригот. р-ра д/в/м введения 1 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 33,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "rocephin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6091,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Домашняя медицина&quot;.",
+                           "phones" : [
+                              {
+                                 "number" : "+74956299468"
+                              }
+                           ],
+                           "phone" : "+74956299468",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "Тверская улица, 12 с8"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "2",
+                           "name" : "Роцефин пор д/и в/в р-ра 1г фл комп раств n1",
+                           "price" : "535"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва (Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992382865"
+                              },
+                              {
+                                 "number" : "+74992387410"
+                              }
+                           ],
+                           "phone" : "+74992382865; +74992387410",
+                           "city" : "Москва",
+                           "latitude" : 55.7341,
+                           "address" : "улица Большая Полянка, 30"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "1",
+                           "name" : "Роцефин пор.д/ин 1г фл в/в вв с раств 1",
+                           "price" : "520"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "19",
+                           "name" : "Роцефин пор д/ин. 1г n1 в/в с р-лем",
+                           "price" : "519"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5901,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490247"
+                              }
+                           ],
+                           "phone" : "+74996490247",
+                           "city" : "Москва",
+                           "latitude" : 55.7732,
+                           "address" : "1-я Тверская-Ямская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "10",
+                           "name" : "Роцефин пор д/ин 1г фл 1 в/в /+р-тель/",
+                           "price" : "533.61"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955451350"
+                              },
+                              {
+                                 "number" : "+79262305469"
+                              }
+                           ],
+                           "phone" : "+74955451350; +79262305469",
+                           "city" : "Москва",
+                           "latitude" : 55.7384,
+                           "address" : "Марксистская улица, 3 с1"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "2",
+                           "name" : "Роцефин пор д/и в/в 1г фл компл раств",
+                           "price" : "546"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6025,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОКТАВИЯ&quot; г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999735057"
+                              }
+                           ],
+                           "phone" : "+74999735057",
+                           "city" : "Москва",
+                           "latitude" : 55.7777,
+                           "address" : "Долгоруковская улица, 38 с1"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "2",
+                           "name" : "Роцефин пор д/р-ра в/м 1г фл х 1",
+                           "price" : "530"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6344,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490250"
+                              }
+                           ],
+                           "phone" : "+74996490250",
+                           "city" : "Москва",
+                           "latitude" : 55.7842,
+                           "address" : "проспект Мира, 51"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "10",
+                           "name" : "Роцефин пор д/ин 1г фл 1 в/в /+р-тель/",
+                           "price" : "567.88"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490249"
+                              }
+                           ],
+                           "phone" : "+74996490249",
+                           "city" : "Москва",
+                           "latitude" : 55.7227,
+                           "address" : "Фрунзенская набережная, 36/2"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "10",
+                           "name" : "Роцефин пор д/ин 1г фл 1 в/в /+р-тель/",
+                           "price" : "562.16"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5667,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Источник",
+                           "phones" : [
+                              {
+                                 "number" : "+74992467796"
+                              },
+                              {
+                                 "number" : "+74959288793"
+                              },
+                              {
+                                 "number" : "+74959288736"
+                              },
+                              {
+                                 "number" : "+74959288793"
+                              }
+                           ],
+                           "phone" : "+74992467796; +74959288793; +74959288736; +74959288793",
+                           "city" : "Москва",
+                           "latitude" : 55.7264,
+                           "address" : "Усачёва улица, 38"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "2",
+                           "name" : "Роцефин пор. д/р-ра для в/м введ. 1000 мг 1 флаконы, ф.хоффманн-ля рош лтд",
+                           "price" : "574"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490237"
+                              }
+                           ],
+                           "phone" : "+74996490237",
+                           "city" : "Москва",
+                           "latitude" : 55.7741,
+                           "address" : "Бауманская улица, 26 с1"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "10",
+                           "name" : "Роцефин пор д/ин 1г фл 1 в/м /+р-тель/",
+                           "price" : "505.16"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5479,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992156351"
+                              }
+                           ],
+                           "phone" : "+74992156351",
+                           "city" : "Москва",
+                           "latitude" : 55.7583,
+                           "address" : "Шмитовский проезд, 16 с2"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "10",
+                           "name" : "Роцефин пор д/ин 1г фл 1 в/в /+р-тель/",
+                           "price" : "533.61"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6155,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490248"
+                              }
+                           ],
+                           "phone" : "+74996490248",
+                           "city" : "Москва",
+                           "latitude" : 55.794,
+                           "address" : "Шереметьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "10",
+                           "name" : "Роцефин пор д/ин 1г фл 1 в/м /+р-тель/",
+                           "price" : "560.62"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6723,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 8",
+                           "phones" : [
+                              {
+                                 "number" : "+74955101755"
+                              }
+                           ],
+                           "phone" : "+74955101755",
+                           "city" : "Москва",
+                           "latitude" : 55.7819,
+                           "address" : "Русаковская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "2",
+                           "name" : "Роцефин пор д/и 1г фл n1",
+                           "price" : "581.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.571,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строитель 2+&quot; 1",
+                           "phones" : [
+                              {
+                                 "number" : "+74956145758"
+                              }
+                           ],
+                           "phone" : "+74956145758",
+                           "city" : "Москва",
+                           "latitude" : 55.7919,
+                           "address" : "улица Нижняя Масловка, 20"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "6",
+                           "name" : "Роцефин пор. д/ин. в/в 1г фл. 1 с р-лем (вода д/ин.)",
+                           "price" : "578.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6709,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула здоровья (Сокольники)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992688240"
+                              }
+                           ],
+                           "phone" : "+74992688240",
+                           "city" : "Москва",
+                           "latitude" : 55.7912,
+                           "address" : "улица Сокольнический Вал, 38"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "5",
+                           "name" : "Роцефин пор.д/ин.в/м 1г 1 с р-лем(лидок",
+                           "price" : "575"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.721,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490239"
+                              }
+                           ],
+                           "phone" : "+74996490239",
+                           "city" : "Москва",
+                           "latitude" : 55.7463,
+                           "address" : "Авиамоторная улица, 51"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "10",
+                           "name" : "Роцефин пор д/ин 1г фл 1 в/м /+р-тель/",
+                           "price" : "587.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5455,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строитель 2+&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991558928"
+                              },
+                              {
+                                 "number" : "+74991559130"
+                              }
+                           ],
+                           "phone" : "+74991558928; +74991559130",
+                           "city" : "Москва",
+                           "latitude" : 55.802,
+                           "address" : "Планетная улица, 27"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "2",
+                           "name" : "Роцефин пор. д/ин. в/в 1г фл. 1 с р-лем (вода д/ин.)",
+                           "price" : "565.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Терра Вита&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996189219"
+                              }
+                           ],
+                           "phone" : "+74996189219",
+                           "city" : "Москва",
+                           "latitude" : 55.6806,
+                           "address" : "Нагатинская набережная, 16к3"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "5",
+                           "name" : "Роцефин пор. д/ин. в/в 1г фл. 1 с р-лем (вода д/ин.)",
+                           "price" : "554.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490242"
+                              }
+                           ],
+                           "phone" : "+74996490242",
+                           "city" : "Москва",
+                           "latitude" : 55.7755,
+                           "address" : "проспект Маршала Жукова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "10",
+                           "name" : "Роцефин пор д/ин 1г фл 1 в/м /+р-тель/",
+                           "price" : "503.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "100",
+                           "name" : "Роцефин пор для в/м р-ра 1г фл комп раств n1",
+                           "price" : "515"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7878,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Формула Здоровья-4&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266768"
+                              }
+                           ],
+                           "phone" : "+74956266768",
+                           "city" : "Москва",
+                           "latitude" : 55.7158,
+                           "address" : "1-я Новокузьминская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "1",
+                           "name" : "Роцефин пор д/ин 1г 1 /хоффманн-ля рош/",
+                           "price" : "596.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.467,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490241"
+                              }
+                           ],
+                           "phone" : "+74996490241",
+                           "city" : "Москва",
+                           "latitude" : 55.8165,
+                           "address" : "Волоколамское шоссе, 56 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "10",
+                           "name" : "Роцефин пор д/ин 1г фл 1 в/м /+р-тель/",
+                           "price" : "557.12"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7934,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИНАД-ЭКСПЕРТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956522369"
+                              },
+                              {
+                                 "number" : "+74956522370"
+                              }
+                           ],
+                           "phone" : "+74956522369; +74956522370",
+                           "city" : "Москва",
+                           "latitude" : 55.7997,
+                           "address" : "7-я Парковая улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "13",
+                           "name" : "Роцефин пор. для в/м ин. 1 г фл. 1",
+                           "price" : "529"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6876,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ-Фарм Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955148591"
+                              }
+                           ],
+                           "phone" : "+74955148591",
+                           "city" : "Москва",
+                           "latitude" : 55.8621,
+                           "address" : "улица Дудинка, 3"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "1",
+                           "name" : "Роцефин пор д/и в/в 1г фл компл раств",
+                           "price" : "581.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "9",
+                           "name" : "Роцефин пор. д/р-ра для в/м введ. 1000 мг 1 флаконы, ф.хоффманн-ля рош лтд",
+                           "price" : "581"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "10",
+                           "name" : "Роцефин пор д/ин 1г фл 1 в/м /+р-тель/",
+                           "price" : "562.16"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7834,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Здравница Плюс",
+                           "phones" : [
+                              {
+                                 "number" : "+74959805483"
+                              }
+                           ],
+                           "phone" : "+74959805483",
+                           "city" : "Москва",
+                           "latitude" : 55.6733,
+                           "address" : "Тихорецкий бульвар, 1с6"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "5",
+                           "name" : "Роцефин пор.д/ин.1г фл.",
+                           "price" : "592"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490240"
+                              }
+                           ],
+                           "phone" : "+74996490240",
+                           "city" : "Москва",
+                           "latitude" : 55.6513,
+                           "address" : "Люблинская улица, 163/1"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "10",
+                           "name" : "Роцефин пор д/ин 1г фл 1 в/м /+р-тель/",
+                           "price" : "495.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Рэдберн&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954917449"
+                              },
+                              {
+                                 "number" : "+74954917818"
+                              }
+                           ],
+                           "phone" : "+74954917449; +74954917818",
+                           "city" : "Москва",
+                           "latitude" : 55.8267,
+                           "address" : "Волоколамский проезд, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "2",
+                           "name" : "Роцефин пор д/р-р в/м 1г 1 пк + лидокаин",
+                           "price" : "550"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5152,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ЗАПАД",
+                           "phones" : [
+                              {
+                                 "number" : "+74953382639"
+                              }
+                           ],
+                           "phone" : "+74953382639",
+                           "city" : "Москва",
+                           "latitude" : 55.6304,
+                           "address" : "Профсоюзная улица, 128 к2"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "2",
+                           "name" : "Роцефин пор д/ин 1г 1 /хоффманн-ля рош/",
+                           "price" : "564.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8233,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья-3",
+                           "phones" : [
+                              {
+                                 "number" : "+74959434303"
+                              }
+                           ],
+                           "phone" : "+74959434303",
+                           "city" : "Москва",
+                           "latitude" : 55.8225,
+                           "address" : "Хабаровская улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "5",
+                           "name" : "Роцефин пор.д/ин.в/м 1г фл(хофман ля рош)",
+                           "price" : "575.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6666,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "АПТЕКА ЦАРИЦЫНСКАЯ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957283766"
+                              }
+                           ],
+                           "phone" : "+74957283766",
+                           "city" : "Москва",
+                           "latitude" : 55.6188,
+                           "address" : "Каспийская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "20",
+                           "name" : "Роцефин пор. д/ин. в/в 1г фл. 1 с р-лем (вода д/ин.)",
+                           "price" : "553.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3469,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека Ново-Переделкино&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957330127"
+                              },
+                              {
+                                 "number" : "+74957330128"
+                              }
+                           ],
+                           "phone" : "+74957330127; +74957330128",
+                           "city" : "Москва",
+                           "latitude" : 55.643,
+                           "address" : "улица Скульптора Мухиной, 6"
+                        },
+                        "drug" : {
+                           "descid" : "3569",
+                           "quantity" : "3",
+                           "name" : "Роцефин пор д/и в/в 1г фл компл раств",
+                           "price" : "577"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цефтриаксон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

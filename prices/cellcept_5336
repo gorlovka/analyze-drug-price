@@ -1,0 +1,162 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "cellcept",
+            "rus_name" : "Селлсепт®",
+            "form" : "таб., покр. пленочной оболочкой, 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "cellcept",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6355,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья г.Москва Север",
+                           "phones" : [
+                              {
+                                 "number" : "+74951236674"
+                              },
+                              {
+                                 "number" : "+74957750824"
+                              }
+                           ],
+                           "phone" : "+74951236674; +74957750824",
+                           "city" : "Москва",
+                           "latitude" : 55.7846,
+                           "address" : "проспект Мира, 56 с1"
+                        },
+                        "drug" : {
+                           "descid" : "2404",
+                           "quantity" : "1",
+                           "name" : "Селлсепт??? тб 500мг 50 (хоффман лр)",
+                           "price" : "4750"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5366,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Pharmacorp Ltd",
+                           "phones" : [
+                              {
+                                 "number" : "+74993911628"
+                              }
+                           ],
+                           "phone" : "+74993911628",
+                           "city" : "Москва",
+                           "latitude" : 55.7471,
+                           "address" : "Пресненская набережная, 10блокС"
+                        },
+                        "drug" : {
+                           "descid" : "2404",
+                           "quantity" : "3",
+                           "name" : "Селлсепт таблетки 500мг 50",
+                           "price" : "7200"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "2404",
+                           "quantity" : "1",
+                           "name" : "Селлсепт, тбл п/о 500мг 50",
+                           "price" : "4820"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "2404",
+                           "quantity" : "12",
+                           "name" : "Селлсепт тб плен/об 500мг бл n10x5",
+                           "price" : "5850"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4389,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «Лилия»",
+                           "phones" : [
+                              {
+                                 "number" : "+74956646042"
+                              },
+                              {
+                                 "number" : "+74956646041"
+                              }
+                           ],
+                           "phone" : "+74956646042; +74956646041",
+                           "city" : "Москва",
+                           "latitude" : 55.8497,
+                           "address" : "Сходненская улица, 37"
+                        },
+                        "drug" : {
+                           "descid" : "2404",
+                           "quantity" : "2",
+                           "name" : "Селлсепт, тбл п/о 500мг 50",
+                           "price" : "7474"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "микофенолата мофетил"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

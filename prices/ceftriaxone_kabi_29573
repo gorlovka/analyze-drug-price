@@ -1,0 +1,162 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ceftriaxone_kabi",
+            "rus_name" : "Цефтриаксон каби",
+            "form" : "порошок д/пригот. р-ра д/в/в и в/м введения 2000 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ceftriaxone_kabi",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5847,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диасфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266856"
+                              },
+                              {
+                                 "number" : "+74956266857"
+                              }
+                           ],
+                           "phone" : "+74956266856; +74956266857",
+                           "city" : "Москва",
+                           "latitude" : 55.7756,
+                           "address" : "1-я Брестская улица, 66"
+                        },
+                        "drug" : {
+                           "descid" : "6259",
+                           "quantity" : "3",
+                           "name" : "Цефтриаксон каби 2г n1 пор д/инф",
+                           "price" : "173"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма на 1905",
+                           "phones" : [
+                              {
+                                 "number" : "+74995179009"
+                              }
+                           ],
+                           "phone" : "+74995179009",
+                           "city" : "Москва",
+                           "latitude" : 55.7645,
+                           "address" : "улица 1905 Года, 4 с2"
+                        },
+                        "drug" : {
+                           "descid" : "6259",
+                           "quantity" : "1",
+                           "name" : "Цефтриаксон каби,пор д/инъ 2г фл 10",
+                           "price" : "1520.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5368,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма на Аэропортовской",
+                           "phones" : [
+                              {
+                                 "number" : "+74995179009"
+                              },
+                              {
+                                 "number" : "+74995179088"
+                              }
+                           ],
+                           "phone" : "+74995179009; +74995179088",
+                           "city" : "Москва",
+                           "latitude" : 55.8012,
+                           "address" : "1-я Аэропортовская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "6259",
+                           "quantity" : "2",
+                           "name" : "Цефтриаксон каби,пор д/инъ 2г фл 10",
+                           "price" : "1534.75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5629,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма",
+                           "phones" : [
+                              {
+                                 "number" : "+74995179009"
+                              }
+                           ],
+                           "phone" : "+74995179009",
+                           "city" : "Москва",
+                           "latitude" : 55.8613,
+                           "address" : "Бескудниковский бульвар, 10 к5"
+                        },
+                        "drug" : {
+                           "descid" : "6259",
+                           "quantity" : "1",
+                           "name" : "Цефтриаксон каби,пор д/инъ 2г фл 10",
+                           "price" : "1520.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "6259",
+                           "quantity" : "1",
+                           "name" : "Цефтриаксон каби порошок для раствора 2г 10 флаконы",
+                           "price" : "1376"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цефтриаксон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

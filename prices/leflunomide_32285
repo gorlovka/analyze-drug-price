@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "leflunomide",
+            "rus_name" : "Лефлуномид",
+            "form" : "таб., покр. пленочной оболочкой, 20 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "leflunomide",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7101,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авиценна Фарма 4&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959634296"
+                              }
+                           ],
+                           "phone" : "+74959634296",
+                           "city" : "Москва",
+                           "latitude" : 55.8064,
+                           "address" : "Краснобогатырская улица, 79 к2а"
+                        },
+                        "drug" : {
+                           "descid" : "6975",
+                           "quantity" : "10",
+                           "name" : "Лефлуномид табл п/о плен 20 мг х30",
+                           "price" : "2299"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4439,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФГУП &quot;Аптека 21&quot;, г.Электросталь",
+                           "phones" : [
+                              {
+                                 "number" : "+74967029162"
+                              }
+                           ],
+                           "phone" : "+74967029162",
+                           "city" : "Электросталь",
+                           "latitude" : 55.7854,
+                           "address" : "проспект Ленина, 44/14, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "6975",
+                           "quantity" : "1",
+                           "name" : "Лефлуномид, тбл п/о 20мг 30",
+                           "price" : "2704.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "лефлуномид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

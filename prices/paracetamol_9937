@@ -1,0 +1,137 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "paracetamol",
+            "rus_name" : "Парацетамол",
+            "form" : "супп. рект. д/детей 100 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "paracetamol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;РУСАПТЕКА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993433207"
+                              }
+                           ],
+                           "phone" : "+74993433207",
+                           "city" : "Москва",
+                           "latitude" : 55.7712,
+                           "address" : "Бауманская улица, 38 с2"
+                        },
+                        "drug" : {
+                           "descid" : "3404",
+                           "quantity" : "1",
+                           "name" : "Парацетамол супп. рект. 100мг 10",
+                           "price" : "34.27"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7177,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 23",
+                           "phones" : [
+                              {
+                                 "number" : "+74991628323"
+                              }
+                           ],
+                           "phone" : "+74991628323",
+                           "city" : "Москва",
+                           "latitude" : 55.8046,
+                           "address" : "Просторная улица, 8"
+                        },
+                        "drug" : {
+                           "descid" : "3404",
+                           "quantity" : "1",
+                           "name" : "Парацетамол 100мг 10 супп.",
+                           "price" : "35.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4172,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МЕДЦЕНТР-МОСИНТУР ЛТД&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955061407"
+                              },
+                              {
+                                 "number" : "+74952238910"
+                              }
+                           ],
+                           "phone" : "+74955061407; +74952238910",
+                           "city" : "Москва",
+                           "latitude" : 55.7302,
+                           "address" : "Кунцевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "3404",
+                           "quantity" : "5",
+                           "name" : "Парацетамол свечи 100 мг х10",
+                           "price" : "38.76"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8157,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;АНСИмед&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954685225"
+                              },
+                              {
+                                 "number" : "+74995302091"
+                              }
+                           ],
+                           "phone" : "+74954685225; +74995302091",
+                           "city" : "Москва",
+                           "latitude" : 55.7974,
+                           "address" : "Измайловский бульвар, 67 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3404",
+                           "quantity" : "3",
+                           "name" : "Парацетамол 100мг 10 супп д/дет",
+                           "price" : "35.84"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "парацетамол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

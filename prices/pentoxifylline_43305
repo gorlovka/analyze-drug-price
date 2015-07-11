@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "pentoxifylline",
+            "rus_name" : "Пентоксифиллин",
+            "form" : "концентрат д/пригот. р-ра д/инфузий 20 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "pentoxifylline",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6707,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АНГРО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956744996"
+                              },
+                              {
+                                 "number" : "+74955049709"
+                              }
+                           ],
+                           "phone" : "+74956744996; +74955049709",
+                           "city" : "Москва",
+                           "latitude" : 55.7252,
+                           "address" : "1-я Дубровская улица, 10/15"
+                        },
+                        "drug" : {
+                           "descid" : "1781",
+                           "quantity" : "1",
+                           "name" : "Пентоксифиллин конц. д/р-ра для в/в и в/а введ. 20 мг/мл 5 мл 10 ампулы, биохимик оао",
+                           "price" : "37"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "пентоксифиллин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

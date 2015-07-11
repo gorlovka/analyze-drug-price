@@ -1,0 +1,187 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "sotalol",
+            "rus_name" : "Соталол",
+            "form" : "таб. 80 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 6,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "sotalol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6302,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Эра Здоровья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959886458"
+                              },
+                              {
+                                 "number" : "+74957786458"
+                              }
+                           ],
+                           "phone" : "+74959886458; +74957786458",
+                           "city" : "Москва",
+                           "latitude" : 55.7431,
+                           "address" : "Пятницкий переулок, 3"
+                        },
+                        "drug" : {
+                           "descid" : "8876",
+                           "quantity" : "1",
+                           "name" : "Соталол 80мг 20 таблетки",
+                           "price" : "87"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.571,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строитель 2+&quot; 1",
+                           "phones" : [
+                              {
+                                 "number" : "+74956145758"
+                              }
+                           ],
+                           "phone" : "+74956145758",
+                           "city" : "Москва",
+                           "latitude" : 55.7919,
+                           "address" : "улица Нижняя Масловка, 20"
+                        },
+                        "drug" : {
+                           "descid" : "8876",
+                           "quantity" : "3",
+                           "name" : "Соталол 80мг таб. 20",
+                           "price" : "87.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5455,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строитель 2+&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991558928"
+                              },
+                              {
+                                 "number" : "+74991559130"
+                              }
+                           ],
+                           "phone" : "+74991558928; +74991559130",
+                           "city" : "Москва",
+                           "latitude" : 55.802,
+                           "address" : "Планетная улица, 27"
+                        },
+                        "drug" : {
+                           "descid" : "8876",
+                           "quantity" : "1",
+                           "name" : "Соталол 80мг таб. 20",
+                           "price" : "89.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4927,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Алекс Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959426630"
+                              }
+                           ],
+                           "phone" : "+74959426630",
+                           "city" : "Москва",
+                           "latitude" : 55.7719,
+                           "address" : "улица Мнёвники, 7 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8876",
+                           "quantity" : "1",
+                           "name" : "Соталол 80мг n20 таб.",
+                           "price" : "82.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6968,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Алтехком&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953434446"
+                              }
+                           ],
+                           "phone" : "+74953434446",
+                           "city" : "Москва",
+                           "latitude" : 55.6113,
+                           "address" : "Шипиловский проезд, 39 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8876",
+                           "quantity" : "7",
+                           "name" : "Соталол таб. 80 мг 20 канонфарма",
+                           "price" : "88"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6553,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НИКА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79252111558"
+                              }
+                           ],
+                           "phone" : "+79252111558",
+                           "city" : "Москва",
+                           "latitude" : 55.5836,
+                           "address" : "Булатниковский проезд, 14 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8876",
+                           "quantity" : "1",
+                           "name" : "Соталол 80мг 30 таб.",
+                           "price" : "129"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "соталола гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

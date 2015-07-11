@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "enixum",
+            "rus_name" : "Эниксум®",
+            "form" : "р-р д/инъекц. 2000 анти-Ха МЕ (20 мг)/0.2 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "enixum",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "8579",
+                           "quantity" : "1",
+                           "name" : "Эниксум р-р 10тыс.шприц 0,2мл 10",
+                           "price" : "1469"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6155,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490248"
+                              }
+                           ],
+                           "phone" : "+74996490248",
+                           "city" : "Москва",
+                           "latitude" : 55.794,
+                           "address" : "Шереметьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8579",
+                           "quantity" : "10",
+                           "name" : "Эниксум р-р д/ин 10тыс анти-ха ме/мл 0,2мл 10 шпр",
+                           "price" : "1554.62"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "эноксапарин натрия"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

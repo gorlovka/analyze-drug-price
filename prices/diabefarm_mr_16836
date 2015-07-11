@@ -1,0 +1,2045 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "diabefarm_mr",
+            "rus_name" : "Диабефарм мв",
+            "form" : "таб. с модиф. высвобождением 30 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 79,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "diabefarm_mr",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5981,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956900719"
+                              }
+                           ],
+                           "phone" : "+74956900719",
+                           "city" : "Москва",
+                           "latitude" : 55.7608,
+                           "address" : "Большая Бронная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "133.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6099,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999684753"
+                              }
+                           ],
+                           "phone" : "+74999684753",
+                           "city" : "Москва",
+                           "latitude" : 55.7658,
+                           "address" : "улица Большая Дмитровка, 23"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "144"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6017,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956503600"
+                              },
+                              {
+                                 "number" : "+74956503625"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74956503600; +74956503625; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.7648,
+                           "address" : "Малый Палашёвский переулок, 2/8"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "148"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959535296"
+                              }
+                           ],
+                           "phone" : "+74959535296",
+                           "city" : "Москва",
+                           "latitude" : 55.7362,
+                           "address" : "Новокузнецкая улица, 20/21-19 с5"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв, тбл 30мг 60",
+                           "price" : "145"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва (Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992382865"
+                              },
+                              {
+                                 "number" : "+74992387410"
+                              }
+                           ],
+                           "phone" : "+74992382865; +74992387410",
+                           "city" : "Москва",
+                           "latitude" : 55.7341,
+                           "address" : "улица Большая Полянка, 30"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб мод.высвобожд. 30мг 60",
+                           "price" : "129"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв таб мод.высвобожд. 30мг 60",
+                           "price" : "142"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6025,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОКТАВИЯ&quot; г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999735057"
+                              }
+                           ],
+                           "phone" : "+74999735057",
+                           "city" : "Москва",
+                           "latitude" : 55.7777,
+                           "address" : "Долгоруковская улица, 38 с1"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "7",
+                           "name" : "Диабефарм мв таб. 30мг 60 с модифицированным высвобождением",
+                           "price" : "125"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957293797"
+                              }
+                           ],
+                           "phone" : "+74957293797",
+                           "city" : "Москва",
+                           "latitude" : 55.7638,
+                           "address" : "Малая Грузинская улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв, тбл 30мг 60",
+                           "price" : "139"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6714,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОПТИФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678604"
+                              }
+                           ],
+                           "phone" : "+74999678604",
+                           "city" : "Москва",
+                           "latitude" : 55.7428,
+                           "address" : "Большая Андроньевская улица, 11/13"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "128"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6087,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.7192,
+                           "address" : "улица Шаболовка, 30/12"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "120"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "4",
+                           "name" : "Диабефарм мв,0,30 мг 60",
+                           "price" : "145"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5829,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579698"
+                              }
+                           ],
+                           "phone" : "+74996579698",
+                           "city" : "Москва",
+                           "latitude" : 55.7208,
+                           "address" : "Фрунзенская набережная, 40"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "3",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "140"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.596,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678549"
+                              }
+                           ],
+                           "phone" : "+74999678549",
+                           "city" : "Москва",
+                           "latitude" : 55.7861,
+                           "address" : "Новослободская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "120"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.665,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74952628054"
+                              }
+                           ],
+                           "phone" : "+74952628054",
+                           "city" : "Москва",
+                           "latitude" : 55.7786,
+                           "address" : "Краснопрудная улица, 24"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "131"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "5",
+                           "name" : "Диабефарм мв 0.03 n60 табл с модиф высвоб",
+                           "price" : "132.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "133"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7015,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Омега&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957071279"
+                              },
+                              {
+                                 "number" : "+74959782004"
+                              }
+                           ],
+                           "phone" : "+74957071279; +74959782004",
+                           "city" : "Москва",
+                           "latitude" : 55.7648,
+                           "address" : "Солдатская улица, 6а"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "3",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "122"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "4",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "114"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5251,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Фирма Здоровье г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991483745"
+                              },
+                              {
+                                 "number" : "+74991480456"
+                              }
+                           ],
+                           "phone" : "+74991483745; +74991480456",
+                           "city" : "Москва",
+                           "latitude" : 55.7361,
+                           "address" : "улица 1812 Года, 2"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60 с модифицированным высвобождением",
+                           "price" : "137.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959402329"
+                              }
+                           ],
+                           "phone" : "+74959402329",
+                           "city" : "Москва",
+                           "latitude" : 55.7724,
+                           "address" : "5-я Магистральная улица, 10"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв, тбл 30мг 60",
+                           "price" : "139"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7183,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Белиссимо-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959883195"
+                              }
+                           ],
+                           "phone" : "+74959883195",
+                           "city" : "Москва",
+                           "latitude" : 55.7511,
+                           "address" : "шоссе Энтузиастов, 24/43"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "135.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7138,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953604472"
+                              }
+                           ],
+                           "phone" : "+74953604472",
+                           "city" : "Москва",
+                           "latitude" : 55.7698,
+                           "address" : "Ухтомская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "133.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6708,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678623"
+                              }
+                           ],
+                           "phone" : "+74999678623",
+                           "city" : "Москва",
+                           "latitude" : 55.7032,
+                           "address" : "улица Трофимова, 13"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "123"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.721,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956733758"
+                              }
+                           ],
+                           "phone" : "+74956733758",
+                           "city" : "Москва",
+                           "latitude" : 55.7463,
+                           "address" : "Авиамоторная улица, 51"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "106.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7222,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармацевтическая гильдия&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952217904"
+                              }
+                           ],
+                           "phone" : "+74952217904",
+                           "city" : "Москва",
+                           "latitude" : 55.7805,
+                           "address" : "Вельяминовская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "3",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "119.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7372,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Престиж-групп&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997489982"
+                              }
+                           ],
+                           "phone" : "+74997489982",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "5-я улица Соколиной Горы, 19 к2"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "137.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв 0,03 n60 табл.",
+                           "price" : "126"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5619,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991250777"
+                              }
+                           ],
+                           "phone" : "+74991250777",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "улица Кржижановского, 3"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв, тбл 30мг 60",
+                           "price" : "129"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7027,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека в Люблино&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678611"
+                              }
+                           ],
+                           "phone" : "+74999678611",
+                           "city" : "Москва",
+                           "latitude" : 55.8111,
+                           "address" : "Краснобогатырская улица, 23"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "123"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74996122568"
+                              }
+                           ],
+                           "phone" : "+74996122568",
+                           "city" : "Москва",
+                           "latitude" : 55.6774,
+                           "address" : "Нагатинская улица, 28"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "134"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "10",
+                           "name" : "Диабефарм мв тб модиф высв 30мг бл n10x6",
+                           "price" : "137"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6662,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6776,
+                           "address" : "улица Новинки, 1"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "3",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "120"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5045,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959329423"
+                              }
+                           ],
+                           "phone" : "+74959329423",
+                           "city" : "Москва",
+                           "latitude" : 55.7017,
+                           "address" : "Мичуринский проспект, 20"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "152"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7277,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74991688104"
+                              }
+                           ],
+                           "phone" : "+74991688104",
+                           "city" : "Москва",
+                           "latitude" : 55.8069,
+                           "address" : "Открытое шоссе, 2 к12"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "10",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "124"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4746,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №007",
+                           "phones" : [
+                              {
+                                 "number" : "+78127530098"
+                              },
+                              {
+                                 "number" : "+78127537914"
+                              }
+                           ],
+                           "phone" : "+78127530098; +78127537914",
+                           "city" : "Москва",
+                           "latitude" : 55.7763,
+                           "address" : "проспект Маршала Жукова, 30"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб 30мг n60",
+                           "price" : "135.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5273,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Улыбка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997838587"
+                              }
+                           ],
+                           "phone" : "+74997838587",
+                           "city" : "Москва",
+                           "latitude" : 55.6789,
+                           "address" : "улица Марии Ульяновой, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв, тбл 30мг 60",
+                           "price" : "159"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6043,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЭВЕРЕСТ&quot;.",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678592"
+                              }
+                           ],
+                           "phone" : "+74999678592",
+                           "city" : "Москва",
+                           "latitude" : 55.6579,
+                           "address" : "Болотниковская улица, 12 к3"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "120"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5153,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997268270"
+                              }
+                           ],
+                           "phone" : "+74997268270",
+                           "city" : "Москва",
+                           "latitude" : 55.6725,
+                           "address" : "улица Удальцова, 15"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "132"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6491,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999684911"
+                              }
+                           ],
+                           "phone" : "+74999684911",
+                           "city" : "Москва",
+                           "latitude" : 55.654,
+                           "address" : "Каширское шоссе, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "3",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "132"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7393,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека в Люблино&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678594"
+                              }
+                           ],
+                           "phone" : "+74999678594",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Люблинская улица, 113а"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "137"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7506,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956602415"
+                              }
+                           ],
+                           "phone" : "+74956602415",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "Краснодонская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "136"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.465,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 2 (ООО Феерия Фарм Плюс)",
+                           "phones" : [
+                              {
+                                 "number" : "+74997204839"
+                              }
+                           ],
+                           "phone" : "+74997204839",
+                           "city" : "Москва",
+                           "latitude" : 55.8077,
+                           "address" : "улица Маршала Василевского, 15"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "14",
+                           "name" : "Диабефарм мв табл. 30мг n60",
+                           "price" : "140"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6544,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТИЛЬ-МАКСИМА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991809494"
+                              }
+                           ],
+                           "phone" : "+74991809494",
+                           "city" : "Москва",
+                           "latitude" : 55.8536,
+                           "address" : "улица Амундсена, 15 к2"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "10",
+                           "name" : "Диабефарм мв табл. 30мг n60",
+                           "price" : "146.38"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8057,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-6&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953020198"
+                              },
+                              {
+                                 "number" : "+74957837214"
+                              }
+                           ],
+                           "phone" : "+74953020198; +74957837214",
+                           "city" : "Москва",
+                           "latitude" : 55.7528,
+                           "address" : "Зелёный проспект, 42"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "137.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957879355"
+                              }
+                           ],
+                           "phone" : "+74957879355",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "5-я Парковая улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв, тбл 30мг 60",
+                           "price" : "137"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.56,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957412889"
+                              }
+                           ],
+                           "phone" : "+74957412889",
+                           "city" : "Москва",
+                           "latitude" : 55.6508,
+                           "address" : "улица Обручева, 55а"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "140"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7651,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека в Марьино",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6813,
+                           "address" : "Ставропольская улица, 50/22"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "118.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74953517130"
+                              }
+                           ],
+                           "phone" : "+74953517130",
+                           "city" : "Москва",
+                           "latitude" : 55.6769,
+                           "address" : "Краснодарская улица, 57 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "142"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.821,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956642402"
+                              }
+                           ],
+                           "phone" : "+74956642402",
+                           "city" : "Москва",
+                           "latitude" : 55.7425,
+                           "address" : "Кетчерская улица, 4а"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "140"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.827,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 27",
+                           "phones" : [
+                              {
+                                 "number" : "+74953755628"
+                              }
+                           ],
+                           "phone" : "+74953755628",
+                           "city" : "Москва",
+                           "latitude" : 55.7403,
+                           "address" : "улица Старый Гай, 8б"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв таб. 30мг 60 с модифицированным высвобождением",
+                           "price" : "137.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4506,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74954377721"
+                              }
+                           ],
+                           "phone" : "+74954377721",
+                           "city" : "Москва",
+                           "latitude" : 55.6814,
+                           "address" : "улица Наташи Ковшовой, 15"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "140"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7156,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957805527"
+                              }
+                           ],
+                           "phone" : "+74957805527",
+                           "city" : "Москва",
+                           "latitude" : 55.6465,
+                           "address" : "Новочеркасский бульвар, 10 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "141"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4085,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74954134256"
+                              }
+                           ],
+                           "phone" : "+74954134256",
+                           "city" : "Москва",
+                           "latitude" : 55.7605,
+                           "address" : "Осенний бульвар, 16 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "142"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4042,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74954174116"
+                              }
+                           ],
+                           "phone" : "+74954174116",
+                           "city" : "Москва",
+                           "latitude" : 55.7422,
+                           "address" : "Оршанская улица, 9"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "134"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6968,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 33",
+                           "phones" : [
+                              {
+                                 "number" : "+74999408039"
+                              }
+                           ],
+                           "phone" : "+74999408039",
+                           "city" : "Москва",
+                           "latitude" : 55.6373,
+                           "address" : "Каширское шоссе, 57 к2"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60 с модифицированным высвобождением",
+                           "price" : "138.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв 0,03 n60 табл с модиф высво",
+                           "price" : "134"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5891,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956639771"
+                              }
+                           ],
+                           "phone" : "+74956639771",
+                           "city" : "Москва",
+                           "latitude" : 55.8743,
+                           "address" : "Высоковольтный проезд, 1 к2"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "5",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "143"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.521,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999684912"
+                              }
+                           ],
+                           "phone" : "+74999684912",
+                           "city" : "Москва",
+                           "latitude" : 55.6361,
+                           "address" : "Профсоюзная улица, 118"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "125"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6625,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579700"
+                              }
+                           ],
+                           "phone" : "+74996579700",
+                           "city" : "Москва",
+                           "latitude" : 55.8866,
+                           "address" : "улица Грекова, 8"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "5",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "122"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв 30мг 60 таблетки",
+                           "price" : "123"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.686,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74991854572"
+                              }
+                           ],
+                           "phone" : "+74991854572",
+                           "city" : "Москва",
+                           "latitude" : 55.8846,
+                           "address" : "Тайнинская улица, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "141"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6961,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №082",
+                           "phones" : [
+                              {
+                                 "number" : "+78127511919"
+                              }
+                           ],
+                           "phone" : "+78127511919",
+                           "city" : "Москва",
+                           "latitude" : 55.6192,
+                           "address" : "улица Маршала Захарова, 20"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "3",
+                           "name" : "Диабефарм мв таб 30мг n60",
+                           "price" : "135.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999093368"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74999093368; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8946,
+                           "address" : "Алтуфьевское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "144"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4242,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №191",
+                           "phones" : [
+                              {
+                                 "number" : "+78123358097"
+                              }
+                           ],
+                           "phone" : "+78123358097",
+                           "city" : "Москва",
+                           "latitude" : 55.8475,
+                           "address" : "Туристская улица, 6 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв таб 30мг n60",
+                           "price" : "135.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8555,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 42",
+                           "phones" : [
+                              {
+                                 "number" : "+74957041418"
+                              }
+                           ],
+                           "phone" : "+74957041418",
+                           "city" : "Москва",
+                           "latitude" : 55.6917,
+                           "address" : "Саранская улица, 4/24"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "4",
+                           "name" : "Диабефарм мв таб. 30мг 60 с модифицированным высвобождением",
+                           "price" : "137.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4147,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746321981"
+                              }
+                           ],
+                           "phone" : "+74746321981",
+                           "city" : "Москва",
+                           "latitude" : 55.6481,
+                           "address" : "улица 50 лет Октября, 1"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв 0.03 n60 табл с модиф высвоб",
+                           "price" : "132.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5994,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Оксалин&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952013616"
+                              }
+                           ],
+                           "phone" : "+74952013616",
+                           "city" : "Москва",
+                           "latitude" : 55.5934,
+                           "address" : "Варшавское шоссе, 152"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв табл. 30мг n60",
+                           "price" : "135"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8734,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 26",
+                           "phones" : [
+                              {
+                                 "number" : "+74955446098"
+                              }
+                           ],
+                           "phone" : "+74955446098",
+                           "city" : "Люберцы",
+                           "latitude" : 55.681,
+                           "address" : "улица 3-е Почтовое Отделение, 49к1"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60 с модифицированным высвобождением",
+                           "price" : "130.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3984,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74959342060"
+                              }
+                           ],
+                           "phone" : "+74959342060",
+                           "city" : "Москва",
+                           "latitude" : 55.6451,
+                           "address" : "улица Авиаторов, 14"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "145"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6553,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НИКА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79252111558"
+                              }
+                           ],
+                           "phone" : "+79252111558",
+                           "city" : "Москва",
+                           "latitude" : 55.5836,
+                           "address" : "Булатниковский проезд, 14 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60 с модиф.освоб",
+                           "price" : "137"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3555,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957540600"
+                              }
+                           ],
+                           "phone" : "+74957540600",
+                           "city" : "Москва",
+                           "latitude" : 55.8353,
+                           "address" : "улица Генерала Белобородова, 16"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "145"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8451,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955514709"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74955514709; +74955855515",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6349,
+                           "address" : "улица Ленина, 11, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "122"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3644,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ооо &quot;НЕО-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538455"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74995538455; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8507,
+                           "address" : "Пятницкое шоссе, 29"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "137"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.507,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957392643"
+                              }
+                           ],
+                           "phone" : "+74957392643",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9374,
+                           "address" : "Новый бульвар, 5"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "134"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5081,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538447"
+                              },
+                              {
+                                 "number" : "+74995855515"
+                              },
+                              {
+                                 "number" : "+74995538447"
+                              },
+                              {
+                                 "number" : "+74995855515"
+                              }
+                           ],
+                           "phone" : "+74995538447; +74995855515; +74995538447; +74995855515",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.945,
+                           "address" : "Дирижабельная улица, 24, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "142"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5619,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лотос&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957172581"
+                              }
+                           ],
+                           "phone" : "+74957172581",
+                           "city" : "Москва",
+                           "latitude" : 55.5454,
+                           "address" : "Изюмская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв 30мг 60",
+                           "price" : "138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0096,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7496,
+                           "address" : "Пролетарская улица, 1к2"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "143"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74991495475"
+                              }
+                           ],
+                           "phone" : "+74991495475",
+                           "city" : "Московская область",
+                           "latitude" : 55.4292,
+                           "address" : "Подольск, 29b"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "2",
+                           "name" : "Диабефарм мв таб. 30мг 60",
+                           "price" : "143"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Атрика&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8106,
+                           "address" : "проспект Ленина, 06, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4306",
+                           "quantity" : "1",
+                           "name" : "Диабефарм мв тбл 30мг 60",
+                           "price" : "121.4"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "гликлазид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

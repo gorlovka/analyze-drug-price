@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ursodex",
+            "rus_name" : "Урсодекс",
+            "form" : "таб., покр. пленочной оболочкой, 300 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ursodex",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4707,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 38",
+                           "phones" : [
+                              {
+                                 "number" : "+74957802852"
+                              }
+                           ],
+                           "phone" : "+74957802852",
+                           "city" : "улица Мичуринский Проспект",
+                           "latitude" : 55.6754,
+                           "address" : "Олимпийская Деревня, 4 к3, Москва"
+                        },
+                        "drug" : {
+                           "descid" : "5894",
+                           "quantity" : "10",
+                           "name" : "Урсодекс таб. п/о 300мг 50",
+                           "price" : "496.2"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "урсодезоксихолевая кислота"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

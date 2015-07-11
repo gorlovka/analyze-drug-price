@@ -1,0 +1,981 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "amoxicillin",
+            "rus_name" : "Амоксициллин",
+            "form" : "таб. 250 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 38,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "amoxicillin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5981,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956900719"
+                              }
+                           ],
+                           "phone" : "+74956900719",
+                           "city" : "Москва",
+                           "latitude" : 55.7608,
+                           "address" : "Большая Бронная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "5",
+                           "name" : "Амоксициллин тбл 250мг 10",
+                           "price" : "13.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6075,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №390",
+                           "phones" : [
+                              {
+                                 "number" : "+74999788881"
+                              }
+                           ],
+                           "phone" : "+74999788881",
+                           "city" : "Москва",
+                           "latitude" : 55.7767,
+                           "address" : "Краснопролетарская улица, 14/2"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "2",
+                           "name" : "Амоксициллин табл. 250мг n20",
+                           "price" : "24"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №32",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7706,
+                           "address" : "Тишинская площадь, 6"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин табл. 250мг n20",
+                           "price" : "25.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6761,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Целитель г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956326238"
+                              }
+                           ],
+                           "phone" : "+74956326238",
+                           "city" : "Москва",
+                           "latitude" : 55.7377,
+                           "address" : "Малая Калитниковская улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин 0.5 n10 табл барнаульский завод медпрепаратов.ооо (россия)",
+                           "price" : "23.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "42",
+                           "name" : "Амоксициллин, табл. 250 мг 20",
+                           "price" : "25.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5479,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992156351"
+                              }
+                           ],
+                           "phone" : "+74992156351",
+                           "city" : "Москва",
+                           "latitude" : 55.7583,
+                           "address" : "Шмитовский проезд, 16 с2"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "10",
+                           "name" : "Амоксициллин таб 250мг 20",
+                           "price" : "32.32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5433,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №19",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7437,
+                           "address" : "Кутузовский проспект, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "6",
+                           "name" : "Амоксициллин табл. 250мг n20",
+                           "price" : "25"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5834,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №896 ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7917,
+                           "address" : "улица Нижняя Масловка, 5"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин табл. 250мг n20",
+                           "price" : "25.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6977,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СИГМА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74951248018"
+                              }
+                           ],
+                           "phone" : "+74951248018",
+                           "city" : "Москва",
+                           "latitude" : 55.7582,
+                           "address" : "Красноказарменная улица, 9"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин, тбл 250мг 20",
+                           "price" : "23.01"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6594,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "72 аптека На Автозаводской г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956751155"
+                              },
+                              {
+                                 "number" : "+74956750598"
+                              }
+                           ],
+                           "phone" : "+74956751155; +74956750598",
+                           "city" : "Москва",
+                           "latitude" : 55.7128,
+                           "address" : "Восточная улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин таб. 250мг 20",
+                           "price" : "21.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.57,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;Аптека 176 &quot;Воробьевы горы&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991377076"
+                              }
+                           ],
+                           "phone" : "+74991377076",
+                           "city" : "Москва",
+                           "latitude" : 55.7028,
+                           "address" : "Ленинский проспект, 40"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "6",
+                           "name" : "Амоксициллин 250мг n20 таб.",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4927,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Алекс Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959426630"
+                              }
+                           ],
+                           "phone" : "+74959426630",
+                           "city" : "Москва",
+                           "latitude" : 55.7719,
+                           "address" : "улица Мнёвники, 7 к1"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин 250мг n20 таб.",
+                           "price" : "30.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7101,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авиценна Фарма 4&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959634296"
+                              }
+                           ],
+                           "phone" : "+74959634296",
+                           "city" : "Москва",
+                           "latitude" : 55.8064,
+                           "address" : "Краснобогатырская улица, 79 к2а"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "10",
+                           "name" : "Амоксициллин 0,5 n10 табл",
+                           "price" : "39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.738,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АСАКИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957770006"
+                              },
+                              {
+                                 "number" : "+74953501401"
+                              }
+                           ],
+                           "phone" : "+74957770006; +74953501401",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Люблинская улица, 50 к1"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "3",
+                           "name" : "Амоксициллин, тбл 250мг 20",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7844,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74993678872"
+                              }
+                           ],
+                           "phone" : "+74993678872",
+                           "city" : "Москва",
+                           "latitude" : 55.7905,
+                           "address" : "3-я Парковая улица, 8/19"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин таб. 250мг 20",
+                           "price" : "30.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5835,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №381",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8526,
+                           "address" : "Алтуфьевское шоссе, 9"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин табл. 250мг n20",
+                           "price" : "25.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8057,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-6&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953020198"
+                              },
+                              {
+                                 "number" : "+74957837214"
+                              }
+                           ],
+                           "phone" : "+74953020198; +74957837214",
+                           "city" : "Москва",
+                           "latitude" : 55.7528,
+                           "address" : "Зелёный проспект, 42"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "4",
+                           "name" : "Амоксициллин тбл 250мг 10",
+                           "price" : "13.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6876,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ-Фарм Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955148591"
+                              }
+                           ],
+                           "phone" : "+74955148591",
+                           "city" : "Москва",
+                           "latitude" : 55.8621,
+                           "address" : "улица Дудинка, 3"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "3",
+                           "name" : "Амоксициллин тб 250мг уп конт яч n20",
+                           "price" : "32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "10",
+                           "name" : "Амоксициллин таб 250мг 20",
+                           "price" : "25.54"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7974,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №482",
+                           "phones" : [
+                              {
+                                 "number" : "+79250943805"
+                              }
+                           ],
+                           "phone" : "+79250943805",
+                           "city" : "Москва",
+                           "latitude" : 55.8202,
+                           "address" : "Уральская улица, 17"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "26",
+                           "name" : "Амоксициллин табл. 250мг n20",
+                           "price" : "24.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5891,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956639771"
+                              }
+                           ],
+                           "phone" : "+74956639771",
+                           "city" : "Москва",
+                           "latitude" : 55.8743,
+                           "address" : "Высоковольтный проезд, 1 к2"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин таб. 250мг 20",
+                           "price" : "26"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8233,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья-3",
+                           "phones" : [
+                              {
+                                 "number" : "+74959434303"
+                              }
+                           ],
+                           "phone" : "+74959434303",
+                           "city" : "Москва",
+                           "latitude" : 55.8225,
+                           "address" : "Хабаровская улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "2",
+                           "name" : "Амоксициллин тб 250мг 20(барнаульский з",
+                           "price" : "24.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8598,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармик&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79011842771"
+                              }
+                           ],
+                           "phone" : "+79011842771",
+                           "city" : "Москва",
+                           "latitude" : 55.7432,
+                           "address" : "Суздальская улица, 26а"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "2",
+                           "name" : "Амоксициллин 250мг 20 таб.",
+                           "price" : "31.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8622,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №841",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Реутов",
+                           "latitude" : 55.7471,
+                           "address" : "Южная улица, 10а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "4",
+                           "name" : "Амоксициллин табл. 250мг n20",
+                           "price" : "25.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.668,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЖА Аптека&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994768475"
+                              }
+                           ],
+                           "phone" : "+74994768475",
+                           "city" : "Москва",
+                           "latitude" : 55.8925,
+                           "address" : "Студёный проезд, 28"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин таб 250мг n10 уп кнт-яч пк &amp;lt;10*1&amp;gt;",
+                           "price" : "15"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья Юг",
+                           "phones" : [
+                              {
+                                 "number" : "+74959710100"
+                              }
+                           ],
+                           "phone" : "+74959710100",
+                           "city" : "Москва",
+                           "latitude" : 55.8571,
+                           "address" : "улица Героев Панфиловцев, 7"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "2",
+                           "name" : "Амоксициллин 0,5 n20 табл /авва рус/",
+                           "price" : "62.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4147,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746321981"
+                              }
+                           ],
+                           "phone" : "+74746321981",
+                           "city" : "Москва",
+                           "latitude" : 55.6481,
+                           "address" : "улица 50 лет Октября, 1"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин 0.5 n20 табл",
+                           "price" : "48.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3541,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №587 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.831,
+                           "address" : "улица Генерала Белобородова, 24"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин табл. 250мг n20",
+                           "price" : "26"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.507,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957392643"
+                              }
+                           ],
+                           "phone" : "+74957392643",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9374,
+                           "address" : "Новый бульвар, 5"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "5",
+                           "name" : "Амоксициллин таб. 250мг 20",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6988,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАКС-М&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955486445"
+                              }
+                           ],
+                           "phone" : "+74955486445",
+                           "city" : "Московская область",
+                           "latitude" : 55.5551,
+                           "address" : "Видное, 9"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "5",
+                           "name" : "Амоксициллин 250мг n20 табл.",
+                           "price" : "32.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5251,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ФармМедТрейд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.5337,
+                           "address" : "Южнобутовская улица, 81"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин таб. 250мг 20",
+                           "price" : "31"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.1642,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 128",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "село Петрово-Дальнее",
+                           "latitude" : 55.7515,
+                           "address" : "улица Новый Посёлок, 13"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин табл. 250мг n20",
+                           "price" : "22"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9979,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965623025"
+                              }
+                           ],
+                           "phone" : "+74965623025",
+                           "city" : "Щелково",
+                           "latitude" : 55.9284,
+                           "address" : "Комсомольская улица, 9/11"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "2",
+                           "name" : "Амоксициллин таб. 250мг 20",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0591,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строй-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79011846532"
+                              }
+                           ],
+                           "phone" : "+79011846532",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9009,
+                           "address" : "улица Ленина, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин таб. 250мг 20",
+                           "price" : "23"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5465,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+78002006303"
+                              }
+                           ],
+                           "phone" : "+78002006303",
+                           "city" : "Подольск",
+                           "latitude" : 55.4308,
+                           "address" : "Большая Серпуховская улица, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "4",
+                           "name" : "Амоксициллин табл. 250мг n20",
+                           "price" : "25.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2306,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №613",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Раменское",
+                           "latitude" : 55.5711,
+                           "address" : "Красноармейская улица, 4б, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "7",
+                           "name" : "Амоксициллин табл. 250мг n20",
+                           "price" : "24"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5208,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 080",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74967622999"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74967622999",
+                           "city" : "Климовск",
+                           "latitude" : 55.3596,
+                           "address" : "улица Победы, 2/18, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "3",
+                           "name" : "Амоксициллин табл. 250мг n20",
+                           "price" : "25.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.8654,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №317 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Истра",
+                           "latitude" : 55.9201,
+                           "address" : "Советская улица, 22, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "28",
+                           "quantity" : "4",
+                           "name" : "Амоксициллин табл. 250мг n20",
+                           "price" : "26"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амоксициллин (в форме тригидрата) + амоксициллин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

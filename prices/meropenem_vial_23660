@@ -1,0 +1,115 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "meropenem_vial",
+            "rus_name" : "Меропенем-виал",
+            "form" : "порошок д/пригот. р-ра д/в/в введения 1 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "meropenem_vial",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6016,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Семья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999785551"
+                              },
+                              {
+                                 "number" : "+74999730180"
+                              }
+                           ],
+                           "phone" : "+74999785551; +74999730180",
+                           "city" : "Москва",
+                           "latitude" : 55.7809,
+                           "address" : "Сущёвская улица, 13/15"
+                        },
+                        "drug" : {
+                           "descid" : "5660",
+                           "quantity" : "10",
+                           "name" : "Меропенем-виал пор в/в введ. 1г 1",
+                           "price" : "335"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6333,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955856015"
+                              },
+                              {
+                                 "number" : "+79162130905"
+                              }
+                           ],
+                           "phone" : "+74955856015; +79162130905",
+                           "city" : "Москва",
+                           "latitude" : 55.7856,
+                           "address" : "улица Гиляровского, 50"
+                        },
+                        "drug" : {
+                           "descid" : "5660",
+                           "quantity" : "1",
+                           "name" : "Меропенем-виал пор д/и в/в 1г фл",
+                           "price" : "320.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7934,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИНАД-ЭКСПЕРТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956522369"
+                              },
+                              {
+                                 "number" : "+74956522370"
+                              }
+                           ],
+                           "phone" : "+74956522369; +74956522370",
+                           "city" : "Москва",
+                           "latitude" : 55.7997,
+                           "address" : "7-я Парковая улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "5660",
+                           "quantity" : "33",
+                           "name" : "Меропенем-виал пор. 1 г фл.",
+                           "price" : "12844"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "меропенем"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

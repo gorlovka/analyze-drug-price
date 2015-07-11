@@ -1,0 +1,184 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "enbrel",
+            "rus_name" : "Энбрел",
+            "form" : "лиофилизат д/пригот. р-ра д/п/к введения 25 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 6,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "enbrel",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6748,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490244"
+                              }
+                           ],
+                           "phone" : "+74996490244",
+                           "city" : "Москва",
+                           "latitude" : 55.7464,
+                           "address" : "улица Сергия Радонежского, 8"
+                        },
+                        "drug" : {
+                           "descid" : "5345",
+                           "quantity" : "10",
+                           "name" : "Энбрел лиоф д/ин 25мг 4 /+ р-тель, шприц, салф/",
+                           "price" : "24089"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6155,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490248"
+                              }
+                           ],
+                           "phone" : "+74996490248",
+                           "city" : "Москва",
+                           "latitude" : 55.794,
+                           "address" : "Шереметьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5345",
+                           "quantity" : "10",
+                           "name" : "Энбрел лиоф д/ин 25мг 4 /+ р-тель, шприц, салф/",
+                           "price" : "24089"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5366,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Pharmacorp Ltd",
+                           "phones" : [
+                              {
+                                 "number" : "+74993911628"
+                              }
+                           ],
+                           "phone" : "+74993911628",
+                           "city" : "Москва",
+                           "latitude" : 55.7471,
+                           "address" : "Пресненская набережная, 10блокС"
+                        },
+                        "drug" : {
+                           "descid" : "5345",
+                           "quantity" : "3",
+                           "name" : "Энбрел лиоф д/ин 25мг 4",
+                           "price" : "28900"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "5345",
+                           "quantity" : "1",
+                           "name" : "Энбрел лиоф д/приг р-ра д/п/к введ амп 25мг 4",
+                           "price" : "21000"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "5345",
+                           "quantity" : "2",
+                           "name" : "Энбрел лиоф для п/к введения 25мг фл раст,шпр,иг,с n4",
+                           "price" : "27350"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5959,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953882348"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74953882348; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.5844,
+                           "address" : "Варшавское шоссе, 158 к2"
+                        },
+                        "drug" : {
+                           "descid" : "5345",
+                           "quantity" : "2",
+                           "name" : "Энбрел лиоф. д/р-ра п/к фл. 25мг 4",
+                           "price" : "29472"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "этанерцепт"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

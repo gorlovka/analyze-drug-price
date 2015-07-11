@@ -1,0 +1,137 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "sevorane",
+            "rus_name" : "Севоран",
+            "form" : "жидкость д/ингал. 250 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "sevorane",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "2600",
+                           "quantity" : "7",
+                           "name" : "Севоран жидкость д/инг 250мл 1фл",
+                           "price" : "8500"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "2600",
+                           "quantity" : "3",
+                           "name" : "Севоран,флакон, 250 мл",
+                           "price" : "8500"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4172,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МЕДЦЕНТР-МОСИНТУР ЛТД&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955061407"
+                              },
+                              {
+                                 "number" : "+74952238910"
+                              }
+                           ],
+                           "phone" : "+74955061407; +74952238910",
+                           "city" : "Москва",
+                           "latitude" : 55.7302,
+                           "address" : "Кунцевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "2600",
+                           "quantity" : "5",
+                           "name" : "Севоран 250 мл 1 фл.",
+                           "price" : "10261.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "2600",
+                           "quantity" : "1",
+                           "name" : "Севоран 250мл фл.",
+                           "price" : "9397"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "севофлуран"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

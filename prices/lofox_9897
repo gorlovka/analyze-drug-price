@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "lofox",
+            "rus_name" : "Лофокс®",
+            "form" : "таб., покр. пленочной оболочкой, 400 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "lofox",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6543,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»2",
+                           "phones" : [
+                              {
+                                 "number" : "+74955325351"
+                              }
+                           ],
+                           "phone" : "+74955325351",
+                           "city" : "Москва",
+                           "latitude" : 55.7369,
+                           "address" : "улица Большие Каменщики, 6"
+                        },
+                        "drug" : {
+                           "descid" : "3389",
+                           "quantity" : "1",
+                           "name" : "Лофокс 400мг n5 таб.",
+                           "price" : "63"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "3389",
+                           "quantity" : "15",
+                           "name" : "Лофокс тб п/о 400мг бл n5",
+                           "price" : "89"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ломефлоксацин (в форме гидрохлорида)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

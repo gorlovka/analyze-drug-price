@@ -1,0 +1,52 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "vivorax",
+            "rus_name" : "Виворакс",
+            "form" : "крем д/наружн. прим. 50 мг/1 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "vivorax",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7482,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Верхние поля",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6655,
+                           "address" : "улица Верхние Поля, 9 к2 с4"
+                        },
+                        "drug" : {
+                           "descid" : "1642",
+                           "quantity" : "1",
+                           "name" : "Виворакс 5г крем",
+                           "price" : "61.11"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ацикловир"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

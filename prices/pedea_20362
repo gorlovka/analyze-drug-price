@@ -1,0 +1,109 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "pedea",
+            "rus_name" : "Педеа®",
+            "form" : "р-р д/в/в введения 10 мг/2 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "pedea",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6355,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья г.Москва Север",
+                           "phones" : [
+                              {
+                                 "number" : "+74951236674"
+                              },
+                              {
+                                 "number" : "+74957750824"
+                              }
+                           ],
+                           "phone" : "+74951236674; +74957750824",
+                           "city" : "Москва",
+                           "latitude" : 55.7846,
+                           "address" : "проспект Мира, 56 с1"
+                        },
+                        "drug" : {
+                           "descid" : "4831",
+                           "quantity" : "1",
+                           "name" : "Педеа??? д/ин 5мг/мл 2мл 4",
+                           "price" : "9820"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7185,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ВОСТОК",
+                           "phones" : [
+                              {
+                                 "number" : "+74957853979"
+                              }
+                           ],
+                           "phone" : "+74957853979",
+                           "city" : "Москва",
+                           "latitude" : 55.7841,
+                           "address" : "улица Измайловский Вал, 2а"
+                        },
+                        "drug" : {
+                           "descid" : "4831",
+                           "quantity" : "1",
+                           "name" : "Педеа ??? раствор 5мг/мл 2мл 4",
+                           "price" : "9815"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7154,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья-2",
+                           "phones" : [
+                              {
+                                 "number" : "+74956264772"
+                              }
+                           ],
+                           "phone" : "+74956264772",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "Просторная улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "4831",
+                           "quantity" : "1",
+                           "name" : "Педеа д/ин 5мг/мл 2мл 4",
+                           "price" : "18900"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ибупрофен"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,134 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "galantamine_teva",
+            "rus_name" : "Галантамин-тева",
+            "form" : "таб., покр. пленочной оболочкой, 4 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "galantamine_teva",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7974,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №482",
+                           "phones" : [
+                              {
+                                 "number" : "+79250943805"
+                              }
+                           ],
+                           "phone" : "+79250943805",
+                           "city" : "Москва",
+                           "latitude" : 55.8202,
+                           "address" : "Уральская улица, 17"
+                        },
+                        "drug" : {
+                           "descid" : "6729",
+                           "quantity" : "1",
+                           "name" : "Галантамин-тева табл.п.о. 4мг n14",
+                           "price" : "555"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7428,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №1 038",
+                           "phones" : [
+                              {
+                                 "number" : "+74967936481"
+                              }
+                           ],
+                           "phone" : "+74967936481",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4502,
+                           "address" : "улица Гагарина, 50, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "6729",
+                           "quantity" : "1",
+                           "name" : "Галантамин-тева табл.п.о. 4мг n14",
+                           "price" : "584"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7439,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74967936484"
+                              }
+                           ],
+                           "phone" : "+74967936484",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4503,
+                           "address" : "улица Гагарина, 50"
+                        },
+                        "drug" : {
+                           "descid" : "6729",
+                           "quantity" : "1",
+                           "name" : "Галантамин-тева табл.п.о. 4мг n14",
+                           "price" : "584"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.444,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 451",
+                           "phones" : [
+                              {
+                                 "number" : "+74965736022"
+                              },
+                              {
+                                 "number" : "+79104810634"
+                              }
+                           ],
+                           "phone" : "+74965736022; +79104810634",
+                           "city" : "Электросталь",
+                           "latitude" : 55.7774,
+                           "address" : "улица Мира, 18, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "6729",
+                           "quantity" : "3",
+                           "name" : "Галантамин-тева табл.п.о. 4мг n14",
+                           "price" : "529"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "галантамин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

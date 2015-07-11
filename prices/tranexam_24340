@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "tranexam",
+            "rus_name" : "Транексам®",
+            "form" : "таб., покр. пленочной оболочкой, 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "tranexam",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6388,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»4 (ООО &quot;Сэсса Фарм плюс&quot;)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956649436"
+                              }
+                           ],
+                           "phone" : "+74956649436",
+                           "city" : "Москва",
+                           "latitude" : 55.813,
+                           "address" : "проспект Мира, 122"
+                        },
+                        "drug" : {
+                           "descid" : "3629",
+                           "quantity" : "2",
+                           "name" : "Транексам 500мг n10 таб.",
+                           "price" : "358"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "транексамовая кислота"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

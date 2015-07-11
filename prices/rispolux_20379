@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "rispolux",
+            "rus_name" : "Рисполюкс®",
+            "form" : "таб., покр. пленочной обол., 1 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "rispolux",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4761,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МРБ Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959470206"
+                              }
+                           ],
+                           "phone" : "+74959470206",
+                           "city" : "Москва",
+                           "latitude" : 55.7792,
+                           "address" : "улица Народного Ополчения, 23 к3"
+                        },
+                        "drug" : {
+                           "descid" : "4836",
+                           "quantity" : "1",
+                           "name" : "Рисполюкс 0,002 n20 табл п/о",
+                           "price" : "447.6"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "рисперидон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

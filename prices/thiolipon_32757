@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "thiolipon",
+            "rus_name" : "Тиолипон",
+            "form" : "таб., покр. пленочной оболочкой, 300 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "thiolipon",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "4763",
+                           "quantity" : "1",
+                           "name" : "Тиолипон 300мг 30 таб п/о",
+                           "price" : "432"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.467,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490241"
+                              }
+                           ],
+                           "phone" : "+74996490241",
+                           "city" : "Москва",
+                           "latitude" : 55.8165,
+                           "address" : "Волоколамское шоссе, 56 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4763",
+                           "quantity" : "10",
+                           "name" : "Тиолипон таб покр пл/о 300мг 30",
+                           "price" : "342.52"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тиоктовая (-липоевая) кислота + тиоктовая кислота"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

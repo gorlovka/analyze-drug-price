@@ -1,0 +1,137 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "mono_mack",
+            "rus_name" : "Моно мак",
+            "form" : "таб. 40 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "mono_mack",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6355,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья г.Москва Север",
+                           "phones" : [
+                              {
+                                 "number" : "+74951236674"
+                              },
+                              {
+                                 "number" : "+74957750824"
+                              }
+                           ],
+                           "phone" : "+74951236674; +74957750824",
+                           "city" : "Москва",
+                           "latitude" : 55.7846,
+                           "address" : "проспект Мира, 56 с1"
+                        },
+                        "drug" : {
+                           "descid" : "3094",
+                           "quantity" : "2",
+                           "name" : "Моно-мак 40мг тб. 30",
+                           "price" : "43"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8722,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955596075"
+                              },
+                              {
+                                 "number" : "+74955590344"
+                              }
+                           ],
+                           "phone" : "+74955596075; +74955590344",
+                           "city" : "Люберцы",
+                           "latitude" : 55.6704,
+                           "address" : "Юбилейная улица, 17а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3094",
+                           "quantity" : "3",
+                           "name" : "Моно-мак табл. 40мг n50",
+                           "price" : "305"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0591,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строй-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79011846532"
+                              }
+                           ],
+                           "phone" : "+79011846532",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9009,
+                           "address" : "улица Ленина, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3094",
+                           "quantity" : "1",
+                           "name" : "Моно мак таб. 40мг 50",
+                           "price" : "312"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.0021,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №177",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "поселок городского типа Большие Вяземы",
+                           "latitude" : 55.6293,
+                           "address" : "Можайское шоссе, с8"
+                        },
+                        "drug" : {
+                           "descid" : "3094",
+                           "quantity" : "1",
+                           "name" : "Моно-мак табл. 40мг n30",
+                           "price" : "197"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "изосорбид-5-мононитрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

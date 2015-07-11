@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "vinpocetine",
+            "rus_name" : "Винпоцетин",
+            "form" : "конц. д/пригот. р-ра д/инф. 5 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "vinpocetin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6637,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; Форте&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956766200"
+                              },
+                              {
+                                 "number" : "+74955071442"
+                              }
+                           ],
+                           "phone" : "+74956766200; +74955071442",
+                           "city" : "Москва",
+                           "latitude" : 55.7299,
+                           "address" : "2-й Крутицкий переулок, 18с1"
+                        },
+                        "drug" : {
+                           "descid" : "74",
+                           "quantity" : "1",
+                           "name" : "Винпоцетин конц. д/р-ра д/инф. 5 мг/мл 5 мл 10 ампулы, эллара мц ооо",
+                           "price" : "115"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "винпоцетин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

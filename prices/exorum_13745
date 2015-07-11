@@ -1,0 +1,159 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "exorum",
+            "rus_name" : "Экзорум",
+            "form" : "лиофилизат д/пригот. р-ра д/инф. 100 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "exorum",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6333,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955856015"
+                              },
+                              {
+                                 "number" : "+79162130905"
+                              }
+                           ],
+                           "phone" : "+74955856015; +79162130905",
+                           "city" : "Москва",
+                           "latitude" : 55.7856,
+                           "address" : "улица Гиляровского, 50"
+                        },
+                        "drug" : {
+                           "descid" : "3983",
+                           "quantity" : "2",
+                           "name" : "Экзорум лиоф д/инф 100 мг фл",
+                           "price" : "3600"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6155,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490248"
+                              }
+                           ],
+                           "phone" : "+74996490248",
+                           "city" : "Москва",
+                           "latitude" : 55.794,
+                           "address" : "Шереметьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3983",
+                           "quantity" : "10",
+                           "name" : "Экзорум лиоф д/инф 100мг 1",
+                           "price" : "3024"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "3983",
+                           "quantity" : "10",
+                           "name" : "Экзорум лиоф д/инф 100мг 1",
+                           "price" : "3024"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490240"
+                              }
+                           ],
+                           "phone" : "+74996490240",
+                           "city" : "Москва",
+                           "latitude" : 55.6513,
+                           "address" : "Люблинская улица, 163/1"
+                        },
+                        "drug" : {
+                           "descid" : "3983",
+                           "quantity" : "10",
+                           "name" : "Экзорум лиоф д/инф 100мг 1",
+                           "price" : "3024"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3465,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Еврофармекс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955174654"
+                              }
+                           ],
+                           "phone" : "+74955174654",
+                           "city" : "Москва",
+                           "latitude" : 55.85,
+                           "address" : "Ангелов переулок, 9 к2"
+                        },
+                        "drug" : {
+                           "descid" : "3983",
+                           "quantity" : "5",
+                           "name" : "Экзорум лиоф д/инф 100мг фл n1",
+                           "price" : "12400"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "оксалиплатин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

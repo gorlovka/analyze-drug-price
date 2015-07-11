@@ -1,0 +1,109 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "l_thyroxin_akri",
+            "rus_name" : "L-тироксин-акри®",
+            "form" : "таб. 100 мкг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "l_thyroxin_akri",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.602,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Аптека 5 &quot;На Триумфальной&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956997993"
+                              },
+                              {
+                                 "number" : "+74956996243"
+                              }
+                           ],
+                           "phone" : "+74956997993; +74956996243",
+                           "city" : "Москва",
+                           "latitude" : 55.7703,
+                           "address" : "Воротниковский переулок, 8с1"
+                        },
+                        "drug" : {
+                           "descid" : "1341",
+                           "quantity" : "1",
+                           "name" : "L-тироксин-акри таб. 100мкг 100",
+                           "price" : "151"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5839,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;С-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957750767"
+                              }
+                           ],
+                           "phone" : "+74957750767",
+                           "city" : "Москва",
+                           "latitude" : 55.7751,
+                           "address" : "площадь Тверская Застава, 2с1"
+                        },
+                        "drug" : {
+                           "descid" : "1341",
+                           "quantity" : "2",
+                           "name" : "L-тироксин-акри 100мкг n100 табл акрихин хфк оао (россия)",
+                           "price" : "152.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Поляна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955437314"
+                              }
+                           ],
+                           "phone" : "+74955437314",
+                           "city" : "Москва",
+                           "latitude" : 55.8884,
+                           "address" : "Алтуфьевское шоссе, 70"
+                        },
+                        "drug" : {
+                           "descid" : "1341",
+                           "quantity" : "5",
+                           "name" : "L-тироксин-акри тб 100мкг блист n10x10",
+                           "price" : "147"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "левотироксин натрия"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

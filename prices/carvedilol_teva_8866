@@ -1,0 +1,159 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "carvedilol_teva",
+            "rus_name" : "Карведилол-тева",
+            "form" : "таб. 3.125 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "carvedilol_teva",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6302,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Эра Здоровья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959886458"
+                              },
+                              {
+                                 "number" : "+74957786458"
+                              }
+                           ],
+                           "phone" : "+74959886458; +74957786458",
+                           "city" : "Москва",
+                           "latitude" : 55.7431,
+                           "address" : "Пятницкий переулок, 3"
+                        },
+                        "drug" : {
+                           "descid" : "3177",
+                           "quantity" : "1",
+                           "name" : "Карведилол-тева табл 0,0125 30",
+                           "price" : "198"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5679,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Прагматэкс",
+                           "phones" : [
+                              {
+                                 "number" : "+74994817242"
+                              }
+                           ],
+                           "phone" : "+74994817242",
+                           "city" : "Москва",
+                           "latitude" : 55.8576,
+                           "address" : "Дубнинская улица, 2 к6"
+                        },
+                        "drug" : {
+                           "descid" : "3177",
+                           "quantity" : "3",
+                           "name" : "Карведилол-тева табл 0,025 30",
+                           "price" : "227"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8583,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 7",
+                           "phones" : [
+                              {
+                                 "number" : "+74993941225"
+                              }
+                           ],
+                           "phone" : "+74993941225",
+                           "city" : "Реутов",
+                           "latitude" : 55.7556,
+                           "address" : "улица Ленина, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3177",
+                           "quantity" : "2",
+                           "name" : "Карведилол- тева 25 n30 таб",
+                           "price" : "226.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9357,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 2",
+                           "phones" : [
+                              {
+                                 "number" : "+74965219407"
+                              }
+                           ],
+                           "phone" : "+74965219407",
+                           "city" : "Балашиха",
+                           "latitude" : 55.804,
+                           "address" : "Советская улица, 21, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3177",
+                           "quantity" : "2",
+                           "name" : "Карведилол- тева 25 n30 таб",
+                           "price" : "220"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.969,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 10",
+                           "phones" : [
+                              {
+                                 "number" : "+79256120252"
+                              }
+                           ],
+                           "phone" : "+79256120252",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7954,
+                           "address" : "улица Некрасова, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3177",
+                           "quantity" : "1",
+                           "name" : "Карведилол -тева 6,25 n30 таб",
+                           "price" : "258.3"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "карведилол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

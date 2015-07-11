@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "recombinate",
+            "rus_name" : "Рекомбинат",
+            "form" : "лиофилизат д/пригот. р-ра д/в/в введения 250 МЕ",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "recombinate",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6748,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490244"
+                              }
+                           ],
+                           "phone" : "+74996490244",
+                           "city" : "Москва",
+                           "latitude" : 55.7464,
+                           "address" : "улица Сергия Радонежского, 8"
+                        },
+                        "drug" : {
+                           "descid" : "2472",
+                           "quantity" : "10",
+                           "name" : "Рекомбинат лиоф д/ин 250 ме фл 1",
+                           "price" : "4111.71"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "2472",
+                           "quantity" : "10",
+                           "name" : "Рекомбинат лиоф д/ин 250 ме фл 1",
+                           "price" : "4111.71"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "октоког альфа"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

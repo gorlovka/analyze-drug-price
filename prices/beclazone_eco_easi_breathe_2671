@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "beclazone_eco_easi_breathe",
+            "rus_name" : "Беклазон эко легкое дыхание",
+            "form" : "аэрозоль д/ингал. дозированный, активируемый вдохом, 50 мкг/1 доза",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "beclazone_eco_easi_breathe",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.814,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74954682066"
+                              }
+                           ],
+                           "phone" : "+74954682066",
+                           "city" : "Москва",
+                           "latitude" : 55.8105,
+                           "address" : "Щёлковское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "1400",
+                           "quantity" : "1",
+                           "name" : "Беклазон эко легкое дыхание аэрозоль 100",
+                           "price" : "646"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "беклометазона дипропионат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

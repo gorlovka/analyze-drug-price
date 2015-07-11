@@ -1,0 +1,112 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "amoxicillin_ds",
+            "rus_name" : "Амоксициллин дс",
+            "form" : "капс. 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "amoxicillin_ds",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5994,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «МФК Помощь»",
+                           "phones" : [
+                              {
+                                 "number" : "+74999079744"
+                              }
+                           ],
+                           "phone" : "+74999079744",
+                           "city" : "Москва",
+                           "latitude" : 55.8634,
+                           "address" : "улица Санникова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "4795",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин дс 500мг 10 капс",
+                           "price" : "22"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7581,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармацевт Уздеников г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74953455000"
+                              },
+                              {
+                                 "number" : "+74953450310"
+                              }
+                           ],
+                           "phone" : "+74953455000; +74953450310",
+                           "city" : "Москва",
+                           "latitude" : 55.6496,
+                           "address" : "Мячковский бульвар, 18 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4795",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин дс капc 500мг блист n10x2",
+                           "price" : "45"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5887,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Ромашки",
+                           "phones" : [
+                              {
+                                 "number" : "+74999083503"
+                              },
+                              {
+                                 "number" : "+74999678645"
+                              }
+                           ],
+                           "phone" : "+74999083503; +74999678645",
+                           "city" : "Москва",
+                           "latitude" : 55.8993,
+                           "address" : "Алтуфьевское шоссе, 88"
+                        },
+                        "drug" : {
+                           "descid" : "4795",
+                           "quantity" : "1",
+                           "name" : "Амоксициллин дс, капс 500мг 10",
+                           "price" : "20.9"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амоксициллин (в форме тригидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

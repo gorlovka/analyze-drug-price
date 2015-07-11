@@ -1,0 +1,597 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "omnipaque",
+            "rus_name" : "Омнипак",
+            "form" : "р-р д/инъекц. 300 мг йода/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 23,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "omnipaque",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "2",
+                           "name" : "Омнипак р-р д/ин.фл.300мг-100мл 1р",
+                           "price" : "1626"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5795,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №615",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7601,
+                           "address" : "Баррикадная улица, 19 с3"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "7450"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6075,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №390",
+                           "phones" : [
+                              {
+                                 "number" : "+74999788881"
+                              }
+                           ],
+                           "phone" : "+74999788881",
+                           "city" : "Москва",
+                           "latitude" : 55.7767,
+                           "address" : "Краснопролетарская улица, 14/2"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "2",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "8349"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.675,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №658 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7385,
+                           "address" : "Нижегородская улица, 2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 100мл n1",
+                           "price" : "1613"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6333,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955856015"
+                              },
+                              {
+                                 "number" : "+79162130905"
+                              }
+                           ],
+                           "phone" : "+74955856015; +79162130905",
+                           "city" : "Москва",
+                           "latitude" : 55.7856,
+                           "address" : "улица Гиляровского, 50"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "2",
+                           "name" : "Омнипак р-р д/и 300мг йода/мл 50мл фл",
+                           "price" : "916.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6733,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ ФАРМ Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953635014"
+                              }
+                           ],
+                           "phone" : "+74953635014",
+                           "city" : "Москва",
+                           "latitude" : 55.7301,
+                           "address" : "Волгоградский проспект, 10"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак р-р д/и 300мг йода/мл 50мл фл n10",
+                           "price" : "880"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7084,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №486",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7818,
+                           "address" : "Большая Семёновская улица, 32"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "2",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "8200"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "10",
+                           "name" : "Омнипак р-р д/и 300мг йода/мл фл 100мл n10",
+                           "price" : "16300"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5352,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №490",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79099722438"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79099722438",
+                           "city" : "Москва",
+                           "latitude" : 55.6889,
+                           "address" : "улица Строителей, 6 к4"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "820"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4918,
+                           "roundtheclock" : 1,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №370",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6943,
+                           "address" : "Мичуринский проспект, 44б"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "908.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7752,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №318",
+                           "phones" : [
+                              {
+                                 "number" : "+74993671581"
+                              }
+                           ],
+                           "phone" : "+74993671581",
+                           "city" : "Москва",
+                           "latitude" : 55.7919,
+                           "address" : "Первомайская улица, 9/1"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "5548"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6068,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №847",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74996816157"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74996816157",
+                           "city" : "Москва",
+                           "latitude" : 55.6426,
+                           "address" : "Симферопольский бульвар, 37 к2"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "8436"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6051,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека А5",
+                           "phones" : [
+                              {
+                                 "number" : "+74956601628"
+                              }
+                           ],
+                           "phone" : "+74956601628",
+                           "city" : "Москва",
+                           "latitude" : 55.865,
+                           "address" : "улица Декабристов, 17"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "8023"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6876,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ-Фарм Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955148591"
+                              }
+                           ],
+                           "phone" : "+74955148591",
+                           "city" : "Москва",
+                           "latitude" : 55.8621,
+                           "address" : "улица Дудинка, 3"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "4",
+                           "name" : "Омнипак р-р д/и 300мг йода/мл 50мл фл",
+                           "price" : "916.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7504,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №417",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6607,
+                           "address" : "улица Перерва, 49"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "2",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "8200"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.764,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №367",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6637,
+                           "address" : "Перервинский бульвар, 1"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "820"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4764,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №312",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6456,
+                           "address" : "Ленинский проспект, 127"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "8010"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3375,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №1 123",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8164,
+                           "address" : "улица Чайковского, 8а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "5653"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3373,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955610855"
+                              }
+                           ],
+                           "phone" : "+74955610855",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8168,
+                           "address" : "улица Чайковского, 7"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "5653"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7428,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №1 038",
+                           "phones" : [
+                              {
+                                 "number" : "+74967936481"
+                              }
+                           ],
+                           "phone" : "+74967936481",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4502,
+                           "address" : "улица Гагарина, 50, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "5653"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7439,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74967936484"
+                              }
+                           ],
+                           "phone" : "+74967936484",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4503,
+                           "address" : "улица Гагарина, 50"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "5653"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8431,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 475 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "микрорайон Авиационный",
+                           "latitude" : 55.4134,
+                           "address" : "улица Ильюшина, 13/19, Московская область, Домодедово"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "3",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "8939"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5208,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 080",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74967622999"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74967622999",
+                           "city" : "Климовск",
+                           "latitude" : 55.3596,
+                           "address" : "улица Победы, 2/18, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак р-р д/ин. 300мг йода/мл флак. 50мл n10",
+                           "price" : "8279"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "йод (в форме йогексола)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

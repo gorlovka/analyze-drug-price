@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "calcium_gluconate_tablets_0_5",
+            "rus_name" : "Кальция глюконата таблетки 0.5 г",
+            "form" : "таб. 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "calcium_gluconate_tablets_0_5",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5251,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Фирма Здоровье г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991483745"
+                              },
+                              {
+                                 "number" : "+74991480456"
+                              }
+                           ],
+                           "phone" : "+74991483745; +74991480456",
+                           "city" : "Москва",
+                           "latitude" : 55.7361,
+                           "address" : "улица 1812 Года, 2"
+                        },
+                        "drug" : {
+                           "descid" : "6283",
+                           "quantity" : "45",
+                           "name" : "Кальция глюконата таблетки 0.5 г 10",
+                           "price" : "9"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кальция глюконат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,324 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "anafranil",
+            "rus_name" : "Анафранил®",
+            "form" : "р-р д/в/в и в/м введения 25 мг/2 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 11,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "anafranil",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6364,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люция&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959531618"
+                              },
+                              {
+                                 "number" : "+74959530128"
+                              }
+                           ],
+                           "phone" : "+74959531618; +74959530128",
+                           "city" : "Москва",
+                           "latitude" : 55.7316,
+                           "address" : "Новокузнецкая улица, 43/16"
+                        },
+                        "drug" : {
+                           "descid" : "1078",
+                           "quantity" : "2",
+                           "name" : "Анафранил, р-р д/инъ 25мг/2мл 10",
+                           "price" : "601"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5853,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аклауд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992504120"
+                              },
+                              {
+                                 "number" : "+74992504001"
+                              }
+                           ],
+                           "phone" : "+74992504120; +74992504001",
+                           "city" : "Москва",
+                           "latitude" : 55.7736,
+                           "address" : "2-я Брестская улица, 37 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1078",
+                           "quantity" : "1",
+                           "name" : "Анафранил, р-р д/инъ 25мг/2мл 10",
+                           "price" : "732"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6094,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобал-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217612"
+                              },
+                              {
+                                 "number" : "+74959217601"
+                              }
+                           ],
+                           "phone" : "+74959217612; +74959217601",
+                           "city" : "Москва",
+                           "latitude" : 55.7208,
+                           "address" : "улица Шаболовка, 24"
+                        },
+                        "drug" : {
+                           "descid" : "1078",
+                           "quantity" : "1",
+                           "name" : "Анафранил, р-р д/инъ 25мг/2мл 10",
+                           "price" : "585"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5878,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Калина Фарм МСК",
+                           "phones" : [
+                              {
+                                 "number" : "+74991267745"
+                              },
+                              {
+                                 "number" : "+74956646053"
+                              },
+                              {
+                                 "number" : "+74956646056"
+                              },
+                              {
+                                 "number" : "+78005500321"
+                              }
+                           ],
+                           "phone" : "+74991267745; +74956646053; +74956646056; +78005500321",
+                           "city" : "Москва",
+                           "latitude" : 55.6915,
+                           "address" : "улица Шверника, 12/2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1078",
+                           "quantity" : "1",
+                           "name" : "Анафранил, р-р д/инъ 25мг/2мл 10",
+                           "price" : "635"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7452,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490238"
+                              }
+                           ],
+                           "phone" : "+74996490238",
+                           "city" : "Москва",
+                           "latitude" : 55.6968,
+                           "address" : "улица Чистова, 16к1"
+                        },
+                        "drug" : {
+                           "descid" : "1078",
+                           "quantity" : "10",
+                           "name" : "Анафранил р-р д/ин 25мг 2мл 10",
+                           "price" : "724.64"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.465,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 2 (ООО Феерия Фарм Плюс)",
+                           "phones" : [
+                              {
+                                 "number" : "+74997204839"
+                              }
+                           ],
+                           "phone" : "+74997204839",
+                           "city" : "Москва",
+                           "latitude" : 55.8077,
+                           "address" : "улица Маршала Василевского, 15"
+                        },
+                        "drug" : {
+                           "descid" : "1078",
+                           "quantity" : "1",
+                           "name" : "Анафранил, р-р д/инъ 25мг 2мл 10",
+                           "price" : "420"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957879355"
+                              }
+                           ],
+                           "phone" : "+74957879355",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "5-я Парковая улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "1078",
+                           "quantity" : "1",
+                           "name" : "Анафранил, р-р д/инъ 25мг 2мл 10",
+                           "price" : "769"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "1078",
+                           "quantity" : "10",
+                           "name" : "Анафранил р-р д/ин 25мг 2мл 10",
+                           "price" : "735.31"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490240"
+                              }
+                           ],
+                           "phone" : "+74996490240",
+                           "city" : "Москва",
+                           "latitude" : 55.6513,
+                           "address" : "Люблинская улица, 163/1"
+                        },
+                        "drug" : {
+                           "descid" : "1078",
+                           "quantity" : "10",
+                           "name" : "Анафранил р-р д/ин 25мг 2мл 10",
+                           "price" : "768.35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "1078",
+                           "quantity" : "1",
+                           "name" : "Анафранил раствор для инъекций 25мг/2мл 10 ампулы",
+                           "price" : "669"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8502,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Цветочки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959732898"
+                              }
+                           ],
+                           "phone" : "+74959732898",
+                           "city" : "Москва",
+                           "latitude" : 55.7013,
+                           "address" : "Лермонтовский проспект, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1078",
+                           "quantity" : "1",
+                           "name" : "Анафранил, р-р д/инъ 25мг 2мл 10",
+                           "price" : "672"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кломипрамина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

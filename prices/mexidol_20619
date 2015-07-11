@@ -1,0 +1,87 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "mexidol",
+            "rus_name" : "Мексидол®",
+            "form" : "р-р д/в/в и в/м введения 250 мг/5 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "mexidol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4172,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МЕДЦЕНТР-МОСИНТУР ЛТД&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955061407"
+                              },
+                              {
+                                 "number" : "+74952238910"
+                              }
+                           ],
+                           "phone" : "+74955061407; +74952238910",
+                           "city" : "Москва",
+                           "latitude" : 55.7302,
+                           "address" : "Кунцевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1061",
+                           "quantity" : "5",
+                           "name" : "Мексидол р-р д в/в и в/м 5мл 5 ампул",
+                           "price" : "409.96"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3244,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НОТА-БЕНА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994096060"
+                              },
+                              {
+                                 "number" : "+74955658916"
+                              }
+                           ],
+                           "phone" : "+74994096060; +74955658916",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8067,
+                           "address" : "Южный бульвар, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1061",
+                           "quantity" : "1",
+                           "name" : "Мексидол р-р в/м, в/в 5мл 5",
+                           "price" : "437"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "этилметилгидроксипиридина сукцинат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

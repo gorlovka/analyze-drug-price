@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "sprycel",
+            "rus_name" : "Спрайсел®",
+            "form" : "таб., покр. пленочной обол., 50 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "sprycel",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6344,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490250"
+                              }
+                           ],
+                           "phone" : "+74996490250",
+                           "city" : "Москва",
+                           "latitude" : 55.7842,
+                           "address" : "проспект Мира, 51"
+                        },
+                        "drug" : {
+                           "descid" : "4417",
+                           "quantity" : "10",
+                           "name" : "Спрайсел таб п/о 50мг 60",
+                           "price" : "163852"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.499,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АПТЕКА Формула Здоровья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956268343"
+                              }
+                           ],
+                           "phone" : "+74956268343",
+                           "city" : "Москва",
+                           "latitude" : 55.7021,
+                           "address" : "улица Столетова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "4417",
+                           "quantity" : "1",
+                           "name" : "Спрайсел ??? тб 50мг 60",
+                           "price" : "99000"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "дазатиниб"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

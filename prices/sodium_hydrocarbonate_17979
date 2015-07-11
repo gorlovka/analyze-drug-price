@@ -1,0 +1,159 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "sodium_hydrocarbonate",
+            "rus_name" : "Натрия гидрокарбонат",
+            "form" : "порошок д/пригот. р-ра д/приема внутрь и местн. прим. 10 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "sodium_hydrocarbonate",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490237"
+                              }
+                           ],
+                           "phone" : "+74996490237",
+                           "city" : "Москва",
+                           "latitude" : 55.7741,
+                           "address" : "Бауманская улица, 26 с1"
+                        },
+                        "drug" : {
+                           "descid" : "3802",
+                           "quantity" : "10",
+                           "name" : "Натрия гидрокарбонат пор 10г",
+                           "price" : "33.46"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.467,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490241"
+                              }
+                           ],
+                           "phone" : "+74996490241",
+                           "city" : "Москва",
+                           "latitude" : 55.8165,
+                           "address" : "Волоколамское шоссе, 56 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3802",
+                           "quantity" : "10",
+                           "name" : "Натрия гидрокарбонат пор 10г",
+                           "price" : "33.61"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "3802",
+                           "quantity" : "10",
+                           "name" : "Натрия гидрокарбонат пор 10г",
+                           "price" : "34.06"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490240"
+                              }
+                           ],
+                           "phone" : "+74996490240",
+                           "city" : "Москва",
+                           "latitude" : 55.6513,
+                           "address" : "Люблинская улица, 163/1"
+                        },
+                        "drug" : {
+                           "descid" : "3802",
+                           "quantity" : "10",
+                           "name" : "Натрия гидрокарбонат пор 10г",
+                           "price" : "32.95"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4407,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №279",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74956627931"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74956627931",
+                           "city" : "Химки",
+                           "latitude" : 55.8917,
+                           "address" : "Пролетарская улица, 11, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3802",
+                           "quantity" : "5",
+                           "name" : "Натрия гидрокарбонат пор. 10г",
+                           "price" : "0.6"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "натрия гидрокарбонат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

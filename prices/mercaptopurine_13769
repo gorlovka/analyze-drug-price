@@ -1,0 +1,839 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "mercaptopurine",
+            "rus_name" : "Меркаптопурин",
+            "form" : "таб. 50 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 31,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "mercaptopurine",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва (Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992382865"
+                              },
+                              {
+                                 "number" : "+74992387410"
+                              }
+                           ],
+                           "phone" : "+74992382865; +74992387410",
+                           "city" : "Москва",
+                           "latitude" : 55.7341,
+                           "address" : "улица Большая Полянка, 30"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "36",
+                           "name" : "Меркаптопурин таб 50мг n25",
+                           "price" : "850"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "28",
+                           "name" : "Меркаптопурин таб 50мг n 25",
+                           "price" : "856"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "49",
+                           "name" : "Меркаптопурин 50мг 25 табл",
+                           "price" : "825"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5901,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490247"
+                              }
+                           ],
+                           "phone" : "+74996490247",
+                           "city" : "Москва",
+                           "latitude" : 55.7732,
+                           "address" : "1-я Тверская-Ямская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "10",
+                           "name" : "Меркаптопурин таб 50мг 25",
+                           "price" : "856"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955451350"
+                              },
+                              {
+                                 "number" : "+79262305469"
+                              }
+                           ],
+                           "phone" : "+74955451350; +79262305469",
+                           "city" : "Москва",
+                           "latitude" : 55.7384,
+                           "address" : "Марксистская улица, 3 с1"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "19",
+                           "name" : "Меркаптопурин тб 50мг фл n25",
+                           "price" : "850"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5847,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диасфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266856"
+                              },
+                              {
+                                 "number" : "+74956266857"
+                              }
+                           ],
+                           "phone" : "+74956266856; +74956266857",
+                           "city" : "Москва",
+                           "latitude" : 55.7756,
+                           "address" : "1-я Брестская улица, 66"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "6",
+                           "name" : "Меркаптопурин 50мг 25 табл",
+                           "price" : "830"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6016,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Семья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999785551"
+                              },
+                              {
+                                 "number" : "+74999730180"
+                              }
+                           ],
+                           "phone" : "+74999785551; +74999730180",
+                           "city" : "Москва",
+                           "latitude" : 55.7809,
+                           "address" : "Сущёвская улица, 13/15"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "10",
+                           "name" : "Меркаптопурин 0.05 n25",
+                           "price" : "825"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6087,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.7192,
+                           "address" : "улица Шаболовка, 30/12"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "14",
+                           "name" : "Меркаптопурин таб. 50мг 25",
+                           "price" : "810"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6344,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490250"
+                              }
+                           ],
+                           "phone" : "+74996490250",
+                           "city" : "Москва",
+                           "latitude" : 55.7842,
+                           "address" : "проспект Мира, 51"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "10",
+                           "name" : "Меркаптопурин таб 50мг 25",
+                           "price" : "856"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490249"
+                              }
+                           ],
+                           "phone" : "+74996490249",
+                           "city" : "Москва",
+                           "latitude" : 55.7227,
+                           "address" : "Фрунзенская набережная, 36/2"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "10",
+                           "name" : "Меркаптопурин таб 50мг 25",
+                           "price" : "856"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "131",
+                           "name" : "Меркаптопурин,таблетки,50мг 25шт",
+                           "price" : "835"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6733,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ ФАРМ Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953635014"
+                              }
+                           ],
+                           "phone" : "+74953635014",
+                           "city" : "Москва",
+                           "latitude" : 55.7301,
+                           "address" : "Волгоградский проспект, 10"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "3",
+                           "name" : "Меркаптопурин тб 50мг фл n25",
+                           "price" : "856.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490237"
+                              }
+                           ],
+                           "phone" : "+74996490237",
+                           "city" : "Москва",
+                           "latitude" : 55.7741,
+                           "address" : "Бауманская улица, 26 с1"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "10",
+                           "name" : "Меркаптопурин таб 50мг 25",
+                           "price" : "856"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5479,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992156351"
+                              }
+                           ],
+                           "phone" : "+74992156351",
+                           "city" : "Москва",
+                           "latitude" : 55.7583,
+                           "address" : "Шмитовский проезд, 16 с2"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "10",
+                           "name" : "Меркаптопурин таб 50мг 25",
+                           "price" : "856"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6155,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490248"
+                              }
+                           ],
+                           "phone" : "+74996490248",
+                           "city" : "Москва",
+                           "latitude" : 55.794,
+                           "address" : "Шереметьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "10",
+                           "name" : "Меркаптопурин таб 50мг 25",
+                           "price" : "856"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5715,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.688,
+                           "address" : "улица Дмитрия Ульянова, 20 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "7",
+                           "name" : "Меркаптопурин таб. 50мг 25",
+                           "price" : "810"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "41",
+                           "name" : "Меркаптопурин 0.05 n25",
+                           "price" : "825"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490242"
+                              }
+                           ],
+                           "phone" : "+74996490242",
+                           "city" : "Москва",
+                           "latitude" : 55.7755,
+                           "address" : "проспект Маршала Жукова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "10",
+                           "name" : "Меркаптопурин таб 50мг 25",
+                           "price" : "856"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "50",
+                           "name" : "Меркаптопурин тб 50мг фл n25",
+                           "price" : "825"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6662,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6776,
+                           "address" : "улица Новинки, 1"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "5",
+                           "name" : "Меркаптопурин таб. 50мг 25",
+                           "price" : "810"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6187,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «ФармПрогресс»",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6536,
+                           "address" : "Чонгарский бульвар, вл2А"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "3",
+                           "name" : "Меркаптопурин таб. 50мг 25",
+                           "price" : "858"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5057,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «ФармПрогресс»",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6754,
+                           "address" : "проспект Вернадского, 39"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "1",
+                           "name" : "Меркаптопурин таб. 50мг 25",
+                           "price" : "815"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.467,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490241"
+                              }
+                           ],
+                           "phone" : "+74996490241",
+                           "city" : "Москва",
+                           "latitude" : 55.8165,
+                           "address" : "Волоколамское шоссе, 56 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "10",
+                           "name" : "Меркаптопурин таб 50мг 25",
+                           "price" : "856"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7934,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИНАД-ЭКСПЕРТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956522369"
+                              },
+                              {
+                                 "number" : "+74956522370"
+                              }
+                           ],
+                           "phone" : "+74956522369; +74956522370",
+                           "city" : "Москва",
+                           "latitude" : 55.7997,
+                           "address" : "7-я Парковая улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "10",
+                           "name" : "Меркаптопурин 50 мг таб. 25",
+                           "price" : "850"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8017,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.7936,
+                           "address" : "Первомайская улица, 81"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "1",
+                           "name" : "Меркаптопурин таб. 50мг 25",
+                           "price" : "810"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6876,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ-Фарм Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955148591"
+                              }
+                           ],
+                           "phone" : "+74955148591",
+                           "city" : "Москва",
+                           "latitude" : 55.8621,
+                           "address" : "улица Дудинка, 3"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "2",
+                           "name" : "Меркаптопурин тб 50мг фл n25",
+                           "price" : "750.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "10",
+                           "name" : "Меркаптопурин таб 50мг 25",
+                           "price" : "856"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "8",
+                           "name" : "Меркаптопурин 50мг таб. 25",
+                           "price" : "840"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490240"
+                              }
+                           ],
+                           "phone" : "+74996490240",
+                           "city" : "Москва",
+                           "latitude" : 55.6513,
+                           "address" : "Люблинская улица, 163/1"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "10",
+                           "name" : "Меркаптопурин таб 50мг 25",
+                           "price" : "856"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9338,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7949,
+                           "address" : "Советская улица, 1/7, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "1",
+                           "name" : "Меркаптопурин таб. 50мг 25",
+                           "price" : "810"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5636,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «ФармПрогресс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Щербинка",
+                           "latitude" : 55.5103,
+                           "address" : "Пушкинская улица, 2, Москва"
+                        },
+                        "drug" : {
+                           "descid" : "3991",
+                           "quantity" : "2",
+                           "name" : "Меркаптопурин таб. 50мг 25",
+                           "price" : "858"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "меркаптопурин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

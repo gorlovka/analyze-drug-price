@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "vero_ribavirin",
+            "rus_name" : "Веро-рибавирин",
+            "form" : "капс. 200 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "vero_ribavirin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3956,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №485",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.806,
+                           "address" : "Строгинский бульвар, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1375",
+                           "quantity" : "1",
+                           "name" : "Веро-рибавирин капс. 200мг n60",
+                           "price" : "4297"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4351,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №466",
+                           "phones" : [
+                              {
+                                 "number" : "+74995004024"
+                              }
+                           ],
+                           "phone" : "+74995004024",
+                           "city" : "Москва",
+                           "latitude" : 55.8628,
+                           "address" : "Планерная улица, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1375",
+                           "quantity" : "2",
+                           "name" : "Веро-рибавирин капс. 200мг n60",
+                           "price" : "4297"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "рибавирин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "adrenaline",
+            "rus_name" : "Адреналин",
+            "form" : "р-р д/местн. прим. 0.1%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "adrenaline",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5498,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Феникс-Мир",
+                           "phones" : [
+                              {
+                                 "number" : "+74956563926"
+                              }
+                           ],
+                           "phone" : "+74956563926",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "Красноармейская улица, 2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3469",
+                           "quantity" : "1",
+                           "name" : "Адреналин г/хл 0.1% р-р местн. прим. 30мл б м московский эндокринный завод фгуп(россия)",
+                           "price" : "78"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "эпинефрина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

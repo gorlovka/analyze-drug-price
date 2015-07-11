@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "novoseven",
+            "rus_name" : "Новосэвен®",
+            "form" : "лиофилизат д/пригот. р-ра д/в/в введения 5 мг (250 КЕД)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "novoseven",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7878,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Формула Здоровья-4&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266768"
+                              }
+                           ],
+                           "phone" : "+74956266768",
+                           "city" : "Москва",
+                           "latitude" : 55.7158,
+                           "address" : "1-я Новокузьминская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "1368",
+                           "quantity" : "1",
+                           "name" : "Новосэвен??? лиоф д/ин 250кед 5мг 1",
+                           "price" : "65400"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "эптаког альфа (активированный)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

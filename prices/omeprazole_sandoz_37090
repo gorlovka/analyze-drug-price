@@ -1,0 +1,134 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "omeprazole_sandoz",
+            "rus_name" : "Омепразол сандоз",
+            "form" : "капс. кишечнорастворимые 20 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "omeprazole_sandoz",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "7607",
+                           "quantity" : "2",
+                           "name" : "Омепразол-сандоз капс 20мг 14",
+                           "price" : "18.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5116,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ТРИКА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991424869"
+                              }
+                           ],
+                           "phone" : "+74991424869",
+                           "city" : "Москва",
+                           "latitude" : 55.7454,
+                           "address" : "Багратионовский проезд, 1 с1"
+                        },
+                        "drug" : {
+                           "descid" : "7607",
+                           "quantity" : "5",
+                           "name" : "Омепразол-сандоз капс 20мг 28",
+                           "price" : "165"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Терра Вита&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996189219"
+                              }
+                           ],
+                           "phone" : "+74996189219",
+                           "city" : "Москва",
+                           "latitude" : 55.6806,
+                           "address" : "Нагатинская набережная, 16к3"
+                        },
+                        "drug" : {
+                           "descid" : "7607",
+                           "quantity" : "2",
+                           "name" : "Омепразол сандоз капс 20мг х 14",
+                           "price" : "89.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "7607",
+                           "quantity" : "1",
+                           "name" : "Омепразол сандоз 20 мг капс. 28",
+                           "price" : "177"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "омепразол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

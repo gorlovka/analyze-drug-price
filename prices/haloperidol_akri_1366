@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "haloperidol_akri",
+            "rus_name" : "Галоперидол-акри®",
+            "form" : "таб. 1.5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "haloperidol_akri",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;КедрФарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994093601"
+                              }
+                           ],
+                           "phone" : "+74994093601",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "Хорошёвское шоссе, 46"
+                        },
+                        "drug" : {
+                           "descid" : "715",
+                           "quantity" : "10",
+                           "name" : "Галоперидол-акри тб 1.5мг бл n10x5",
+                           "price" : "10"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "галоперидол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

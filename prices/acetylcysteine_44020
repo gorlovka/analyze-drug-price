@@ -1,0 +1,140 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "acetylcysteine",
+            "rus_name" : "Ацетилцистеин",
+            "form" : "таб. шипучие 600 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "acetylcysteine",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6708,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678623"
+                              }
+                           ],
+                           "phone" : "+74999678623",
+                           "city" : "Москва",
+                           "latitude" : 55.7032,
+                           "address" : "улица Трофимова, 13"
+                        },
+                        "drug" : {
+                           "descid" : "6594",
+                           "quantity" : "1",
+                           "name" : "Ацетилцистеин тбл шип. 600мг 10",
+                           "price" : "245"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5878,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Калина Фарм МСК",
+                           "phones" : [
+                              {
+                                 "number" : "+74991267745"
+                              },
+                              {
+                                 "number" : "+74956646053"
+                              },
+                              {
+                                 "number" : "+74956646056"
+                              },
+                              {
+                                 "number" : "+78005500321"
+                              }
+                           ],
+                           "phone" : "+74991267745; +74956646053; +74956646056; +78005500321",
+                           "city" : "Москва",
+                           "latitude" : 55.6915,
+                           "address" : "улица Шверника, 12/2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6594",
+                           "quantity" : "1",
+                           "name" : "Ацетилцистеин, тбл шип 600мг 12",
+                           "price" : "235"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6474,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Московская аптека ( 335 у ВДНХ)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956831423"
+                              }
+                           ],
+                           "phone" : "+74956831423",
+                           "city" : "Москва",
+                           "latitude" : 55.8256,
+                           "address" : "проспект Мира, 182"
+                        },
+                        "drug" : {
+                           "descid" : "6594",
+                           "quantity" : "5",
+                           "name" : "Ацетилцистеин 600мг n12 таб. шипучие лимон vitale-xd, ltd.",
+                           "price" : "249"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "6594",
+                           "quantity" : "1",
+                           "name" : "Ацетилцистеин 600мг 12 таблетки шипучие (лимон)",
+                           "price" : "216"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ацетилцистеин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

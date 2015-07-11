@@ -1,0 +1,184 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "risdonal",
+            "rus_name" : "Рисдонал®",
+            "form" : "таб., покр. оболочкой, 1 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 6,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "risdonal",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6302,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Эра Здоровья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959886458"
+                              },
+                              {
+                                 "number" : "+74957786458"
+                              }
+                           ],
+                           "phone" : "+74959886458; +74957786458",
+                           "city" : "Москва",
+                           "latitude" : 55.7431,
+                           "address" : "Пятницкий переулок, 3"
+                        },
+                        "drug" : {
+                           "descid" : "3240",
+                           "quantity" : "2",
+                           "name" : "Рисдонал табл п/о 0,002 20",
+                           "price" : "388"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6429,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Вега&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956247180"
+                              }
+                           ],
+                           "phone" : "+74956247180",
+                           "city" : "Москва",
+                           "latitude" : 55.7592,
+                           "address" : "улица Покровка, 9 с1"
+                        },
+                        "drug" : {
+                           "descid" : "3240",
+                           "quantity" : "1",
+                           "name" : "Рисдонал тбл п/о 1мг 20",
+                           "price" : "152"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959535296"
+                              }
+                           ],
+                           "phone" : "+74959535296",
+                           "city" : "Москва",
+                           "latitude" : 55.7362,
+                           "address" : "Новокузнецкая улица, 20/21-19 с5"
+                        },
+                        "drug" : {
+                           "descid" : "3240",
+                           "quantity" : "1",
+                           "name" : "Рисдонал, тбл п/о 1мг 20",
+                           "price" : "179"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957293797"
+                              }
+                           ],
+                           "phone" : "+74957293797",
+                           "city" : "Москва",
+                           "latitude" : 55.7638,
+                           "address" : "Малая Грузинская улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "3240",
+                           "quantity" : "1",
+                           "name" : "Рисдонал, тбл п/о 1мг 20",
+                           "price" : "179"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7138,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953604472"
+                              }
+                           ],
+                           "phone" : "+74953604472",
+                           "city" : "Москва",
+                           "latitude" : 55.7698,
+                           "address" : "Ухтомская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "3240",
+                           "quantity" : "1",
+                           "name" : "Рисдонал тбл п/о 1мг 20",
+                           "price" : "199"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.775,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОПТИФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953686195"
+                              }
+                           ],
+                           "phone" : "+74953686195",
+                           "city" : "Москва",
+                           "latitude" : 55.757,
+                           "address" : "1-я Владимирская улица, 14"
+                        },
+                        "drug" : {
+                           "descid" : "3240",
+                           "quantity" : "1",
+                           "name" : "Рисдонал тбл п/о 1мг 20",
+                           "price" : "191.2"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "рисперидон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

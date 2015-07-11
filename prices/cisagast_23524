@@ -1,0 +1,560 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "cisagast",
+            "rus_name" : "Цисагаст",
+            "form" : "капс. 20 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 21,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "cisagast",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.596,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678549"
+                              }
+                           ],
+                           "phone" : "+74999678549",
+                           "city" : "Москва",
+                           "latitude" : 55.7861,
+                           "address" : "Новослободская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "2",
+                           "name" : "Цисагаст, капс 20мг 14",
+                           "price" : "118"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "2",
+                           "name" : "Цисагаст, капс 20мг 14",
+                           "price" : "123.85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "3",
+                           "name" : "Цисагаст, капс 20мг 14",
+                           "price" : "141"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6708,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678623"
+                              }
+                           ],
+                           "phone" : "+74999678623",
+                           "city" : "Москва",
+                           "latitude" : 55.7032,
+                           "address" : "улица Трофимова, 13"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "1",
+                           "name" : "Цисагаст, капс 20мг 28",
+                           "price" : "199"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.721,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956733758"
+                              }
+                           ],
+                           "phone" : "+74956733758",
+                           "city" : "Москва",
+                           "latitude" : 55.7463,
+                           "address" : "Авиамоторная улица, 51"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "1",
+                           "name" : "Цисагаст, капс 20мг 28",
+                           "price" : "199.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.661,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Кобальт&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956834571"
+                              }
+                           ],
+                           "phone" : "+74956834571",
+                           "city" : "Москва",
+                           "latitude" : 55.8146,
+                           "address" : "Рижский проезд, 7"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "1",
+                           "name" : "Цисагаст, капс 20мг 14",
+                           "price" : "115"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.73,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авиценна Фарма 2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79263818740"
+                              },
+                              {
+                                 "number" : "+74997489553"
+                              }
+                           ],
+                           "phone" : "+79263818740; +74997489553",
+                           "city" : "Москва",
+                           "latitude" : 55.7795,
+                           "address" : "Измайловское шоссе, 29"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "20",
+                           "name" : "Цисагаст капс. кишечнораств. 20мг n28",
+                           "price" : "225"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.775,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОПТИФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953686195"
+                              }
+                           ],
+                           "phone" : "+74953686195",
+                           "city" : "Москва",
+                           "latitude" : 55.757,
+                           "address" : "1-я Владимирская улица, 14"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "2",
+                           "name" : "Цисагаст, капс 20мг 28",
+                           "price" : "222"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6043,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЭВЕРЕСТ&quot;.",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678592"
+                              }
+                           ],
+                           "phone" : "+74999678592",
+                           "city" : "Москва",
+                           "latitude" : 55.6579,
+                           "address" : "Болотниковская улица, 12 к3"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "1",
+                           "name" : "Цисагаст, капс 20мг 28",
+                           "price" : "215.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7862,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Парус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957702729"
+                              }
+                           ],
+                           "phone" : "+74957702729",
+                           "city" : "Москва",
+                           "latitude" : 55.7425,
+                           "address" : "Кусковская улица, 31 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "1",
+                           "name" : "Цисагаст, капс 20мг 14",
+                           "price" : "133.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.777,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;КВАРТЕТ-ФАРМА&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7126,
+                           "address" : "Зеленодольская улица, 22/14"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "1",
+                           "name" : "Цисагаст, капс 20мг 14",
+                           "price" : "138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.774,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Квартет-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957294831"
+                              }
+                           ],
+                           "phone" : "+74957294831",
+                           "city" : "Москва",
+                           "latitude" : 55.6994,
+                           "address" : "улица Юных Ленинцев, 87 с1"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "1",
+                           "name" : "Цисагаст, капс 20мг 14",
+                           "price" : "120"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4172,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МЕДЦЕНТР-МОСИНТУР ЛТД&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955061407"
+                              },
+                              {
+                                 "number" : "+74952238910"
+                              }
+                           ],
+                           "phone" : "+74955061407; +74952238910",
+                           "city" : "Москва",
+                           "latitude" : 55.7302,
+                           "address" : "Кунцевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "5",
+                           "name" : "Цисагаст капс. 20мг 28",
+                           "price" : "130.35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8205,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ИЗМАЙЛОВО",
+                           "phones" : [
+                              {
+                                 "number" : "+74956625463"
+                              }
+                           ],
+                           "phone" : "+74956625463",
+                           "city" : "Москва",
+                           "latitude" : 55.7745,
+                           "address" : "Большой Купавенский проезд, 4"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "1",
+                           "name" : "Цисагаст капс 20мг 28",
+                           "price" : "224.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.827,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 27",
+                           "phones" : [
+                              {
+                                 "number" : "+74953755628"
+                              }
+                           ],
+                           "phone" : "+74953755628",
+                           "city" : "Москва",
+                           "latitude" : 55.7403,
+                           "address" : "улица Старый Гай, 8б"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "2",
+                           "name" : "Цисагаст капс. 20мг 14",
+                           "price" : "135.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.831,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Формула Здоровья Вешняки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953750926"
+                              }
+                           ],
+                           "phone" : "+74953750926",
+                           "city" : "Москва",
+                           "latitude" : 55.7347,
+                           "address" : "Вешняковская улица, 17а"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "1",
+                           "name" : "Цисагаст капс 20мг 14",
+                           "price" : "134.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8074,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 16",
+                           "phones" : [
+                              {
+                                 "number" : "+74996827245"
+                              }
+                           ],
+                           "phone" : "+74996827245",
+                           "city" : "Москва",
+                           "latitude" : 55.8175,
+                           "address" : "Байкальская улица, 29"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "1",
+                           "name" : "Цисагаст капс. 20мг 28",
+                           "price" : "220.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "1",
+                           "name" : "Цисагаст 20мг 14 капсулы",
+                           "price" : "127"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5041,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (230, Проспект Пацаева)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956907934",
+                                 "additional" : [
+                                    "1388"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74956907934, доб. 1388",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9474,
+                           "address" : "проспект Пацаева, 7 к2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "1",
+                           "name" : "Цисагаст капс. 20мг 28",
+                           "price" : "210"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Атрика&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8106,
+                           "address" : "проспект Ленина, 06, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "1",
+                           "name" : "Цисагаст, капс 20мг 28",
+                           "price" : "202"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4735,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО(210, Золотухи)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965791414",
+                                 "additional" : [
+                                    "0921"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965791414, доб. 0921",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8053,
+                           "address" : "улица Золотухи, 8, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5610",
+                           "quantity" : "1",
+                           "name" : "Цисагаст капс. 20мг 28",
+                           "price" : "234"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "омепразол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "calcium_gluconate_lekt",
+            "rus_name" : "Кальция глюконат-лект",
+            "form" : "таб. 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "calcium_gluconate_lekt",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3684,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГудМедикал&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959711538"
+                              }
+                           ],
+                           "phone" : "+74959711538",
+                           "city" : "Московский",
+                           "latitude" : 55.5929,
+                           "address" : "Радужная улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "7193",
+                           "quantity" : "95",
+                           "name" : "Кальция глюконат-лект таб. 500мг 20",
+                           "price" : "12"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кальция глюконат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

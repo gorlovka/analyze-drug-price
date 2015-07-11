@@ -1,0 +1,112 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "hemapaxan",
+            "rus_name" : "Гемапаксан",
+            "form" : "р-р д/инъекц. 4000 анти-Ха МЕ/0.4 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "hemapaxan",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6333,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955856015"
+                              },
+                              {
+                                 "number" : "+79162130905"
+                              }
+                           ],
+                           "phone" : "+74955856015; +79162130905",
+                           "city" : "Москва",
+                           "latitude" : 55.7856,
+                           "address" : "улица Гиляровского, 50"
+                        },
+                        "drug" : {
+                           "descid" : "4890",
+                           "quantity" : "2",
+                           "name" : "Гемапаксан р-р д/и п/к 10 тыс.анти-ха ме/мл 0.4 мл шпр n2x3",
+                           "price" : "1149"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6733,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ ФАРМ Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953635014"
+                              }
+                           ],
+                           "phone" : "+74953635014",
+                           "city" : "Москва",
+                           "latitude" : 55.7301,
+                           "address" : "Волгоградский проспект, 10"
+                        },
+                        "drug" : {
+                           "descid" : "4890",
+                           "quantity" : "2",
+                           "name" : "Гемапаксан р-р д/и п/к 10 тыс.анти-ха ме/мл 0.4 мл шпр n2x3",
+                           "price" : "1110"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4172,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МЕДЦЕНТР-МОСИНТУР ЛТД&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955061407"
+                              },
+                              {
+                                 "number" : "+74952238910"
+                              }
+                           ],
+                           "phone" : "+74955061407; +74952238910",
+                           "city" : "Москва",
+                           "latitude" : 55.7302,
+                           "address" : "Кунцевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "4890",
+                           "quantity" : "5",
+                           "name" : "Гемапаксан р-р п/к введ 10 000 анти-ха ме/мл 0,4 мл (шприцы) х6",
+                           "price" : "860.16"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "эноксапарин натрия"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

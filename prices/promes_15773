@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "promes",
+            "rus_name" : "Промез",
+            "form" : "капс. 20 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "promes",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6543,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»2",
+                           "phones" : [
+                              {
+                                 "number" : "+74955325351"
+                              }
+                           ],
+                           "phone" : "+74955325351",
+                           "city" : "Москва",
+                           "latitude" : 55.7369,
+                           "address" : "улица Большие Каменщики, 6"
+                        },
+                        "drug" : {
+                           "descid" : "4131",
+                           "quantity" : "6",
+                           "name" : "Промез 20мг n30 капс.",
+                           "price" : "191"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "омепразол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

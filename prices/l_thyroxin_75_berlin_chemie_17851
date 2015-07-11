@@ -1,0 +1,446 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "l_thyroxin_75_berlin_chemie",
+            "rus_name" : "L-тироксин 75 берлин-хеми",
+            "form" : "таб. 75 мкг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 16,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "l_thyroxin_75_berlin_chemie",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5839,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;С-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957750767"
+                              }
+                           ],
+                           "phone" : "+74957750767",
+                           "city" : "Москва",
+                           "latitude" : 55.7751,
+                           "address" : "площадь Тверская Застава, 2с1"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "2",
+                           "name" : "L-тироксин 75 берлин-хеми n100 табл берлин-хеми аг (германия)",
+                           "price" : "138.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6733,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ ФАРМ Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953635014"
+                              }
+                           ],
+                           "phone" : "+74953635014",
+                           "city" : "Москва",
+                           "latitude" : 55.7301,
+                           "address" : "Волгоградский проспект, 10"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "5",
+                           "name" : "L-тироксин 75 берлин-хеми тб 75мкг уп конт яч n25x4",
+                           "price" : "124"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6707,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АНГРО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956744996"
+                              },
+                              {
+                                 "number" : "+74955049709"
+                              }
+                           ],
+                           "phone" : "+74956744996; +74955049709",
+                           "city" : "Москва",
+                           "latitude" : 55.7252,
+                           "address" : "1-я Дубровская улица, 10/15"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "1",
+                           "name" : "L-тироксин 75 берлин хеми табл. 75 мкг 100, берлин-хеми аг/менарини групп",
+                           "price" : "127"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6723,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 8",
+                           "phones" : [
+                              {
+                                 "number" : "+74955101755"
+                              }
+                           ],
+                           "phone" : "+74955101755",
+                           "city" : "Москва",
+                           "latitude" : 55.7819,
+                           "address" : "Русаковская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "1",
+                           "name" : "L-тироксин 75 берлин-хеми тб 75мкг бл n25x4",
+                           "price" : "134"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЮНИКС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993755785"
+                              }
+                           ],
+                           "phone" : "+74993755785",
+                           "city" : "Москва",
+                           "latitude" : 55.7938,
+                           "address" : "Бутырская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "1",
+                           "name" : "L-тироксин 75 берлин-хеми таб. 75мкг 100",
+                           "price" : "127.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5251,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Фирма Здоровье г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991483745"
+                              },
+                              {
+                                 "number" : "+74991480456"
+                              }
+                           ],
+                           "phone" : "+74991483745; +74991480456",
+                           "city" : "Москва",
+                           "latitude" : 55.7361,
+                           "address" : "улица 1812 Года, 2"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "2",
+                           "name" : "L-тироксин 75 берлин-хеми таб 75мкг (блистеры) 100",
+                           "price" : "133.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Фирма Здоровье г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74957381041"
+                              }
+                           ],
+                           "phone" : "+74957381041",
+                           "city" : "Москва",
+                           "latitude" : 55.7659,
+                           "address" : "Филёвский бульвар, 11"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "10",
+                           "name" : "L-тироксин 75 берлин-хеми n100 табл",
+                           "price" : "141"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5837,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ИП Серегина М.А.",
+                           "phones" : [
+                              {
+                                 "number" : "+79645197959"
+                              }
+                           ],
+                           "phone" : "+79645197959",
+                           "city" : "Москва",
+                           "latitude" : 55.8467,
+                           "address" : "Ботаническая улица, 41 к7"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "1",
+                           "name" : "L-тироксин 75 берлин-хеми таб 75мкг n100 уп кнт-яч пк &amp;lt;25*4&amp;gt;",
+                           "price" : "134"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6876,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ-Фарм Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955148591"
+                              }
+                           ],
+                           "phone" : "+74955148591",
+                           "city" : "Москва",
+                           "latitude" : 55.8621,
+                           "address" : "улица Дудинка, 3"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "1",
+                           "name" : "L-тироксин 75 берлин-хеми тб 75мкг уп конт яч n25x4",
+                           "price" : "127"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5984,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авеста&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999018322"
+                              }
+                           ],
+                           "phone" : "+74999018322",
+                           "city" : "Москва",
+                           "latitude" : 55.8843,
+                           "address" : "Костромская улица, 16"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "1",
+                           "name" : "L-тироксин 75 берлин-хеми таб. n100 (бл.) берлин-хеми/менарини фарма гмбх германия",
+                           "price" : "138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люксор - Фарм Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992005500"
+                              },
+                              {
+                                 "number" : "+79260961147"
+                              }
+                           ],
+                           "phone" : "+74992005500; +79260961147",
+                           "city" : "Москва",
+                           "latitude" : 55.8932,
+                           "address" : "Алтуфьевское шоссе, 87"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "2",
+                           "name" : "L-тироксин 75 берлин хеми табл. 75 мкг 100, берлин-хеми аг/менарини групп",
+                           "price" : "134.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4147,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746321981"
+                              }
+                           ],
+                           "phone" : "+74746321981",
+                           "city" : "Москва",
+                           "latitude" : 55.6481,
+                           "address" : "улица 50 лет Октября, 1"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "1",
+                           "name" : "L-тироксин 75 берлин-хеми n100 табл",
+                           "price" : "123.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Авиценна",
+                           "phones" : [
+                              {
+                                 "number" : "+79295627410"
+                              }
+                           ],
+                           "phone" : "+79295627410",
+                           "city" : "Химки",
+                           "latitude" : 55.8973,
+                           "address" : "Совхозная улица, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "2",
+                           "name" : "L-тироксин 75 берлин-хеми n100 табл",
+                           "price" : "136.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3244,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НОТА-БЕНА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994096060"
+                              },
+                              {
+                                 "number" : "+74955658916"
+                              }
+                           ],
+                           "phone" : "+74994096060; +74955658916",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8067,
+                           "address" : "Южный бульвар, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "3",
+                           "name" : "L-тироксин 75 берлин-хеми n100 табл",
+                           "price" : "128"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3469,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека Ново-Переделкино&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957330127"
+                              },
+                              {
+                                 "number" : "+74957330128"
+                              }
+                           ],
+                           "phone" : "+74957330127; +74957330128",
+                           "city" : "Москва",
+                           "latitude" : 55.643,
+                           "address" : "улица Скульптора Мухиной, 6"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "4",
+                           "name" : "L-тироксин 75 берлин-хеми тб 75мкг уп конт яч n25x4",
+                           "price" : "137"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6716,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЗАБОТА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79037977747"
+                              }
+                           ],
+                           "phone" : "+79037977747",
+                           "city" : "Видное",
+                           "latitude" : 55.5427,
+                           "address" : "Совхозная улица, 5к3А"
+                        },
+                        "drug" : {
+                           "descid" : "4420",
+                           "quantity" : "2",
+                           "name" : "L-тироксин 75 берлин-хеми таб 75мкг (блистеры) 100",
+                           "price" : "136"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "левотироксин натрия"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

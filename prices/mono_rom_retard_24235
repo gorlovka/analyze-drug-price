@@ -1,0 +1,159 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "mono_rom_retard",
+            "rus_name" : "Моно ром ретард",
+            "form" : "капс. пролонг. действия 40 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "mono_rom_retard",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6646,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (23, Енисейская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954713724"
+                              }
+                           ],
+                           "phone" : "+74954713724",
+                           "city" : "Москва",
+                           "latitude" : 55.8729,
+                           "address" : "Енисейская улица, 29"
+                        },
+                        "drug" : {
+                           "descid" : "5804",
+                           "quantity" : "1",
+                           "name" : "Моно ром ретард капс.пролонг. 40мг 20",
+                           "price" : "112"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4764,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №312",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6456,
+                           "address" : "Ленинский проспект, 127"
+                        },
+                        "drug" : {
+                           "descid" : "5804",
+                           "quantity" : "2",
+                           "name" : "Моно ром ретард капс.пролонг. 40мг n20",
+                           "price" : "125"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.658,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №74",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79684052611"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79684052611",
+                           "city" : "Москва",
+                           "latitude" : 55.8883,
+                           "address" : "Широкая улица, 9 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5804",
+                           "quantity" : "1",
+                           "name" : "Моно ром ретард капс.пролонг. 40мг n20",
+                           "price" : "53"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6968,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Алтехком&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953434446"
+                              }
+                           ],
+                           "phone" : "+74953434446",
+                           "city" : "Москва",
+                           "latitude" : 55.6113,
+                           "address" : "Шипиловский проезд, 39 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5804",
+                           "quantity" : "5",
+                           "name" : "Моно ром ретард капс пролонг 40мг*20 rompharm company",
+                           "price" : "140"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4351,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №466",
+                           "phones" : [
+                              {
+                                 "number" : "+74995004024"
+                              }
+                           ],
+                           "phone" : "+74995004024",
+                           "city" : "Москва",
+                           "latitude" : 55.8628,
+                           "address" : "Планерная улица, 7"
+                        },
+                        "drug" : {
+                           "descid" : "5804",
+                           "quantity" : "4",
+                           "name" : "Моно ром ретард капс.пролонг. 40мг n20",
+                           "price" : "54"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "изосорбида мононитрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

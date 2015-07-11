@@ -1,0 +1,351 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "tevacomb",
+            "rus_name" : "Тевакомб",
+            "form" : "аэрозоль д/ингал. дозированный 25 мкг+125 мкг/1 доза",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 12,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "tevacomb",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6307,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;РИГЛА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Москва",
+                           "latitude" : 55.7697,
+                           "address" : "Последний переулок, 28"
+                        },
+                        "drug" : {
+                           "descid" : "5879",
+                           "quantity" : "1",
+                           "name" : "Тевакомб аэр.д/инг. 25мкг/125мкг 120доз",
+                           "price" : "238"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6039,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (68, Селезневская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0991",
+                                    "1955"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0991, 1955",
+                           "city" : "Москва",
+                           "latitude" : 55.7796,
+                           "address" : "Селезнёвская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "5879",
+                           "quantity" : "2",
+                           "name" : "Тевакомб аэр.д/инг. 25мкг/125мкг 120доз",
+                           "price" : "706"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5337,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 3",
+                           "phones" : [
+                              {
+                                 "number" : "+74991513512"
+                              }
+                           ],
+                           "phone" : "+74991513512",
+                           "city" : "Москва",
+                           "latitude" : 55.8023,
+                           "address" : "улица Черняховского, 4"
+                        },
+                        "drug" : {
+                           "descid" : "5879",
+                           "quantity" : "2",
+                           "name" : "Тевакомб аэр д/ингаляций 25/125мкг 120доз ввиде суспензии",
+                           "price" : "222.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5181,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1755",
+                                    "1758"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1755, 1758",
+                           "city" : "Москва",
+                           "latitude" : 55.7963,
+                           "address" : "Чапаевский переулок, 18/1"
+                        },
+                        "drug" : {
+                           "descid" : "5879",
+                           "quantity" : "2",
+                           "name" : "Тевакомб аэр.д/инг. 25мкг/125мкг 120доз",
+                           "price" : "817"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ЗДОРОВЬЕ ПЛЮС",
+                           "phones" : [
+                              {
+                                 "number" : "+74991223092"
+                              }
+                           ],
+                           "phone" : "+74991223092",
+                           "city" : "Москва",
+                           "latitude" : 55.6542,
+                           "address" : "улица Каховка, 10к3"
+                        },
+                        "drug" : {
+                           "descid" : "5879",
+                           "quantity" : "4",
+                           "name" : "Тевакомб аэр. д/инг. дозир. 25мкг+125мкг",
+                           "price" : "313.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8134,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 31",
+                           "phones" : [
+                              {
+                                 "number" : "+74999840768"
+                              }
+                           ],
+                           "phone" : "+74999840768",
+                           "city" : "Москва",
+                           "latitude" : 55.7265,
+                           "address" : "улица Молдагуловой, 12а"
+                        },
+                        "drug" : {
+                           "descid" : "5879",
+                           "quantity" : "1",
+                           "name" : "Тевакомб аэр д/ингаляций 25/125мкг 120доз ввиде суспензии",
+                           "price" : "720.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4132,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 20",
+                           "phones" : [
+                              {
+                                 "number" : "+74956385692"
+                              },
+                              {
+                                 "number" : "+74957562026"
+                              }
+                           ],
+                           "phone" : "+74956385692; +74957562026",
+                           "city" : "Москва",
+                           "latitude" : 55.8057,
+                           "address" : "улица Маршала Катукова, 23"
+                        },
+                        "drug" : {
+                           "descid" : "5879",
+                           "quantity" : "1",
+                           "name" : "Тевакомб аэр д/ингаляций 25/125мкг 120доз ввиде суспензии",
+                           "price" : "222.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4079,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (24, Маршала Катукова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957505050"
+                              }
+                           ],
+                           "phone" : "+74957505050",
+                           "city" : "Москва",
+                           "latitude" : 55.8081,
+                           "address" : "улица Маршала Катукова, 17 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5879",
+                           "quantity" : "1",
+                           "name" : "Тевакомб аэр.д/инг. 25мкг/125мкг 120доз",
+                           "price" : "333"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8502,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Цветочки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959732898"
+                              }
+                           ],
+                           "phone" : "+74959732898",
+                           "city" : "Москва",
+                           "latitude" : 55.7013,
+                           "address" : "Лермонтовский проспект, 8"
+                        },
+                        "drug" : {
+                           "descid" : "5879",
+                           "quantity" : "1",
+                           "name" : "Тевакомб, 25+125мкг/ 120доз аэрозоль д/инг",
+                           "price" : "719"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.546,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Голубинская",
+                           "phones" : [
+                              {
+                                 "number" : "+74954232169"
+                              },
+                              {
+                                 "number" : "+74954238372"
+                              },
+                              {
+                                 "number" : "+74954233522"
+                              }
+                           ],
+                           "phone" : "+74954232169; +74954238372; +74954233522",
+                           "city" : "Москва",
+                           "latitude" : 55.5939,
+                           "address" : "Голубинская улица, 32/2"
+                        },
+                        "drug" : {
+                           "descid" : "5879",
+                           "quantity" : "1",
+                           "name" : "Тевакомб 25мкг/125мкг 120доз аэрозоль д/ингялиций",
+                           "price" : "708.36"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5251,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ФармМедТрейд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.5337,
+                           "address" : "Южнобутовская улица, 81"
+                        },
+                        "drug" : {
+                           "descid" : "5879",
+                           "quantity" : "1",
+                           "name" : "Тевакомб аэр. 25мкг+125мкг 120доз",
+                           "price" : "946"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7726,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (225, Корнеева)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1387"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1387",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4359,
+                           "address" : "улица Корнеева, 8"
+                        },
+                        "drug" : {
+                           "descid" : "5879",
+                           "quantity" : "1",
+                           "name" : "Тевакомб аэр.д/инг. 25мкг/125мкг 120доз",
+                           "price" : "231"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "флутиказона пропионат + салметерол (в форме ксинафоата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

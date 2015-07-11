@@ -1,0 +1,144 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "aminosol_neo",
+            "rus_name" : "Аминосол-нео",
+            "form" : "р-р д/инф. 10%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "aminosol_neo",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "4035",
+                           "quantity" : "6",
+                           "name" : "Аминосол нео 10% 500мл р-р д/инф",
+                           "price" : "376"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5847,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диасфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266856"
+                              },
+                              {
+                                 "number" : "+74956266857"
+                              }
+                           ],
+                           "phone" : "+74956266856; +74956266857",
+                           "city" : "Москва",
+                           "latitude" : 55.7756,
+                           "address" : "1-я Брестская улица, 66"
+                        },
+                        "drug" : {
+                           "descid" : "4035",
+                           "quantity" : "5",
+                           "name" : "Аминосол нео 10% 500мл 1 р-р д/инф",
+                           "price" : "390"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957879355"
+                              }
+                           ],
+                           "phone" : "+74957879355",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "5-я Парковая улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "4035",
+                           "quantity" : "6",
+                           "name" : "Аминосол-нео e, р-р д/инф 10%, 500мл 1",
+                           "price" : "419"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3985,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (37, Солнцевский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0972",
+                                    "1316"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0972, 1316",
+                           "city" : "Москва",
+                           "latitude" : 55.6514,
+                           "address" : "Солнцевский проспект, 5"
+                        },
+                        "drug" : {
+                           "descid" : "4035",
+                           "quantity" : "2",
+                           "name" : "Аминосол-нео р-р д/инф. 10% 500мл",
+                           "price" : "389"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "L-валин + L-изолейцин + L-лейцин + L-метионин + L-треонин + L-триптофан + L-фенилаланин + L-аланин + L-аргинин + глицин + L-пролин + L-гистидин + L-серин + L-тирозин + таурин + L-лизин (в форме моноацетата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,134 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "clindamycin",
+            "rus_name" : "Клиндамицин",
+            "form" : "крем вагин. 2%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "clindamycin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.352,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АНТЕВА",
+                           "phones" : [
+                              {
+                                 "number" : "+74957314399"
+                              }
+                           ],
+                           "phone" : "+74957314399",
+                           "city" : "Москва",
+                           "latitude" : 55.6395,
+                           "address" : "улица Шолохова, 12"
+                        },
+                        "drug" : {
+                           "descid" : "651",
+                           "quantity" : "1",
+                           "name" : "Клиндамицин 2% 20г вагин. крем",
+                           "price" : "385"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0591,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строй-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79011846532"
+                              }
+                           ],
+                           "phone" : "+79011846532",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9009,
+                           "address" : "улица Ленина, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "651",
+                           "quantity" : "1",
+                           "name" : "Клиндамицин крем ваг. 2% 20г",
+                           "price" : "305"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.0021,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №177",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "поселок городского типа Большие Вяземы",
+                           "latitude" : 55.6293,
+                           "address" : "Можайское шоссе, с8"
+                        },
+                        "drug" : {
+                           "descid" : "651",
+                           "quantity" : "1",
+                           "name" : "Клиндамицин крем ваг. 2% 20г вертекс",
+                           "price" : "277"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.3975,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (217, III Интернационала)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965110033"
+                              },
+                              {
+                                 "number" : "+74965193242"
+                              }
+                           ],
+                           "phone" : "+74965110033; +74965193242",
+                           "city" : "Ногинск",
+                           "latitude" : 55.84,
+                           "address" : "3-го Интернационала улица, 252"
+                        },
+                        "drug" : {
+                           "descid" : "651",
+                           "quantity" : "1",
+                           "name" : "Клиндамицин крем ваг. 2% 20г",
+                           "price" : "345"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "клиндамицин (в форме гидрохлорида) + клиндамицин (в форме фосфата) + клиндамицин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,109 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "fluimucil",
+            "rus_name" : "Флуимуцил®",
+            "form" : "р-р д/приема внутрь 20 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "fluimucil",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8502,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Цветочки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959732898"
+                              }
+                           ],
+                           "phone" : "+74959732898",
+                           "city" : "Москва",
+                           "latitude" : 55.7013,
+                           "address" : "Лермонтовский проспект, 8"
+                        },
+                        "drug" : {
+                           "descid" : "890",
+                           "quantity" : "1",
+                           "name" : "Флуимуцил,р-р д/приема внутрь 200мл",
+                           "price" : "127"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5855,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ДИАНТУМПЛЮС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992002857"
+                              }
+                           ],
+                           "phone" : "+74992002857",
+                           "city" : "Москва",
+                           "latitude" : 55.8949,
+                           "address" : "Алтуфьевское шоссе, 89"
+                        },
+                        "drug" : {
+                           "descid" : "890",
+                           "quantity" : "1",
+                           "name" : "Флуимуцил р-р внутр 200мл фл.",
+                           "price" : "142"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5887,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Ромашки",
+                           "phones" : [
+                              {
+                                 "number" : "+74999083503"
+                              },
+                              {
+                                 "number" : "+74999678645"
+                              }
+                           ],
+                           "phone" : "+74999083503; +74999678645",
+                           "city" : "Москва",
+                           "latitude" : 55.8993,
+                           "address" : "Алтуфьевское шоссе, 88"
+                        },
+                        "drug" : {
+                           "descid" : "890",
+                           "quantity" : "2",
+                           "name" : "Флуимуцил,р-р д/приема внутрь 200мл",
+                           "price" : "129.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ацетилцистеин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

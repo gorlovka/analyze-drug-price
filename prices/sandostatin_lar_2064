@@ -1,0 +1,115 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "sandostatin_lar",
+            "rus_name" : "Сандостатин® лар",
+            "form" : "микросферы д/пригот. сусп. д/в/м введения 30 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "sandostatin_lar",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1083",
+                           "quantity" : "1",
+                           "name" : "Сандостатин лар сусп.д/ин.30мг фл.n1",
+                           "price" : "46975"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5847,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диасфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266856"
+                              },
+                              {
+                                 "number" : "+74956266857"
+                              }
+                           ],
+                           "phone" : "+74956266856; +74956266857",
+                           "city" : "Москва",
+                           "latitude" : 55.7756,
+                           "address" : "1-я Брестская улица, 66"
+                        },
+                        "drug" : {
+                           "descid" : "1083",
+                           "quantity" : "2",
+                           "name" : "Сандостатин лар д/приг сусп инф 30мг 1+р",
+                           "price" : "42988"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3465,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Еврофармекс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955174654"
+                              }
+                           ],
+                           "phone" : "+74955174654",
+                           "city" : "Москва",
+                           "latitude" : 55.85,
+                           "address" : "Ангелов переулок, 9 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1083",
+                           "quantity" : "2",
+                           "name" : "Сандостатин лар микросф д/сусп в/м 30мг фл n1",
+                           "price" : "37400"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "октреотида ацетат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,109 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "carvedilol_obl",
+            "rus_name" : "Карведилол-obl",
+            "form" : "таб. 12.5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "carvedilol_obl",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5947,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Официна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992513420"
+                              },
+                              {
+                                 "number" : "+79859995613"
+                              }
+                           ],
+                           "phone" : "+74992513420; +79859995613",
+                           "city" : "Москва",
+                           "latitude" : 55.7725,
+                           "address" : "3-я Тверская-Ямская улица, 21/23"
+                        },
+                        "drug" : {
+                           "descid" : "7608",
+                           "quantity" : "1",
+                           "name" : "Карведилол-obl таб 12.5мг n30 (уп конт яч n10х3)",
+                           "price" : "175"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;КедрФарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994093601"
+                              }
+                           ],
+                           "phone" : "+74994093601",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "Хорошёвское шоссе, 46"
+                        },
+                        "drug" : {
+                           "descid" : "7608",
+                           "quantity" : "10",
+                           "name" : "Карведилол-obl тб 12.5мг бл n10x3",
+                           "price" : "65"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7101,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авиценна Фарма 4&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959634296"
+                              }
+                           ],
+                           "phone" : "+74959634296",
+                           "city" : "Москва",
+                           "latitude" : 55.8064,
+                           "address" : "Краснобогатырская улица, 79 к2а"
+                        },
+                        "drug" : {
+                           "descid" : "7608",
+                           "quantity" : "30",
+                           "name" : "Карведилол-obl таб 12.5мг n30",
+                           "price" : "189"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "карведилол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

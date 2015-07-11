@@ -1,0 +1,159 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "pyrazinamid_akri",
+            "rus_name" : "Пиразинамид-акри®",
+            "form" : "таб. 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "pyrazinamid_akri",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "1042",
+                           "quantity" : "5",
+                           "name" : "Пиразинамид-акри,таблетки,500мг 100шт",
+                           "price" : "160"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Поляна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955437314"
+                              }
+                           ],
+                           "phone" : "+74955437314",
+                           "city" : "Москва",
+                           "latitude" : 55.8884,
+                           "address" : "Алтуфьевское шоссе, 70"
+                        },
+                        "drug" : {
+                           "descid" : "1042",
+                           "quantity" : "3",
+                           "name" : "Пиразинамид-акри тб 500мг блист n10x10",
+                           "price" : "160"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8623,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 13",
+                           "phones" : [
+                              {
+                                 "number" : "+79015140401"
+                              }
+                           ],
+                           "phone" : "+79015140401",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6276,
+                           "address" : "Томилинская улица, 7, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1042",
+                           "quantity" : "1",
+                           "name" : "Пиразинамид-акри 0.5мг 100",
+                           "price" : "160"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8643,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лэнд-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965357660"
+                              }
+                           ],
+                           "phone" : "+74965357660",
+                           "city" : "Пушкино",
+                           "latitude" : 55.9957,
+                           "address" : "Пушкинское шоссе, 4а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1042",
+                           "quantity" : "2",
+                           "name" : "Пиразинамид-акри, тбл 500мг 100",
+                           "price" : "174.38"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Электросталь",
+                           "latitude" : 55.775,
+                           "address" : "улица Мира, 22, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1042",
+                           "quantity" : "1",
+                           "name" : "Пиразинамид-акри таб. 500мг 100",
+                           "price" : "151"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "пиразинамид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "etoposide",
+            "rus_name" : "Этопозид",
+            "form" : "р-р д/инъекц. 100 мг/5 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "etoposide",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.671,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 11",
+                           "phones" : [
+                              {
+                                 "number" : "+74959111480"
+                              }
+                           ],
+                           "phone" : "+74959111480",
+                           "city" : "Москва",
+                           "latitude" : 55.7401,
+                           "address" : "Таганская улица, 31/22"
+                        },
+                        "drug" : {
+                           "descid" : "1636",
+                           "quantity" : "3",
+                           "name" : "Этопозид, р-р д/инф конц. 100мг 5мл 1",
+                           "price" : "409.66"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6208,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 25",
+                           "phones" : [
+                              {
+                                 "number" : "+74959840741"
+                              }
+                           ],
+                           "phone" : "+74959840741",
+                           "city" : "Москва",
+                           "latitude" : 55.7087,
+                           "address" : "Большая Тульская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1636",
+                           "quantity" : "5",
+                           "name" : "Этопозид, р-р д/инф конц. 100мг 5мл 1",
+                           "price" : "410.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4074,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 4",
+                           "phones" : [
+                              {
+                                 "number" : "+74986011113"
+                              }
+                           ],
+                           "phone" : "+74986011113",
+                           "city" : "Химки",
+                           "latitude" : 55.9012,
+                           "address" : "проспект Мельникова, 2Б"
+                        },
+                        "drug" : {
+                           "descid" : "1636",
+                           "quantity" : "1",
+                           "name" : "Этопозид, р-р д/инф конц. 100мг 5мл 1",
+                           "price" : "350.3"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "этопозид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

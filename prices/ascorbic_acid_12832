@@ -1,0 +1,952 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ascorbic_acid",
+            "rus_name" : "Аскорбиновая кислота",
+            "form" : "р-р д/в/в и в/м введения 5% (100 мг/2 мл)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 38,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ascorbic_acid",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6314,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №481",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.744,
+                           "address" : "Большой Овчинниковский переулок, 12 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5973,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №853 ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7667,
+                           "address" : "Благовещенский переулок, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "41.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5519,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №850",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7801,
+                           "address" : "2-й Боткинский проезд, 5 к4"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "31.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6917,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №201",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.776,
+                           "address" : "Большая Почтовая улица, 7 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "31.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5787,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №2",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7942,
+                           "address" : "1-я Квесисская улица, 18"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "2",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "41.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5676,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №995",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.8098,
+                           "address" : "Тимирязевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "10",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5927,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №578 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6866,
+                           "address" : "улица Винокурова, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "33"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4908,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №261",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7395,
+                           "address" : "2-я Филёвская улица, 14"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "31.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7376,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №480 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74957252698"
+                              }
+                           ],
+                           "phone" : "+74957252698",
+                           "city" : "Москва",
+                           "latitude" : 55.8149,
+                           "address" : "Открытое шоссе, 9с1а"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "21.33"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7716,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №189 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7156,
+                           "address" : "Окская улица, 36 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "31.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6463,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №991 ООО &quot;Аптека А5&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6533,
+                           "address" : "Каширское шоссе, 26"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "41.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5088,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №977",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.668,
+                           "address" : "Ленинский проспект, 130 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "3",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7903,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №840",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7083,
+                           "address" : "улица Фёдора Полетаева, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "31.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7997,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №601",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7961,
+                           "address" : "Измайловский бульвар, 38"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "2",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "30.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8184,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7529,
+                           "address" : "Свободный проспект, 33а"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "2",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6051,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека А5",
+                           "phones" : [
+                              {
+                                 "number" : "+74956601628"
+                              }
+                           ],
+                           "phone" : "+74956601628",
+                           "city" : "Москва",
+                           "latitude" : 55.865,
+                           "address" : "улица Декабристов, 17"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "3",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "32.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4165,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №451",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.723,
+                           "address" : "улица Гришина, 15"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "2",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8165,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №79",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7126,
+                           "address" : "Рязанский проспект, вл99ас1"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "41.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8241,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №674",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.719,
+                           "address" : "Вешняковская улица, 39а"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "31"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8309,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №56",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8102,
+                           "address" : "Щёлковское шоссе, 100"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "31.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8233,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья-3",
+                           "phones" : [
+                              {
+                                 "number" : "+74959434303"
+                              }
+                           ],
+                           "phone" : "+74959434303",
+                           "city" : "Москва",
+                           "latitude" : 55.8225,
+                           "address" : "Хабаровская улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота раствор д/ин 5% 2мл 10 дальхимфарм",
+                           "price" : "30.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5217,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №916",
+                           "phones" : [
+                              {
+                                 "number" : "+74957898205"
+                              }
+                           ],
+                           "phone" : "+74957898205",
+                           "city" : "Москва",
+                           "latitude" : 55.8777,
+                           "address" : "Ангарская улица, 28 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "4",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Поляна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955437314"
+                              }
+                           ],
+                           "phone" : "+74955437314",
+                           "city" : "Москва",
+                           "latitude" : 55.8884,
+                           "address" : "Алтуфьевское шоссе, 70"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/и 5% 2мл амп n10",
+                           "price" : "33.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8534,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ТС &quot;АПТЕЧКА&quot;.  Аптека №435",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6839,
+                           "address" : "улица Генерала Кузнецова, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "28.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.546,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Голубинская",
+                           "phones" : [
+                              {
+                                 "number" : "+74954232169"
+                              },
+                              {
+                                 "number" : "+74954238372"
+                              },
+                              {
+                                 "number" : "+74954233522"
+                              }
+                           ],
+                           "phone" : "+74954232169; +74954238372; +74954233522",
+                           "city" : "Москва",
+                           "latitude" : 55.5939,
+                           "address" : "Голубинская улица, 32/2"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "2",
+                           "name" : "Аскорбиновая кислота 5% 2мл n10 р-р амп.",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8908,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №893 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Люберцы",
+                           "latitude" : 55.6958,
+                           "address" : "улица Попова, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7846,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №510",
+                           "phones" : [
+                              {
+                                 "number" : "+74955862374"
+                              },
+                              {
+                                 "number" : "+79057312295"
+                              }
+                           ],
+                           "phone" : "+74955862374; +79057312295",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9191,
+                           "address" : "улица Академика Каргина, 38 к1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "5",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "30.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2656,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 209",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74955962407"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74955962407",
+                           "city" : "Одинцово",
+                           "latitude" : 55.6825,
+                           "address" : "улица Маршала Бирюзова, 28 к1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "34"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8562,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. АПТЕКИ А5 Московская область.  Аптека №1 806",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Королёв",
+                           "latitude" : 55.9192,
+                           "address" : "улица Дзержинского, 16/1"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "2",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9083,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 156",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Лыткарино",
+                           "latitude" : 55.575,
+                           "address" : "Октябрьская улица, 20"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "3",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "29.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5061,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 283",
+                           "phones" : [
+                              {
+                                 "number" : "+74967648915"
+                              }
+                           ],
+                           "phone" : "+74967648915",
+                           "city" : "Подольск",
+                           "latitude" : 55.4319,
+                           "address" : "Октябрьский проспект, 19, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "30.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7683,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 036",
+                           "phones" : [
+                              {
+                                 "number" : "+79037136912"
+                              }
+                           ],
+                           "phone" : "+79037136912",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4222,
+                           "address" : "улица Талалихина, 10, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "33"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.0433,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 130",
+                           "phones" : [
+                              {
+                                 "number" : "+74955903373"
+                              },
+                              {
+                                 "number" : "+74955902488"
+                              }
+                           ],
+                           "phone" : "+74955903373; +74955902488",
+                           "city" : "Краснознаменск",
+                           "latitude" : 55.5947,
+                           "address" : "проспект Мира, 13, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "4",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "30.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2123,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 330",
+                           "phones" : [
+                              {
+                                 "number" : "+74964671529"
+                              }
+                           ],
+                           "phone" : "+74964671529",
+                           "city" : "Раменское",
+                           "latitude" : 55.5887,
+                           "address" : "Коммунистическая улица, 20, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "2",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.9726,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 224",
+                           "phones" : [
+                              {
+                                 "number" : "+74986940170"
+                              }
+                           ],
+                           "phone" : "+74986940170",
+                           "city" : "поселок Летний Отдых",
+                           "latitude" : 55.6396,
+                           "address" : "Зелёная улица, 1а"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5324,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №342",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Климовск",
+                           "latitude" : 55.3587,
+                           "address" : "улица 8 Марта, 2а"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4196,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 455",
+                           "phones" : [
+                              {
+                                 "number" : "+74965730366"
+                              }
+                           ],
+                           "phone" : "+74965730366",
+                           "city" : "Электросталь",
+                           "latitude" : 55.7677,
+                           "address" : "улица Ялагина, 26, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4411,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Мособлфармация",
+                           "phones" : [
+                              {
+                                 "number" : "+74996816209"
+                              }
+                           ],
+                           "phone" : "+74996816209",
+                           "city" : "Электросталь",
+                           "latitude" : 55.792,
+                           "address" : "проспект Ленина, 30/13, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "2",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 2мл n10",
+                           "price" : "28.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "аскорбиновая кислота"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

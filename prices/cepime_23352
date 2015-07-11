@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "cepime",
+            "rus_name" : "Цепим®",
+            "form" : "порошок д/пригот. р-ра д/в/в и в/м введения 1 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "cepime",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5117,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЛИНФарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997479912"
+                              }
+                           ],
+                           "phone" : "+74997479912",
+                           "city" : "Москва",
+                           "latitude" : 55.8517,
+                           "address" : "Кронштадтский бульвар, 47"
+                        },
+                        "drug" : {
+                           "descid" : "5555",
+                           "quantity" : "10",
+                           "name" : "Цепим пор д/р-ра в/в в/м 1 г фл. 1",
+                           "price" : "104.7"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цефепим (в форме гидрохлорида)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

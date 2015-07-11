@@ -1,0 +1,109 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "bidop_cor",
+            "rus_name" : "Бидоп® кор",
+            "form" : "таб. 2.5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "bidop_cor",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.721,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956733758"
+                              }
+                           ],
+                           "phone" : "+74956733758",
+                           "city" : "Москва",
+                           "latitude" : 55.7463,
+                           "address" : "Авиамоторная улица, 51"
+                        },
+                        "drug" : {
+                           "descid" : "8832",
+                           "quantity" : "1",
+                           "name" : "Бидоп кор тбл 2.5мг 56",
+                           "price" : "153.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7262,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Авиценнафарма Халтуринская, 18",
+                           "phones" : [
+                              {
+                                 "number" : "+74956031967"
+                              },
+                              {
+                                 "number" : "+79652088880"
+                              }
+                           ],
+                           "phone" : "+74956031967; +79652088880",
+                           "city" : "Москва",
+                           "latitude" : 55.8053,
+                           "address" : "Халтуринская улица, 18"
+                        },
+                        "drug" : {
+                           "descid" : "8832",
+                           "quantity" : "2",
+                           "name" : "Бидоп кор таб 2,5 мг 28",
+                           "price" : "96.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "8832",
+                           "quantity" : "1",
+                           "name" : "Бидоп кор 2,5мг 56 таблетки",
+                           "price" : "143"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "бисопролола фумарат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

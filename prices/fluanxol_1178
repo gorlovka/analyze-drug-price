@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "fluanxol",
+            "rus_name" : "Флюанксол",
+            "form" : "р-р д/в/м введения (масляный) 20 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "fluanxol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8336,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 35",
+                           "phones" : [
+                              {
+                                 "number" : "+74996432279"
+                              }
+                           ],
+                           "phone" : "+74996432279",
+                           "city" : "Москва",
+                           "latitude" : 55.8211,
+                           "address" : "Алтайская улица, 33/7"
+                        },
+                        "drug" : {
+                           "descid" : "622",
+                           "quantity" : "1",
+                           "name" : "Флюанксол, р-р д/инъ амп 20мг 1мл 10",
+                           "price" : "2132.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3624,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Трилистник на Митинском",
+                           "phones" : [
+                              {
+                                 "number" : "+74957528330"
+                              }
+                           ],
+                           "phone" : "+74957528330",
+                           "city" : "Москва",
+                           "latitude" : 55.8442,
+                           "address" : "Митинская улица, 27 к2"
+                        },
+                        "drug" : {
+                           "descid" : "622",
+                           "quantity" : "11",
+                           "name" : "Флюанксол , р-р д/инъ амп 20мг 1мл 10",
+                           "price" : "1754"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "флупентиксол + цис(Z)-флупентиксола деканоат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

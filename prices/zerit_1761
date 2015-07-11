@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "zerit",
+            "rus_name" : "Зерит®",
+            "form" : "порошок д/пригот. р-ра д/приема внутрь 1 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "zerit",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "936",
+                           "quantity" : "2",
+                           "name" : "Зерит пор д/приг р-ра д/пр вн 1мг/1мл",
+                           "price" : "1300"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ставудин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

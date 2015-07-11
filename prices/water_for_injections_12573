@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "water_for_injections",
+            "rus_name" : "Вода для инъекций",
+            "form" : "растворитель д/пригот. лек. форм д/и 10 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "water_for_injections",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6025,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОКТАВИЯ&quot; г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999735057"
+                              }
+                           ],
+                           "phone" : "+74999735057",
+                           "city" : "Москва",
+                           "latitude" : 55.7777,
+                           "address" : "Долгоруковская улица, 38 с1"
+                        },
+                        "drug" : {
+                           "descid" : "3655",
+                           "quantity" : "10",
+                           "name" : "Вода для инъекций 10мл n10 амп р-ль",
+                           "price" : "37"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5533,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО фирма &quot;Тревел Мединшур&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956133280"
+                              },
+                              {
+                                 "number" : "+74954111749"
+                              }
+                           ],
+                           "phone" : "+74956133280; +74954111749",
+                           "city" : "Москва",
+                           "latitude" : 55.8008,
+                           "address" : "улица 8 Марта, 1 с10"
+                        },
+                        "drug" : {
+                           "descid" : "3655",
+                           "quantity" : "3",
+                           "name" : "Вода для инъекций 10мл n10 амп р-ль",
+                           "price" : "40.7"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "вода д/и"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

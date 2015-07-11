@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "thiamine_vial",
+            "rus_name" : "Тиамин-виал",
+            "form" : "р-р д/в/м введения 50 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "thiamine_vial",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5825,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Жень-Шень",
+                           "phones" : [
+                              {
+                                 "number" : "+74957148227"
+                              }
+                           ],
+                           "phone" : "+74957148227",
+                           "city" : "Москва",
+                           "latitude" : 55.5628,
+                           "address" : "улица Грина, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4217",
+                           "quantity" : "2",
+                           "name" : "Тиамин-виал 0,05/мл 1мл n10 р-р в/м",
+                           "price" : "36.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6716,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЗАБОТА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79037977747"
+                              }
+                           ],
+                           "phone" : "+79037977747",
+                           "city" : "Видное",
+                           "latitude" : 55.5427,
+                           "address" : "Совхозная улица, 5к3А"
+                        },
+                        "drug" : {
+                           "descid" : "4217",
+                           "quantity" : "4",
+                           "name" : "Тиамин-виал 0,05/мл 1мл n10 р-р в/м",
+                           "price" : "36.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тиамина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

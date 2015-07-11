@@ -1,0 +1,682 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "polyoxidonium",
+            "rus_name" : "Полиоксидоний®",
+            "form" : "лиофилизат д/пригот. р-ра д/инъекц. и местн. прим. 3 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 25,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "polyoxidonium",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5981,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956900719"
+                              }
+                           ],
+                           "phone" : "+74956900719",
+                           "city" : "Москва",
+                           "latitude" : 55.7608,
+                           "address" : "Большая Бронная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "2",
+                           "name" : "Полиоксидоний лиоф пор д/инъ амп 3мг 5",
+                           "price" : "667"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6429,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Вега&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956247180"
+                              }
+                           ],
+                           "phone" : "+74956247180",
+                           "city" : "Москва",
+                           "latitude" : 55.7592,
+                           "address" : "улица Покровка, 9 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "1",
+                           "name" : "Полиоксидоний лиоф пор д/инъ амп 3мг 5",
+                           "price" : "610"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6017,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956503600"
+                              },
+                              {
+                                 "number" : "+74956503625"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74956503600; +74956503625; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.7648,
+                           "address" : "Малый Палашёвский переулок, 2/8"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "1",
+                           "name" : "Полиоксидоний лиоф. д/ин. и местн. флак. 3мг 5",
+                           "price" : "658"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6637,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956766597"
+                              }
+                           ],
+                           "phone" : "+74956766597",
+                           "city" : "Москва",
+                           "latitude" : 55.7326,
+                           "address" : "Воронцовская улица, 48"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "1",
+                           "name" : "Полиоксидоний лиоф. д/ин. и местн. флак. 3мг 5",
+                           "price" : "634"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;КедрФарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994093601"
+                              }
+                           ],
+                           "phone" : "+74994093601",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "Хорошёвское шоссе, 46"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "10",
+                           "name" : "Полиоксидоний лиоф д/и и местн прим 3мг амп n5",
+                           "price" : "597"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5116,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ТРИКА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991424869"
+                              }
+                           ],
+                           "phone" : "+74991424869",
+                           "city" : "Москва",
+                           "latitude" : 55.7454,
+                           "address" : "Багратионовский проезд, 1 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "1",
+                           "name" : "Полиоксидоний лиоф пор д/инъ амп 3мг 5",
+                           "price" : "632"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5878,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Калина Фарм МСК",
+                           "phones" : [
+                              {
+                                 "number" : "+74991267745"
+                              },
+                              {
+                                 "number" : "+74956646053"
+                              },
+                              {
+                                 "number" : "+74956646056"
+                              },
+                              {
+                                 "number" : "+78005500321"
+                              }
+                           ],
+                           "phone" : "+74991267745; +74956646053; +74956646056; +78005500321",
+                           "city" : "Москва",
+                           "latitude" : 55.6915,
+                           "address" : "улица Шверника, 12/2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "3",
+                           "name" : "Полиоксидоний, лиоф пор д/инъ фл 3мг 5",
+                           "price" : "610"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5587,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957397665"
+                              }
+                           ],
+                           "phone" : "+74957397665",
+                           "city" : "Москва",
+                           "latitude" : 55.8108,
+                           "address" : "улица Вучетича, 18 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "2",
+                           "name" : "Полиоксидоний лиоф. д/ин. и местн. флак. 3мг 5",
+                           "price" : "687"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АКМ фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952116138"
+                              },
+                              {
+                                 "number" : "+74952116147"
+                              }
+                           ],
+                           "phone" : "+74952116138; +74952116147",
+                           "city" : "Москва",
+                           "latitude" : 55.7969,
+                           "address" : "улица Маршала Бирюзова, 26"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "2",
+                           "name" : "Полиоксидоний, лиоф пор д/инъ фл 3мг 5",
+                           "price" : "672"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.467,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490241"
+                              }
+                           ],
+                           "phone" : "+74996490241",
+                           "city" : "Москва",
+                           "latitude" : 55.8165,
+                           "address" : "Волоколамское шоссе, 56 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "10",
+                           "name" : "Полиоксидоний лиоф д/р-ра д/ин 3мг фл 5",
+                           "price" : "664.76"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7651,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека в Марьино",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6813,
+                           "address" : "Ставропольская улица, 50/22"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "1",
+                           "name" : "Полиоксидоний лиоф пор д/инъ амп 3мг 5",
+                           "price" : "599.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74953517130"
+                              }
+                           ],
+                           "phone" : "+74953517130",
+                           "city" : "Москва",
+                           "latitude" : 55.6769,
+                           "address" : "Краснодарская улица, 57 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "3",
+                           "name" : "Полиоксидоний лиоф. д/ин. и местн. флак. 3мг 5",
+                           "price" : "664"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6876,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ-Фарм Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955148591"
+                              }
+                           ],
+                           "phone" : "+74955148591",
+                           "city" : "Москва",
+                           "latitude" : 55.8621,
+                           "address" : "улица Дудинка, 3"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "1",
+                           "name" : "Полиоксидоний лиоф д/и и наружн 3мг фл пач карт n5",
+                           "price" : "651.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7156,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957805527"
+                              }
+                           ],
+                           "phone" : "+74957805527",
+                           "city" : "Москва",
+                           "latitude" : 55.6465,
+                           "address" : "Новочеркасский бульвар, 10 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "3",
+                           "name" : "Полиоксидоний лиоф. д/ин. и местн. флак. 3мг 5",
+                           "price" : "657"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8314,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959185428"
+                              }
+                           ],
+                           "phone" : "+74959185428",
+                           "city" : "Москва",
+                           "latitude" : 55.7542,
+                           "address" : "улица Молостовых, 14 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "4",
+                           "name" : "Полиоксидоний, лиоф пор д/инъ 3мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6084,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека на Плещеева (Юнайтедфарм)",
+                           "phones" : [
+                              {
+                                 "number" : "+74999017918"
+                              }
+                           ],
+                           "phone" : "+74999017918",
+                           "city" : "Москва",
+                           "latitude" : 55.8848,
+                           "address" : "улица Плещеева, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "2",
+                           "name" : "Полиоксидоний, лиоф д/ин и мест. прим. фл 3мг 5",
+                           "price" : "610"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.546,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Голубинская",
+                           "phones" : [
+                              {
+                                 "number" : "+74954232169"
+                              },
+                              {
+                                 "number" : "+74954238372"
+                              },
+                              {
+                                 "number" : "+74954233522"
+                              }
+                           ],
+                           "phone" : "+74954232169; +74954238372; +74954233522",
+                           "city" : "Москва",
+                           "latitude" : 55.5939,
+                           "address" : "Голубинская улица, 32/2"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "1",
+                           "name" : "Полиоксидоний 3мг n5 лиофилизат д/приготовления р-ра амп.",
+                           "price" : "680"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3298,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538222"
+                              },
+                              {
+                                 "number" : "+74955538222"
+                              }
+                           ],
+                           "phone" : "+74995538222; +74955538222",
+                           "city" : "Одинцово",
+                           "latitude" : 55.6948,
+                           "address" : "улица Чистяковой, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "1",
+                           "name" : "Полиоксидоний лиоф. д/ин. и местн. флак. 3мг 5",
+                           "price" : "634"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5697,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Грина",
+                           "phones" : [
+                              {
+                                 "number" : "+74957148427"
+                              }
+                           ],
+                           "phone" : "+74957148427",
+                           "city" : "Москва",
+                           "latitude" : 55.5682,
+                           "address" : "улица Грина, 30"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "1",
+                           "name" : "Полиоксидоний 3мг n5 лиофилизат д/приготовления р-ра амп.",
+                           "price" : "675"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4912,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579697"
+                              }
+                           ],
+                           "phone" : "+74996579697",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9411,
+                           "address" : "Лихачёвское шоссе, 11а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "1",
+                           "name" : "Полиоксидоний лиоф. д/ин. и местн. флак. 3мг 5",
+                           "price" : "648"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3088,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Фармавир",
+                           "phones" : [
+                              {
+                                 "number" : "+74956423425"
+                              }
+                           ],
+                           "phone" : "+74956423425",
+                           "city" : "Химки",
+                           "latitude" : 55.939,
+                           "address" : "Усковский проезд, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "1",
+                           "name" : "Полиоксидоний, лиоф пор д/инъ фл 3мг 5",
+                           "price" : "645"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9986,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965669412"
+                              },
+                              {
+                                 "number" : "+74965669412"
+                              }
+                           ],
+                           "phone" : "+74965669412; +74965669412",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9147,
+                           "address" : "Краснознаменская улица, 12, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "1",
+                           "name" : "Полиоксидоний лиоф. д/ин. и местн. флак. 3мг 5",
+                           "price" : "610"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9766,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957397699"
+                              }
+                           ],
+                           "phone" : "+74957397699",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9403,
+                           "address" : "микрорайон Богородский, 10 к1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "1",
+                           "name" : "Полиоксидоний лиоф. д/ин. и местн. флак. 3мг 5",
+                           "price" : "662"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2162,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека-225",
+                           "phones" : [
+                              {
+                                 "number" : "+74954548085"
+                              }
+                           ],
+                           "phone" : "+74954548085",
+                           "city" : "Зеленоград",
+                           "latitude" : 55.9913,
+                           "address" : "Савёлкинский проезд, 4, Москва"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "2",
+                           "name" : "Полиоксидоний лиоф д/и и наружн 3мг фл пач карт n5",
+                           "price" : "663"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74991495475"
+                              }
+                           ],
+                           "phone" : "+74991495475",
+                           "city" : "Московская область",
+                           "latitude" : 55.4292,
+                           "address" : "Подольск, 29b"
+                        },
+                        "drug" : {
+                           "descid" : "1306",
+                           "quantity" : "3",
+                           "name" : "Полиоксидоний лиоф. д/ин. и местн. флак. 3мг 5",
+                           "price" : "669"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "азоксимера бромид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,109 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "enafarm",
+            "rus_name" : "Энафарм",
+            "form" : "таб. 10 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "enafarm",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4746,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №007",
+                           "phones" : [
+                              {
+                                 "number" : "+78127530098"
+                              },
+                              {
+                                 "number" : "+78127537914"
+                              }
+                           ],
+                           "phone" : "+78127530098; +78127537914",
+                           "city" : "Москва",
+                           "latitude" : 55.7763,
+                           "address" : "проспект Маршала Жукова, 30"
+                        },
+                        "drug" : {
+                           "descid" : "1901",
+                           "quantity" : "11",
+                           "name" : "Энафарм таб 10мг n20",
+                           "price" : "17"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6961,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №082",
+                           "phones" : [
+                              {
+                                 "number" : "+78127511919"
+                              }
+                           ],
+                           "phone" : "+78127511919",
+                           "city" : "Москва",
+                           "latitude" : 55.6192,
+                           "address" : "улица Маршала Захарова, 20"
+                        },
+                        "drug" : {
+                           "descid" : "1901",
+                           "quantity" : "15",
+                           "name" : "Энафарм таб 10мг n20",
+                           "price" : "17"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4242,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №191",
+                           "phones" : [
+                              {
+                                 "number" : "+78123358097"
+                              }
+                           ],
+                           "phone" : "+78123358097",
+                           "city" : "Москва",
+                           "latitude" : 55.8475,
+                           "address" : "Туристская улица, 6 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1901",
+                           "quantity" : "3",
+                           "name" : "Энафарм таб 10мг n20",
+                           "price" : "19.1"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "эналаприла малеат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

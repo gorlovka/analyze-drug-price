@@ -1,0 +1,218 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "klerimed",
+            "rus_name" : "Клеримед",
+            "form" : "таб., покр. оболочкой, 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 7,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "klerimed",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6333,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955856015"
+                              },
+                              {
+                                 "number" : "+79162130905"
+                              }
+                           ],
+                           "phone" : "+74955856015; +79162130905",
+                           "city" : "Москва",
+                           "latitude" : 55.7856,
+                           "address" : "улица Гиляровского, 50"
+                        },
+                        "drug" : {
+                           "descid" : "1509",
+                           "quantity" : "1",
+                           "name" : "Клеримед тб п/о 500мг блист n7x2",
+                           "price" : "186.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "1509",
+                           "quantity" : "1",
+                           "name" : "Клеримед,таблетки,500мг 14шт",
+                           "price" : "295"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6733,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ ФАРМ Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953635014"
+                              }
+                           ],
+                           "phone" : "+74953635014",
+                           "city" : "Москва",
+                           "latitude" : 55.7301,
+                           "address" : "Волгоградский проспект, 10"
+                        },
+                        "drug" : {
+                           "descid" : "1509",
+                           "quantity" : "1",
+                           "name" : "Клеримед тб п/о 500мг блист n7x2",
+                           "price" : "178"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "1509",
+                           "quantity" : "20",
+                           "name" : "Клеримед тб п/о 500мг бл n7x2",
+                           "price" : "280"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5248,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЛАТИС-ТОРГ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991381001"
+                              },
+                              {
+                                 "number" : "+74991381065"
+                              },
+                              {
+                                 "number" : "+79166721665"
+                              }
+                           ],
+                           "phone" : "+74991381001; +74991381065; +79166721665",
+                           "city" : "Москва",
+                           "latitude" : 55.6846,
+                           "address" : "улица Крупской, 19/17"
+                        },
+                        "drug" : {
+                           "descid" : "1509",
+                           "quantity" : "1",
+                           "name" : "Клеримед, тбл п/о 500мг 14",
+                           "price" : "189.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993207983"
+                              }
+                           ],
+                           "phone" : "+74993207983",
+                           "city" : "Москва",
+                           "latitude" : 55.6332,
+                           "address" : "улица Медиков, 16"
+                        },
+                        "drug" : {
+                           "descid" : "1509",
+                           "quantity" : "2",
+                           "name" : "Клеримед, тбл п/о 500мг 14",
+                           "price" : "252.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "1509",
+                           "quantity" : "1",
+                           "name" : "Клеримед 500мг 14 таблетки",
+                           "price" : "142"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кларитромицин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

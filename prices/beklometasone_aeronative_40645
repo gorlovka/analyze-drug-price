@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "beklometasone_aeronative",
+            "rus_name" : "Беклометазон-аэронатив",
+            "form" : "аэрозоль д/инг. дозир. 100 мкг/1 доза",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "beklometasone_aeronative",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5619,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лотос&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957172581"
+                              }
+                           ],
+                           "phone" : "+74957172581",
+                           "city" : "Москва",
+                           "latitude" : 55.5454,
+                           "address" : "Изюмская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "8460",
+                           "quantity" : "5",
+                           "name" : "Беклометазон-аэронатив аэр 100мкг/ljpf",
+                           "price" : "165"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "беклометазон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "oxis_turbuhaler",
+            "rus_name" : "Оксис® турбухалер®",
+            "form" : "порошок д/ингал. 9 мкг/1 доза",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "oxis_turbuhaler",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АС&quot;Эвалар&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992463637"
+                              }
+                           ],
+                           "phone" : "+74992463637",
+                           "city" : "Москва",
+                           "latitude" : 55.7357,
+                           "address" : "Зубовский бульвар, 13 с1"
+                        },
+                        "drug" : {
+                           "descid" : "883",
+                           "quantity" : "2",
+                           "name" : "Оксис турбухалер 9мкг 60доз пор+ ингал",
+                           "price" : "1461"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "формотерола фумарата дигидрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

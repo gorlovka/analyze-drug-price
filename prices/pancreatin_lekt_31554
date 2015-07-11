@@ -1,0 +1,461 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "pancreatin_lekt",
+            "rus_name" : "Панкреатин-лект",
+            "form" : "таб., покр. кишечнорастворимой оболочкой, 90 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 16,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "pancreatin_lekt",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5947,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Официна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992513420"
+                              },
+                              {
+                                 "number" : "+79859995613"
+                              }
+                           ],
+                           "phone" : "+74992513420; +79859995613",
+                           "city" : "Москва",
+                           "latitude" : 55.7725,
+                           "address" : "3-я Тверская-Ямская улица, 21/23"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "3",
+                           "name" : "Панкреатин-лект, тб. 60*(блистер)",
+                           "price" : "47"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6016,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Семья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999785551"
+                              },
+                              {
+                                 "number" : "+74999730180"
+                              }
+                           ],
+                           "phone" : "+74999785551; +74999730180",
+                           "city" : "Москва",
+                           "latitude" : 55.7809,
+                           "address" : "Сущёвская улица, 13/15"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "19",
+                           "name" : "Панкреатин-лект 60 табл п/о кишеч.блис",
+                           "price" : "50"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.671,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 11",
+                           "phones" : [
+                              {
+                                 "number" : "+74959111480"
+                              }
+                           ],
+                           "phone" : "+74959111480",
+                           "city" : "Москва",
+                           "latitude" : 55.7401,
+                           "address" : "Таганская улица, 31/22"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "1",
+                           "name" : "Панкреатин-лект, тбл п/о 25ед 60",
+                           "price" : "48.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6637,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; Форте&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956766200"
+                              },
+                              {
+                                 "number" : "+74955071442"
+                              }
+                           ],
+                           "phone" : "+74956766200; +74955071442",
+                           "city" : "Москва",
+                           "latitude" : 55.7299,
+                           "address" : "2-й Крутицкий переулок, 18с1"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "18",
+                           "name" : "Панкреатин-лект табл. п/о кишечнораств. 60, тюменский хфз оао",
+                           "price" : "49"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5667,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Источник",
+                           "phones" : [
+                              {
+                                 "number" : "+74992467796"
+                              },
+                              {
+                                 "number" : "+74959288793"
+                              },
+                              {
+                                 "number" : "+74959288736"
+                              },
+                              {
+                                 "number" : "+74959288793"
+                              }
+                           ],
+                           "phone" : "+74992467796; +74959288793; +74959288736; +74959288793",
+                           "city" : "Москва",
+                           "latitude" : 55.7264,
+                           "address" : "Усачёва улица, 38"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "3",
+                           "name" : "Панкреатин-лект табл. п/о кишечнораств. 60, тюменский хфз оао",
+                           "price" : "50"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7101,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авиценна Фарма 4&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959634296"
+                              }
+                           ],
+                           "phone" : "+74959634296",
+                           "city" : "Москва",
+                           "latitude" : 55.8064,
+                           "address" : "Краснобогатырская улица, 79 к2а"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "20",
+                           "name" : "Панкреатин-лект, тбл п/о 25ед 60",
+                           "price" : "47.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7236,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Законность&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953540277"
+                              }
+                           ],
+                           "phone" : "+74953540277",
+                           "city" : "Москва",
+                           "latitude" : 55.6766,
+                           "address" : "Шоссейная улица, 39"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "2",
+                           "name" : "Панкреатин-лект, тб.покр. кишечнор.обол.",
+                           "price" : "55"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.527,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»",
+                           "phones" : [
+                              {
+                                 "number" : "+74955326904"
+                              }
+                           ],
+                           "phone" : "+74955326904",
+                           "city" : "Москва",
+                           "latitude" : 55.6595,
+                           "address" : "улица Академика Челомея, 3 к2"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "12",
+                           "name" : "Панкреатин-лект, тб. 60",
+                           "price" : "50"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4132,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 20",
+                           "phones" : [
+                              {
+                                 "number" : "+74956385692"
+                              },
+                              {
+                                 "number" : "+74957562026"
+                              }
+                           ],
+                           "phone" : "+74956385692; +74957562026",
+                           "city" : "Москва",
+                           "latitude" : 55.8057,
+                           "address" : "улица Маршала Катукова, 23"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "1",
+                           "name" : "Панкреатин-лект, тбл п/о 25ед 60",
+                           "price" : "51.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4942,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека-225&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954561606"
+                              }
+                           ],
+                           "phone" : "+74954561606",
+                           "city" : "Москва",
+                           "latitude" : 55.859,
+                           "address" : "Фестивальная улица, 12/20"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "6",
+                           "name" : "Панкреатин-лект тб п/о киш/раств бан пласт n60",
+                           "price" : "51"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7581,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармацевт Уздеников г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74953455000"
+                              },
+                              {
+                                 "number" : "+74953450310"
+                              }
+                           ],
+                           "phone" : "+74953455000; +74953450310",
+                           "city" : "Москва",
+                           "latitude" : 55.6496,
+                           "address" : "Мячковский бульвар, 18 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "4",
+                           "name" : "Панкреатин-лект тб п/о киш/раств бан пласт n60",
+                           "price" : "48"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Рэдберн&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954917449"
+                              },
+                              {
+                                 "number" : "+74954917818"
+                              }
+                           ],
+                           "phone" : "+74954917449; +74954917818",
+                           "city" : "Москва",
+                           "latitude" : 55.8267,
+                           "address" : "Волоколамский проезд, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "3",
+                           "name" : "Панкреатин-лект тб п/о кшчр 60",
+                           "price" : "48.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люксор - Фарм Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992005500"
+                              },
+                              {
+                                 "number" : "+79260961147"
+                              }
+                           ],
+                           "phone" : "+74992005500; +79260961147",
+                           "city" : "Москва",
+                           "latitude" : 55.8932,
+                           "address" : "Алтуфьевское шоссе, 87"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "4",
+                           "name" : "Панкреатин-лект табл. п/о кишечнораств. 60, тюменский хфз оао",
+                           "price" : "48.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5711,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВЕРАФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74997440387"
+                              }
+                           ],
+                           "phone" : "+74997440387",
+                           "city" : "Москва",
+                           "latitude" : 55.5773,
+                           "address" : "Ратная улица, 16 к3"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "1",
+                           "name" : "Панкреатин-лект таб п/о 60",
+                           "price" : "49"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6988,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАКС-М&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955486445"
+                              }
+                           ],
+                           "phone" : "+74955486445",
+                           "city" : "Московская область",
+                           "latitude" : 55.5551,
+                           "address" : "Видное, 9"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "4",
+                           "name" : "Панкреатин-лект 60 тб.",
+                           "price" : "48.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2162,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека-225",
+                           "phones" : [
+                              {
+                                 "number" : "+74954548085"
+                              }
+                           ],
+                           "phone" : "+74954548085",
+                           "city" : "Зеленоград",
+                           "latitude" : 55.9913,
+                           "address" : "Савёлкинский проезд, 4, Москва"
+                        },
+                        "drug" : {
+                           "descid" : "6792",
+                           "quantity" : "9",
+                           "name" : "Панкреатин-лект тб п/о киш/раств бан пласт n60",
+                           "price" : "51"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "панкреатин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

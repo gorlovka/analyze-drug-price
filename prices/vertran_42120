@@ -1,0 +1,934 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "vertran",
+            "rus_name" : "Вертран",
+            "form" : "таб. 24 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 36,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "vertran",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5981,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956900719"
+                              }
+                           ],
+                           "phone" : "+74956900719",
+                           "city" : "Москва",
+                           "latitude" : 55.7608,
+                           "address" : "Большая Бронная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран тбл 24 мг 30",
+                           "price" : "315.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490237"
+                              }
+                           ],
+                           "phone" : "+74996490237",
+                           "city" : "Москва",
+                           "latitude" : 55.7741,
+                           "address" : "Бауманская улица, 26 с1"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "10",
+                           "name" : "Вертран таб 24мг 30",
+                           "price" : "312.52"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.721,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490239"
+                              }
+                           ],
+                           "phone" : "+74996490239",
+                           "city" : "Москва",
+                           "latitude" : 55.7463,
+                           "address" : "Авиамоторная улица, 51"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "10",
+                           "name" : "Вертран таб 24мг 30",
+                           "price" : "312.52"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7372,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Престиж-групп&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997489982"
+                              }
+                           ],
+                           "phone" : "+74997489982",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "5-я улица Соколиной Горы, 19 к2"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран тбл 24 мг 30",
+                           "price" : "270"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5715,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.688,
+                           "address" : "улица Дмитрия Ульянова, 20 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "4",
+                           "name" : "Вертран таб. 24мг 30",
+                           "price" : "273"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490242"
+                              }
+                           ],
+                           "phone" : "+74996490242",
+                           "city" : "Москва",
+                           "latitude" : 55.7755,
+                           "address" : "проспект Маршала Жукова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "10",
+                           "name" : "Вертран таб 24мг 30",
+                           "price" : "316.26"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7101,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авиценна Фарма 4&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959634296"
+                              }
+                           ],
+                           "phone" : "+74959634296",
+                           "city" : "Москва",
+                           "latitude" : 55.8064,
+                           "address" : "Краснобогатырская улица, 79 к2а"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "10",
+                           "name" : "Вертран таб.24мг 30",
+                           "price" : "279"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5352,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №490",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79099722438"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79099722438",
+                           "city" : "Москва",
+                           "latitude" : 55.6889,
+                           "address" : "улица Строителей, 6 к4"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран табл. 24мг n30",
+                           "price" : "272"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5357,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №36",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6782,
+                           "address" : "улица Гарибальди, 3"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран табл. 24мг n30",
+                           "price" : "284"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7452,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490238"
+                              }
+                           ],
+                           "phone" : "+74996490238",
+                           "city" : "Москва",
+                           "latitude" : 55.6968,
+                           "address" : "улица Чистова, 16к1"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "10",
+                           "name" : "Вертран таб 24мг 30",
+                           "price" : "307.13"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6043,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЭВЕРЕСТ&quot;.",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678592"
+                              }
+                           ],
+                           "phone" : "+74999678592",
+                           "city" : "Москва",
+                           "latitude" : 55.6579,
+                           "address" : "Болотниковская улица, 12 к3"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран тбл 24 мг 30",
+                           "price" : "271.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5936,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Феерия г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74955855080"
+                              },
+                              {
+                                 "number" : "+74955459469"
+                              }
+                           ],
+                           "phone" : "+74955855080; +74955459469",
+                           "city" : "Москва",
+                           "latitude" : 55.6516,
+                           "address" : "улица Каховка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран, тбл 24мг 60",
+                           "price" : "496"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5383,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Пастэр&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991549624"
+                              }
+                           ],
+                           "phone" : "+74991549624",
+                           "city" : "Москва",
+                           "latitude" : 55.8421,
+                           "address" : "улица Генерала Рычагова, 15"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран таб 24мг 30",
+                           "price" : "301.82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.467,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490241"
+                              }
+                           ],
+                           "phone" : "+74996490241",
+                           "city" : "Москва",
+                           "latitude" : 55.8165,
+                           "address" : "Волоколамское шоссе, 56 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "10",
+                           "name" : "Вертран таб 24мг 30",
+                           "price" : "316.26"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7934,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИНАД-ЭКСПЕРТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956522369"
+                              },
+                              {
+                                 "number" : "+74956522370"
+                              }
+                           ],
+                           "phone" : "+74956522369; +74956522370",
+                           "city" : "Москва",
+                           "latitude" : 55.7997,
+                           "address" : "7-я Парковая улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран 24 мг таб. 60",
+                           "price" : "520"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6079,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №424",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6394,
+                           "address" : "Чертановская улица, 1в к1"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран табл. 24мг n30",
+                           "price" : "282"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4895,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №646",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.8414,
+                           "address" : "Кронштадтский бульвар, 9"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран табл. 24мг n30",
+                           "price" : "282"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран табл. 24 мг 30, белупо, лекарства и косметика д.д.",
+                           "price" : "314"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "10",
+                           "name" : "Вертран таб 24мг 30",
+                           "price" : "312.52"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8332,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №125",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7584,
+                           "address" : "улица Молостовых, 9 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран табл. 24мг n30",
+                           "price" : "315"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8192,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №414",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7064,
+                           "address" : "Ферганская улица, 17"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран табл. 24мг n30",
+                           "price" : "277"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6968,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 33",
+                           "phones" : [
+                              {
+                                 "number" : "+74999408039"
+                              }
+                           ],
+                           "phone" : "+74999408039",
+                           "city" : "Москва",
+                           "latitude" : 55.6373,
+                           "address" : "Каширское шоссе, 57 к2"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "2",
+                           "name" : "Вертран таб. 24мг 30",
+                           "price" : "304.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран 24 мг таб. 30",
+                           "price" : "279"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.814,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74954682066"
+                              }
+                           ],
+                           "phone" : "+74954682066",
+                           "city" : "Москва",
+                           "latitude" : 55.8105,
+                           "address" : "Щёлковское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран тб 24мг 30 белупо",
+                           "price" : "310"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8258,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МДФ Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79639611597"
+                              }
+                           ],
+                           "phone" : "+79639611597",
+                           "city" : "Москва",
+                           "latitude" : 55.8023,
+                           "address" : "Сиреневый бульвар, 60"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран, тбл 24мг 30",
+                           "price" : "327.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5343,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Трэйси Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954857932"
+                              },
+                              {
+                                 "number" : "+74999410341"
+                              }
+                           ],
+                           "phone" : "+74954857932; +74999410341",
+                           "city" : "Москва",
+                           "latitude" : 55.8766,
+                           "address" : "улица Софьи Ковалевской, 2"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "2",
+                           "name" : "Вертран 24 мг. 30 таб.",
+                           "price" : "308"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8583,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 7",
+                           "phones" : [
+                              {
+                                 "number" : "+74993941225"
+                              }
+                           ],
+                           "phone" : "+74993941225",
+                           "city" : "Реутов",
+                           "latitude" : 55.7556,
+                           "address" : "улица Ленина, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран 24мг 30 таб",
+                           "price" : "277.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8605,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диалог Центр&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957756561"
+                              }
+                           ],
+                           "phone" : "+74957756561",
+                           "city" : "Москва",
+                           "latitude" : 55.7452,
+                           "address" : "Носовихинское шоссе, 9"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран таб. 24мг 30",
+                           "price" : "287.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7446,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 30",
+                           "phones" : [
+                              {
+                                 "number" : "+79647294704"
+                              }
+                           ],
+                           "phone" : "+79647294704",
+                           "city" : "Москва",
+                           "latitude" : 55.6329,
+                           "address" : "улица Борисовские Пруды, 14 к4"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "2",
+                           "name" : "Вертран таб. 24мг 60",
+                           "price" : "539.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.668,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЖА Аптека&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994768475"
+                              }
+                           ],
+                           "phone" : "+74994768475",
+                           "city" : "Москва",
+                           "latitude" : 55.8925,
+                           "address" : "Студёный проезд, 28"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран таб 24мг n30 бл пк &amp;lt;10*3&amp;gt;",
+                           "price" : "298"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6094,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 40",
+                           "phones" : [
+                              {
+                                 "number" : "+74999408644"
+                              }
+                           ],
+                           "phone" : "+74999408644",
+                           "city" : "Москва",
+                           "latitude" : 55.5996,
+                           "address" : "Россошанский проезд, 5 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран таб. 24мг 30",
+                           "price" : "301.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6444,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 21",
+                           "phones" : [
+                              {
+                                 "number" : "+74953850836"
+                              }
+                           ],
+                           "phone" : "+74953850836",
+                           "city" : "Москва",
+                           "latitude" : 55.5933,
+                           "address" : "Медынская улица, 6а"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран таб. 24мг 60",
+                           "price" : "536.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6741,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 32",
+                           "phones" : [
+                              {
+                                 "number" : "+74957451404"
+                              }
+                           ],
+                           "phone" : "+74957451404",
+                           "city" : "Москва",
+                           "latitude" : 55.5816,
+                           "address" : "Загорьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран таб. 24мг 60",
+                           "price" : "580.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5711,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВЕРАФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74997440387"
+                              }
+                           ],
+                           "phone" : "+74997440387",
+                           "city" : "Москва",
+                           "latitude" : 55.5773,
+                           "address" : "Ратная улица, 16 к3"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран таб. 24мг 30",
+                           "price" : "304"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5277,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №843",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Подольск",
+                           "latitude" : 55.4231,
+                           "address" : "улица Готвальда, 17, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "2",
+                           "name" : "Вертран табл. 24мг n30",
+                           "price" : "308"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Атрика&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8106,
+                           "address" : "проспект Ленина, 06, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8653",
+                           "quantity" : "1",
+                           "name" : "Вертран тбл 24 мг 30",
+                           "price" : "259"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "бетагистина дигидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

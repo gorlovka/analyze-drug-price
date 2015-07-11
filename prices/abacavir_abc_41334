@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "abacavir_abc",
+            "rus_name" : "Абакавир-авс",
+            "form" : "таб., покр. пленочной оболочкой, 300 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "abacavir_abc",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7878,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Формула Здоровья-4&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266768"
+                              }
+                           ],
+                           "phone" : "+74956266768",
+                           "city" : "Москва",
+                           "latitude" : 55.7158,
+                           "address" : "1-я Новокузьминская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "8583",
+                           "quantity" : "1",
+                           "name" : "Абакавир-авс??? тб 300мг 60",
+                           "price" : "4535"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "абакавир"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

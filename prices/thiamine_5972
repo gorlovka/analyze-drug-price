@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "thiamine",
+            "rus_name" : "Тиамин",
+            "form" : "р-р д/в/м введения 2.5% (25 мг/1 мл)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "thiamine",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9914,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ИНТЕКО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965671185"
+                              }
+                           ],
+                           "phone" : "+74965671185",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9228,
+                           "address" : "площадь Ленина, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2643",
+                           "quantity" : "4",
+                           "name" : "Тиамин 0,05/мл 1мл 10 р-р в/м",
+                           "price" : "32"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тиамина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

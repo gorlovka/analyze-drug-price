@@ -1,0 +1,156 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ketorolac_rompharm",
+            "rus_name" : "Кеторолак ромфарм",
+            "form" : "р-р д/в/в и в/м введения 30 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ketorolac_rompharm",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.573,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999764410"
+                              }
+                           ],
+                           "phone" : "+74999764410",
+                           "city" : "Москва",
+                           "latitude" : 55.8118,
+                           "address" : "улица Костякова, 6/5"
+                        },
+                        "drug" : {
+                           "descid" : "6751",
+                           "quantity" : "2",
+                           "name" : "Кеторолак ромфарм,р-р для в/в и в/м введ 30мг/мл 1мл амп 10",
+                           "price" : "80.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6338,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Полюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994732334"
+                              }
+                           ],
+                           "phone" : "+74994732334",
+                           "city" : "Москва",
+                           "latitude" : 55.8701,
+                           "address" : "проезд Дежнёва, 27 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6751",
+                           "quantity" : "2",
+                           "name" : "Кеторолак ромфарм р-р д/и в/в и в/м 30мг/мл 1мл амп n10",
+                           "price" : "98"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8555,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 42",
+                           "phones" : [
+                              {
+                                 "number" : "+74957041418"
+                              }
+                           ],
+                           "phone" : "+74957041418",
+                           "city" : "Москва",
+                           "latitude" : 55.6917,
+                           "address" : "Саранская улица, 4/24"
+                        },
+                        "drug" : {
+                           "descid" : "6751",
+                           "quantity" : "3",
+                           "name" : "Кеторолак ромфарм р-р в/в и в/м введ. 30мг/мл амп. 1 мл 10",
+                           "price" : "96.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9914,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ИНТЕКО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965671185"
+                              }
+                           ],
+                           "phone" : "+74965671185",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9228,
+                           "address" : "площадь Ленина, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "6751",
+                           "quantity" : "3",
+                           "name" : "Кеторолак ромфарм 30мг/мл амп. 1 мл 10",
+                           "price" : "99"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2214,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 15",
+                           "phones" : [
+                              {
+                                 "number" : "+79637825591"
+                              }
+                           ],
+                           "phone" : "+79637825591",
+                           "city" : "Солнечногорский район",
+                           "latitude" : 56.0131,
+                           "address" : "Ржавки, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "6751",
+                           "quantity" : "2",
+                           "name" : "Кеторолак ромфарм р-р в/в и в/м введ. 30мг/мл амп. 1 мл 10",
+                           "price" : "93.6"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кеторолака трометамол (кеторолака трометамин)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,131 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "salicylic_oinment",
+            "rus_name" : "Салициловая мазь",
+            "form" : "мазь д/наружн. прим. 5%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "salicylic_oinment",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6554,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лотос&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956826565"
+                              }
+                           ],
+                           "phone" : "+74956826565",
+                           "city" : "Москва",
+                           "latitude" : 55.8119,
+                           "address" : "улица Павла Корчагина, 2/1"
+                        },
+                        "drug" : {
+                           "descid" : "3757",
+                           "quantity" : "3",
+                           "name" : "Салициловая мазь 5%-25г туба",
+                           "price" : "26"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4687,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Янтарь Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959425985"
+                              }
+                           ],
+                           "phone" : "+74959425985",
+                           "city" : "Москва",
+                           "latitude" : 55.8142,
+                           "address" : "Волоколамское шоссе, 45"
+                        },
+                        "drug" : {
+                           "descid" : "3757",
+                           "quantity" : "5",
+                           "name" : "Салициловая мазь 5% 25г банка",
+                           "price" : "24"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5855,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ДИАНТУМПЛЮС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992002857"
+                              }
+                           ],
+                           "phone" : "+74992002857",
+                           "city" : "Москва",
+                           "latitude" : 55.8949,
+                           "address" : "Алтуфьевское шоссе, 89"
+                        },
+                        "drug" : {
+                           "descid" : "3757",
+                           "quantity" : "2",
+                           "name" : "Салициловая мазь 5%-25г туба",
+                           "price" : "26"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79255335280"
+                              }
+                           ],
+                           "phone" : "+79255335280",
+                           "city" : "Железнодорожный",
+                           "latitude" : 55.747,
+                           "address" : "Граничная улица, 18, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3757",
+                           "quantity" : "4",
+                           "name" : "Салициловая мазь 5% 25,0",
+                           "price" : "22.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "салициловая кислота"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

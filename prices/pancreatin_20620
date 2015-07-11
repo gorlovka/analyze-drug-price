@@ -1,0 +1,755 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "pancreatin",
+            "rus_name" : "Панкреатин",
+            "form" : "таб., покр. кишечнорастворимой оболочкой, 30 ЕД",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 28,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "pancreatin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; ЭЛЬРУФ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959510826"
+                              }
+                           ],
+                           "phone" : "+74959510826",
+                           "city" : "Москва",
+                           "latitude" : 55.7311,
+                           "address" : "Валовая улица, 14с8"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "5",
+                           "name" : "Панкреатин 30ед тб. 60",
+                           "price" : "49"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5947,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Официна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992513420"
+                              },
+                              {
+                                 "number" : "+79859995613"
+                              }
+                           ],
+                           "phone" : "+74992513420; +79859995613",
+                           "city" : "Москва",
+                           "latitude" : 55.7725,
+                           "address" : "3-я Тверская-Ямская улица, 21/23"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "6",
+                           "name" : "Панкреатин 30 ед таб. п.о 60 (фл)",
+                           "price" : "46"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5839,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;С-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957750767"
+                              }
+                           ],
+                           "phone" : "+74957750767",
+                           "city" : "Москва",
+                           "latitude" : 55.7751,
+                           "address" : "площадь Тверская Застава, 2с1"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "3",
+                           "name" : "Панкреатин 30 ед таб. покр. кишечнор. об. х60 (флакон полим.) (r) фармпроект зао(россия)",
+                           "price" : "39.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6087,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.7192,
+                           "address" : "улица Шаболовка, 30/12"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "30",
+                           "name" : "Панкреатин таб. п/о 30ед 60 (фл.)",
+                           "price" : "46"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6733,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ ФАРМ Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953635014"
+                              }
+                           ],
+                           "phone" : "+74953635014",
+                           "city" : "Москва",
+                           "latitude" : 55.7301,
+                           "address" : "Волгоградский проспект, 10"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "20",
+                           "name" : "Панкреатин тб п/о киш/раств 30ед блист n10x6",
+                           "price" : "43.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "25",
+                           "name" : "Панкреатин, табл. п.о. раствор./кишечн. 30 ед 60",
+                           "price" : "41.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6145,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 4 (ООО Феерия Фарм Север)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956026573"
+                              }
+                           ],
+                           "phone" : "+74956026573",
+                           "city" : "Москва",
+                           "latitude" : 55.7937,
+                           "address" : "улица Сущёвский Вал, 55"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "13",
+                           "name" : "Панкреатин, тбл п/о 30ед 60",
+                           "price" : "47.04"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7138,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953604472"
+                              }
+                           ],
+                           "phone" : "+74953604472",
+                           "city" : "Москва",
+                           "latitude" : 55.7698,
+                           "address" : "Ухтомская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "20",
+                           "name" : "Панкреатин тбл п/о 30ед 60",
+                           "price" : "49"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЭпиФарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956655943"
+                              }
+                           ],
+                           "phone" : "+74956655943",
+                           "city" : "Москва",
+                           "latitude" : 55.7332,
+                           "address" : "Нижегородская улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "20",
+                           "name" : "Панкреатин 30 ед таб. п.о 60",
+                           "price" : "42"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.721,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956733758"
+                              }
+                           ],
+                           "phone" : "+74956733758",
+                           "city" : "Москва",
+                           "latitude" : 55.7463,
+                           "address" : "Авиамоторная улица, 51"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "7",
+                           "name" : "Панкреатин тбл п/о 30ед 60",
+                           "price" : "48.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5116,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ТРИКА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991424869"
+                              }
+                           ],
+                           "phone" : "+74991424869",
+                           "city" : "Москва",
+                           "latitude" : 55.7454,
+                           "address" : "Багратионовский проезд, 1 с1"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "30",
+                           "name" : "Панкреатин тбл п/о 30ед 60",
+                           "price" : "41.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5368,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма на Аэропортовской",
+                           "phones" : [
+                              {
+                                 "number" : "+74995179009"
+                              },
+                              {
+                                 "number" : "+74995179088"
+                              }
+                           ],
+                           "phone" : "+74995179009; +74995179088",
+                           "city" : "Москва",
+                           "latitude" : 55.8012,
+                           "address" : "1-я Аэропортовская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "7",
+                           "name" : "Панкреатин, тбл п/о кишечнор 30ед 60 фл",
+                           "price" : "49"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 18",
+                           "phones" : [
+                              {
+                                 "number" : "+79039616643"
+                              }
+                           ],
+                           "phone" : "+79039616643",
+                           "city" : "Москва",
+                           "latitude" : 55.7986,
+                           "address" : "Большая Черкизовская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "20",
+                           "name" : "Панкреатин 30ед 60 тб.",
+                           "price" : "48.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7027,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека в Люблино&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678611"
+                              }
+                           ],
+                           "phone" : "+74999678611",
+                           "city" : "Москва",
+                           "latitude" : 55.8111,
+                           "address" : "Краснобогатырская улица, 23"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "20",
+                           "name" : "Панкреатин тбл п/о 30ед 60",
+                           "price" : "46"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Фирма Здоровье г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74957381041"
+                              }
+                           ],
+                           "phone" : "+74957381041",
+                           "city" : "Москва",
+                           "latitude" : 55.7659,
+                           "address" : "Филёвский бульвар, 11"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "13",
+                           "name" : "Панкреатин таб. п/о 30ед 60",
+                           "price" : "41.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7262,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Авиценнафарма Халтуринская, 18",
+                           "phones" : [
+                              {
+                                 "number" : "+74956031967"
+                              },
+                              {
+                                 "number" : "+79652088880"
+                              }
+                           ],
+                           "phone" : "+74956031967; +79652088880",
+                           "city" : "Москва",
+                           "latitude" : 55.8053,
+                           "address" : "Халтуринская улица, 18"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "1",
+                           "name" : "Панкреатин, тбл п/о 30ед 60",
+                           "price" : "49"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8134,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 31",
+                           "phones" : [
+                              {
+                                 "number" : "+74999840768"
+                              }
+                           ],
+                           "phone" : "+74999840768",
+                           "city" : "Москва",
+                           "latitude" : 55.7265,
+                           "address" : "улица Молдагуловой, 12а"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "3",
+                           "name" : "Панкреатин, тбл п/о 30ед 60**",
+                           "price" : "49"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НатурРецепт&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956549961"
+                              },
+                              {
+                                 "number" : "+74956549962"
+                              },
+                              {
+                                 "number" : "+74956549496"
+                              }
+                           ],
+                           "phone" : "+74956549961; +74956549962; +74956549496",
+                           "city" : "Москва",
+                           "latitude" : 55.6591,
+                           "address" : "Мячковский бульвар, 1"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "19",
+                           "name" : "Панкреатин таб. п/о 30ед 60 (фл.)",
+                           "price" : "46.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5343,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Трэйси Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954857932"
+                              },
+                              {
+                                 "number" : "+74999410341"
+                              }
+                           ],
+                           "phone" : "+74954857932; +74999410341",
+                           "city" : "Москва",
+                           "latitude" : 55.8766,
+                           "address" : "улица Софьи Ковалевской, 2"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "1",
+                           "name" : "Панкреатин, тбл п/о кишечнор 30ед 60 фл россия",
+                           "price" : "44"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8605,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диалог Центр&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957756561"
+                              }
+                           ],
+                           "phone" : "+74957756561",
+                           "city" : "Москва",
+                           "latitude" : 55.7452,
+                           "address" : "Носовихинское шоссе, 9"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "34",
+                           "name" : "Панкреатин таб. п/о 30ед 60 (фл.)",
+                           "price" : "38.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "1",
+                           "name" : "Панкреатин 30ед 60 таблетки п/о",
+                           "price" : "51"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8502,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Цветочки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959732898"
+                              }
+                           ],
+                           "phone" : "+74959732898",
+                           "city" : "Москва",
+                           "latitude" : 55.7013,
+                           "address" : "Лермонтовский проспект, 8"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "7",
+                           "name" : "Панкреатин, тбл п/о кишечнор 30ед 60 фл",
+                           "price" : "44"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6019,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "&quot;БОГАТЫРЬ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953140060"
+                              },
+                              {
+                                 "number" : "+74957896029"
+                              }
+                           ],
+                           "phone" : "+74953140060; +74957896029",
+                           "city" : "Москва",
+                           "latitude" : 55.6094,
+                           "address" : "Кировоградская улица, 28 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "49",
+                           "name" : "Панкреатин тбл п/о 30ед 60",
+                           "price" : "43"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5067,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО « ИНТЕРТОРГ»",
+                           "phones" : [
+                              {
+                                 "number" : "+74959716524"
+                              }
+                           ],
+                           "phone" : "+74959716524",
+                           "city" : "Москва",
+                           "latitude" : 55.6194,
+                           "address" : "Новоясеневский проспект, 1к1"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "6",
+                           "name" : "Панкреатин, тбл п/о 30ед 60",
+                           "price" : "43"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5887,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Ромашки",
+                           "phones" : [
+                              {
+                                 "number" : "+74999083503"
+                              },
+                              {
+                                 "number" : "+74999678645"
+                              }
+                           ],
+                           "phone" : "+74999083503; +74999678645",
+                           "city" : "Москва",
+                           "latitude" : 55.8993,
+                           "address" : "Алтуфьевское шоссе, 88"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "15",
+                           "name" : "Панкреатин, тбл п/о кишечнор 30ед 60 фл",
+                           "price" : "46.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья Юг",
+                           "phones" : [
+                              {
+                                 "number" : "+74959710100"
+                              }
+                           ],
+                           "phone" : "+74959710100",
+                           "city" : "Москва",
+                           "latitude" : 55.8571,
+                           "address" : "улица Героев Панфиловцев, 7"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "10",
+                           "name" : "Панкреатин таб. п/о кишечнораств. 30ед",
+                           "price" : "42.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6716,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЗАБОТА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79037977747"
+                              }
+                           ],
+                           "phone" : "+79037977747",
+                           "city" : "Видное",
+                           "latitude" : 55.5427,
+                           "address" : "Совхозная улица, 5к3А"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "3",
+                           "name" : "Панкреатин таб. п/о кишечнораств. 30ед 60",
+                           "price" : "49"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3684,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГудМедикал&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959711538"
+                              }
+                           ],
+                           "phone" : "+74959711538",
+                           "city" : "Московский",
+                           "latitude" : 55.5929,
+                           "address" : "Радужная улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "5",
+                           "name" : "Панкреатин 30 ед таб. п.о 60 (фл) (29,39)",
+                           "price" : "46.3"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "панкреатин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

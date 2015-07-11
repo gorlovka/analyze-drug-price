@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "biosulin_n",
+            "rus_name" : "Биосулин® н",
+            "form" : "сусп. д/п/к введения 100 МЕ/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "biosulin_n",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5281,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Сиджам&quot;1",
+                           "phones" : [
+                              {
+                                 "number" : "+74992497562"
+                              }
+                           ],
+                           "phone" : "+74992497562",
+                           "city" : "Москва",
+                           "latitude" : 55.7379,
+                           "address" : "Кутузовский проспект, 43"
+                        },
+                        "drug" : {
+                           "descid" : "1434",
+                           "quantity" : "1",
+                           "name" : "Биосулин н сусп.п/к 100ме/3мл 5 картр.",
+                           "price" : "1200"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7878,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Формула Здоровья-4&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266768"
+                              }
+                           ],
+                           "phone" : "+74956266768",
+                           "city" : "Москва",
+                           "latitude" : 55.7158,
+                           "address" : "1-я Новокузьминская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "1434",
+                           "quantity" : "1",
+                           "name" : "Биосулин н сусп 100ме/3мл 5",
+                           "price" : "1150"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7446,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 30",
+                           "phones" : [
+                              {
+                                 "number" : "+79647294704"
+                              }
+                           ],
+                           "phone" : "+79647294704",
+                           "city" : "Москва",
+                           "latitude" : 55.6329,
+                           "address" : "улица Борисовские Пруды, 14 к4"
+                        },
+                        "drug" : {
+                           "descid" : "1434",
+                           "quantity" : "1",
+                           "name" : "Биосулин н сусп.п/к 100ме/3мл х 5 картр.",
+                           "price" : "1083.1"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "инсулин-изофан (человеческий генно-инженерный)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

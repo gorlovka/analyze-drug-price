@@ -1,0 +1,109 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "oxis_turbuhaler",
+            "rus_name" : "Оксис® турбухалер®",
+            "form" : "порошок д/ингал. 4.5 мкг/1 доза",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "oxis_turbuhaler",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.637,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АС&quot;Эвалар&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959531087"
+                              }
+                           ],
+                           "phone" : "+74959531087",
+                           "city" : "Москва",
+                           "latitude" : 55.7315,
+                           "address" : "улица Зацепский Вал, 14"
+                        },
+                        "drug" : {
+                           "descid" : "883",
+                           "quantity" : "1",
+                           "name" : "Оксис турбухалер 4.5мкг 60доз пор.+ингал",
+                           "price" : "871"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6118,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АС&quot;Эвалар&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992301871"
+                              }
+                           ],
+                           "phone" : "+74992301871",
+                           "city" : "Москва",
+                           "latitude" : 55.7282,
+                           "address" : "Калужская площадь, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "883",
+                           "quantity" : "2",
+                           "name" : "Оксис турбухалер 4.5мкг 60доз пор.+ингал",
+                           "price" : "871"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8157,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;АНСИмед&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954685225"
+                              },
+                              {
+                                 "number" : "+74995302091"
+                              }
+                           ],
+                           "phone" : "+74954685225; +74995302091",
+                           "city" : "Москва",
+                           "latitude" : 55.7974,
+                           "address" : "Измайловский бульвар, 67 к1"
+                        },
+                        "drug" : {
+                           "descid" : "883",
+                           "quantity" : "1",
+                           "name" : "Оксис турбухалер 4,5мкг 60доз пор д/инг д/з",
+                           "price" : "874.59"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "формотерола фумарата дигидрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

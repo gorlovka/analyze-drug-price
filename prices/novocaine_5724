@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "novocaine",
+            "rus_name" : "Новокаин",
+            "form" : "р-р д/инф. 0.5% (1 г/200 мл)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "novocaine",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1913,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "МП ПМ &quot;Аптека 19&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74962534666"
+                              },
+                              {
+                                 "number" : "+74965675019"
+                              }
+                           ],
+                           "phone" : "+74962534666; +74965675019",
+                           "city" : "Монино",
+                           "latitude" : 55.8438,
+                           "address" : "Комсомольская улица, 3, Московская область, Щёлковский район"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "22",
+                           "name" : "Новокаин р-р д/ин 0,5% бут.ст. 200мл 1",
+                           "price" : "30.7"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "прокаин + прокаина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

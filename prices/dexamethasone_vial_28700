@@ -1,0 +1,752 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "dexamethasone_vial",
+            "rus_name" : "Дексаметазон-виал",
+            "form" : "р-р д/инъекц. 4 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 28,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "dexamethasone_vial",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5947,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Официна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992513420"
+                              },
+                              {
+                                 "number" : "+79859995613"
+                              }
+                           ],
+                           "phone" : "+74992513420; +79859995613",
+                           "city" : "Москва",
+                           "latitude" : 55.7725,
+                           "address" : "3-я Тверская-Ямская улица, 21/23"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "3",
+                           "name" : "Дексаметазон-виал р-р д/ин. 4мг/мл 1мл 25",
+                           "price" : "194"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5901,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490247"
+                              }
+                           ],
+                           "phone" : "+74996490247",
+                           "city" : "Москва",
+                           "latitude" : 55.7732,
+                           "address" : "1-я Тверская-Ямская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "10",
+                           "name" : "Дексаметазон-виал р-р д/ин 4мг/мл 1мл амп 25",
+                           "price" : "183.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955451350"
+                              },
+                              {
+                                 "number" : "+79262305469"
+                              }
+                           ],
+                           "phone" : "+74955451350; +79262305469",
+                           "city" : "Москва",
+                           "latitude" : 55.7384,
+                           "address" : "Марксистская улица, 3 с1"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "1",
+                           "name" : "Дексаметазон-виал р-р д/и 4мг 1мл амп n5x5",
+                           "price" : "191.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6344,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490250"
+                              }
+                           ],
+                           "phone" : "+74996490250",
+                           "city" : "Москва",
+                           "latitude" : 55.7842,
+                           "address" : "проспект Мира, 51"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "10",
+                           "name" : "Дексаметазон-виал р-р д/ин 4мг/мл 1мл амп 25",
+                           "price" : "193.85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490249"
+                              }
+                           ],
+                           "phone" : "+74996490249",
+                           "city" : "Москва",
+                           "latitude" : 55.7227,
+                           "address" : "Фрунзенская набережная, 36/2"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "10",
+                           "name" : "Дексаметазон-виал р-р д/ин 4мг/мл 1мл амп 25",
+                           "price" : "183.53"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6733,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ ФАРМ Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953635014"
+                              }
+                           ],
+                           "phone" : "+74953635014",
+                           "city" : "Москва",
+                           "latitude" : 55.7301,
+                           "address" : "Волгоградский проспект, 10"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "1",
+                           "name" : "Дексаметазон-виал р-р д/и 4мг 1мл амп n5x5",
+                           "price" : "185"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490237"
+                              }
+                           ],
+                           "phone" : "+74996490237",
+                           "city" : "Москва",
+                           "latitude" : 55.7741,
+                           "address" : "Бауманская улица, 26 с1"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "10",
+                           "name" : "Дексаметазон-виал р-р д/ин 4мг/мл 1мл амп 25",
+                           "price" : "183.25"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5479,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992156351"
+                              }
+                           ],
+                           "phone" : "+74992156351",
+                           "city" : "Москва",
+                           "latitude" : 55.7583,
+                           "address" : "Шмитовский проезд, 16 с2"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "10",
+                           "name" : "Дексаметазон-виал р-р д/ин 4мг/мл 1мл амп 25",
+                           "price" : "189.38"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6155,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490248"
+                              }
+                           ],
+                           "phone" : "+74996490248",
+                           "city" : "Москва",
+                           "latitude" : 55.794,
+                           "address" : "Шереметьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "10",
+                           "name" : "Дексаметазон-виал р-р д/ин 4мг/мл 1мл амп 25",
+                           "price" : "199.39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6784,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СИТИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956649855"
+                              },
+                              {
+                                 "number" : "+79250409555"
+                              }
+                           ],
+                           "phone" : "+74956649855; +79250409555",
+                           "city" : "Москва",
+                           "latitude" : 55.785,
+                           "address" : "улица Жебрунова, 4"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "2",
+                           "name" : "Дексаметазон-виал р-р д/ин 4мг/мл 1мл n25 амп",
+                           "price" : "205"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.721,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490239"
+                              }
+                           ],
+                           "phone" : "+74996490239",
+                           "city" : "Москва",
+                           "latitude" : 55.7463,
+                           "address" : "Авиамоторная улица, 51"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "10",
+                           "name" : "Дексаметазон-виал р-р д/ин 4мг/мл 1мл амп 25",
+                           "price" : "183.44"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490242"
+                              }
+                           ],
+                           "phone" : "+74996490242",
+                           "city" : "Москва",
+                           "latitude" : 55.7755,
+                           "address" : "проспект Маршала Жукова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "10",
+                           "name" : "Дексаметазон-виал р-р д/ин 4мг/мл 1мл амп 25",
+                           "price" : "183.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "10",
+                           "name" : "Дексаметазон-виал р-р д/и 4мг/мл амп темн стек 1мл n5x5",
+                           "price" : "125"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4746,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №007",
+                           "phones" : [
+                              {
+                                 "number" : "+78127530098"
+                              },
+                              {
+                                 "number" : "+78127537914"
+                              }
+                           ],
+                           "phone" : "+78127530098; +78127537914",
+                           "city" : "Москва",
+                           "latitude" : 55.7763,
+                           "address" : "проспект Маршала Жукова, 30"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "21",
+                           "name" : "Дексаметазон-виал 4мг/мл 1мл №1 раствор для инъекций",
+                           "price" : "7.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.467,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490241"
+                              }
+                           ],
+                           "phone" : "+74996490241",
+                           "city" : "Москва",
+                           "latitude" : 55.8165,
+                           "address" : "Волоколамское шоссе, 56 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "10",
+                           "name" : "Дексаметазон-виал р-р д/ин 4мг/мл 1мл амп 25",
+                           "price" : "193.85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8088,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Авиценна Фарма",
+                           "phones" : [
+                              {
+                                 "number" : "+74956038512"
+                              },
+                              {
+                                 "number" : "+79671612272"
+                              }
+                           ],
+                           "phone" : "+74956038512; +79671612272",
+                           "city" : "Москва",
+                           "latitude" : 55.791,
+                           "address" : "Нижняя Первомайская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "5",
+                           "name" : "Дексаметазон-виал р-р 4 мг амп. 1 мл. х25",
+                           "price" : "195"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8203,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авиценна Фарма 3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957403143"
+                              },
+                              {
+                                 "number" : "+79269147136"
+                              }
+                           ],
+                           "phone" : "+74957403143; +79269147136",
+                           "city" : "Москва",
+                           "latitude" : 55.7916,
+                           "address" : "Нижняя Первомайская улица, 77"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "1",
+                           "name" : "Дексаметазон-виал р-р 4 мг амп. 1 мл. х25",
+                           "price" : "189.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "10",
+                           "name" : "Дексаметазон-виал р-р д/ин 4мг/мл 1мл амп 25",
+                           "price" : "199.35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490240"
+                              }
+                           ],
+                           "phone" : "+74996490240",
+                           "city" : "Москва",
+                           "latitude" : 55.6513,
+                           "address" : "Люблинская улица, 163/1"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "10",
+                           "name" : "Дексаметазон-виал р-р д/ин 4мг/мл 1мл амп 25",
+                           "price" : "183.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Рэдберн&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954917449"
+                              },
+                              {
+                                 "number" : "+74954917818"
+                              }
+                           ],
+                           "phone" : "+74954917449; +74954917818",
+                           "city" : "Москва",
+                           "latitude" : 55.8267,
+                           "address" : "Волоколамский проезд, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "2",
+                           "name" : "Дексаметазон-виал, 4 мг 1 мл амп. 25*",
+                           "price" : "23"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4396,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Флория Север&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994979834"
+                              }
+                           ],
+                           "phone" : "+74994979834",
+                           "city" : "Москва",
+                           "latitude" : 55.843,
+                           "address" : "Сходненская улица, 36/11"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "2",
+                           "name" : "Дексаметазон-виал р-р д/ин. 4 мг/мл 1 мл 25 ампулы, сиэсписи оуи фармасьютикал ко. лтд",
+                           "price" : "194.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.668,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЖА Аптека&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994768475"
+                              }
+                           ],
+                           "phone" : "+74994768475",
+                           "city" : "Москва",
+                           "latitude" : 55.8925,
+                           "address" : "Студёный проезд, 28"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "1",
+                           "name" : "Дексаметазон-виал р-р д/ин 4мг/мл 1мл n25 амп т/ст к/я пк &amp;lt;5*5&amp;gt;",
+                           "price" : "195.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5855,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ДИАНТУМПЛЮС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992002857"
+                              }
+                           ],
+                           "phone" : "+74992002857",
+                           "city" : "Москва",
+                           "latitude" : 55.8949,
+                           "address" : "Алтуфьевское шоссе, 89"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "1",
+                           "name" : "Дексаметазон виал 4мг/1мл 25 амп.",
+                           "price" : "216"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6968,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Алтехком&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953434446"
+                              }
+                           ],
+                           "phone" : "+74953434446",
+                           "city" : "Москва",
+                           "latitude" : 55.6113,
+                           "address" : "Шипиловский проезд, 39 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "5",
+                           "name" : "Дексаметазон виал 4 мг - 1 мл 5 амп. cspc ouyi pharm",
+                           "price" : "42"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5425,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954226311"
+                              }
+                           ],
+                           "phone" : "+74954226311",
+                           "city" : "Москва",
+                           "latitude" : 55.6024,
+                           "address" : "улица Паустовского, 1"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "6",
+                           "name" : "Дексаметазон-виал, р-р д/инъ 4мг/мл 1мл 25",
+                           "price" : "150.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 174",
+                           "phones" : [
+                              {
+                                 "number" : "+74955820113"
+                              }
+                           ],
+                           "phone" : "+74955820113",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9079,
+                           "address" : "Новомытищинский проспект, 48, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "2",
+                           "name" : "Дексаметазон-виал р-р д/ин. 4мг/мл амп. 1мл n25",
+                           "price" : "188"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5429,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»3",
+                           "phones" : [
+                              {
+                                 "number" : "+74955325880"
+                              }
+                           ],
+                           "phone" : "+74955325880",
+                           "city" : "Москва",
+                           "latitude" : 55.5396,
+                           "address" : "Чечёрский проезд, 16"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "1",
+                           "name" : "Дексаметазон-виал р-р д/ин4мг/1мламп. 25",
+                           "price" : "191"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0107,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВИТА-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955229477"
+                              }
+                           ],
+                           "phone" : "+74955229477",
+                           "city" : "Балашиха",
+                           "latitude" : 55.749,
+                           "address" : "Пролетарская улица, 3"
+                        },
+                        "drug" : {
+                           "descid" : "6141",
+                           "quantity" : "5",
+                           "name" : "Дексаметазон-виал р-р д/ин. 4мг/мл 1мл 5 китай",
+                           "price" : "37.6"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "дексаметазон (в форме натрия фосфата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

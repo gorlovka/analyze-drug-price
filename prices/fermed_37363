@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "fermed",
+            "rus_name" : "Фермед",
+            "form" : "р-р д/в/в и в/м введен. 20 мг/мл",
+            "has_desc" : false,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "fermed",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "7616",
+                           "quantity" : "1",
+                           "name" : "Фермед р-р д/инф 20мг/мл 5мл 5",
+                           "price" : "3000"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4172,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МЕДЦЕНТР-МОСИНТУР ЛТД&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955061407"
+                              },
+                              {
+                                 "number" : "+74952238910"
+                              }
+                           ],
+                           "phone" : "+74955061407; +74952238910",
+                           "city" : "Москва",
+                           "latitude" : 55.7302,
+                           "address" : "Кунцевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "7616",
+                           "quantity" : "5",
+                           "name" : "Фермед",
+                           "price" : "3000"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "железо (в форме комплекса гидроксида железа (III) с полимальтозой)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

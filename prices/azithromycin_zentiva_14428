@@ -1,0 +1,131 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "azithromycin_zentiva",
+            "rus_name" : "Азитромицин зентива",
+            "form" : "таб., покр. пленочной оболочкой, 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "azithromycin_zentiva",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6443,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ИП Бескрайняя Е.С.",
+                           "phones" : [
+                              {
+                                 "number" : "+74991749461"
+                              }
+                           ],
+                           "phone" : "+74991749461",
+                           "city" : "Москва",
+                           "latitude" : 55.8058,
+                           "address" : "3-я Мытищинская улица, 3 к2"
+                        },
+                        "drug" : {
+                           "descid" : "3828",
+                           "quantity" : "1",
+                           "name" : "Азитромицин зентива табл. 500мг 6",
+                           "price" : "334"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5331,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959679545"
+                              }
+                           ],
+                           "phone" : "+74959679545",
+                           "city" : "Москва",
+                           "latitude" : 55.6456,
+                           "address" : "улица Генерала Антонова, 3"
+                        },
+                        "drug" : {
+                           "descid" : "3828",
+                           "quantity" : "3",
+                           "name" : "Азитромицин зентива таб п.о 500мг 3",
+                           "price" : "311"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5879,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Адонис-Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74959243094"
+                              }
+                           ],
+                           "phone" : "+74959243094",
+                           "city" : "Москва",
+                           "latitude" : 55.885,
+                           "address" : "Алтуфьевское шоссе, 64"
+                        },
+                        "drug" : {
+                           "descid" : "3828",
+                           "quantity" : "1",
+                           "name" : "Азитромицин-зентива, таб п/п/о 500мг 3",
+                           "price" : "354.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "3828",
+                           "quantity" : "1",
+                           "name" : "Азитромицин зентива 500мг 3 таблетки",
+                           "price" : "317"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "азитромицин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

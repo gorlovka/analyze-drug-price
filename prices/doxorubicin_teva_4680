@@ -1,0 +1,191 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "doxorubicin_teva",
+            "rus_name" : "Доксорубицин-тева",
+            "form" : "лиоф. порошок д/пригот. инъекцион. р-ра 50 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 6,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "doxorubicin_teva",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74996122568"
+                              }
+                           ],
+                           "phone" : "+74996122568",
+                           "city" : "Москва",
+                           "latitude" : 55.6774,
+                           "address" : "Нагатинская улица, 28"
+                        },
+                        "drug" : {
+                           "descid" : "2173",
+                           "quantity" : "2",
+                           "name" : "Доксорубицин-тева лиоф. д/внутрисосуд. и внутрипузырн. введ. 50мг",
+                           "price" : "599"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "2173",
+                           "quantity" : "30",
+                           "name" : "Доксорубицин-тева лиоф в/сосуд и в/пузыр 50мг фл n1",
+                           "price" : "730"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6203,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;Экофарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993179363"
+                              },
+                              {
+                                 "number" : "+79150100092"
+                              }
+                           ],
+                           "phone" : "+74993179363; +79150100092",
+                           "city" : "Москва",
+                           "latitude" : 55.6565,
+                           "address" : "Варшавское шоссе, 81 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2173",
+                           "quantity" : "20",
+                           "name" : "Доксорубицин-тева лиоф. для в/сосуд. и в/пузырн. введ. 50 мг",
+                           "price" : "710"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "2173",
+                           "quantity" : "1",
+                           "name" : "Доксорубицин-тева 50 мг лиоф. пор. 1",
+                           "price" : "825"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9897,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1753",
+                                    "1763"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1753, 1763",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9231,
+                           "address" : "улица Шмидта, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2173",
+                           "quantity" : "4",
+                           "name" : "Доксорубицин-тева лиоф.д/приг.р-ра 50мг 1",
+                           "price" : "828"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Электросталь",
+                           "latitude" : 55.775,
+                           "address" : "улица Мира, 22, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2173",
+                           "quantity" : "1",
+                           "name" : "Доксорубицин-тева лиоф.д/приг.р-ра 50мг 1",
+                           "price" : "785"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "доксорубицина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

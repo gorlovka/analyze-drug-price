@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "paclitaxel_teva",
+            "rus_name" : "Паклитаксел-тева",
+            "form" : "конц. д/пригот. р-ра д/инф. 300 мг/50 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "paclitaxel_teva",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6114,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Фармацевтическая компания &quot;БЕЛЫЙ ЛОТОС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959804897"
+                              }
+                           ],
+                           "phone" : "+74959804897",
+                           "city" : "Москва",
+                           "latitude" : 55.7268,
+                           "address" : "улица Шаболовка, 2"
+                        },
+                        "drug" : {
+                           "descid" : "5226",
+                           "quantity" : "20",
+                           "name" : "Паклитаксел-тева 300мг конц. д/приг. р-ра д/инф 50 мл х1",
+                           "price" : "5200.92"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6084,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека на Плещеева (Юнайтедфарм)",
+                           "phones" : [
+                              {
+                                 "number" : "+74999017918"
+                              }
+                           ],
+                           "phone" : "+74999017918",
+                           "city" : "Москва",
+                           "latitude" : 55.8848,
+                           "address" : "улица Плещеева, 8"
+                        },
+                        "drug" : {
+                           "descid" : "5226",
+                           "quantity" : "7",
+                           "name" : "Паклитаксел-тева,конц.д/приг р-ра фл300мг/ 50мл 1",
+                           "price" : "4150"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "паклитаксел"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

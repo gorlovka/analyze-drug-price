@@ -1,0 +1,109 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "curosurf",
+            "rus_name" : "Куросурф",
+            "form" : "сусп. д/эндотрахеального введения 80 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "curosurf",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6355,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья г.Москва Север",
+                           "phones" : [
+                              {
+                                 "number" : "+74951236674"
+                              },
+                              {
+                                 "number" : "+74957750824"
+                              }
+                           ],
+                           "phone" : "+74951236674; +74957750824",
+                           "city" : "Москва",
+                           "latitude" : 55.7846,
+                           "address" : "проспект Мира, 56 с1"
+                        },
+                        "drug" : {
+                           "descid" : "226",
+                           "quantity" : "1",
+                           "name" : "Куросурф??? суспензия д/э/трах введ 80мг",
+                           "price" : "17990"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7154,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья-2",
+                           "phones" : [
+                              {
+                                 "number" : "+74956264772"
+                              }
+                           ],
+                           "phone" : "+74956264772",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "Просторная улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "226",
+                           "quantity" : "1",
+                           "name" : "Куросурф? сусп 80мг 1.5мл 1",
+                           "price" : "22870"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7579,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ЮГ",
+                           "phones" : [
+                              {
+                                 "number" : "+74955041811"
+                              }
+                           ],
+                           "phone" : "+74955041811",
+                           "city" : "Москва",
+                           "latitude" : 55.659,
+                           "address" : "Братиславская улица, 16 к1"
+                        },
+                        "drug" : {
+                           "descid" : "226",
+                           "quantity" : "1",
+                           "name" : "Куросурф ??? суспензия д/э/трах введ",
+                           "price" : "21080"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "фосфолипидная фракция, выделенная из легких свиньи"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

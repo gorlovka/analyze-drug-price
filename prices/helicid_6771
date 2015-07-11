@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "helicid",
+            "rus_name" : "Хелицид",
+            "form" : "лиофилизат д/пригот. р-ра д/инф. 40 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "helicid",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.671,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 11",
+                           "phones" : [
+                              {
+                                 "number" : "+74959111480"
+                              }
+                           ],
+                           "phone" : "+74959111480",
+                           "city" : "Москва",
+                           "latitude" : 55.7401,
+                           "address" : "Таганская улица, 31/22"
+                        },
+                        "drug" : {
+                           "descid" : "713",
+                           "quantity" : "1",
+                           "name" : "Хелицид, лиоф. д/инф фл 40мг",
+                           "price" : "173"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8336,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 35",
+                           "phones" : [
+                              {
+                                 "number" : "+74996432279"
+                              }
+                           ],
+                           "phone" : "+74996432279",
+                           "city" : "Москва",
+                           "latitude" : 55.8211,
+                           "address" : "Алтайская улица, 33/7"
+                        },
+                        "drug" : {
+                           "descid" : "713",
+                           "quantity" : "1",
+                           "name" : "Хелицид, лиоф. д/инф фл 40мг",
+                           "price" : "173"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "омепразол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

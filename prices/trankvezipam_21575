@@ -1,0 +1,112 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "trankvezipam",
+            "rus_name" : "Транквезипам",
+            "form" : "таб. 1 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "trankvezipam",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5498,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Феникс-Мир",
+                           "phones" : [
+                              {
+                                 "number" : "+74956563926"
+                              }
+                           ],
+                           "phone" : "+74956563926",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "Красноармейская улица, 2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5195",
+                           "quantity" : "1",
+                           "name" : "Транквезипам таб 1мг n50 дальхимфарм оао (россия)",
+                           "price" : "85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8157,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;АНСИмед&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954685225"
+                              },
+                              {
+                                 "number" : "+74995302091"
+                              }
+                           ],
+                           "phone" : "+74954685225; +74995302091",
+                           "city" : "Москва",
+                           "latitude" : 55.7974,
+                           "address" : "Измайловский бульвар, 67 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5195",
+                           "quantity" : "17",
+                           "name" : "Транквезипам 1мг 50 таб",
+                           "price" : "94.34"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.1215,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №1 067",
+                           "phones" : [
+                              {
+                                 "number" : "+74963177528"
+                              },
+                              {
+                                 "number" : "+74963196377"
+                              }
+                           ],
+                           "phone" : "+74963177528; +74963196377",
+                           "city" : "Дедовск",
+                           "latitude" : 55.858,
+                           "address" : "Больничная улица, 4, Московская область, Истринский район"
+                        },
+                        "drug" : {
+                           "descid" : "5195",
+                           "quantity" : "10",
+                           "name" : "Транквезипам  1 мг таб. №50",
+                           "price" : "93"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "бромдигидро-хлорфенил-бензодиазепинон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

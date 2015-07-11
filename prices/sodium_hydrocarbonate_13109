@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "sodium_hydrocarbonate",
+            "rus_name" : "Натрия гидрокарбонат",
+            "form" : "р-р д/инф. 40 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "sodium_hydrocarbonate",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7185,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ВОСТОК",
+                           "phones" : [
+                              {
+                                 "number" : "+74957853979"
+                              }
+                           ],
+                           "phone" : "+74957853979",
+                           "city" : "Москва",
+                           "latitude" : 55.7841,
+                           "address" : "улица Измайловский Вал, 2а"
+                        },
+                        "drug" : {
+                           "descid" : "3802",
+                           "quantity" : "9",
+                           "name" : "Натрия гидрокарбонат раствор д/инф 400мл эском",
+                           "price" : "36.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "натрия гидрокарбонат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

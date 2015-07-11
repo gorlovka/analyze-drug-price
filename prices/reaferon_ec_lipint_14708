@@ -1,0 +1,152 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "reaferon_ec_lipint",
+            "rus_name" : "Реаферон-ес-липинт®",
+            "form" : "лиофилизат д/пригот. суспензии д/приема внутрь 250 тыс.МЕ",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "reaferon_ec_lipint",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6091,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Домашняя медицина&quot;.",
+                           "phones" : [
+                              {
+                                 "number" : "+74956299468"
+                              }
+                           ],
+                           "phone" : "+74956299468",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "Тверская улица, 12 с8"
+                        },
+                        "drug" : {
+                           "descid" : "3888",
+                           "quantity" : "1",
+                           "name" : "Реаферон-ес-липинт лиоф д/приг сусп внутрь 250000ме фл n5",
+                           "price" : "482"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6723,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 8",
+                           "phones" : [
+                              {
+                                 "number" : "+74955101755"
+                              }
+                           ],
+                           "phone" : "+74955101755",
+                           "city" : "Москва",
+                           "latitude" : 55.7819,
+                           "address" : "Русаковская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "3888",
+                           "quantity" : "1",
+                           "name" : "Реаферон-ес-липинт лиоф д/приг сусп внутрь 250000ме фл n5",
+                           "price" : "592.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7883,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "206 аптека На Рязанском проспекте г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991703501"
+                              }
+                           ],
+                           "phone" : "+74991703501",
+                           "city" : "Москва",
+                           "latitude" : 55.7187,
+                           "address" : "Рязанский проспект, 71 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3888",
+                           "quantity" : "2",
+                           "name" : "Реаферон-ес-липинт лиоф. д/приг. сусп. д/приема внутрь 250 тыс. ме 5",
+                           "price" : "572.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6146,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579758"
+                              }
+                           ],
+                           "phone" : "+74996579758",
+                           "city" : "Москва",
+                           "latitude" : 55.5964,
+                           "address" : "Россошанская улица, 13 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3888",
+                           "quantity" : "1",
+                           "name" : "Реаферон-ес-липинт лиоф. д/сусп. д/приема внутрь 250000 ме 5",
+                           "price" : "587"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0096,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7496,
+                           "address" : "Пролетарская улица, 1к2"
+                        },
+                        "drug" : {
+                           "descid" : "3888",
+                           "quantity" : "3",
+                           "name" : "Реаферон-ес-липинт лиоф. д/сусп. д/приема внутрь 250000 ме 5",
+                           "price" : "583"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "интерферон альфа-2b человеческий рекомбинантный"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

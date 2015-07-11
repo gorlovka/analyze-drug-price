@@ -1,0 +1,156 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "epirubicin",
+            "rus_name" : "Эпирубицин",
+            "form" : "лиофилизат д/пригот. р-ра д/внутрисосудистого и внутрипузырного введения 10 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "epirubicin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5901,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490247"
+                              }
+                           ],
+                           "phone" : "+74996490247",
+                           "city" : "Москва",
+                           "latitude" : 55.7732,
+                           "address" : "1-я Тверская-Ямская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "6490",
+                           "quantity" : "10",
+                           "name" : "Эпирубицин-веро лиоф д/р-ра 10мг фл 1",
+                           "price" : "419.35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6748,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490244"
+                              }
+                           ],
+                           "phone" : "+74996490244",
+                           "city" : "Москва",
+                           "latitude" : 55.7464,
+                           "address" : "улица Сергия Радонежского, 8"
+                        },
+                        "drug" : {
+                           "descid" : "6490",
+                           "quantity" : "10",
+                           "name" : "Эпирубицин-веро лиоф д/р-ра 10мг фл 1",
+                           "price" : "419.35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6155,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490248"
+                              }
+                           ],
+                           "phone" : "+74996490248",
+                           "city" : "Москва",
+                           "latitude" : 55.794,
+                           "address" : "Шереметьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6490",
+                           "quantity" : "10",
+                           "name" : "Эпирубицин-веро лиоф д/р-ра 10мг фл 1",
+                           "price" : "419.35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "6490",
+                           "quantity" : "10",
+                           "name" : "Эпирубицин-веро лиоф д/р-ра 10мг фл 1",
+                           "price" : "419.35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5173,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997246656"
+                              }
+                           ],
+                           "phone" : "+74997246656",
+                           "city" : "Москва",
+                           "latitude" : 55.6324,
+                           "address" : "Профсоюзная улица, 126"
+                        },
+                        "drug" : {
+                           "descid" : "6490",
+                           "quantity" : "2",
+                           "name" : "Эпирубицин-веро, лиоф. д/ин в/в в/полост 10мг фл 1",
+                           "price" : "370.98"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "эпирубицина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

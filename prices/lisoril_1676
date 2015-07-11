@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "lisoril",
+            "rus_name" : "Лизорил®",
+            "form" : "таб. 2.5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "lisoril",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8286,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР&quot; 43 (Ульмас)",
+                           "phones" : [
+                              {
+                                 "number" : "+79055964859"
+                              }
+                           ],
+                           "phone" : "+79055964859",
+                           "city" : "Москва",
+                           "latitude" : 55.7402,
+                           "address" : "улица Старый Гай, 8"
+                        },
+                        "drug" : {
+                           "descid" : "884",
+                           "quantity" : "1",
+                           "name" : "Лизорил 0,02 n28 табл",
+                           "price" : "264.2"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "лизиноприл"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

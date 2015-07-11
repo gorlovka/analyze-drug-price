@@ -1,0 +1,206 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ofloxacin",
+            "rus_name" : "Офлоксацин",
+            "form" : "мазь глазная 0.3%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 6,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ofloxacin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6646,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (23, Енисейская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954713724"
+                              }
+                           ],
+                           "phone" : "+74954713724",
+                           "city" : "Москва",
+                           "latitude" : 55.8729,
+                           "address" : "Енисейская улица, 29"
+                        },
+                        "drug" : {
+                           "descid" : "1824",
+                           "quantity" : "1",
+                           "name" : "Офлоксацин мазь гл. 0,3% 5г",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4064,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (11, Строгинский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957502909"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1983",
+                                    "1984",
+                                    "1304"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957502909; +74952311697, доб. 1983, 1984, 1304",
+                           "city" : "Москва",
+                           "latitude" : 55.8037,
+                           "address" : "Строгинский бульвар, 21"
+                        },
+                        "drug" : {
+                           "descid" : "1824",
+                           "quantity" : "2",
+                           "name" : "Офлоксацин мазь гл. 0,3% 5г",
+                           "price" : "48.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8269,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (5, Хабаровская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957708948"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1981",
+                                    "1302"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957708948; +74952311697, доб. 1981, 1302",
+                           "city" : "Москва",
+                           "latitude" : 55.8214,
+                           "address" : "Хабаровская улица, 12/23"
+                        },
+                        "drug" : {
+                           "descid" : "1824",
+                           "quantity" : "1",
+                           "name" : "Офлоксацин мазь гл. 0,3% 5г",
+                           "price" : "40"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9357,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 2",
+                           "phones" : [
+                              {
+                                 "number" : "+74965219407"
+                              }
+                           ],
+                           "phone" : "+74965219407",
+                           "city" : "Балашиха",
+                           "latitude" : 55.804,
+                           "address" : "Советская улица, 21, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1824",
+                           "quantity" : "3",
+                           "name" : "Офлоксацин 0,3%-5,0 гл мазь",
+                           "price" : "60"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9865,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (212,Сиреневая)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965692188"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1376"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965692188; +74952311697, доб. 1376",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9282,
+                           "address" : "Сиреневая улица, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1824",
+                           "quantity" : "1",
+                           "name" : "Офлоксацин мазь гл. 0,3% 5г",
+                           "price" : "49"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0542,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (262, Школьная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0900",
+                                    "1389"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0900, 1389",
+                           "city" : "Фрязино",
+                           "latitude" : 55.9551,
+                           "address" : "Школьная улица, 1а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1824",
+                           "quantity" : "1",
+                           "name" : "Офлоксацин мазь гл. 0,3% 5г",
+                           "price" : "42"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "офлоксацин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

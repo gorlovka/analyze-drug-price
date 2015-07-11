@@ -1,0 +1,62 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "panangin_forte",
+            "rus_name" : "Панангин® форте",
+            "form" : "таб., покр. пленочной оболочкой, 316 мг+280 мг",
+            "has_desc" : false,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "panangin_forte",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5248,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЛАТИС-ТОРГ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991381001"
+                              },
+                              {
+                                 "number" : "+74991381065"
+                              },
+                              {
+                                 "number" : "+79166721665"
+                              }
+                           ],
+                           "phone" : "+74991381001; +74991381065; +79166721665",
+                           "city" : "Москва",
+                           "latitude" : 55.6846,
+                           "address" : "улица Крупской, 19/17"
+                        },
+                        "drug" : {
+                           "descid" : "8899",
+                           "quantity" : "1",
+                           "name" : "Панангин форте тбл п/о 60",
+                           "price" : "350.8"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "магния аспарагинат + калия аспарагинат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

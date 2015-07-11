@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "levofloxacin_stada",
+            "rus_name" : "Левофлоксацин-штада",
+            "form" : "таб., покр. оболочкой, 250 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "levofloxacin_stada",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5216,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лавка здоровья и красоты&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954209711"
+                              },
+                              {
+                                 "number" : "+74954202188"
+                              }
+                           ],
+                           "phone" : "+74954209711; +74954202188",
+                           "city" : "Москва",
+                           "latitude" : 55.633,
+                           "address" : "Профсоюзная улица, 109"
+                        },
+                        "drug" : {
+                           "descid" : "3190",
+                           "quantity" : "5",
+                           "name" : "Левофлоксацин-штада табл. п/о 500 5",
+                           "price" : "533"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8046,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР&quot; 36",
+                           "phones" : [
+                              {
+                                 "number" : "+79645349681"
+                              }
+                           ],
+                           "phone" : "+79645349681",
+                           "city" : "Королёв",
+                           "latitude" : 55.9165,
+                           "address" : "улица Гагарина, 14, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3190",
+                           "quantity" : "1",
+                           "name" : "Левофлоксацин-штада 0,5 n5 табл п/о",
+                           "price" : "459.3"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "левофлоксацин (в форме гемигидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

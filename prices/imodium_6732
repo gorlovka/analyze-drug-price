@@ -1,0 +1,181 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "imodium",
+            "rus_name" : "Имодиум®",
+            "form" : "капс. 2 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 6,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "imodium",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6543,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»2",
+                           "phones" : [
+                              {
+                                 "number" : "+74955325351"
+                              }
+                           ],
+                           "phone" : "+74955325351",
+                           "city" : "Москва",
+                           "latitude" : 55.7369,
+                           "address" : "улица Большие Каменщики, 6"
+                        },
+                        "drug" : {
+                           "descid" : "2928",
+                           "quantity" : "3",
+                           "name" : "Имодиум 2мг n6 капс.",
+                           "price" : "170"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6388,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»4 (ООО &quot;Сэсса Фарм плюс&quot;)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956649436"
+                              }
+                           ],
+                           "phone" : "+74956649436",
+                           "city" : "Москва",
+                           "latitude" : 55.813,
+                           "address" : "проспект Мира, 122"
+                        },
+                        "drug" : {
+                           "descid" : "2928",
+                           "quantity" : "1",
+                           "name" : "Имодиум 2мг n6 капс.",
+                           "price" : "183"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.527,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»",
+                           "phones" : [
+                              {
+                                 "number" : "+74955326904"
+                              }
+                           ],
+                           "phone" : "+74955326904",
+                           "city" : "Москва",
+                           "latitude" : 55.6595,
+                           "address" : "улица Академика Челомея, 3 к2"
+                        },
+                        "drug" : {
+                           "descid" : "2928",
+                           "quantity" : "5",
+                           "name" : "Имодиум 2мг n6 капс.",
+                           "price" : "176"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5629,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма",
+                           "phones" : [
+                              {
+                                 "number" : "+74995179009"
+                              }
+                           ],
+                           "phone" : "+74995179009",
+                           "city" : "Москва",
+                           "latitude" : 55.8613,
+                           "address" : "Бескудниковский бульвар, 10 к5"
+                        },
+                        "drug" : {
+                           "descid" : "2928",
+                           "quantity" : "8",
+                           "name" : "Имодиум, капс 2мг 6",
+                           "price" : "169.95"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8519,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»5 (ООО &quot;Сэсса Фарм плюс&quot;)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956423265"
+                              }
+                           ],
+                           "phone" : "+74956423265",
+                           "city" : "Москва",
+                           "latitude" : 55.7005,
+                           "address" : "Лермонтовский проспект, 10 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2928",
+                           "quantity" : "1",
+                           "name" : "Имодиум 2мг n6 капс.",
+                           "price" : "191"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5716,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»1",
+                           "phones" : [
+                              {
+                                 "number" : "+74955326903"
+                              }
+                           ],
+                           "phone" : "+74955326903",
+                           "city" : "Щербинка",
+                           "latitude" : 55.5038,
+                           "address" : "Симферопольское шоссе, 8"
+                        },
+                        "drug" : {
+                           "descid" : "2928",
+                           "quantity" : "5",
+                           "name" : "Имодиум 2мг n6 капс.",
+                           "price" : "170"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "лоперамида гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

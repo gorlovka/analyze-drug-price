@@ -1,0 +1,112 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "reaferon_ec_lipint",
+            "rus_name" : "Реаферон-ес-липинт®",
+            "form" : "лиофилизат д/пригот. суспензии д/приема внутрь 1 млн.МЕ",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "reaferon_ec_lipint",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5838,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956639772"
+                              }
+                           ],
+                           "phone" : "+74956639772",
+                           "city" : "Москва",
+                           "latitude" : 55.7746,
+                           "address" : "2-я Брестская улица, 43"
+                        },
+                        "drug" : {
+                           "descid" : "3888",
+                           "quantity" : "2",
+                           "name" : "Реаферон-ес-липинт лиоф. д/сусп. д/приема внутрь 1000000 ме 5",
+                           "price" : "1004"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6707,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АНГРО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956744996"
+                              },
+                              {
+                                 "number" : "+74955049709"
+                              }
+                           ],
+                           "phone" : "+74956744996; +74955049709",
+                           "city" : "Москва",
+                           "latitude" : 55.7252,
+                           "address" : "1-я Дубровская улица, 10/15"
+                        },
+                        "drug" : {
+                           "descid" : "3888",
+                           "quantity" : "1",
+                           "name" : "Реаферон-ес-липинт лиоф. д/сусп. д/приема внутрь 1 млн.ме 5 флаконы, вектор-медика зао",
+                           "price" : "1050"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999093368"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74999093368; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8946,
+                           "address" : "Алтуфьевское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "3888",
+                           "quantity" : "1",
+                           "name" : "Реаферон-ес-липинт лиоф. д/сусп. д/приема внутрь 1000000 ме 5",
+                           "price" : "1120"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "интерферон альфа-2b человеческий рекомбинантный"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

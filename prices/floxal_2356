@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "floxal",
+            "rus_name" : "Флоксал",
+            "form" : "мазь глазная 3 мг/1 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "floxal",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5862,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "Фармсервис медикал",
+                           "phones" : [
+                              {
+                                 "number" : "+74992501012"
+                              }
+                           ],
+                           "phone" : "+74992501012",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "1-я Тверская-Ямская улица, 36 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1243",
+                           "quantity" : "3",
+                           "name" : "Флоксал гл мазь",
+                           "price" : "165"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "1243",
+                           "quantity" : "2",
+                           "name" : "Флоксал 0.003/г 3.0 гл мазь",
+                           "price" : "266.1"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "офлоксацин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

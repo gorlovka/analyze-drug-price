@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "pulmicort",
+            "rus_name" : "Пульмикорт®",
+            "form" : "сусп. д/ингал. дозированная 500 мкг/2 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "pulmicort",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.571,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строитель 2+&quot; 1",
+                           "phones" : [
+                              {
+                                 "number" : "+74956145758"
+                              }
+                           ],
+                           "phone" : "+74956145758",
+                           "city" : "Москва",
+                           "latitude" : 55.7919,
+                           "address" : "улица Нижняя Масловка, 20"
+                        },
+                        "drug" : {
+                           "descid" : "954",
+                           "quantity" : "2",
+                           "name" : "Пульмикорт сусп. д/инг. 250мк/мл 2мл 20",
+                           "price" : "971.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5455,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строитель 2+&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991558928"
+                              },
+                              {
+                                 "number" : "+74991559130"
+                              }
+                           ],
+                           "phone" : "+74991558928; +74991559130",
+                           "city" : "Москва",
+                           "latitude" : 55.802,
+                           "address" : "Планетная улица, 27"
+                        },
+                        "drug" : {
+                           "descid" : "954",
+                           "quantity" : "1",
+                           "name" : "Пульмикорт сусп. д/инг. 250мк/мл 2мл 20",
+                           "price" : "973.3"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "будесонид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

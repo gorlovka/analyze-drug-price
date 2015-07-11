@@ -1,0 +1,134 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "streptomycin",
+            "rus_name" : "Стрептомицин",
+            "form" : "порошок д/пригот. р-ра д/в/м введения 1 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "streptomycin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма на 1905",
+                           "phones" : [
+                              {
+                                 "number" : "+74995179009"
+                              }
+                           ],
+                           "phone" : "+74995179009",
+                           "city" : "Москва",
+                           "latitude" : 55.7645,
+                           "address" : "улица 1905 Года, 4 с2"
+                        },
+                        "drug" : {
+                           "descid" : "3226",
+                           "quantity" : "1",
+                           "name" : "Стрептомицин, пор.д/ин в/м фл 1г",
+                           "price" : "6.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6707,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АНГРО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956744996"
+                              },
+                              {
+                                 "number" : "+74955049709"
+                              }
+                           ],
+                           "phone" : "+74956744996; +74955049709",
+                           "city" : "Москва",
+                           "latitude" : 55.7252,
+                           "address" : "1-я Дубровская улица, 10/15"
+                        },
+                        "drug" : {
+                           "descid" : "3226",
+                           "quantity" : "7",
+                           "name" : "Стрептомицин пор. д/р-ра для в/м введ. 1000 мг 1 флаконы, синтез ако оао",
+                           "price" : "9.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5629,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма",
+                           "phones" : [
+                              {
+                                 "number" : "+74995179009"
+                              }
+                           ],
+                           "phone" : "+74995179009",
+                           "city" : "Москва",
+                           "latitude" : 55.8613,
+                           "address" : "Бескудниковский бульвар, 10 к5"
+                        },
+                        "drug" : {
+                           "descid" : "3226",
+                           "quantity" : "1",
+                           "name" : "Стрептомицин, пор.д/ин в/м фл 1г",
+                           "price" : "6.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0591,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строй-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79011846532"
+                              }
+                           ],
+                           "phone" : "+79011846532",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9009,
+                           "address" : "улица Ленина, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3226",
+                           "quantity" : "2",
+                           "name" : "Стрептомицин пор. д/приг. р-ра в/м фл. 1г",
+                           "price" : "6"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "стрептомицин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

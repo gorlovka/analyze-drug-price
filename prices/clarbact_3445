@@ -1,0 +1,159 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "clarbact",
+            "rus_name" : "Кларбакт",
+            "form" : "таб., покр. оболочкой, 250 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "clarbact",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1764",
+                           "quantity" : "2",
+                           "name" : "Кларбакт таб п/о 250мг 10",
+                           "price" : "173"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5862,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "Фармсервис медикал",
+                           "phones" : [
+                              {
+                                 "number" : "+74992501012"
+                              }
+                           ],
+                           "phone" : "+74992501012",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "1-я Тверская-Ямская улица, 36 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1764",
+                           "quantity" : "1",
+                           "name" : "Кларбакт 0,5 n10 таб п/об",
+                           "price" : "234"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6637,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; Форте&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956766200"
+                              },
+                              {
+                                 "number" : "+74955071442"
+                              }
+                           ],
+                           "phone" : "+74956766200; +74955071442",
+                           "city" : "Москва",
+                           "latitude" : 55.7299,
+                           "address" : "2-й Крутицкий переулок, 18с1"
+                        },
+                        "drug" : {
+                           "descid" : "1764",
+                           "quantity" : "1",
+                           "name" : "Кларбакт табл. п/о 250 мг 10, ипка лабораториз лимитед",
+                           "price" : "210"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.596,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678549"
+                              }
+                           ],
+                           "phone" : "+74999678549",
+                           "city" : "Москва",
+                           "latitude" : 55.7861,
+                           "address" : "Новослободская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "1764",
+                           "quantity" : "1",
+                           "name" : "Кларбакт тбл п/о 250мг 10",
+                           "price" : "182"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7412,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АСАКИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957770006"
+                              }
+                           ],
+                           "phone" : "+74957770006",
+                           "city" : "Москва",
+                           "latitude" : 55.6993,
+                           "address" : "улица Юных Ленинцев, 12"
+                        },
+                        "drug" : {
+                           "descid" : "1764",
+                           "quantity" : "1",
+                           "name" : "Кларбакт, тбл п/о 250мг 10",
+                           "price" : "206"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кларитромицин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ampicillin",
+            "rus_name" : "Ампициллин",
+            "form" : "порошок д/пригот. сусп. д/приема внутрь 5 г (250 мг/5 мл)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ampicillin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7236,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Законность&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953540277"
+                              }
+                           ],
+                           "phone" : "+74953540277",
+                           "city" : "Москва",
+                           "latitude" : 55.6766,
+                           "address" : "Шоссейная улица, 39"
+                        },
+                        "drug" : {
+                           "descid" : "1023",
+                           "quantity" : "2",
+                           "name" : "Ампициллин пор. пригот. р-ра в/в и в/м в",
+                           "price" : "14.3"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ампициллин (в форме тригидрата) + ампициллин + ампициллин (в форме натриевой соли) + ампициллина тригидрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

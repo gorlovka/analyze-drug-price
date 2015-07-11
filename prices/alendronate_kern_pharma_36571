@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "alendronate_kern_pharma",
+            "rus_name" : "Алендронат керн фарма",
+            "form" : "таб. 70 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "alendronate_kern_pharma",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6863,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Здоровый стиль&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959589295"
+                              }
+                           ],
+                           "phone" : "+74959589295",
+                           "city" : "Москва",
+                           "latitude" : 55.7038,
+                           "address" : "улица Трофимова, 36 к1"
+                        },
+                        "drug" : {
+                           "descid" : "7596",
+                           "quantity" : "1",
+                           "name" : "Алендронат керн фарма 007 n4 табл",
+                           "price" : "424.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "7596",
+                           "quantity" : "10",
+                           "name" : "Алендронат керн фарма тб 70мг бл n4",
+                           "price" : "405"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "алендроновая кислота"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

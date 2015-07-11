@@ -1,0 +1,156 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "clarithrosin",
+            "rus_name" : "Кларитросин®",
+            "form" : "таб., покр. пленочной оболочкой, 250 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "clarithrosin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957293797"
+                              }
+                           ],
+                           "phone" : "+74957293797",
+                           "city" : "Москва",
+                           "latitude" : 55.7638,
+                           "address" : "Малая Грузинская улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "4017",
+                           "quantity" : "1",
+                           "name" : "Кларитросин ,таб п/о 250мг 10",
+                           "price" : "156"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "4017",
+                           "quantity" : "2",
+                           "name" : "Кларитросин тбл 250мг 10",
+                           "price" : "131"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959402329"
+                              }
+                           ],
+                           "phone" : "+74959402329",
+                           "city" : "Москва",
+                           "latitude" : 55.7724,
+                           "address" : "5-я Магистральная улица, 10"
+                        },
+                        "drug" : {
+                           "descid" : "4017",
+                           "quantity" : "1",
+                           "name" : "Кларитросин ,таб п/о 250мг 10",
+                           "price" : "112"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.721,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956733758"
+                              }
+                           ],
+                           "phone" : "+74956733758",
+                           "city" : "Москва",
+                           "latitude" : 55.7463,
+                           "address" : "Авиамоторная улица, 51"
+                        },
+                        "drug" : {
+                           "descid" : "4017",
+                           "quantity" : "1",
+                           "name" : "Кларитросин тбл 250мг 10",
+                           "price" : "136"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957879355"
+                              }
+                           ],
+                           "phone" : "+74957879355",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "5-я Парковая улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "4017",
+                           "quantity" : "1",
+                           "name" : "Кларитросин ,таб п/о 250мг 10",
+                           "price" : "135"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кларитромицин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

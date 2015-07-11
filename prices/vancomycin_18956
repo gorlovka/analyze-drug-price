@@ -1,0 +1,817 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "vancomycin",
+            "rus_name" : "Ванкомицин",
+            "form" : "порошок д/пригот. р-ра д/инф. 1 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 30,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "vancomycin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "18",
+                           "name" : "Ванкомицин 1г 1 пор д/р-ра д/инф",
+                           "price" : "199"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5901,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490247"
+                              }
+                           ],
+                           "phone" : "+74996490247",
+                           "city" : "Москва",
+                           "latitude" : 55.7732,
+                           "address" : "1-я Тверская-Ямская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "10",
+                           "name" : "Ванкомицин пор д/инф 1г фл 1",
+                           "price" : "277.86"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957293797"
+                              }
+                           ],
+                           "phone" : "+74957293797",
+                           "city" : "Москва",
+                           "latitude" : 55.7638,
+                           "address" : "Малая Грузинская улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "1",
+                           "name" : "Ванкомицин, пор д/инъ фл 1г 1",
+                           "price" : "239"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5847,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диасфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266856"
+                              },
+                              {
+                                 "number" : "+74956266857"
+                              }
+                           ],
+                           "phone" : "+74956266856; +74956266857",
+                           "city" : "Москва",
+                           "latitude" : 55.7756,
+                           "address" : "1-я Брестская улица, 66"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "18",
+                           "name" : "Ванкомицин 1г 1 пор д/р-ра д/инф",
+                           "price" : "205"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6016,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Семья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999785551"
+                              },
+                              {
+                                 "number" : "+74999730180"
+                              }
+                           ],
+                           "phone" : "+74999785551; +74999730180",
+                           "city" : "Москва",
+                           "latitude" : 55.7809,
+                           "address" : "Сущёвская улица, 13/15"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "5",
+                           "name" : "Ванкомицин 1г 1 пор д/ин отечест",
+                           "price" : "205"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.601,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Формула Здоровья Запад&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957410180"
+                              }
+                           ],
+                           "phone" : "+74957410180",
+                           "city" : "Москва",
+                           "latitude" : 55.7844,
+                           "address" : "Сущёвская улица, 31"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "17",
+                           "name" : "Ванкомицин порошок д/ин 1г 1 тева",
+                           "price" : "326"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "9",
+                           "name" : "Ванкомицин,порошок д/приготовления инфузий,1г 1шт",
+                           "price" : "242"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5667,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Источник",
+                           "phones" : [
+                              {
+                                 "number" : "+74992467796"
+                              },
+                              {
+                                 "number" : "+74959288793"
+                              },
+                              {
+                                 "number" : "+74959288736"
+                              },
+                              {
+                                 "number" : "+74959288793"
+                              }
+                           ],
+                           "phone" : "+74992467796; +74959288793; +74959288736; +74959288793",
+                           "city" : "Москва",
+                           "latitude" : 55.7264,
+                           "address" : "Усачёва улица, 38"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "5",
+                           "name" : "Ванкомицин пор. д/р-ра д/инф. 1.0 г 1, красфарма оао",
+                           "price" : "237"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5479,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992156351"
+                              }
+                           ],
+                           "phone" : "+74992156351",
+                           "city" : "Москва",
+                           "latitude" : 55.7583,
+                           "address" : "Шмитовский проезд, 16 с2"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "10",
+                           "name" : "Ванкомицин пор д/инф 1г фл 1",
+                           "price" : "229.81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6155,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490248"
+                              }
+                           ],
+                           "phone" : "+74996490248",
+                           "city" : "Москва",
+                           "latitude" : 55.794,
+                           "address" : "Шереметьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "10",
+                           "name" : "Ванкомицин пор д/инф 1г фл 1",
+                           "price" : "193.42"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6723,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 8",
+                           "phones" : [
+                              {
+                                 "number" : "+74955101755"
+                              }
+                           ],
+                           "phone" : "+74955101755",
+                           "city" : "Москва",
+                           "latitude" : 55.7819,
+                           "address" : "Русаковская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "16",
+                           "name" : "Ванкомицин пор лф д/р-ра в/в 1000мг фл n1",
+                           "price" : "435.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6784,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СИТИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956649855"
+                              },
+                              {
+                                 "number" : "+79250409555"
+                              }
+                           ],
+                           "phone" : "+74956649855; +79250409555",
+                           "city" : "Москва",
+                           "latitude" : 55.785,
+                           "address" : "улица Жебрунова, 4"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "3",
+                           "name" : "Ванкомицин, пор д/инъ фл 1г 1",
+                           "price" : "432.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7138,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953604472"
+                              }
+                           ],
+                           "phone" : "+74953604472",
+                           "city" : "Москва",
+                           "latitude" : 55.7698,
+                           "address" : "Ухтомская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "1",
+                           "name" : "Ванкомицин пор д/инъ фл 1г 1",
+                           "price" : "316"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.721,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490239"
+                              }
+                           ],
+                           "phone" : "+74996490239",
+                           "city" : "Москва",
+                           "latitude" : 55.7463,
+                           "address" : "Авиамоторная улица, 51"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "10",
+                           "name" : "Ванкомицин пор д/инф 1г фл 1",
+                           "price" : "278.85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7066,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 5",
+                           "phones" : [
+                              {
+                                 "number" : "+74959796597"
+                              }
+                           ],
+                           "phone" : "+74959796597",
+                           "city" : "Москва",
+                           "latitude" : 55.782,
+                           "address" : "Большая Семёновская улица, 26"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "1",
+                           "name" : "Ванкомицин порошок д/инф 1г 1",
+                           "price" : "237.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5368,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма на Аэропортовской",
+                           "phones" : [
+                              {
+                                 "number" : "+74995179009"
+                              },
+                              {
+                                 "number" : "+74995179088"
+                              }
+                           ],
+                           "phone" : "+74995179009; +74995179088",
+                           "city" : "Москва",
+                           "latitude" : 55.8012,
+                           "address" : "1-я Аэропортовская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "10",
+                           "name" : "Ванкомицин, пор д/инъ фл 1г 1",
+                           "price" : "399.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.73,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авиценна Фарма 2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79263818740"
+                              },
+                              {
+                                 "number" : "+74997489553"
+                              }
+                           ],
+                           "phone" : "+79263818740; +74997489553",
+                           "city" : "Москва",
+                           "latitude" : 55.7795,
+                           "address" : "Измайловское шоссе, 29"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "80",
+                           "name" : "Ванкомицин, пор д/инъ фл 1г 1",
+                           "price" : "415"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "20",
+                           "name" : "Ванкомицин пор д/инфуз р-ра 1г фл n1",
+                           "price" : "255"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7412,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АСАКИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957770006"
+                              }
+                           ],
+                           "phone" : "+74957770006",
+                           "city" : "Москва",
+                           "latitude" : 55.6993,
+                           "address" : "улица Юных Ленинцев, 12"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "1",
+                           "name" : "Ванкомицин, пор д/инъ фл 1г 1",
+                           "price" : "362"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.738,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АСАКИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957770006"
+                              },
+                              {
+                                 "number" : "+74953501401"
+                              }
+                           ],
+                           "phone" : "+74957770006; +74953501401",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Люблинская улица, 50 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "1",
+                           "name" : "Ванкомицин, пор д/инъ фл 1г 1",
+                           "price" : "406"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7506,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956602415"
+                              }
+                           ],
+                           "phone" : "+74956602415",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "Краснодонская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "1",
+                           "name" : "Ванкомицин пор д/инъ фл 1г 1",
+                           "price" : "405"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.463,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Н2О-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957988752"
+                              }
+                           ],
+                           "phone" : "+74957988752",
+                           "city" : "Москва",
+                           "latitude" : 55.8086,
+                           "address" : "улица Маршала Василевского, 17"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "7",
+                           "name" : "Ванкомицин, пор д/инъ фл 1г 1",
+                           "price" : "232"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "5",
+                           "name" : "Ванкомицин пор. д/р-ра д/инф. 1.0 г 1, красфарма оао",
+                           "price" : "238"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "10",
+                           "name" : "Ванкомицин пор д/инф 1г фл 1",
+                           "price" : "276.98"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490240"
+                              }
+                           ],
+                           "phone" : "+74996490240",
+                           "city" : "Москва",
+                           "latitude" : 55.6513,
+                           "address" : "Люблинская улица, 163/1"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "10",
+                           "name" : "Ванкомицин пор д/инф 1г фл 1",
+                           "price" : "278.85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.814,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74954682066"
+                              }
+                           ],
+                           "phone" : "+74954682066",
+                           "city" : "Москва",
+                           "latitude" : 55.8105,
+                           "address" : "Щёлковское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "6",
+                           "name" : "Ванкомицин порошок д/инф 1000мг 1 тева",
+                           "price" : "426"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4949,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Островитянова",
+                           "phones" : [
+                              {
+                                 "number" : "+74954387475"
+                              }
+                           ],
+                           "phone" : "+74954387475",
+                           "city" : "Москва",
+                           "latitude" : 55.6449,
+                           "address" : "улица Островитянова, 5"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "1",
+                           "name" : "Ванкомицин 1г n1 порошок д/приготовления р-ра д/инфузий фл.",
+                           "price" : "288"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6553,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НИКА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79252111558"
+                              }
+                           ],
+                           "phone" : "+79252111558",
+                           "city" : "Москва",
+                           "latitude" : 55.5836,
+                           "address" : "Булатниковский проезд, 14 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "6",
+                           "name" : "Ванкомицин пор.д/ин.1г n1 фл.",
+                           "price" : "193"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9228,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (206,Егорьевское шоссе)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955578991"
+                              }
+                           ],
+                           "phone" : "+74955578991",
+                           "city" : "Люберцы",
+                           "latitude" : 55.6582,
+                           "address" : "Егорьевское шоссе, 2"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "1",
+                           "name" : "Ванкомицин пор.д/приг.р-ра 1г 1",
+                           "price" : "197"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9914,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ИНТЕКО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965671185"
+                              }
+                           ],
+                           "phone" : "+74965671185",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9228,
+                           "address" : "площадь Ленина, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4720",
+                           "quantity" : "6",
+                           "name" : "Ванкомицин пор. д/ин. фл. 1,0г 1.",
+                           "price" : "229"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ванкомицин (в форме гидрохлорида)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

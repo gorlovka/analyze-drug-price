@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "convulex",
+            "rus_name" : "Конвулекс®",
+            "form" : "сироп д/детей 50 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "convulex",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7177,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 23",
+                           "phones" : [
+                              {
+                                 "number" : "+74991628323"
+                              }
+                           ],
+                           "phone" : "+74991628323",
+                           "city" : "Москва",
+                           "latitude" : 55.8046,
+                           "address" : "Просторная улица, 8"
+                        },
+                        "drug" : {
+                           "descid" : "696",
+                           "quantity" : "3",
+                           "name" : "Конвулекс 50мг/1мл-100мл сироп",
+                           "price" : "131.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7585,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 19",
+                           "phones" : [
+                              {
+                                 "number" : "+74953977600"
+                              }
+                           ],
+                           "phone" : "+74953977600",
+                           "city" : "Москва",
+                           "latitude" : 55.6101,
+                           "address" : "Гурьевский проезд, 31 к2"
+                        },
+                        "drug" : {
+                           "descid" : "696",
+                           "quantity" : "1",
+                           "name" : "Конвулекс 50мг/1мл-100мл сироп",
+                           "price" : "152.9"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "вальпроевая кислота + вальпроат натрия"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

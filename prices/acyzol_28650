@@ -1,0 +1,109 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "acyzol",
+            "rus_name" : "Ацизол",
+            "form" : "р-р д/в/м введения 60 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "acyzol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.661,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Азалия (Солнышко Автозаводская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956757992"
+                              }
+                           ],
+                           "phone" : "+74956757992",
+                           "city" : "Москва",
+                           "latitude" : 55.7094,
+                           "address" : "Автозаводская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "5754",
+                           "quantity" : "1",
+                           "name" : "Ацизол р-р д/в/м 60мг/мл амп. 1мл 10",
+                           "price" : "1060"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5157,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Правила здоровья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79857624841"
+                              },
+                              {
+                                 "number" : "+79857624847"
+                              }
+                           ],
+                           "phone" : "+79857624841; +79857624847",
+                           "city" : "Москва",
+                           "latitude" : 55.631,
+                           "address" : "Профсоюзная улица, 128 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5754",
+                           "quantity" : "1",
+                           "name" : "Ацизол р-р д/в/м 60мг/мл амп. 1мл 10",
+                           "price" : "1020"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7131,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 13",
+                           "phones" : [
+                              {
+                                 "number" : "+74952297377"
+                              }
+                           ],
+                           "phone" : "+74952297377",
+                           "city" : "Москва",
+                           "latitude" : 55.6021,
+                           "address" : "Домодедовская улица, 42"
+                        },
+                        "drug" : {
+                           "descid" : "5754",
+                           "quantity" : "1",
+                           "name" : "Ацизол,р-р для в/м введения 60мг/мл 10",
+                           "price" : "1031.2"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цинка бисвинилимидазола диацетат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

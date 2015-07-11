@@ -1,0 +1,109 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "pulmozyme",
+            "rus_name" : "Пульмозим®",
+            "form" : "р-р д/ингал. 2.5 мг/2.5 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "pulmozyme",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "2178",
+                           "quantity" : "1",
+                           "name" : "Пульмозим,раствор,2,5мл 6шт",
+                           "price" : "3200"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7185,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ВОСТОК",
+                           "phones" : [
+                              {
+                                 "number" : "+74957853979"
+                              }
+                           ],
+                           "phone" : "+74957853979",
+                           "city" : "Москва",
+                           "latitude" : 55.7841,
+                           "address" : "улица Измайловский Вал, 2а"
+                        },
+                        "drug" : {
+                           "descid" : "2178",
+                           "quantity" : "1",
+                           "name" : "Пульмозим ??? раствор 2.5мл 6",
+                           "price" : "5500"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3465,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Еврофармекс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955174654"
+                              }
+                           ],
+                           "phone" : "+74955174654",
+                           "city" : "Москва",
+                           "latitude" : 55.85,
+                           "address" : "Ангелов переулок, 9 к2"
+                        },
+                        "drug" : {
+                           "descid" : "2178",
+                           "quantity" : "9",
+                           "name" : "Пульмозим р-р д/ингал 2.5мг/2,5мл амп пласт 2.5мл n6",
+                           "price" : "6850"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "дорназа альфа"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

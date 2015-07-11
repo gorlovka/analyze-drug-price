@@ -1,0 +1,165 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "certican",
+            "rus_name" : "Сертикан®",
+            "form" : "таб. 500 мкг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "certican",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6344,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490250"
+                              }
+                           ],
+                           "phone" : "+74996490250",
+                           "city" : "Москва",
+                           "latitude" : 55.7842,
+                           "address" : "проспект Мира, 51"
+                        },
+                        "drug" : {
+                           "descid" : "3814",
+                           "quantity" : "10",
+                           "name" : "Сертикан таб 0,5мг 60",
+                           "price" : "10717.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6355,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья г.Москва Север",
+                           "phones" : [
+                              {
+                                 "number" : "+74951236674"
+                              },
+                              {
+                                 "number" : "+74957750824"
+                              }
+                           ],
+                           "phone" : "+74951236674; +74957750824",
+                           "city" : "Москва",
+                           "latitude" : 55.7846,
+                           "address" : "проспект Мира, 56 с1"
+                        },
+                        "drug" : {
+                           "descid" : "3814",
+                           "quantity" : "1",
+                           "name" : "Сертикан??? тб 0.5мг 60",
+                           "price" : "8550"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.661,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Азалия (Солнышко Автозаводская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956757992"
+                              }
+                           ],
+                           "phone" : "+74956757992",
+                           "city" : "Москва",
+                           "latitude" : 55.7094,
+                           "address" : "Автозаводская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "3814",
+                           "quantity" : "1",
+                           "name" : "Сертикан тбл.0,5мг 60",
+                           "price" : "7350"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Фиалка",
+                           "phones" : [
+                              {
+                                 "number" : "+74956479126"
+                              },
+                              {
+                                 "number" : "+74952109168"
+                              },
+                              {
+                                 "number" : "+74952109169"
+                              }
+                           ],
+                           "phone" : "+74956479126; +74952109168; +74952109169",
+                           "city" : "Москва",
+                           "latitude" : 55.8079,
+                           "address" : "проспект Мира, 95 с1"
+                        },
+                        "drug" : {
+                           "descid" : "3814",
+                           "quantity" : "1",
+                           "name" : "Сертикан тбл.0,5мг 60",
+                           "price" : "7350"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5724,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Солнышко-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959914592"
+                              }
+                           ],
+                           "phone" : "+74959914592",
+                           "city" : "Москва",
+                           "latitude" : 55.6848,
+                           "address" : "Профсоюзная улица, 5/9"
+                        },
+                        "drug" : {
+                           "descid" : "3814",
+                           "quantity" : "1",
+                           "name" : "Сертикан тбл.0,5мг 60",
+                           "price" : "7700"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "эверолимус"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

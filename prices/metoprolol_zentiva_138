@@ -1,0 +1,187 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "metoprolol_zentiva",
+            "rus_name" : "Метопролол зентива",
+            "form" : "таб. 100 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 6,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "metoprolol_zentiva",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "63",
+                           "quantity" : "5",
+                           "name" : "Метопролол зентива (вазокардин) табл. 100 мг х60",
+                           "price" : "140.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5936,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Феерия г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74955855080"
+                              },
+                              {
+                                 "number" : "+74955459469"
+                              }
+                           ],
+                           "phone" : "+74955855080; +74955459469",
+                           "city" : "Москва",
+                           "latitude" : 55.6516,
+                           "address" : "улица Каховка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "63",
+                           "quantity" : "2",
+                           "name" : "Метопролол зентива, тбл 100мг 30",
+                           "price" : "88"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7934,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 5 (ООО Феерия Фарм Восток)",
+                           "phones" : [
+                              {
+                                 "number" : "+74951236559"
+                              }
+                           ],
+                           "phone" : "+74951236559",
+                           "city" : "Москва",
+                           "latitude" : 55.7162,
+                           "address" : "Рязанский проспект, 48"
+                        },
+                        "drug" : {
+                           "descid" : "63",
+                           "quantity" : "2",
+                           "name" : "Метопролол зентива, тбл 100мг 30",
+                           "price" : "91.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Малина&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999038725"
+                              }
+                           ],
+                           "phone" : "+74999038725",
+                           "city" : "Москва",
+                           "latitude" : 55.8593,
+                           "address" : "Алтуфьевское шоссе, 22"
+                        },
+                        "drug" : {
+                           "descid" : "63",
+                           "quantity" : "3",
+                           "name" : "Метопролол зентива, тбл 100мг 60",
+                           "price" : "99"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4914,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ДискомСтандарт",
+                           "phones" : [
+                              {
+                                 "number" : "+74954344268"
+                              }
+                           ],
+                           "phone" : "+74954344268",
+                           "city" : "Москва",
+                           "latitude" : 55.6672,
+                           "address" : "проспект Вернадского, 97 к1"
+                        },
+                        "drug" : {
+                           "descid" : "63",
+                           "quantity" : "1",
+                           "name" : "Метопролол зентива (вазокардин) табл. 100 мг х60",
+                           "price" : "143.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люксор - Фарм Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992005500"
+                              },
+                              {
+                                 "number" : "+79260961147"
+                              }
+                           ],
+                           "phone" : "+74992005500; +79260961147",
+                           "city" : "Москва",
+                           "latitude" : 55.8932,
+                           "address" : "Алтуфьевское шоссе, 87"
+                        },
+                        "drug" : {
+                           "descid" : "63",
+                           "quantity" : "1",
+                           "name" : "Метопролол зентива табл. 100 мг 30, зентива а.с, произведено санека фармасьютикалс а.с.",
+                           "price" : "96.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "метопролола тартрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

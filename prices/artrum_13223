@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "artrum",
+            "rus_name" : "Артрум",
+            "form" : "гель д/наружн. прим. 5%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "artrum",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5343,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Трэйси Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954857932"
+                              },
+                              {
+                                 "number" : "+74999410341"
+                              }
+                           ],
+                           "phone" : "+74954857932; +74999410341",
+                           "city" : "Москва",
+                           "latitude" : 55.8766,
+                           "address" : "улица Софьи Ковалевской, 2"
+                        },
+                        "drug" : {
+                           "descid" : "3837",
+                           "quantity" : "5",
+                           "name" : "Артрум гель д/наружного прим.2, 5%-50г",
+                           "price" : "142"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кетопрофен"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

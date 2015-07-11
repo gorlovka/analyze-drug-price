@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "mexiprim",
+            "rus_name" : "Мексиприм®",
+            "form" : "р-р д/в/в и в/м введения 50 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "mexiprim",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6667,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; МЕГА-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996150016"
+                              }
+                           ],
+                           "phone" : "+74996150016",
+                           "city" : "Москва",
+                           "latitude" : 55.6802,
+                           "address" : "Судостроительная улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1579",
+                           "quantity" : "2",
+                           "name" : "Мексиприм р-р 50мг 2мл амп. 10",
+                           "price" : "338"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "этилметилгидроксипиридина сукцинат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

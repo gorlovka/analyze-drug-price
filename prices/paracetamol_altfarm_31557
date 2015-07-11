@@ -1,0 +1,234 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "paracetamol_altfarm",
+            "rus_name" : "Парацетамол-альтфарм",
+            "form" : "супп. рект. 250 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 8,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "paracetamol_altfarm",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6761,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Целитель г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956326238"
+                              }
+                           ],
+                           "phone" : "+74956326238",
+                           "city" : "Москва",
+                           "latitude" : 55.7377,
+                           "address" : "Малая Калитниковская улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "6794",
+                           "quantity" : "1",
+                           "name" : "Парацетамол-альтфарм 0.25 n10 супп рект альтфарм. ооо (россия)",
+                           "price" : "42.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "6794",
+                           "quantity" : "1",
+                           "name" : "Парацетамол-альтфарм 0.1 n10 супп рект",
+                           "price" : "31.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6133,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №292 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+79684012831"
+                              }
+                           ],
+                           "phone" : "+79684012831",
+                           "city" : "Москва",
+                           "latitude" : 55.7111,
+                           "address" : "улица Серпуховский Вал, 17"
+                        },
+                        "drug" : {
+                           "descid" : "6794",
+                           "quantity" : "1",
+                           "name" : "Парацетамол-альтфарм супп. 250мг n10",
+                           "price" : "38"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЭпиФарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956655943"
+                              }
+                           ],
+                           "phone" : "+74956655943",
+                           "city" : "Москва",
+                           "latitude" : 55.7332,
+                           "address" : "Нижегородская улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "6794",
+                           "quantity" : "2",
+                           "name" : "Парацетамол-альтфарм супп. рект. 250мг 10",
+                           "price" : "35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4396,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Флория Север&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994979834"
+                              }
+                           ],
+                           "phone" : "+74994979834",
+                           "city" : "Москва",
+                           "latitude" : 55.843,
+                           "address" : "Сходненская улица, 36/11"
+                        },
+                        "drug" : {
+                           "descid" : "6794",
+                           "quantity" : "2",
+                           "name" : "Парацетамол-альтфарм супп. рект. 250 мг 10, альтфарм ооо",
+                           "price" : "39.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люксор - Фарм Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992005500"
+                              },
+                              {
+                                 "number" : "+79260961147"
+                              }
+                           ],
+                           "phone" : "+74992005500; +79260961147",
+                           "city" : "Москва",
+                           "latitude" : 55.8932,
+                           "address" : "Алтуфьевское шоссе, 87"
+                        },
+                        "drug" : {
+                           "descid" : "6794",
+                           "quantity" : "1",
+                           "name" : "Парацетамол-альтфарм супп. рект. 250 мг 10, альтфарм ооо",
+                           "price" : "32.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6988,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАКС-М&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955486445"
+                              }
+                           ],
+                           "phone" : "+74955486445",
+                           "city" : "Московская область",
+                           "latitude" : 55.5551,
+                           "address" : "Видное, 9"
+                        },
+                        "drug" : {
+                           "descid" : "6794",
+                           "quantity" : "2",
+                           "name" : "Парацетамол-альтфарм 0,25 n10 супп рект",
+                           "price" : "40.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9864,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула здоровья",
+                           "phones" : [
+                              {
+                                 "number" : "+74955055909"
+                              }
+                           ],
+                           "phone" : "+74955055909",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7981,
+                           "address" : "шоссе Энтузиастов, 80"
+                        },
+                        "drug" : {
+                           "descid" : "6794",
+                           "quantity" : "1",
+                           "name" : "Парацетамол альтфарм250мг 10 супп",
+                           "price" : "39.6"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "парацетамол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

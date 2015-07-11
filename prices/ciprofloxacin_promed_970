@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ciprofloxacin_promed",
+            "rus_name" : "Ципрофлоксацин-промед",
+            "form" : "таб., покр. пленочной оболочкой, 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ciprofloxacin_promed",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7883,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "206 аптека На Рязанском проспекте г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991703501"
+                              }
+                           ],
+                           "phone" : "+74991703501",
+                           "city" : "Москва",
+                           "latitude" : 55.7187,
+                           "address" : "Рязанский проспект, 71 к1"
+                        },
+                        "drug" : {
+                           "descid" : "518",
+                           "quantity" : "3",
+                           "name" : "Ципрофлоксацин-промед таб. п/о плён. 500мг 10",
+                           "price" : "47.8"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ципрофлоксацин (в форме гидрохлорида) + ципрофлоксацин (в форме лактата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

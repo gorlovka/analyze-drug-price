@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "diclofenac_sandoz",
+            "rus_name" : "Диклофенак сандоз",
+            "form" : "таб., покр. оболочкой, 50 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "diclofenac_sandoz",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "125",
+                           "quantity" : "1",
+                           "name" : "Диклофенак сандоз тбл п/о 50мг 20",
+                           "price" : "65"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3969,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (41, Таллинская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957562738"
+                              }
+                           ],
+                           "phone" : "+74957562738",
+                           "city" : "Москва",
+                           "latitude" : 55.7986,
+                           "address" : "Таллинская улица, 10"
+                        },
+                        "drug" : {
+                           "descid" : "125",
+                           "quantity" : "2",
+                           "name" : "Диклофенак-сандоз таб.п/о 50мг 20",
+                           "price" : "60"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7309,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (2, Ореховый)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953939500"
+                              }
+                           ],
+                           "phone" : "+74953939500",
+                           "city" : "Москва",
+                           "latitude" : 55.6165,
+                           "address" : "Ореховый проезд, 41"
+                        },
+                        "drug" : {
+                           "descid" : "125",
+                           "quantity" : "1",
+                           "name" : "Диклофенак-сандоз таб.п/о 50мг 20",
+                           "price" : "56.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "диклофенак натрия"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

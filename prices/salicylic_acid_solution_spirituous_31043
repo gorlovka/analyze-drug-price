@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "salicylic_acid_solution_spirituous",
+            "rus_name" : "Салициловой кислоты раствор спиртовой",
+            "form" : "р-р д/наружн. прим. (спиртовой) 1%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "salicylic_acid_solution_spirituous",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7579,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ЮГ",
+                           "phones" : [
+                              {
+                                 "number" : "+74955041811"
+                              }
+                           ],
+                           "phone" : "+74955041811",
+                           "city" : "Москва",
+                           "latitude" : 55.659,
+                           "address" : "Братиславская улица, 16 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6610",
+                           "quantity" : "3",
+                           "name" : "Салициловой кислоты раствор спиртовой 1%",
+                           "price" : "7"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "салициловая кислота"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

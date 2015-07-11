@@ -1,0 +1,4315 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "metocard",
+            "rus_name" : "Метокард®",
+            "form" : "таб. 100 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 167,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "metocard",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6279,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (76, Пятницкая)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959150427"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1334"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74959150427; +74952311697, доб. 1334",
+                           "city" : "Москва",
+                           "latitude" : 55.7445,
+                           "address" : "Пятницкая улица, 9/28"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "74.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6314,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №481",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.744,
+                           "address" : "Большой Овчинниковский переулок, 12 с1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "71"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.597,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (102, Арбат)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0975",
+                                    "1341"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0975, 1341",
+                           "city" : "Москва",
+                           "latitude" : 55.7511,
+                           "address" : "улица Арбат, 15/43"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "75.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5981,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956900719"
+                              }
+                           ],
+                           "phone" : "+74956900719",
+                           "city" : "Москва",
+                           "latitude" : 55.7608,
+                           "address" : "Большая Бронная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "72.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6017,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956503600"
+                              },
+                              {
+                                 "number" : "+74956503625"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74956503600; +74956503625; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.7648,
+                           "address" : "Малый Палашёвский переулок, 2/8"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "71"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959535296"
+                              }
+                           ],
+                           "phone" : "+74959535296",
+                           "city" : "Москва",
+                           "latitude" : 55.7362,
+                           "address" : "Новокузнецкая улица, 20/21-19 с5"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "69"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб.100мг n30",
+                           "price" : "80.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.61,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (10, Крымский Вал)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992389577"
+                              }
+                           ],
+                           "phone" : "+74992389577",
+                           "city" : "Москва",
+                           "latitude" : 55.7309,
+                           "address" : "улица Крымский Вал, 6"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "4",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "70.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6335,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла (Сретенский тупик)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0944"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0944",
+                           "city" : "Москва",
+                           "latitude" : 55.7712,
+                           "address" : "Сретенский тупик, 4"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "3",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "69"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №32",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7706,
+                           "address" : "Тишинская площадь, 6"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "71"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957293797"
+                              }
+                           ],
+                           "phone" : "+74957293797",
+                           "city" : "Москва",
+                           "latitude" : 55.7638,
+                           "address" : "Малая Грузинская улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "71"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6039,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (68, Селезневская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0991",
+                                    "1955"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0991, 1955",
+                           "city" : "Москва",
+                           "latitude" : 55.7796,
+                           "address" : "Селезнёвская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "3",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "73.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6346,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №141",
+                           "phones" : [
+                              {
+                                 "number" : "+79099724734"
+                              }
+                           ],
+                           "phone" : "+79099724734",
+                           "city" : "Москва",
+                           "latitude" : 55.7806,
+                           "address" : "Протопоповский переулок, 3"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "80.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6016,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Семья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999785551"
+                              },
+                              {
+                                 "number" : "+74999730180"
+                              }
+                           ],
+                           "phone" : "+74999785551; +74999730180",
+                           "city" : "Москва",
+                           "latitude" : 55.7809,
+                           "address" : "Сущёвская улица, 13/15"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб.100мг n30",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6714,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОПТИФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678604"
+                              }
+                           ],
+                           "phone" : "+74999678604",
+                           "city" : "Москва",
+                           "latitude" : 55.7428,
+                           "address" : "Большая Андроньевская улица, 11/13"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "70"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6094,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобал-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217612"
+                              },
+                              {
+                                 "number" : "+74959217601"
+                              }
+                           ],
+                           "phone" : "+74959217612; +74959217601",
+                           "city" : "Москва",
+                           "latitude" : 55.7208,
+                           "address" : "улица Шаболовка, 24"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "4",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "68"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6697,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №963",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.739,
+                           "address" : "Таганская улица, 44"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "78"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.671,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 11",
+                           "phones" : [
+                              {
+                                 "number" : "+74959111480"
+                              }
+                           ],
+                           "phone" : "+74959111480",
+                           "city" : "Москва",
+                           "latitude" : 55.7401,
+                           "address" : "Таганская улица, 31/22"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "77"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6087,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.7192,
+                           "address" : "улица Шаболовка, 30/12"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "63"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6793,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АРД-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956782406"
+                              }
+                           ],
+                           "phone" : "+74956782406",
+                           "city" : "Москва",
+                           "latitude" : 55.747,
+                           "address" : "улица Сергия Радонежского, 29/31 с1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "3",
+                           "name" : "Метокард 100мг n30 таб.",
+                           "price" : "62"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.596,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678549"
+                              }
+                           ],
+                           "phone" : "+74999678549",
+                           "city" : "Москва",
+                           "latitude" : 55.7861,
+                           "address" : "Новослободская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "80.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5834,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №896 ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7917,
+                           "address" : "улица Нижняя Масловка, 5"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6755,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №953",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7202,
+                           "address" : "Шарикоподшипниковская улица, 11 с6"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "79"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.661,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Азалия (Солнышко Автозаводская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956757992"
+                              }
+                           ],
+                           "phone" : "+74956757992",
+                           "city" : "Москва",
+                           "latitude" : 55.7094,
+                           "address" : "Автозаводская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "79.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6168,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (48, Шереметьевская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1948"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1948",
+                           "city" : "Москва",
+                           "latitude" : 55.8063,
+                           "address" : "Шереметьевская улица, 66Ас2"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "75.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.57,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;Аптека 176 &quot;Воробьевы горы&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991377076"
+                              }
+                           ],
+                           "phone" : "+74991377076",
+                           "city" : "Москва",
+                           "latitude" : 55.7028,
+                           "address" : "Ленинский проспект, 40"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард 100мг n30 таб.",
+                           "price" : "75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959402329"
+                              }
+                           ],
+                           "phone" : "+74959402329",
+                           "city" : "Москва",
+                           "latitude" : 55.7724,
+                           "address" : "5-я Магистральная улица, 10"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "71"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7183,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Белиссимо-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959883195"
+                              }
+                           ],
+                           "phone" : "+74959883195",
+                           "city" : "Москва",
+                           "latitude" : 55.7511,
+                           "address" : "шоссе Энтузиастов, 24/43"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "81.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7138,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953604472"
+                              }
+                           ],
+                           "phone" : "+74953604472",
+                           "city" : "Москва",
+                           "latitude" : 55.7698,
+                           "address" : "Ухтомская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6708,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678623"
+                              }
+                           ],
+                           "phone" : "+74999678623",
+                           "city" : "Москва",
+                           "latitude" : 55.7032,
+                           "address" : "улица Трофимова, 13"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7084,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №486",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7818,
+                           "address" : "Большая Семёновская улица, 32"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "71"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6863,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Здоровый стиль&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959589295"
+                              }
+                           ],
+                           "phone" : "+74959589295",
+                           "city" : "Москва",
+                           "latitude" : 55.7038,
+                           "address" : "улица Трофимова, 36 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100 мг х30",
+                           "price" : "71"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5734,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1653",
+                                    "1654"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1653, 1654",
+                           "city" : "Москва",
+                           "latitude" : 55.8078,
+                           "address" : "Тимирязевская улица, 2/3"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "73"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6554,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лотос&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956826565"
+                              }
+                           ],
+                           "phone" : "+74956826565",
+                           "city" : "Москва",
+                           "latitude" : 55.8119,
+                           "address" : "улица Павла Корчагина, 2/1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард 100мг 30 тб.",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7222,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармацевтическая гильдия&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952217904"
+                              }
+                           ],
+                           "phone" : "+74952217904",
+                           "city" : "Москва",
+                           "latitude" : 55.7805,
+                           "address" : "Вельяминовская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "56.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5455,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строитель 2+&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991558928"
+                              },
+                              {
+                                 "number" : "+74991559130"
+                              }
+                           ],
+                           "phone" : "+74991558928; +74991559130",
+                           "city" : "Москва",
+                           "latitude" : 55.802,
+                           "address" : "Планетная улица, 27"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард 100мг таб. 30",
+                           "price" : "76.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7306,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 31",
+                           "phones" : [
+                              {
+                                 "number" : "+74953662819"
+                              }
+                           ],
+                           "phone" : "+74953662819",
+                           "city" : "Москва",
+                           "latitude" : 55.7681,
+                           "address" : "проспект Будённого, 29/1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард 100мг 30 тб.",
+                           "price" : "71.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5425,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74991523829"
+                              },
+                              {
+                                 "number" : "+74995855515"
+                              }
+                           ],
+                           "phone" : "+74991523829; +74995855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8011,
+                           "address" : "Красноармейская улица, 24"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "77"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6618,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №344",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8144,
+                           "address" : "Рижский проезд, 8"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "73.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.499,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москава (4, Багратионовская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991451276",
+                                 "additional" : [
+                                    "1988",
+                                    "1328"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74991451276, доб. 1988, 1328",
+                           "city" : "Москва",
+                           "latitude" : 55.7449,
+                           "address" : "улица Барклая, 12/12"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7129,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "4818",
+                                    "4819"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 4818, 4819",
+                           "city" : "Москва",
+                           "latitude" : 55.7948,
+                           "address" : "Преображенская площадь, 8"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "71.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4966,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1335",
+                                    "1336",
+                                    "1337"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1335, 1336, 1337",
+                           "city" : "Москва",
+                           "latitude" : 55.7459,
+                           "address" : "улица Барклая, 16 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "70.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб.100мг n30",
+                           "price" : "70"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490242"
+                              }
+                           ],
+                           "phone" : "+74996490242",
+                           "city" : "Москва",
+                           "latitude" : 55.7755,
+                           "address" : "проспект Маршала Жукова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "10",
+                           "name" : "Метокард таб 100мг 30",
+                           "price" : "78.27"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5619,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991250777"
+                              }
+                           ],
+                           "phone" : "+74991250777",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "улица Кржижановского, 3"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7154,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья-2",
+                           "phones" : [
+                              {
+                                 "number" : "+74956264772"
+                              }
+                           ],
+                           "phone" : "+74956264772",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "Просторная улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард 100мг тб. 30",
+                           "price" : "81.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Фирма Здоровье г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74957381041"
+                              }
+                           ],
+                           "phone" : "+74957381041",
+                           "city" : "Москва",
+                           "latitude" : 55.7659,
+                           "address" : "Филёвский бульвар, 11"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "4",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "84.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5059,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 6 (ООО Феерия Фарм Запад)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991981909"
+                              }
+                           ],
+                           "phone" : "+74991981909",
+                           "city" : "Москва",
+                           "latitude" : 55.8,
+                           "address" : "улица Алабяна, 13"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "69"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6678,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 3 (ООО Феерия Фарм Юг)",
+                           "phones" : [
+                              {
+                                 "number" : "+74996174244"
+                              }
+                           ],
+                           "phone" : "+74996174244",
+                           "city" : "Москва",
+                           "latitude" : 55.6766,
+                           "address" : "улица Новинки, 4"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "72.27"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7277,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74991688104"
+                              }
+                           ],
+                           "phone" : "+74991688104",
+                           "city" : "Москва",
+                           "latitude" : 55.8069,
+                           "address" : "Открытое шоссе, 2 к12"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "5",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "70"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7436,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Альфа&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957273545"
+                              }
+                           ],
+                           "phone" : "+74957273545",
+                           "city" : "Москва",
+                           "latitude" : 55.7036,
+                           "address" : "8-я улица Текстильщиков, 11"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5248,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЛАТИС-ТОРГ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991381001"
+                              },
+                              {
+                                 "number" : "+74991381065"
+                              },
+                              {
+                                 "number" : "+79166721665"
+                              }
+                           ],
+                           "phone" : "+74991381001; +74991381065; +79166721665",
+                           "city" : "Москва",
+                           "latitude" : 55.6846,
+                           "address" : "улица Крупской, 19/17"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "73.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АКМ фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952116138"
+                              },
+                              {
+                                 "number" : "+74952116147"
+                              }
+                           ],
+                           "phone" : "+74952116138; +74952116147",
+                           "city" : "Москва",
+                           "latitude" : 55.7969,
+                           "address" : "улица Маршала Бирюзова, 26"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "3",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5357,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №36",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6782,
+                           "address" : "улица Гарибальди, 3"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "73"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7267,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ТС &quot;АПТЕЧКА&quot;.  Аптека №123",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6884,
+                           "address" : "Шоссейная улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "77"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5273,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Улыбка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997838587"
+                              }
+                           ],
+                           "phone" : "+74997838587",
+                           "city" : "Москва",
+                           "latitude" : 55.6789,
+                           "address" : "улица Марии Ульяновой, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "81.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6165,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957397483"
+                              }
+                           ],
+                           "phone" : "+74957397483",
+                           "city" : "Москва",
+                           "latitude" : 55.6618,
+                           "address" : "Фруктовая улица, 8 к3"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "74"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.502,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (43, Космодемьянских)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0918"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0918",
+                           "city" : "Москва",
+                           "latitude" : 55.8183,
+                           "address" : "улица Зои и Александра Космодемьянских, 4 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7701,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №154",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7106,
+                           "address" : "Зеленодольская улица, 30"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "71.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5073,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Форте г.Москва (торговый центр)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957821187"
+                              }
+                           ],
+                           "phone" : "+74957821187",
+                           "city" : "Москва",
+                           "latitude" : 55.6779,
+                           "address" : "проспект Вернадского, 14а"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "60"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7913,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 5",
+                           "phones" : [
+                              {
+                                 "number" : "+74956444035"
+                              }
+                           ],
+                           "phone" : "+74956444035",
+                           "city" : "Москва",
+                           "latitude" : 55.754,
+                           "address" : "3-я Владимирская улица, 27"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "73.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6144,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Масстрейд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217856"
+                              },
+                              {
+                                 "number" : "+74959217885"
+                              }
+                           ],
+                           "phone" : "+74959217856; +74959217885",
+                           "city" : "Москва",
+                           "latitude" : 55.6537,
+                           "address" : "Чонгарский бульвар, 10к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "65"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7393,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека в Люблино&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678594"
+                              }
+                           ],
+                           "phone" : "+74999678594",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Люблинская улица, 113а"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5057,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «ФармПрогресс»",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6754,
+                           "address" : "проспект Вернадского, 39"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "3",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ЗДОРОВЬЕ ПЛЮС",
+                           "phones" : [
+                              {
+                                 "number" : "+74991223092"
+                              }
+                           ],
+                           "phone" : "+74991223092",
+                           "city" : "Москва",
+                           "latitude" : 55.6542,
+                           "address" : "улица Каховка, 10к3"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "4",
+                           "name" : "Метокард 100мг n30 таб.",
+                           "price" : "79.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7836,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991652530"
+                              }
+                           ],
+                           "phone" : "+74991652530",
+                           "city" : "Москва",
+                           "latitude" : 55.7904,
+                           "address" : "3-я Парковая улица, 7/17"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "4",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "76.63"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5936,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Феерия г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74955855080"
+                              },
+                              {
+                                 "number" : "+74955459469"
+                              }
+                           ],
+                           "phone" : "+74955855080; +74955459469",
+                           "city" : "Москва",
+                           "latitude" : 55.6516,
+                           "address" : "улица Каховка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "78"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7506,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956602415"
+                              }
+                           ],
+                           "phone" : "+74956602415",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "Краснодонская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "76.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6466,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №173",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8515,
+                           "address" : "Снежная улица, 16 к2"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5383,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Пастэр&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991549624"
+                              }
+                           ],
+                           "phone" : "+74991549624",
+                           "city" : "Москва",
+                           "latitude" : 55.8421,
+                           "address" : "улица Генерала Рычагова, 15"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб 100мг 30",
+                           "price" : "70.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.774,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Квартет-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957294831"
+                              }
+                           ],
+                           "phone" : "+74957294831",
+                           "city" : "Москва",
+                           "latitude" : 55.6994,
+                           "address" : "улица Юных Ленинцев, 87 с1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "3",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "73"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.465,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 2 (ООО Феерия Фарм Плюс)",
+                           "phones" : [
+                              {
+                                 "number" : "+74997204839"
+                              }
+                           ],
+                           "phone" : "+74997204839",
+                           "city" : "Москва",
+                           "latitude" : 55.8077,
+                           "address" : "улица Маршала Василевского, 15"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7936,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 16",
+                           "phones" : [
+                              {
+                                 "number" : "+74957274257"
+                              }
+                           ],
+                           "phone" : "+74957274257",
+                           "city" : "Москва",
+                           "latitude" : 55.7175,
+                           "address" : "Рязанский проспект, 75 к2"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "82.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6553,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма на Амундсена.",
+                           "phones" : [
+                              {
+                                 "number" : "+74956566154"
+                              },
+                              {
+                                 "number" : "+74995179009"
+                              }
+                           ],
+                           "phone" : "+74956566154; +74995179009",
+                           "city" : "Москва",
+                           "latitude" : 55.8547,
+                           "address" : "улица Амундсена, 19"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "71.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957879355"
+                              }
+                           ],
+                           "phone" : "+74957879355",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "5-я Парковая улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "74"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7613,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957837209"
+                              }
+                           ],
+                           "phone" : "+74957837209",
+                           "city" : "Москва",
+                           "latitude" : 55.6765,
+                           "address" : "Краснодарская улица, 48"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "3",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "74"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4914,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ДискомСтандарт",
+                           "phones" : [
+                              {
+                                 "number" : "+74954344268"
+                              }
+                           ],
+                           "phone" : "+74954344268",
+                           "city" : "Москва",
+                           "latitude" : 55.6672,
+                           "address" : "проспект Вернадского, 97 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6089,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999045455"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74999045455; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8623,
+                           "address" : "улица Декабристов, 20 к2"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "70"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74953517130"
+                              }
+                           ],
+                           "phone" : "+74953517130",
+                           "city" : "Москва",
+                           "latitude" : 55.6769,
+                           "address" : "Краснодарская улица, 57 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6051,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека А5",
+                           "phones" : [
+                              {
+                                 "number" : "+74956601628"
+                              }
+                           ],
+                           "phone" : "+74956601628",
+                           "city" : "Москва",
+                           "latitude" : 55.865,
+                           "address" : "улица Декабристов, 17"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "60"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4895,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №646",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.8414,
+                           "address" : "Кронштадтский бульвар, 9"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7533,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 26",
+                           "phones" : [
+                              {
+                                 "number" : "+74956406230"
+                              }
+                           ],
+                           "phone" : "+74956406230",
+                           "city" : "Москва",
+                           "latitude" : 55.6641,
+                           "address" : "Братиславская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "79.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6225,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №172 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+79258976972"
+                              }
+                           ],
+                           "phone" : "+79258976972",
+                           "city" : "Москва",
+                           "latitude" : 55.868,
+                           "address" : "Юрловский проезд, 13"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5117,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Марена-Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74959914072"
+                              },
+                              {
+                                 "number" : "+74957732879"
+                              }
+                           ],
+                           "phone" : "+74959914072; +74957732879",
+                           "city" : "Москва",
+                           "latitude" : 55.8517,
+                           "address" : "Кронштадтский бульвар, 47"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4942,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 17",
+                           "phones" : [
+                              {
+                                 "number" : "+79637620520"
+                              }
+                           ],
+                           "phone" : "+79637620520",
+                           "city" : "Москва",
+                           "latitude" : 55.6579,
+                           "address" : "улица 26-ти Бакинских Комиссаров, 4к2"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард 100мг 30 тб.",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6918,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЭЛ Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74952275378"
+                              },
+                              {
+                                 "number" : "+74952275379"
+                              }
+                           ],
+                           "phone" : "+74952275378; +74952275379",
+                           "city" : "Москва",
+                           "latitude" : 55.8621,
+                           "address" : "Ярославское шоссе, 55"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8165,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №79",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7126,
+                           "address" : "Рязанский проспект, вл99ас1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "73"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.409,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №15",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.747,
+                           "address" : "улица Академика Павлова, 50"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "72.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4085,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74954134256"
+                              }
+                           ],
+                           "phone" : "+74954134256",
+                           "city" : "Москва",
+                           "latitude" : 55.7605,
+                           "address" : "Осенний бульвар, 16 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НатурРецепт&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956549961"
+                              },
+                              {
+                                 "number" : "+74956549962"
+                              },
+                              {
+                                 "number" : "+74956549496"
+                              }
+                           ],
+                           "phone" : "+74956549961; +74956549962; +74956549496",
+                           "city" : "Москва",
+                           "latitude" : 55.6591,
+                           "address" : "Мячковский бульвар, 1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "5",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "74.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4898,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Глициния-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959675403"
+                              },
+                              {
+                                 "number" : "+74959675406"
+                              }
+                           ],
+                           "phone" : "+74959675403; +74959675406",
+                           "city" : "Москва",
+                           "latitude" : 55.8467,
+                           "address" : "Авангардная улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100 мг 30, польфарма фармацевтический завод с.а.",
+                           "price" : "75.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8157,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;АНСИмед&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954685225"
+                              },
+                              {
+                                 "number" : "+74995302091"
+                              }
+                           ],
+                           "phone" : "+74954685225; +74995302091",
+                           "city" : "Москва",
+                           "latitude" : 55.7974,
+                           "address" : "Измайловский бульвар, 67 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "5",
+                           "name" : "Метокард 100мг таб. х30 (r)",
+                           "price" : "82.63"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "3",
+                           "name" : "Метокард 100 мг таб. 30",
+                           "price" : "79"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4051,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74997927686"
+                              }
+                           ],
+                           "phone" : "+74997927686",
+                           "city" : "Москва",
+                           "latitude" : 55.7256,
+                           "address" : "улица Маршала Неделина, 15"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "3",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "76"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7486,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (28, Новомарьинская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953455411"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1311"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74953455411; +74952311697, доб. 1311",
+                           "city" : "Москва",
+                           "latitude" : 55.6509,
+                           "address" : "Новомарьинская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.814,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74954682066"
+                              }
+                           ],
+                           "phone" : "+74954682066",
+                           "city" : "Москва",
+                           "latitude" : 55.8105,
+                           "address" : "Щёлковское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард тб 100мг 30",
+                           "price" : "80.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.746,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ДИАЛОГ-ФМТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6496,
+                           "address" : "Люблинская улица, 165 к2"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "4",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7377,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №420",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.646,
+                           "address" : "Новочеркасский бульвар, 44"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "3",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "76"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8187,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №120",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8069,
+                           "address" : "15-я Парковая улица, 44 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "73"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4927,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО “Дубкифарм”",
+                           "phones" : [
+                              {
+                                 "number" : "+74956418097"
+                              }
+                           ],
+                           "phone" : "+74956418097",
+                           "city" : "Москва",
+                           "latitude" : 55.8554,
+                           "address" : "улица Лавочкина, 7Ас1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "66"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4505,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №357",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8345,
+                           "address" : "Малая Набережная улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "80.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4949,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Островитянова",
+                           "phones" : [
+                              {
+                                 "number" : "+74954387475"
+                              }
+                           ],
+                           "phone" : "+74954387475",
+                           "city" : "Москва",
+                           "latitude" : 55.6449,
+                           "address" : "улица Островитянова, 5"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард 100мг n30 таб.",
+                           "price" : "73"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4132,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 20",
+                           "phones" : [
+                              {
+                                 "number" : "+74956385692"
+                              },
+                              {
+                                 "number" : "+74957562026"
+                              }
+                           ],
+                           "phone" : "+74956385692; +74957562026",
+                           "city" : "Москва",
+                           "latitude" : 55.8057,
+                           "address" : "улица Маршала Катукова, 23"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "83.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4064,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (11, Строгинский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957502909"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1983",
+                                    "1984",
+                                    "1304"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957502909; +74952311697, доб. 1983, 1984, 1304",
+                           "city" : "Москва",
+                           "latitude" : 55.8037,
+                           "address" : "Строгинский бульвар, 21"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "3",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "71.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5216,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лавка здоровья и красоты&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954209711"
+                              },
+                              {
+                                 "number" : "+74954202188"
+                              }
+                           ],
+                           "phone" : "+74954209711; +74954202188",
+                           "city" : "Москва",
+                           "latitude" : 55.633,
+                           "address" : "Профсоюзная улица, 109"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "8",
+                           "name" : "Метокард 100мг n30 таб.",
+                           "price" : "83.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6557,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 5",
+                           "phones" : [
+                              {
+                                 "number" : "+74957416716"
+                              }
+                           ],
+                           "phone" : "+74957416716",
+                           "city" : "Москва",
+                           "latitude" : 55.8819,
+                           "address" : "проезд Шокальского, 51а"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард 100мг 30 тб.",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5173,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997246656"
+                              }
+                           ],
+                           "phone" : "+74997246656",
+                           "city" : "Москва",
+                           "latitude" : 55.6324,
+                           "address" : "Профсоюзная улица, 126"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "8",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "72.91"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5157,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Правила здоровья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79857624841"
+                              },
+                              {
+                                 "number" : "+79857624847"
+                              }
+                           ],
+                           "phone" : "+79857624841; +79857624847",
+                           "city" : "Москва",
+                           "latitude" : 55.631,
+                           "address" : "Профсоюзная улица, 128 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "74"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №168 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8051,
+                           "address" : "Строгинский бульвар, 9"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "82.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8291,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;ТС&quot;Аптечка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996816145"
+                              }
+                           ],
+                           "phone" : "+74996816145",
+                           "city" : "Москва",
+                           "latitude" : 55.817,
+                           "address" : "Хабаровская улица, 4 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6625,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579700"
+                              }
+                           ],
+                           "phone" : "+74996579700",
+                           "city" : "Москва",
+                           "latitude" : 55.8866,
+                           "address" : "улица Грекова, 8"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "78"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4416,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №969",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8493,
+                           "address" : "Химкинский бульвар, 23"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "76"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8502,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Цветочки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959732898"
+                              }
+                           ],
+                           "phone" : "+74959732898",
+                           "city" : "Москва",
+                           "latitude" : 55.7013,
+                           "address" : "Лермонтовский проспект, 8"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "68"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.52,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;РИГЛА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Москва",
+                           "latitude" : 55.8822,
+                           "address" : "Коровинское шоссе, 24 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "78"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8547,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №143 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6991,
+                           "address" : "Лермонтовский проспект, 12"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "75.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №166 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79684012281"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79684012281",
+                           "city" : "Москва",
+                           "latitude" : 55.6291,
+                           "address" : "улица Тёплый Стан, 10"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "73.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8555,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 42",
+                           "phones" : [
+                              {
+                                 "number" : "+74957041418"
+                              }
+                           ],
+                           "phone" : "+74957041418",
+                           "city" : "Москва",
+                           "latitude" : 55.6917,
+                           "address" : "Саранская улица, 4/24"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард 100мг 30 тб.",
+                           "price" : "76.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.851,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (41, Авиаконструктора Миля)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955040663"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1320"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74955040663; +74952311697, доб. 1320",
+                           "city" : "Москва",
+                           "latitude" : 55.6859,
+                           "address" : "улица Авиаконструктора Миля, 4 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "70.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8534,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ТС &quot;АПТЕЧКА&quot;.  Аптека №435",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6839,
+                           "address" : "улица Генерала Кузнецова, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "76"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5887,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Ромашки",
+                           "phones" : [
+                              {
+                                 "number" : "+74999083503"
+                              },
+                              {
+                                 "number" : "+74999678645"
+                              }
+                           ],
+                           "phone" : "+74999083503; +74999678645",
+                           "city" : "Москва",
+                           "latitude" : 55.8993,
+                           "address" : "Алтуфьевское шоссе, 88"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "68"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4427,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №678",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.8641,
+                           "address" : "улица Свободы, 85 с3"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "73"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.355,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №660 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "поселок Рублево",
+                           "latitude" : 55.784,
+                           "address" : "Советская улица, 9"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "79.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5724,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Авиа-Чайка г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999087181"
+                              }
+                           ],
+                           "phone" : "+74999087181",
+                           "city" : "Москва",
+                           "latitude" : 55.9037,
+                           "address" : "Абрамцевская улица, 9 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "73.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7363,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Доброфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953984945"
+                              }
+                           ],
+                           "phone" : "+74953984945",
+                           "city" : "Москва",
+                           "latitude" : 55.6103,
+                           "address" : "Воронежская улица, 24"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "3",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "78"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6444,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 21",
+                           "phones" : [
+                              {
+                                 "number" : "+74953850836"
+                              }
+                           ],
+                           "phone" : "+74953850836",
+                           "city" : "Москва",
+                           "latitude" : 55.5933,
+                           "address" : "Медынская улица, 6а"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард 100мг 30 тб.",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7159,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (264, Сукромки)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1397"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1397",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9026,
+                           "address" : "улица Сукромка, 5"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "4",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7585,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 19",
+                           "phones" : [
+                              {
+                                 "number" : "+74953977600"
+                              }
+                           ],
+                           "phone" : "+74953977600",
+                           "city" : "Москва",
+                           "latitude" : 55.6101,
+                           "address" : "Гурьевский проезд, 31 к2"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард 100мг 30 тб.",
+                           "price" : "67.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7185,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №680",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9088,
+                           "address" : "Лётная улица, 28 к1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "79"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 174",
+                           "phones" : [
+                              {
+                                 "number" : "+74955820113"
+                              }
+                           ],
+                           "phone" : "+74955820113",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9079,
+                           "address" : "Новомытищинский проспект, 48, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "68.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7389,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №433",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538314"
+                              }
+                           ],
+                           "phone" : "+74995538314",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9063,
+                           "address" : "улица Щербакова, 2 к1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "73.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3373,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955610855"
+                              }
+                           ],
+                           "phone" : "+74955610855",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8168,
+                           "address" : "улица Чайковского, 7"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "79"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3383,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №976 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8192,
+                           "address" : "Волоколамское шоссе, 3 с1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "3",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "73"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4407,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №279",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74956627931"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74956627931",
+                           "city" : "Химки",
+                           "latitude" : 55.8917,
+                           "address" : "Пролетарская улица, 11, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "73"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6741,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 32",
+                           "phones" : [
+                              {
+                                 "number" : "+74957451404"
+                              }
+                           ],
+                           "phone" : "+74957451404",
+                           "city" : "Москва",
+                           "latitude" : 55.5816,
+                           "address" : "Загорьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "3",
+                           "name" : "Метокард 100мг 30 тб.",
+                           "price" : "74.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9338,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7949,
+                           "address" : "Советская улица, 1/7, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "71"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3424,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956431232"
+                              }
+                           ],
+                           "phone" : "+74956431232",
+                           "city" : "Москва",
+                           "latitude" : 55.6455,
+                           "address" : "Лукинская улица, 5 к1"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "78"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7733,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека А5&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565",
+                                 "additional" : [
+                                    "0944"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74956453565, доб. 0944",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9231,
+                           "address" : "улица Попова, 1С2"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "69"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8122,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. АПТЕКИ А5 Московская область.  Аптека №1 805",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Королёв",
+                           "latitude" : 55.9149,
+                           "address" : "улица Терешковой, 12, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9692,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538026"
+                              }
+                           ],
+                           "phone" : "+74995538026",
+                           "city" : "Железнодорожный",
+                           "latitude" : 55.7442,
+                           "address" : "Береговая улица, 4а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "76"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.513,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 033",
+                           "phones" : [
+                              {
+                                 "number" : "+74959679553"
+                              }
+                           ],
+                           "phone" : "+74959679553",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9417,
+                           "address" : "улица Павлова, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "61.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5557,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Бадди г.Москва (Аптека на Скобелевской)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957179509"
+                              },
+                              {
+                                 "number" : "+74957179527"
+                              }
+                           ],
+                           "phone" : "+74957179509; +74957179527",
+                           "city" : "Москва",
+                           "latitude" : 55.5496,
+                           "address" : "Скобелевская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "3",
+                           "name" : "Метокард таб. 100мг 30 польша polpharma",
+                           "price" : "79.32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5765,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №184 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+79258976905"
+                              }
+                           ],
+                           "phone" : "+79258976905",
+                           "city" : "Москва",
+                           "latitude" : 55.5394,
+                           "address" : "1-я Мелитопольская улица, 2а"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "77"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2958,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Река Смородина&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957360033"
+                              }
+                           ],
+                           "phone" : "+74957360033",
+                           "city" : "Внуково",
+                           "latitude" : 55.611,
+                           "address" : "Большая Внуковская улица, 19/8, Москва, район Внуково"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9079,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 064",
+                           "phones" : [
+                              {
+                                 "number" : "+74965361009"
+                              }
+                           ],
+                           "phone" : "+74965361009",
+                           "city" : "Ивантеевка",
+                           "latitude" : 55.9666,
+                           "address" : "Советский проспект, 24"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "73"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9213,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №579",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Ивантеевка",
+                           "latitude" : 55.966,
+                           "address" : "Рощинская улица, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4641,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 142",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Лобня",
+                           "latitude" : 56.0142,
+                           "address" : "улица Циолковского, 10а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "69"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0711,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР&quot; 9",
+                           "phones" : [
+                              {
+                                 "number" : "+74957501513"
+                              }
+                           ],
+                           "phone" : "+74957501513",
+                           "city" : "Щелково",
+                           "latitude" : 55.9113,
+                           "address" : "Советская улица (Щелково-3), 2"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард 100мг 30 тб.",
+                           "price" : "75.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7439,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74967936484"
+                              }
+                           ],
+                           "phone" : "+74967936484",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4503,
+                           "address" : "улица Гагарина, 50"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "4",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "79.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0542,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (262, Школьная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0900",
+                                    "1389"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0900, 1389",
+                           "city" : "Фрязино",
+                           "latitude" : 55.9551,
+                           "address" : "Школьная улица, 1а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "5",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "79"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.551,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; ЛОТОС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957790903"
+                              }
+                           ],
+                           "phone" : "+74957790903",
+                           "city" : "Подольск",
+                           "latitude" : 55.4285,
+                           "address" : "Матросская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард 100мг 30 таб",
+                           "price" : "76"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5598,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (266, Февральская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74967636380"
+                              }
+                           ],
+                           "phone" : "+74967636380",
+                           "city" : "Подольск",
+                           "latitude" : 55.4275,
+                           "address" : "Февральская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "71.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5363,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ДиВо&quot; 2",
+                           "phones" : [
+                              {
+                                 "number" : "+74967557091"
+                              },
+                              {
+                                 "number" : "+74994003421"
+                              }
+                           ],
+                           "phone" : "+74967557091; +74994003421",
+                           "city" : "Подольск",
+                           "latitude" : 55.4224,
+                           "address" : "улица Свердлова, 36а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард, тбл 100мг 30",
+                           "price" : "69.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5027,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №431",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Подольск",
+                           "latitude" : 55.4255,
+                           "address" : "Ленинградский проезд, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.579,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №432",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Подольск",
+                           "latitude" : 55.4074,
+                           "address" : "улица Филиппова, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "74.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2059,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №603",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Лосино-Петровский",
+                           "latitude" : 55.8683,
+                           "address" : "улица Ленина, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.0433,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 130",
+                           "phones" : [
+                              {
+                                 "number" : "+74955903373"
+                              },
+                              {
+                                 "number" : "+74955902488"
+                              }
+                           ],
+                           "phone" : "+74955903373; +74955902488",
+                           "city" : "Краснознаменск",
+                           "latitude" : 55.5947,
+                           "address" : "проспект Мира, 13, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "78"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2123,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 330",
+                           "phones" : [
+                              {
+                                 "number" : "+74964671529"
+                              }
+                           ],
+                           "phone" : "+74964671529",
+                           "city" : "Раменское",
+                           "latitude" : 55.5887,
+                           "address" : "Коммунистическая улица, 20, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5227,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №1 536",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Климовск",
+                           "latitude" : 55.3634,
+                           "address" : "улица Ленина, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5324,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №342",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Климовск",
+                           "latitude" : 55.3587,
+                           "address" : "улица 8 Марта, 2а"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "79"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.8593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ТС Аптечка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956518323"
+                              }
+                           ],
+                           "phone" : "+74956518323",
+                           "city" : "Звенигород",
+                           "latitude" : 55.7293,
+                           "address" : "Московская улица, 22, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.9788,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 193",
+                           "phones" : [
+                              {
+                                 "number" : "+74963423321"
+                              }
+                           ],
+                           "phone" : "+74963423321",
+                           "city" : "поселок городского типа Селятино",
+                           "latitude" : 55.5114,
+                           "address" : "Больничная улица, 23А"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард табл. 100мг n30",
+                           "price" : "80.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.3975,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (217, III Интернационала)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965110033"
+                              },
+                              {
+                                 "number" : "+74965193242"
+                              }
+                           ],
+                           "phone" : "+74965110033; +74965193242",
+                           "city" : "Ногинск",
+                           "latitude" : 55.84,
+                           "address" : "3-го Интернационала улица, 252"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "74"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Атрика&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8106,
+                           "address" : "проспект Ленина, 06, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "1",
+                           "name" : "Метокард тбл 100мг 30",
+                           "price" : "60"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4394,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (215, Комсомольская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965143171"
+                              },
+                              {
+                                 "number" : "+74965191501"
+                              }
+                           ],
+                           "phone" : "+74965143171; +74965191501",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8515,
+                           "address" : "Комсомольская улица, 76, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "852",
+                           "quantity" : "2",
+                           "name" : "Метокард таб. 100мг 30",
+                           "price" : "68.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "метопролола тартрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

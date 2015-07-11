@@ -1,0 +1,77 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "medomexi",
+            "rus_name" : "Медомекси",
+            "form" : "р-р д/в/в и в/м введения 100 мг/2 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "medomexi",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6133,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №292 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+79684012831"
+                              }
+                           ],
+                           "phone" : "+79684012831",
+                           "city" : "Москва",
+                           "latitude" : 55.7111,
+                           "address" : "улица Серпуховский Вал, 17"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "2",
+                           "name" : "Медомекси р-р для в/в и в/м введения амп. 2мл n10",
+                           "price" : "445"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9395,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №1 529",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Ивантеевка",
+                           "latitude" : 55.9712,
+                           "address" : "улица Новосёлки, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5354",
+                           "quantity" : "1",
+                           "name" : "Медомекси р-р для в/в и в/м введения амп. 2мл n10",
+                           "price" : "433"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "этилметилгидроксипиридина сукцинат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

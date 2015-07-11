@@ -1,0 +1,137 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "zanocin_od",
+            "rus_name" : "Заноцин од",
+            "form" : "таб. пролонгир. действия, покр. оболочкой, 400 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "zanocin_od",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Малина&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999038725"
+                              }
+                           ],
+                           "phone" : "+74999038725",
+                           "city" : "Москва",
+                           "latitude" : 55.8593,
+                           "address" : "Алтуфьевское шоссе, 22"
+                        },
+                        "drug" : {
+                           "descid" : "1678",
+                           "quantity" : "1",
+                           "name" : "Заноцин од, тбл п/п/о пролонг. 400мг 10",
+                           "price" : "276"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0591,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строй-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79011846532"
+                              }
+                           ],
+                           "phone" : "+79011846532",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9009,
+                           "address" : "улица Ленина, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1678",
+                           "quantity" : "1",
+                           "name" : "Заноцин од таб. 400мг 10",
+                           "price" : "292"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7726,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (225, Корнеева)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1387"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1387",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4359,
+                           "address" : "улица Корнеева, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1678",
+                           "quantity" : "1",
+                           "name" : "Заноцин од таб.п/о 400мг 10",
+                           "price" : "257"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.3975,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (217, III Интернационала)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965110033"
+                              },
+                              {
+                                 "number" : "+74965193242"
+                              }
+                           ],
+                           "phone" : "+74965110033; +74965193242",
+                           "city" : "Ногинск",
+                           "latitude" : 55.84,
+                           "address" : "3-го Интернационала улица, 252"
+                        },
+                        "drug" : {
+                           "descid" : "1678",
+                           "quantity" : "1",
+                           "name" : "Заноцин од таб.п/о 400мг 10",
+                           "price" : "258"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "офлоксацин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

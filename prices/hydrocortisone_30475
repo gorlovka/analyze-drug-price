@@ -1,0 +1,137 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "hydrocortisone",
+            "rus_name" : "Гидрокортизон",
+            "form" : "мазь д/наружн. прим. 0.5%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "hydrocortisone",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "716",
+                           "quantity" : "3",
+                           "name" : "Гидрокортизон 0,5% 10г глазная мазь",
+                           "price" : "33"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "716",
+                           "quantity" : "4",
+                           "name" : "Гидрокортизон мазь глазн. 0.5 % 10 г",
+                           "price" : "32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6435,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Валеофарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954722955"
+                              }
+                           ],
+                           "phone" : "+74954722955",
+                           "city" : "Москва",
+                           "latitude" : 55.8709,
+                           "address" : "проезд Дежнёва, 7"
+                        },
+                        "drug" : {
+                           "descid" : "716",
+                           "quantity" : "1",
+                           "name" : "Гидрокортизон 0,5% 10г глазная мазь",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4396,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Флория Север&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994979834"
+                              }
+                           ],
+                           "phone" : "+74994979834",
+                           "city" : "Москва",
+                           "latitude" : 55.843,
+                           "address" : "Сходненская улица, 36/11"
+                        },
+                        "drug" : {
+                           "descid" : "716",
+                           "quantity" : "1",
+                           "name" : "Гидрокортизон мазь глазн. 0.5% 10 г 1, муромский приборостроительный завод фгуп",
+                           "price" : "33.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "гидрокортизона ацетат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,190 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "vero_loperamide",
+            "rus_name" : "Веро-лоперамид",
+            "form" : "таб. 2 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 6,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "vero_loperamide",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "3784",
+                           "quantity" : "2",
+                           "name" : "Веро-лоперамид таб 2мг 20",
+                           "price" : "16"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955451350"
+                              },
+                              {
+                                 "number" : "+79262305469"
+                              }
+                           ],
+                           "phone" : "+74955451350; +79262305469",
+                           "city" : "Москва",
+                           "latitude" : 55.7384,
+                           "address" : "Марксистская улица, 3 с1"
+                        },
+                        "drug" : {
+                           "descid" : "3784",
+                           "quantity" : "1",
+                           "name" : "Веро-лоперамид тб 2мг блист n10x2",
+                           "price" : "17"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6863,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Здоровый стиль&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959589295"
+                              }
+                           ],
+                           "phone" : "+74959589295",
+                           "city" : "Москва",
+                           "latitude" : 55.7038,
+                           "address" : "улица Трофимова, 36 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3784",
+                           "quantity" : "1",
+                           "name" : "Веро-лоперамид 0,002 n20 табл",
+                           "price" : "20.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5383,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Пастэр&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991549624"
+                              }
+                           ],
+                           "phone" : "+74991549624",
+                           "city" : "Москва",
+                           "latitude" : 55.8421,
+                           "address" : "улица Генерала Рычагова, 15"
+                        },
+                        "drug" : {
+                           "descid" : "3784",
+                           "quantity" : "10",
+                           "name" : "Веро-лоперамид таб 2мг 20",
+                           "price" : "18.37"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4958,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;Аптека 192 &quot;На Клинской",
+                           "phones" : [
+                              {
+                                 "number" : "+74954552233"
+                              },
+                              {
+                                 "number" : "+74954550175"
+                              }
+                           ],
+                           "phone" : "+74954552233; +74954550175",
+                           "city" : "Москва",
+                           "latitude" : 55.869,
+                           "address" : "Клинская улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "3784",
+                           "quantity" : "1",
+                           "name" : "Веро-лоперамид 0.002 n20 табл верофарм.оао (россия)",
+                           "price" : "17.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8722,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармацевтика и Технологии&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955175947"
+                              },
+                              {
+                                 "number" : "+79257654847"
+                              }
+                           ],
+                           "phone" : "+74955175947; +79257654847",
+                           "city" : "Восточный",
+                           "latitude" : 55.82,
+                           "address" : "Главная улица, 29"
+                        },
+                        "drug" : {
+                           "descid" : "3784",
+                           "quantity" : "3",
+                           "name" : "Веро-лоперамид 20 2мг.",
+                           "price" : "20"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "лоперамида гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

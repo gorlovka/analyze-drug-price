@@ -1,0 +1,485 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "pentilin",
+            "rus_name" : "Пентилин",
+            "form" : "р-р д/в/в и в/а введения 100 мг/5 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 18,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "pentilin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959535296"
+                              }
+                           ],
+                           "phone" : "+74959535296",
+                           "city" : "Москва",
+                           "latitude" : 55.7362,
+                           "address" : "Новокузнецкая улица, 20/21-19 с5"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "4",
+                           "name" : "Пентилин, р-р д/инъ 100мг 5мл 5",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "2",
+                           "name" : "Пентилин 5мл 5 р-р д/ин",
+                           "price" : "78"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490237"
+                              }
+                           ],
+                           "phone" : "+74996490237",
+                           "city" : "Москва",
+                           "latitude" : 55.7741,
+                           "address" : "Бауманская улица, 26 с1"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "10",
+                           "name" : "Пентилин р-р д/ин 100мг 5мл амп 5",
+                           "price" : "94.88"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5916,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №454",
+                           "phones" : [
+                              {
+                                 "number" : "+74959802280"
+                              }
+                           ],
+                           "phone" : "+74959802280",
+                           "city" : "Москва",
+                           "latitude" : 55.793,
+                           "address" : "улица Сущёвский Вал, 5 с2"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "1",
+                           "name" : "Пентилин р-р д/ин. амп. 5мл n5",
+                           "price" : "93"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5834,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №896 ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7917,
+                           "address" : "улица Нижняя Масловка, 5"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "1",
+                           "name" : "Пентилин р-р д/ин. амп. 5мл n5",
+                           "price" : "91"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5828,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;ТС Аптечка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996816144"
+                              }
+                           ],
+                           "phone" : "+74996816144",
+                           "city" : "Москва",
+                           "latitude" : 55.7916,
+                           "address" : "улица Нижняя Масловка, 5"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "1",
+                           "name" : "Пентилин р-р д/ин. амп. 5мл n5",
+                           "price" : "91"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959402329"
+                              }
+                           ],
+                           "phone" : "+74959402329",
+                           "city" : "Москва",
+                           "latitude" : 55.7724,
+                           "address" : "5-я Магистральная улица, 10"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "1",
+                           "name" : "Пентилин, р-р д/инъ 100мг 5мл 5",
+                           "price" : "94"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5619,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991250777"
+                              }
+                           ],
+                           "phone" : "+74991250777",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "улица Кржижановского, 3"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "2",
+                           "name" : "Пентилин, р-р д/инъ 100мг 5мл 5",
+                           "price" : "85.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5352,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №490",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79099722438"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79099722438",
+                           "city" : "Москва",
+                           "latitude" : 55.6889,
+                           "address" : "улица Строителей, 6 к4"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "2",
+                           "name" : "Пентилин р-р д/ин. амп. 5мл n5",
+                           "price" : "87"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5273,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Улыбка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997838587"
+                              }
+                           ],
+                           "phone" : "+74997838587",
+                           "city" : "Москва",
+                           "latitude" : 55.6789,
+                           "address" : "улица Марии Ульяновой, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "5",
+                           "name" : "Пентилин, р-р д/инъ 100мг 5мл 5",
+                           "price" : "50"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7376,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №480 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74957252698"
+                              }
+                           ],
+                           "phone" : "+74957252698",
+                           "city" : "Москва",
+                           "latitude" : 55.8149,
+                           "address" : "Открытое шоссе, 9с1а"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "2",
+                           "name" : "Пентилин р-р д/ин. амп. 5мл n5",
+                           "price" : "90.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5834,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №87",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6549,
+                           "address" : "Керченская улица, 1б"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "1",
+                           "name" : "Пентилин р-р д/ин. амп. 5мл n5",
+                           "price" : "92"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6034,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №484",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79099814324"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79099814324",
+                           "city" : "Москва",
+                           "latitude" : 55.6408,
+                           "address" : "Балаклавский проспект, 7"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "1",
+                           "name" : "Пентилин р-р д/ин. амп. 5мл n5",
+                           "price" : "91.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7504,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №417",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6607,
+                           "address" : "улица Перерва, 49"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "1",
+                           "name" : "Пентилин р-р д/ин. амп. 5мл n5",
+                           "price" : "91"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8192,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №414",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7064,
+                           "address" : "Ферганская улица, 17"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "1",
+                           "name" : "Пентилин р-р д/ин. амп. 5мл n5",
+                           "price" : "85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7974,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №482",
+                           "phones" : [
+                              {
+                                 "number" : "+79250943805"
+                              }
+                           ],
+                           "phone" : "+79250943805",
+                           "city" : "Москва",
+                           "latitude" : 55.8202,
+                           "address" : "Уральская улица, 17"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "2",
+                           "name" : "Пентилин р-р д/ин. амп. 5мл n5",
+                           "price" : "86.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6115,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №479",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6218,
+                           "address" : "Кировоградская улица, 9 к4"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "1",
+                           "name" : "Пентилин р-р д/ин. амп. 5мл n5",
+                           "price" : "90.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4351,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №466",
+                           "phones" : [
+                              {
+                                 "number" : "+74995004024"
+                              }
+                           ],
+                           "phone" : "+74995004024",
+                           "city" : "Москва",
+                           "latitude" : 55.8628,
+                           "address" : "Планерная улица, 7"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "1",
+                           "name" : "Пентилин р-р д/ин. амп. 5мл n5",
+                           "price" : "85"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "пентоксифиллин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,162 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "levomycetin_actitab",
+            "rus_name" : "Левомицетин актитаб",
+            "form" : "таб., покрытые пленочной оболочкой 250 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "levomycetin_actitab",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6003,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Софрино г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956374111"
+                              },
+                              {
+                                 "number" : "+74956377568"
+                              }
+                           ],
+                           "phone" : "+74956374111; +74956377568",
+                           "city" : "Москва",
+                           "latitude" : 55.7444,
+                           "address" : "улица Пречистенка, 6"
+                        },
+                        "drug" : {
+                           "descid" : "2741",
+                           "quantity" : "2",
+                           "name" : "Левомицетин актитаб 0,5 10 таб п/о",
+                           "price" : "99"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "2741",
+                           "quantity" : "17",
+                           "name" : "Левомицетин актитаб 0.5 n10 табл п/о",
+                           "price" : "91.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6013,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека Магистериум&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991237364"
+                              }
+                           ],
+                           "phone" : "+74991237364",
+                           "city" : "Москва",
+                           "latitude" : 55.6765,
+                           "address" : "улица Ремизова, 9"
+                        },
+                        "drug" : {
+                           "descid" : "2741",
+                           "quantity" : "4",
+                           "name" : "Левомицетин актитаб 0,5 n10 табл п/о",
+                           "price" : "99"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3244,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НОТА-БЕНА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994096060"
+                              },
+                              {
+                                 "number" : "+74955658916"
+                              }
+                           ],
+                           "phone" : "+74994096060; +74955658916",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8067,
+                           "address" : "Южный бульвар, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2741",
+                           "quantity" : "3",
+                           "name" : "Левомицетин актитаб 0,5 n10 табл п/о",
+                           "price" : "94"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6988,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАКС-М&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955486445"
+                              }
+                           ],
+                           "phone" : "+74955486445",
+                           "city" : "Московская область",
+                           "latitude" : 55.5551,
+                           "address" : "Видное, 9"
+                        },
+                        "drug" : {
+                           "descid" : "2741",
+                           "quantity" : "11",
+                           "name" : "Левомицетин актитаб 0.5 тб. 10",
+                           "price" : "97.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "хлорамфеникол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "sodium_hydrocarbonate",
+            "rus_name" : "Натрия гидрокарбонат",
+            "form" : "р-р д/инф. 5%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "sodium_hydrocarbonate",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.814,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74954682066"
+                              }
+                           ],
+                           "phone" : "+74954682066",
+                           "city" : "Москва",
+                           "latitude" : 55.8105,
+                           "address" : "Щёлковское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "3802",
+                           "quantity" : "50",
+                           "name" : "Натрия гидрокарбонат раствор д/инф 5% 20",
+                           "price" : "36.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4351,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №466",
+                           "phones" : [
+                              {
+                                 "number" : "+74995004024"
+                              }
+                           ],
+                           "phone" : "+74995004024",
+                           "city" : "Москва",
+                           "latitude" : 55.8628,
+                           "address" : "Планерная улица, 7"
+                        },
+                        "drug" : {
+                           "descid" : "3802",
+                           "quantity" : "5",
+                           "name" : "Натрия гидрокарбонат р-р д/инф.5% 200 мл",
+                           "price" : "40"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0591,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строй-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79011846532"
+                              }
+                           ],
+                           "phone" : "+79011846532",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9009,
+                           "address" : "улица Ленина, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3802",
+                           "quantity" : "10",
+                           "name" : "Натрия гидрокарбонат р-р д/ин. 5% 200мл",
+                           "price" : "36"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "натрия гидрокарбонат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

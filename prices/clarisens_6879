@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "clarisens",
+            "rus_name" : "Кларисенс®",
+            "form" : "сироп 1 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "clarisens",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "3001",
+                           "quantity" : "1",
+                           "name" : "Кларисенс сироп 0,001/мл 100мл",
+                           "price" : "95"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79255335280"
+                              }
+                           ],
+                           "phone" : "+79255335280",
+                           "city" : "Железнодорожный",
+                           "latitude" : 55.747,
+                           "address" : "Граничная улица, 18, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3001",
+                           "quantity" : "1",
+                           "name" : "Кларисенс 0,001/мл 100мл сироп",
+                           "price" : "96"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "лоратадин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

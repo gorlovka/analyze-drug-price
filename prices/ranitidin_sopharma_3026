@@ -1,0 +1,605 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ranitidin_sopharma",
+            "rus_name" : "Ранитидин софарма",
+            "form" : "таб., покр. пленочной оболочкой, 150 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 22,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ranitidin_sopharma",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "1",
+                           "name" : "Ранитидин софарма таб 150мг 60",
+                           "price" : "74"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5947,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Официна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992513420"
+                              },
+                              {
+                                 "number" : "+79859995613"
+                              }
+                           ],
+                           "phone" : "+74992513420; +79859995613",
+                           "city" : "Москва",
+                           "latitude" : 55.7725,
+                           "address" : "3-я Тверская-Ямская улица, 21/23"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "3",
+                           "name" : "Ранитидин софарма таб. п.п.о. 150мг 60",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6016,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Семья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999785551"
+                              },
+                              {
+                                 "number" : "+74999730180"
+                              }
+                           ],
+                           "phone" : "+74999785551; +74999730180",
+                           "city" : "Москва",
+                           "latitude" : 55.7809,
+                           "address" : "Сущёвская улица, 13/15"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "9",
+                           "name" : "Ранитидин софарма таб.п/о 150мг 60",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6761,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Целитель г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956326238"
+                              }
+                           ],
+                           "phone" : "+74956326238",
+                           "city" : "Москва",
+                           "latitude" : 55.7377,
+                           "address" : "Малая Калитниковская улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "1",
+                           "name" : "Ранитидин софарма 0.15 n60 табл п/о софарма ао (болгария)",
+                           "price" : "82.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6145,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 4 (ООО Феерия Фарм Север)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956026573"
+                              }
+                           ],
+                           "phone" : "+74956026573",
+                           "city" : "Москва",
+                           "latitude" : 55.7937,
+                           "address" : "улица Сущёвский Вал, 55"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "1",
+                           "name" : "Ранитидин софарма, тбл п/п/о 150мг 60",
+                           "price" : "78.72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.536,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР&quot; 50 (УЛЬМАС)",
+                           "phones" : [
+                              {
+                                 "number" : "+79661763214"
+                              }
+                           ],
+                           "phone" : "+79661763214",
+                           "city" : "Москва",
+                           "latitude" : 55.7328,
+                           "address" : "3-й Сетуньский проезд, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "3",
+                           "name" : "Ранитидин софарма 0,15 n60 табл п/о",
+                           "price" : "80.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6863,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Здоровый стиль&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959589295"
+                              }
+                           ],
+                           "phone" : "+74959589295",
+                           "city" : "Москва",
+                           "latitude" : 55.7038,
+                           "address" : "улица Трофимова, 36 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "2",
+                           "name" : "Ранитидин-софарма табл. п/о плен 150 мг х60",
+                           "price" : "76.75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5878,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Калина Фарм МСК",
+                           "phones" : [
+                              {
+                                 "number" : "+74991267745"
+                              },
+                              {
+                                 "number" : "+74956646053"
+                              },
+                              {
+                                 "number" : "+74956646056"
+                              },
+                              {
+                                 "number" : "+78005500321"
+                              }
+                           ],
+                           "phone" : "+74991267745; +74956646053; +74956646056; +78005500321",
+                           "city" : "Москва",
+                           "latitude" : 55.6915,
+                           "address" : "улица Шверника, 12/2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "2",
+                           "name" : "Ранитидин софарма, тбл п/о 150мг 60",
+                           "price" : "77"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "1",
+                           "name" : "Ранитидин софарма таб.150мг n60",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4874,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Здоровейка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957383189"
+                              }
+                           ],
+                           "phone" : "+74957383189",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "Филёвский бульвар, 10"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "2",
+                           "name" : "Ранитидин-софарма табл. п/о плен 150 мг 60",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5059,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 6 (ООО Феерия Фарм Запад)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991981909"
+                              }
+                           ],
+                           "phone" : "+74991981909",
+                           "city" : "Москва",
+                           "latitude" : 55.8,
+                           "address" : "улица Алабяна, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "4",
+                           "name" : "Ранитидин софарма, тбл п/п/о 150мг 60",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6678,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 3 (ООО Феерия Фарм Юг)",
+                           "phones" : [
+                              {
+                                 "number" : "+74996174244"
+                              }
+                           ],
+                           "phone" : "+74996174244",
+                           "city" : "Москва",
+                           "latitude" : 55.6766,
+                           "address" : "улица Новинки, 4"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "1",
+                           "name" : "Ранитидин софарма, тбл п/п/о 150мг 60",
+                           "price" : "78.72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7236,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Законность&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953540277"
+                              }
+                           ],
+                           "phone" : "+74953540277",
+                           "city" : "Москва",
+                           "latitude" : 55.6766,
+                           "address" : "Шоссейная улица, 39"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "2",
+                           "name" : "Ранитидин-софарма табл. п/о плен 150 мг",
+                           "price" : "77.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ЗДОРОВЬЕ ПЛЮС",
+                           "phones" : [
+                              {
+                                 "number" : "+74991223092"
+                              }
+                           ],
+                           "phone" : "+74991223092",
+                           "city" : "Москва",
+                           "latitude" : 55.6542,
+                           "address" : "улица Каховка, 10к3"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "3",
+                           "name" : "Ранитидин- софарма 150мг n60 таб.",
+                           "price" : "76.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.465,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 2 (ООО Феерия Фарм Плюс)",
+                           "phones" : [
+                              {
+                                 "number" : "+74997204839"
+                              }
+                           ],
+                           "phone" : "+74997204839",
+                           "city" : "Москва",
+                           "latitude" : 55.8077,
+                           "address" : "улица Маршала Василевского, 15"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "3",
+                           "name" : "Ранитидин софарма, тбл п/п/о 150мг 60",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5911,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармапарк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955653137"
+                              }
+                           ],
+                           "phone" : "+74955653137",
+                           "city" : "Москва",
+                           "latitude" : 55.638,
+                           "address" : "микрорайон Северное Чертаново, 5г"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "1",
+                           "name" : "Ранитидин софарма 150мг 60 таблетки",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4009,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Калина Фарм МСК",
+                           "phones" : [
+                              {
+                                 "number" : "+74954481534"
+                              },
+                              {
+                                 "number" : "+74954470039"
+                              },
+                              {
+                                 "number" : "+78005500321"
+                              }
+                           ],
+                           "phone" : "+74954481534; +74954470039; +78005500321",
+                           "city" : "Москва",
+                           "latitude" : 55.7202,
+                           "address" : "улица Толбухина, 7 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "3",
+                           "name" : "Ранитидин софарма, тбл п/о 150мг 60",
+                           "price" : "71.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "1",
+                           "name" : "Ранитидин софарма 150мг 60 таблетки",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8546,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Инновация&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79852892871"
+                              }
+                           ],
+                           "phone" : "+79852892871",
+                           "city" : "Москва",
+                           "latitude" : 55.7008,
+                           "address" : "Лермонтовский проспект, 19 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "1",
+                           "name" : "Ранитидин софарма таб п.п.о. 150мг n60 уп кнт-яч пк &amp;lt;10*6&amp;gt;",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.668,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЖА Аптека&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994768475"
+                              }
+                           ],
+                           "phone" : "+74994768475",
+                           "city" : "Москва",
+                           "latitude" : 55.8925,
+                           "address" : "Студёный проезд, 28"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "6",
+                           "name" : "Ранитидин софарма таб п.п.о. 150мг n60 уп кнт-яч пк &amp;lt;10*6&amp;gt;",
+                           "price" : "76"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4242,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №191",
+                           "phones" : [
+                              {
+                                 "number" : "+78123358097"
+                              }
+                           ],
+                           "phone" : "+78123358097",
+                           "city" : "Москва",
+                           "latitude" : 55.8475,
+                           "address" : "Туристская улица, 6 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "2",
+                           "name" : "Ранитидин софарма таб  150мг n60",
+                           "price" : "78.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6988,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАКС-М&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955486445"
+                              }
+                           ],
+                           "phone" : "+74955486445",
+                           "city" : "Московская область",
+                           "latitude" : 55.5551,
+                           "address" : "Видное, 9"
+                        },
+                        "drug" : {
+                           "descid" : "1555",
+                           "quantity" : "3",
+                           "name" : "Ранитидин софарма 0.15 60 табл п/о",
+                           "price" : "75.2"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ранитидин (в форме гидрохлорида)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,162 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "vimpat",
+            "rus_name" : "Вимпат®",
+            "form" : "таб., покр. пленочной оболочкой, 150 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "vimpat",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6094,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобал-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217612"
+                              },
+                              {
+                                 "number" : "+74959217601"
+                              }
+                           ],
+                           "phone" : "+74959217612; +74959217601",
+                           "city" : "Москва",
+                           "latitude" : 55.7208,
+                           "address" : "улица Шаболовка, 24"
+                        },
+                        "drug" : {
+                           "descid" : "5499",
+                           "quantity" : "1",
+                           "name" : "Вимпат таб п/п/о 150мг 56",
+                           "price" : "7465"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5715,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.688,
+                           "address" : "улица Дмитрия Ульянова, 20 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5499",
+                           "quantity" : "1",
+                           "name" : "Вимпат таб. п/о 150мг 56",
+                           "price" : "6550"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6662,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6776,
+                           "address" : "улица Новинки, 1"
+                        },
+                        "drug" : {
+                           "descid" : "5499",
+                           "quantity" : "2",
+                           "name" : "Вимпат таб. п/о 150мг 56",
+                           "price" : "6550"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "5499",
+                           "quantity" : "1",
+                           "name" : "Вимпат 150мг 56 таблетки",
+                           "price" : "6797"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4389,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «Лилия»",
+                           "phones" : [
+                              {
+                                 "number" : "+74956646042"
+                              },
+                              {
+                                 "number" : "+74956646041"
+                              }
+                           ],
+                           "phone" : "+74956646042; +74956646041",
+                           "city" : "Москва",
+                           "latitude" : 55.8497,
+                           "address" : "Сходненская улица, 37"
+                        },
+                        "drug" : {
+                           "descid" : "5499",
+                           "quantity" : "1",
+                           "name" : "Вимпат таб п/п/о 150мг 56",
+                           "price" : "7954"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "лакосамид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "interferon_leucocytic_human_fluidum",
+            "rus_name" : "Интерферон лейкоцитарный человеческий жидкий",
+            "form" : "р-р д/местн. прим. и ингаляций 1 тыс.МЕ/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "interferon_leucocytic_human_fluidum",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "2231",
+                           "quantity" : "10",
+                           "name" : "Интерферон лейкоцитарный человеческий жидкий р-р для мест пр",
+                           "price" : "79"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5837,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ИП Серегина М.А.",
+                           "phones" : [
+                              {
+                                 "number" : "+79645197959"
+                              }
+                           ],
+                           "phone" : "+79645197959",
+                           "city" : "Москва",
+                           "latitude" : 55.8467,
+                           "address" : "Ботаническая улица, 41 к7"
+                        },
+                        "drug" : {
+                           "descid" : "2231",
+                           "quantity" : "1",
+                           "name" : "Интерферон лейкоцитарный человеческий жидкий р-р д/мест пр и инг 1000ме/мл 5мл n1 фл-кап полим пк",
+                           "price" : "115"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4396,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Флория Север&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994979834"
+                              }
+                           ],
+                           "phone" : "+74994979834",
+                           "city" : "Москва",
+                           "latitude" : 55.843,
+                           "address" : "Сходненская улица, 36/11"
+                        },
+                        "drug" : {
+                           "descid" : "2231",
+                           "quantity" : "3",
+                           "name" : "Интерферон лейкоцитарный человеческий жидкий р-р д/местн. прим. и ингал. 1 тыс.ме/мл 5 мл 1 флакон-капельница, биомед оао им.и.и.мечникова (красногор",
+                           "price" : "114.2"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "интерферон альфа"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

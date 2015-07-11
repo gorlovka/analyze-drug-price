@@ -1,0 +1,571 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "chlorhexidine",
+            "rus_name" : "Хлоргексидин",
+            "form" : "р-р д/наружн. прим. спиртовой 0.5%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 21,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "chlorhexidine",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.602,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Аптека 5 &quot;На Триумфальной&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956997993"
+                              },
+                              {
+                                 "number" : "+74956996243"
+                              }
+                           ],
+                           "phone" : "+74956997993; +74956996243",
+                           "city" : "Москва",
+                           "latitude" : 55.7703,
+                           "address" : "Воротниковский переулок, 8с1"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "6",
+                           "name" : "Хлоргексидин р-р спирт. д/нар. прим. 0,5% спрей 100мл",
+                           "price" : "21.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "8",
+                           "name" : "Хлоргексидин р-р спирт. д/нар. прим. 0,5% спрей 100мл",
+                           "price" : "20"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6543,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»2",
+                           "phones" : [
+                              {
+                                 "number" : "+74955325351"
+                              }
+                           ],
+                           "phone" : "+74955325351",
+                           "city" : "Москва",
+                           "latitude" : 55.7369,
+                           "address" : "улица Большие Каменщики, 6"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "5",
+                           "name" : "Хлоргексидин р-р спирт.0,5% спрей 100мл",
+                           "price" : "22"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "30",
+                           "name" : "Хлоргексидин,раствор-спрей спиртовой,0,5% 100мл",
+                           "price" : "36"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6977,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СИГМА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74951248018"
+                              }
+                           ],
+                           "phone" : "+74951248018",
+                           "city" : "Москва",
+                           "latitude" : 55.7582,
+                           "address" : "Красноказарменная улица, 9"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "1",
+                           "name" : "Хлоргексидин р-р спирт 0.5% 100мл бут п/э с расп",
+                           "price" : "20.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6594,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "72 аптека На Автозаводской г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956751155"
+                              },
+                              {
+                                 "number" : "+74956750598"
+                              }
+                           ],
+                           "phone" : "+74956751155; +74956750598",
+                           "city" : "Москва",
+                           "latitude" : 55.7128,
+                           "address" : "Восточная улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "5",
+                           "name" : "Хлоргексидин р-р спирт. д/нар. прим. 0,5% спрей 100мл",
+                           "price" : "22.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6784,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СИТИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956649855"
+                              },
+                              {
+                                 "number" : "+79250409555"
+                              }
+                           ],
+                           "phone" : "+74956649855; +79250409555",
+                           "city" : "Москва",
+                           "latitude" : 55.785,
+                           "address" : "улица Жебрунова, 4"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "3",
+                           "name" : "Хлоргексидин р-р спирт. д/нар. прим. 0,5% спрей 100мл",
+                           "price" : "21"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6388,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»4 (ООО &quot;Сэсса Фарм плюс&quot;)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956649436"
+                              }
+                           ],
+                           "phone" : "+74956649436",
+                           "city" : "Москва",
+                           "latitude" : 55.813,
+                           "address" : "проспект Мира, 122"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "17",
+                           "name" : "Хлоргексидин р-р спирт.0,5% спрей 100мл",
+                           "price" : "22"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Терра Вита&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996189219"
+                              }
+                           ],
+                           "phone" : "+74996189219",
+                           "city" : "Москва",
+                           "latitude" : 55.6806,
+                           "address" : "Нагатинская набережная, 16к3"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "3",
+                           "name" : "Хлоргексидин р-р наруж. прим. спирт.",
+                           "price" : "164.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7883,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "206 аптека На Рязанском проспекте г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991703501"
+                              }
+                           ],
+                           "phone" : "+74991703501",
+                           "city" : "Москва",
+                           "latitude" : 55.7187,
+                           "address" : "Рязанский проспект, 71 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "2",
+                           "name" : "Хлоргексидин р-р спирт. д/нар. прим. 0,5% спрей 100мл",
+                           "price" : "22.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6544,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТИЛЬ-МАКСИМА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991809494"
+                              }
+                           ],
+                           "phone" : "+74991809494",
+                           "city" : "Москва",
+                           "latitude" : 55.8536,
+                           "address" : "улица Амундсена, 15 к2"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "78",
+                           "name" : "Хлоргексидин р-р спирт 0.5% 100мл фл темн ст",
+                           "price" : "21.39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7897,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993676006"
+                              }
+                           ],
+                           "phone" : "+74993676006",
+                           "city" : "Москва",
+                           "latitude" : 55.7928,
+                           "address" : "Первомайская улица, 46/50"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "16",
+                           "name" : "Хлоргексидин р-р спирт 0.5% 100мл фл темн ст",
+                           "price" : "20.74"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.527,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»",
+                           "phones" : [
+                              {
+                                 "number" : "+74955326904"
+                              }
+                           ],
+                           "phone" : "+74955326904",
+                           "city" : "Москва",
+                           "latitude" : 55.6595,
+                           "address" : "улица Академика Челомея, 3 к2"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "1",
+                           "name" : "Хлоргексидин р-р спирт.0,5% спрей 100мл",
+                           "price" : "21"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4914,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ДискомСтандарт",
+                           "phones" : [
+                              {
+                                 "number" : "+74954344268"
+                              }
+                           ],
+                           "phone" : "+74954344268",
+                           "city" : "Москва",
+                           "latitude" : 55.6672,
+                           "address" : "проспект Вернадского, 97 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "13",
+                           "name" : "Хлоргексидин р-р спирт 0,5% 100мл (п/э распыл)",
+                           "price" : "21"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4958,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;Аптека 192 &quot;На Клинской",
+                           "phones" : [
+                              {
+                                 "number" : "+74954552233"
+                              },
+                              {
+                                 "number" : "+74954550175"
+                              }
+                           ],
+                           "phone" : "+74954552233; +74954550175",
+                           "city" : "Москва",
+                           "latitude" : 55.869,
+                           "address" : "Клинская улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "4",
+                           "name" : "Хлоргексидин р-р спирт. д/нар. прим. 0.5% спрей 100мл росбио ооо(россия)",
+                           "price" : "23"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8519,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»5 (ООО &quot;Сэсса Фарм плюс&quot;)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956423265"
+                              }
+                           ],
+                           "phone" : "+74956423265",
+                           "city" : "Москва",
+                           "latitude" : 55.7005,
+                           "address" : "Лермонтовский проспект, 10 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "20",
+                           "name" : "Хлоргексидин р-р спирт.0,5% спрей 100мл",
+                           "price" : "23"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4232,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997622503"
+                              }
+                           ],
+                           "phone" : "+74997622503",
+                           "city" : "Москва",
+                           "latitude" : 55.8626,
+                           "address" : "улица Вилиса Лациса, 21 к2"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "64",
+                           "name" : "Хлоргексидин р-р спирт 0.5% 100мл фл темн ст",
+                           "price" : "21.39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8911,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОРТЕКС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997216970"
+                              }
+                           ],
+                           "phone" : "+74997216970",
+                           "city" : "Москва",
+                           "latitude" : 55.7133,
+                           "address" : "Святоозёрская улица, 9"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "10",
+                           "name" : "Хлоргексидин р-р спирт 0.5% 100мл фл темн ст",
+                           "price" : "21.39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5711,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВЕРАФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74997440387"
+                              }
+                           ],
+                           "phone" : "+74997440387",
+                           "city" : "Москва",
+                           "latitude" : 55.5773,
+                           "address" : "Ратная улица, 16 к3"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "18",
+                           "name" : "Хлоргексидин р-р спирт. 0,5% спрей 100мл",
+                           "price" : "23"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5779,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЛОГИН-АЛЬФА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957111281"
+                              }
+                           ],
+                           "phone" : "+74957111281",
+                           "city" : "Москва",
+                           "latitude" : 55.5753,
+                           "address" : "Ратная улица, 10 к2"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "8",
+                           "name" : "Хлоргексидин р-р спирт 0.5% 100мл фл темн ст",
+                           "price" : "21.39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5429,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»3",
+                           "phones" : [
+                              {
+                                 "number" : "+74955325880"
+                              }
+                           ],
+                           "phone" : "+74955325880",
+                           "city" : "Москва",
+                           "latitude" : 55.5396,
+                           "address" : "Чечёрский проезд, 16"
+                        },
+                        "drug" : {
+                           "descid" : "3500",
+                           "quantity" : "12",
+                           "name" : "Хлоргексидин р-р спирт.0,5% спрей 100мл",
+                           "price" : "22"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "хлоргексидина биглюконат + хлоргексидина биглюконат (20% р-р)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

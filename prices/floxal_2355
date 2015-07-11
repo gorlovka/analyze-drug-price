@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "floxal",
+            "rus_name" : "Флоксал",
+            "form" : "капли глазные 3 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "floxal",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6443,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ИП Бескрайняя Е.С.",
+                           "phones" : [
+                              {
+                                 "number" : "+74991749461"
+                              }
+                           ],
+                           "phone" : "+74991749461",
+                           "city" : "Москва",
+                           "latitude" : 55.8058,
+                           "address" : "3-я Мытищинская улица, 3 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1243",
+                           "quantity" : "2",
+                           "name" : "Флоксал гл.кап.5мл",
+                           "price" : "199"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "офлоксацин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

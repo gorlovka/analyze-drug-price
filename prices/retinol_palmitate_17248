@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "retinol_palmitate",
+            "rus_name" : "Ретинола пальмитат",
+            "form" : "р-р д/приема внутрь масляный 100 тыс.МЕ/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "retinol_palmitate",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5792,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Токер &quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992457005"
+                              }
+                           ],
+                           "phone" : "+74992457005",
+                           "city" : "Москва",
+                           "latitude" : 55.7306,
+                           "address" : "Оболенский переулок, 9 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4358",
+                           "quantity" : "2",
+                           "name" : "Ретинола пальмитат мас р-р 100 тыс ме 1",
+                           "price" : "102.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.814,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74954682066"
+                              }
+                           ],
+                           "phone" : "+74954682066",
+                           "city" : "Москва",
+                           "latitude" : 55.8105,
+                           "address" : "Щёлковское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "4358",
+                           "quantity" : "3",
+                           "name" : "Ретинола пальмитат раствор маслян 100тыс",
+                           "price" : "297"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ретинола пальмитат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

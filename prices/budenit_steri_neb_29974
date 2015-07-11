@@ -1,0 +1,131 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "budenit_steri_neb",
+            "rus_name" : "Буденит стери-неб",
+            "form" : "сусп. д/ингаляций дозированная 250 мкг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "budenit_steri_neb",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4927,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Алекс Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959426630"
+                              }
+                           ],
+                           "phone" : "+74959426630",
+                           "city" : "Москва",
+                           "latitude" : 55.7719,
+                           "address" : "улица Мнёвники, 7 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6362",
+                           "quantity" : "1",
+                           "name" : "Буденит стери-неб сусп.д/инг.0,5 2мл 60",
+                           "price" : "27.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.827,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 27",
+                           "phones" : [
+                              {
+                                 "number" : "+74953755628"
+                              }
+                           ],
+                           "phone" : "+74953755628",
+                           "city" : "Москва",
+                           "latitude" : 55.7403,
+                           "address" : "улица Старый Гай, 8б"
+                        },
+                        "drug" : {
+                           "descid" : "6362",
+                           "quantity" : "3",
+                           "name" : "Буденит стери-неб сусп. д/инг. 0,25мг 20",
+                           "price" : "793.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6187,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 1",
+                           "phones" : [
+                              {
+                                 "number" : "+74995301982"
+                              }
+                           ],
+                           "phone" : "+74995301982",
+                           "city" : "Москва",
+                           "latitude" : 55.5986,
+                           "address" : "Дорожная улица, 24 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6362",
+                           "quantity" : "1",
+                           "name" : "Буденит стери-неб сусп. д/инг. 0,25мг 20",
+                           "price" : "845.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.758,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР&quot; 35",
+                           "phones" : [
+                              {
+                                 "number" : "+79645349561"
+                              }
+                           ],
+                           "phone" : "+79645349561",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9243,
+                           "address" : "Олимпийский проспект, 34, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "6362",
+                           "quantity" : "1",
+                           "name" : "Буденит стери-неб сусп. д/инг. 0,25мг 20",
+                           "price" : "845.7"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "будесонид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

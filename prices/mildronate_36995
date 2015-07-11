@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "mildronate",
+            "rus_name" : "Милдронат®",
+            "form" : "р-р д/в/м, в/в и парабульбарного введения 500 мг/5 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "mildronate",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; ЭЛЬРУФ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959510826"
+                              }
+                           ],
+                           "phone" : "+74959510826",
+                           "city" : "Москва",
+                           "latitude" : 55.7311,
+                           "address" : "Валовая улица, 14с8"
+                        },
+                        "drug" : {
+                           "descid" : "280",
+                           "quantity" : "1",
+                           "name" : "Милдронат р-р дин 0,5г/5мл 10",
+                           "price" : "381"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8722,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармацевтика и Технологии&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955175947"
+                              },
+                              {
+                                 "number" : "+79257654847"
+                              }
+                           ],
+                           "phone" : "+74955175947; +79257654847",
+                           "city" : "Восточный",
+                           "latitude" : 55.82,
+                           "address" : "Главная улица, 29"
+                        },
+                        "drug" : {
+                           "descid" : "280",
+                           "quantity" : "1",
+                           "name" : "Милдронат р-р дин 5мл 5",
+                           "price" : "170"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "мельдония дигидрат + мельдоний + 3-(2,2,2-триметилгидразиний) пропионата дигидрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

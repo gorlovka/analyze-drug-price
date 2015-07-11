@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "paracetamol_altfarm",
+            "rus_name" : "Парацетамол-альтфарм",
+            "form" : "супп. рект. 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "paracetamol_altfarm",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6964,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «ТОРГМЕТ»",
+                           "phones" : [
+                              {
+                                 "number" : "+74956600255"
+                              }
+                           ],
+                           "phone" : "+74956600255",
+                           "city" : "Москва",
+                           "latitude" : 55.8798,
+                           "address" : "улица Малыгина, 5 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6794",
+                           "quantity" : "2",
+                           "name" : "Парацетамол-альтфарм 500мг свечи х10",
+                           "price" : "46.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5619,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лотос&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957172581"
+                              }
+                           ],
+                           "phone" : "+74957172581",
+                           "city" : "Москва",
+                           "latitude" : 55.5454,
+                           "address" : "Изюмская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "6794",
+                           "quantity" : "2",
+                           "name" : "Парацетамол альтфарм 500мг 10 супп",
+                           "price" : "46"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.551,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; ЛОТОС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957790903"
+                              }
+                           ],
+                           "phone" : "+74957790903",
+                           "city" : "Подольск",
+                           "latitude" : 55.4285,
+                           "address" : "Матросская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "6794",
+                           "quantity" : "1",
+                           "name" : "Парацетамол альтфарм 500мг 10 супп",
+                           "price" : "42"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "парацетамол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

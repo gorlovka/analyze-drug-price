@@ -1,0 +1,262 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "nitrospray",
+            "rus_name" : "Нитроспрей",
+            "form" : "спрей дозир. подъязычн. 0.4 мг/доза",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 9,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "nitrospray",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6091,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Домашняя медицина&quot;.",
+                           "phones" : [
+                              {
+                                 "number" : "+74956299468"
+                              }
+                           ],
+                           "phone" : "+74956299468",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "Тверская улица, 12 с8"
+                        },
+                        "drug" : {
+                           "descid" : "3104",
+                           "quantity" : "3",
+                           "name" : "Нитроспрей спрей п/язык дозир 0.4мг/доза 200дз фл с доз устр",
+                           "price" : "102"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6723,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 8",
+                           "phones" : [
+                              {
+                                 "number" : "+74955101755"
+                              }
+                           ],
+                           "phone" : "+74955101755",
+                           "city" : "Москва",
+                           "latitude" : 55.7819,
+                           "address" : "Русаковская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "3104",
+                           "quantity" : "1",
+                           "name" : "Нитроспрей спрей п/язык дозир 0.4мг/доза 200дз фл с доз устр",
+                           "price" : "101.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5498,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Феникс-Мир",
+                           "phones" : [
+                              {
+                                 "number" : "+74956563926"
+                              }
+                           ],
+                           "phone" : "+74956563926",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "Красноармейская улица, 2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3104",
+                           "quantity" : "1",
+                           "name" : "Нитроспрей спрей подъяз. доз. 0,4мг/доза 10мл фл. (r) фармстандарт-лексредства оао г.курск (россия)",
+                           "price" : "107"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5785,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фортис г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956397363"
+                              },
+                              {
+                                 "number" : "+74956108378"
+                              }
+                           ],
+                           "phone" : "+74956397363; +74956108378",
+                           "city" : "Москва",
+                           "latitude" : 55.8191,
+                           "address" : "улица Яблочкова, 19г"
+                        },
+                        "drug" : {
+                           "descid" : "3104",
+                           "quantity" : "1",
+                           "name" : "Нитроспрей спрей подъяз. доз. 0,4мг/доза 10мл фл. (r) фармстандарт-лексредства г.курск (россия)",
+                           "price" : "100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "3104",
+                           "quantity" : "20",
+                           "name" : "Нитроспрей спрей п/язык дозир 0.4мг/доза 200дз фл с доз устр",
+                           "price" : "99"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5837,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ИП Серегина М.А.",
+                           "phones" : [
+                              {
+                                 "number" : "+79645197959"
+                              }
+                           ],
+                           "phone" : "+79645197959",
+                           "city" : "Москва",
+                           "latitude" : 55.8467,
+                           "address" : "Ботаническая улица, 41 к7"
+                        },
+                        "drug" : {
+                           "descid" : "3104",
+                           "quantity" : "1",
+                           "name" : "Нитроспрей спрей подъязычн доз 0,4мг/доза 200дз 10мл n1 фл п/п расп пк",
+                           "price" : "102"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4958,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;Аптека 192 &quot;На Клинской",
+                           "phones" : [
+                              {
+                                 "number" : "+74954552233"
+                              },
+                              {
+                                 "number" : "+74954550175"
+                              }
+                           ],
+                           "phone" : "+74954552233; +74954550175",
+                           "city" : "Москва",
+                           "latitude" : 55.869,
+                           "address" : "Клинская улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "3104",
+                           "quantity" : "3",
+                           "name" : "Нитроспрей спрей подъяз. доз. 0,4мг/доза 10мл фл. (r) фармстандарт-лексредства г.курск(россия)",
+                           "price" : "103"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.668,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЖА Аптека&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994768475"
+                              }
+                           ],
+                           "phone" : "+74994768475",
+                           "city" : "Москва",
+                           "latitude" : 55.8925,
+                           "address" : "Студёный проезд, 28"
+                        },
+                        "drug" : {
+                           "descid" : "3104",
+                           "quantity" : "2",
+                           "name" : "Нитроспрей спрей подъязычн доз 0,4мг/доза 200дз 10мл n1 фл п/п расп пк",
+                           "price" : "101"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0107,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВИТА-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955229477"
+                              }
+                           ],
+                           "phone" : "+74955229477",
+                           "city" : "Балашиха",
+                           "latitude" : 55.749,
+                           "address" : "Пролетарская улица, 3"
+                        },
+                        "drug" : {
+                           "descid" : "3104",
+                           "quantity" : "2",
+                           "name" : "Нитроспрей спрей подъяз. доз. 0,4мг/доза 10мл фл. (r) фармстандарт-лексредства г.курск (россия)",
+                           "price" : "98.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "нитроглицерин + нитроглицерин (в форме 1% спиртового раствора)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

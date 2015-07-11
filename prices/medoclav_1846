@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "medoclav",
+            "rus_name" : "Медоклав",
+            "form" : "таб., покр. пленочной обол., 250 мг+125 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "medoclav",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5994,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 41",
+                           "phones" : [
+                              {
+                                 "number" : "+74995301992"
+                              }
+                           ],
+                           "phone" : "+74995301992",
+                           "city" : "Москва",
+                           "latitude" : 55.8634,
+                           "address" : "улица Санникова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "981",
+                           "quantity" : "1",
+                           "name" : "Медоклав 0,5/0,125 n16 табл п/плен/оболоч",
+                           "price" : "213.1"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амоксициллин (в форме тригидрата) + клавулановая кислота (в форме калиевой соли) + амоксициллин (в форме натриевой соли)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

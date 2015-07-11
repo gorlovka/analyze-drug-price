@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "novorapid_flexpen",
+            "rus_name" : "Новорапид® флекспен®",
+            "form" : "р-р д/п/к и в/в введения 100 ЕД/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "novorapid_flexpen",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7066,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 5",
+                           "phones" : [
+                              {
+                                 "number" : "+74959796597"
+                              }
+                           ],
+                           "phone" : "+74959796597",
+                           "city" : "Москва",
+                           "latitude" : 55.782,
+                           "address" : "Большая Семёновская улица, 26"
+                        },
+                        "drug" : {
+                           "descid" : "2959",
+                           "quantity" : "1",
+                           "name" : "Новорапид флекспен р-р 100ед 3мл 5",
+                           "price" : "1797.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.814,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74954682066"
+                              }
+                           ],
+                           "phone" : "+74954682066",
+                           "city" : "Москва",
+                           "latitude" : 55.8105,
+                           "address" : "Щёлковское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "2959",
+                           "quantity" : "2",
+                           "name" : "Новорапид флекспен раствор д/ин/инф 100м",
+                           "price" : "1780"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "инсулин аспарт"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

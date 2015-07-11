@@ -1,0 +1,162 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "aminoven",
+            "rus_name" : "Аминовен",
+            "form" : "р-р д/инф. 15%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "aminoven",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5847,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диасфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266856"
+                              },
+                              {
+                                 "number" : "+74956266857"
+                              }
+                           ],
+                           "phone" : "+74956266856; +74956266857",
+                           "city" : "Москва",
+                           "latitude" : 55.7756,
+                           "address" : "1-я Брестская улица, 66"
+                        },
+                        "drug" : {
+                           "descid" : "3730",
+                           "quantity" : "5",
+                           "name" : "Аминовен 15% 500мл 1 р-р д/инф",
+                           "price" : "435"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7412,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АСАКИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957770006"
+                              }
+                           ],
+                           "phone" : "+74957770006",
+                           "city" : "Москва",
+                           "latitude" : 55.6993,
+                           "address" : "улица Юных Ленинцев, 12"
+                        },
+                        "drug" : {
+                           "descid" : "3730",
+                           "quantity" : "10",
+                           "name" : "Аминовен р-р д/инфуз 15% фл 500мл 1",
+                           "price" : "421"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "3730",
+                           "quantity" : "33",
+                           "name" : "Аминовен 15% 500 мл р-р д/и 10",
+                           "price" : "4340"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "3730",
+                           "quantity" : "1",
+                           "name" : "Аминовен раствор для инфузий 15% 500мл 10 флаконы",
+                           "price" : "4297"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья Юг",
+                           "phones" : [
+                              {
+                                 "number" : "+74959710100"
+                              }
+                           ],
+                           "phone" : "+74959710100",
+                           "city" : "Москва",
+                           "latitude" : 55.8571,
+                           "address" : "улица Героев Панфиловцев, 7"
+                        },
+                        "drug" : {
+                           "descid" : "3730",
+                           "quantity" : "1",
+                           "name" : "Аминовен ??? р-р д/инф 15% фл 500мл 10",
+                           "price" : "4280"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "L-валин + L-изолейцин + L-лейцин + L-метионин + L-треонин + L-триптофан + L-фенилаланин + L-аланин + L-аргинин + глицин + L-пролин + L-гистидин + L-серин + L-лизин + L-тирозин + таурин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

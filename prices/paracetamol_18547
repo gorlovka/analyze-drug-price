@@ -1,0 +1,159 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "paracetamol",
+            "rus_name" : "Парацетамол",
+            "form" : "супп. рект. 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "paracetamol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959535296"
+                              }
+                           ],
+                           "phone" : "+74959535296",
+                           "city" : "Москва",
+                           "latitude" : 55.7362,
+                           "address" : "Новокузнецкая улица, 20/21-19 с5"
+                        },
+                        "drug" : {
+                           "descid" : "3404",
+                           "quantity" : "1",
+                           "name" : "Парацетамол, супп 500мг 10",
+                           "price" : "36"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6016,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Семья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999785551"
+                              },
+                              {
+                                 "number" : "+74999730180"
+                              }
+                           ],
+                           "phone" : "+74999785551; +74999730180",
+                           "city" : "Москва",
+                           "latitude" : 55.7809,
+                           "address" : "Сущёвская улица, 13/15"
+                        },
+                        "drug" : {
+                           "descid" : "3404",
+                           "quantity" : "3",
+                           "name" : "Парацетамол супп.рект.500мг 10",
+                           "price" : "38"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6491,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999684911"
+                              }
+                           ],
+                           "phone" : "+74999684911",
+                           "city" : "Москва",
+                           "latitude" : 55.654,
+                           "address" : "Каширское шоссе, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3404",
+                           "quantity" : "200",
+                           "name" : "Парацетамол супп. рект. 500мг 10",
+                           "price" : "44.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4217,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959490314"
+                              }
+                           ],
+                           "phone" : "+74959490314",
+                           "city" : "Москва",
+                           "latitude" : 55.8494,
+                           "address" : "Туристская улица, 13 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3404",
+                           "quantity" : "36",
+                           "name" : "Парацетамол, супп 500мг 10",
+                           "price" : "37.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8708,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЗАРЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955808495"
+                              }
+                           ],
+                           "phone" : "+74955808495",
+                           "city" : "Люберцы",
+                           "latitude" : 55.6827,
+                           "address" : "улица 3-е Почтовое Отделение, 54А"
+                        },
+                        "drug" : {
+                           "descid" : "3404",
+                           "quantity" : "1",
+                           "name" : "Парацетамол свечи 500мг n10",
+                           "price" : "44"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "парацетамол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

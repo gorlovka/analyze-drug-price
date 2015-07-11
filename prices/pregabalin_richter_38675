@@ -1,0 +1,172 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "pregabalin_richter",
+            "rus_name" : "Прегабалин-рихтер",
+            "form" : "капс. 300 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "pregabalin_richter",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6554,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лотос&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956826565"
+                              }
+                           ],
+                           "phone" : "+74956826565",
+                           "city" : "Москва",
+                           "latitude" : 55.8119,
+                           "address" : "улица Павла Корчагина, 2/1"
+                        },
+                        "drug" : {
+                           "descid" : "7934",
+                           "quantity" : "1",
+                           "name" : "Прегабалин- рихтер капс. 300 мг х14",
+                           "price" : "807"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5057,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «ФармПрогресс»",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6754,
+                           "address" : "проспект Вернадского, 39"
+                        },
+                        "drug" : {
+                           "descid" : "7934",
+                           "quantity" : "1",
+                           "name" : "Прегабалин-рихтер капс. 300мг 56",
+                           "price" : "3137"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8157,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;АНСИмед&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954685225"
+                              },
+                              {
+                                 "number" : "+74995302091"
+                              }
+                           ],
+                           "phone" : "+74954685225; +74995302091",
+                           "city" : "Москва",
+                           "latitude" : 55.7974,
+                           "address" : "Измайловский бульвар, 67 к1"
+                        },
+                        "drug" : {
+                           "descid" : "7934",
+                           "quantity" : "1",
+                           "name" : "Прегабалин-рихтер 300мг капс. х56",
+                           "price" : "2988.76"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8269,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (5, Хабаровская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957708948"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1981",
+                                    "1302"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957708948; +74952311697, доб. 1981, 1302",
+                           "city" : "Москва",
+                           "latitude" : 55.8214,
+                           "address" : "Хабаровская улица, 12/23"
+                        },
+                        "drug" : {
+                           "descid" : "7934",
+                           "quantity" : "1",
+                           "name" : "Прегабалин-рихтер капс. 300мг 56",
+                           "price" : "3285"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7279,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (44, Воронежская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953996748"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1322"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74953996748; +74952311697, доб. 1322",
+                           "city" : "Москва",
+                           "latitude" : 55.6101,
+                           "address" : "Воронежская улица, 7"
+                        },
+                        "drug" : {
+                           "descid" : "7934",
+                           "quantity" : "1",
+                           "name" : "Прегабалин-рихтер капс. 300мг 56",
+                           "price" : "3250"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "прегабалин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

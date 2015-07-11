@@ -1,0 +1,77 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ribapeg",
+            "rus_name" : "Рибапег®",
+            "form" : "таб. 200 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ribapeg",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;РУСАПТЕКА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993433207"
+                              }
+                           ],
+                           "phone" : "+74993433207",
+                           "city" : "Москва",
+                           "latitude" : 55.7712,
+                           "address" : "Бауманская улица, 38 с2"
+                        },
+                        "drug" : {
+                           "descid" : "2575",
+                           "quantity" : "1",
+                           "name" : "Рибапег, тбл 200мг 90",
+                           "price" : "1105"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.409,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №15",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.747,
+                           "address" : "улица Академика Павлова, 50"
+                        },
+                        "drug" : {
+                           "descid" : "2575",
+                           "quantity" : "1",
+                           "name" : "Рибапег табл. 200мг n90",
+                           "price" : "1133"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "рибавирин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

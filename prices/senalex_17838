@@ -1,0 +1,162 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "senalex",
+            "rus_name" : "Сеналекс",
+            "form" : "таб. 13.5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "senalex",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7066,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 5",
+                           "phones" : [
+                              {
+                                 "number" : "+74959796597"
+                              }
+                           ],
+                           "phone" : "+74959796597",
+                           "city" : "Москва",
+                           "latitude" : 55.782,
+                           "address" : "Большая Семёновская улица, 26"
+                        },
+                        "drug" : {
+                           "descid" : "4416",
+                           "quantity" : "1",
+                           "name" : "Сеналекс тб 400",
+                           "price" : "474.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5248,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЛАТИС-ТОРГ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991381001"
+                              },
+                              {
+                                 "number" : "+74991381065"
+                              },
+                              {
+                                 "number" : "+79166721665"
+                              }
+                           ],
+                           "phone" : "+74991381001; +74991381065; +79166721665",
+                           "city" : "Москва",
+                           "latitude" : 55.6846,
+                           "address" : "улица Крупской, 19/17"
+                        },
+                        "drug" : {
+                           "descid" : "4416",
+                           "quantity" : "18",
+                           "name" : "Сеналекс, тбл 13.5 20",
+                           "price" : "22.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8205,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ИЗМАЙЛОВО",
+                           "phones" : [
+                              {
+                                 "number" : "+74956625463"
+                              }
+                           ],
+                           "phone" : "+74956625463",
+                           "city" : "Москва",
+                           "latitude" : 55.7745,
+                           "address" : "Большой Купавенский проезд, 4"
+                        },
+                        "drug" : {
+                           "descid" : "4416",
+                           "quantity" : "1",
+                           "name" : "Сеналекс 400 табл",
+                           "price" : "474.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "4416",
+                           "quantity" : "1",
+                           "name" : "Сеналекс 400 таблетки",
+                           "price" : "397"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0107,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВИТА-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955229477"
+                              }
+                           ],
+                           "phone" : "+74955229477",
+                           "city" : "Балашиха",
+                           "latitude" : 55.749,
+                           "address" : "Пролетарская улица, 3"
+                        },
+                        "drug" : {
+                           "descid" : "4416",
+                           "quantity" : "16",
+                           "name" : "Сеналекс таб. 13.5мг 20 наброс фарма пвт.лтд.. индия",
+                           "price" : "21.8"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "сухой экстракт листьев сенны остролистной (в виде кальциевых солей сеннозидов А и В) в пересчете на сеннозид В"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

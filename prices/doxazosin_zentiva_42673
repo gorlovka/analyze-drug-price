@@ -1,0 +1,159 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "doxazosin_zentiva",
+            "rus_name" : "Доксазозин зентива",
+            "form" : "таб. 2 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "doxazosin_zentiva",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5337,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 3",
+                           "phones" : [
+                              {
+                                 "number" : "+74991513512"
+                              }
+                           ],
+                           "phone" : "+74991513512",
+                           "city" : "Москва",
+                           "latitude" : 55.8023,
+                           "address" : "улица Черняховского, 4"
+                        },
+                        "drug" : {
+                           "descid" : "8690",
+                           "quantity" : "1",
+                           "name" : "Доксазозин зентива, тбл 2мг 30",
+                           "price" : "321.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5331,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959679545"
+                              }
+                           ],
+                           "phone" : "+74959679545",
+                           "city" : "Москва",
+                           "latitude" : 55.6456,
+                           "address" : "улица Генерала Антонова, 3"
+                        },
+                        "drug" : {
+                           "descid" : "8690",
+                           "quantity" : "4",
+                           "name" : "Доксазозин зентива таб. 2мг 30",
+                           "price" : "320"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6887,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579701"
+                              }
+                           ],
+                           "phone" : "+74996579701",
+                           "city" : "Москва",
+                           "latitude" : 55.8613,
+                           "address" : "улица Дудинка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "8690",
+                           "quantity" : "1",
+                           "name" : "Доксазозин зентива таб. 2мг 30",
+                           "price" : "321"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4132,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 20",
+                           "phones" : [
+                              {
+                                 "number" : "+74956385692"
+                              },
+                              {
+                                 "number" : "+74957562026"
+                              }
+                           ],
+                           "phone" : "+74956385692; +74957562026",
+                           "city" : "Москва",
+                           "latitude" : 55.8057,
+                           "address" : "улица Маршала Катукова, 23"
+                        },
+                        "drug" : {
+                           "descid" : "8690",
+                           "quantity" : "1",
+                           "name" : "Доксазозин зентива, тбл 2мг 30",
+                           "price" : "321.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7131,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 13",
+                           "phones" : [
+                              {
+                                 "number" : "+74952297377"
+                              }
+                           ],
+                           "phone" : "+74952297377",
+                           "city" : "Москва",
+                           "latitude" : 55.6021,
+                           "address" : "Домодедовская улица, 42"
+                        },
+                        "drug" : {
+                           "descid" : "8690",
+                           "quantity" : "1",
+                           "name" : "Доксазозин зентива, тбл 2мг 30",
+                           "price" : "321.9"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "доксазозин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,137 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "endoxan",
+            "rus_name" : "Эндоксан",
+            "form" : "порошок д/пригот. р-ра д/в/в введения 1000 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "endoxan",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва (Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992382865"
+                              },
+                              {
+                                 "number" : "+74992387410"
+                              }
+                           ],
+                           "phone" : "+74992382865; +74992387410",
+                           "city" : "Москва",
+                           "latitude" : 55.7341,
+                           "address" : "улица Большая Полянка, 30"
+                        },
+                        "drug" : {
+                           "descid" : "2787",
+                           "quantity" : "14",
+                           "name" : "Эндоксан пор. д/ин. 1г фл",
+                           "price" : "615"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6155,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490248"
+                              }
+                           ],
+                           "phone" : "+74996490248",
+                           "city" : "Москва",
+                           "latitude" : 55.794,
+                           "address" : "Шереметьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2787",
+                           "quantity" : "10",
+                           "name" : "Эндоксан пор д/ин 1г 1",
+                           "price" : "660.55"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6732,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Добрая аптека",
+                           "phones" : [
+                              {
+                                 "number" : "+74997500250"
+                              }
+                           ],
+                           "phone" : "+74997500250",
+                           "city" : "Москва",
+                           "latitude" : 55.7049,
+                           "address" : "5-я Кожуховская улица, 18 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2787",
+                           "quantity" : "23",
+                           "name" : "Эндоксан пор.для приг. р-ра для в/в вв. 1000мг 1",
+                           "price" : "684.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5255,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарм-Хаус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217801"
+                              },
+                              {
+                                 "number" : "+74959914587"
+                              }
+                           ],
+                           "phone" : "+74959217801; +74959914587",
+                           "city" : "Москва",
+                           "latitude" : 55.6441,
+                           "address" : "Профсоюзная улица, 102/47"
+                        },
+                        "drug" : {
+                           "descid" : "2787",
+                           "quantity" : "6",
+                           "name" : "Эндоксан, пор.д/инъ фл 1000мг 1",
+                           "price" : "589"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "циклофосфамид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

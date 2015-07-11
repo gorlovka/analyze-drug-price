@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "captopril_sandoz",
+            "rus_name" : "Каптоприл сандоз",
+            "form" : "таб. 6.25 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "captopril_sandoz",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7512,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР&quot; 49 (УЛЬМАС)",
+                           "phones" : [
+                              {
+                                 "number" : "+79661762765"
+                              }
+                           ],
+                           "phone" : "+79661762765",
+                           "city" : "Москва",
+                           "latitude" : 55.8201,
+                           "address" : "Открытое шоссе, 22"
+                        },
+                        "drug" : {
+                           "descid" : "3485",
+                           "quantity" : "2",
+                           "name" : "Каптоприл сандоз 0,025 n40 табл",
+                           "price" : "132.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0711,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР&quot; 9",
+                           "phones" : [
+                              {
+                                 "number" : "+74957501513"
+                              }
+                           ],
+                           "phone" : "+74957501513",
+                           "city" : "Щелково",
+                           "latitude" : 55.9113,
+                           "address" : "Советская улица (Щелково-3), 2"
+                        },
+                        "drug" : {
+                           "descid" : "3485",
+                           "quantity" : "1",
+                           "name" : "Каптоприл сандоз 0,025 n40 табл",
+                           "price" : "143.7"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "каптоприл"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

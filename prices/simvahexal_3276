@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "simvahexal",
+            "rus_name" : "Симвагексал®",
+            "form" : "таб., покр. оболочкой, 5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "simvahexal",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6761,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Целитель г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956326238"
+                              }
+                           ],
+                           "phone" : "+74956326238",
+                           "city" : "Москва",
+                           "latitude" : 55.7377,
+                           "address" : "Малая Калитниковская улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1675",
+                           "quantity" : "1",
+                           "name" : "Симвагексал 0.02 n30 табл п/о салютас фарма гмбх (германия)",
+                           "price" : "365.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5855,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ДИАНТУМПЛЮС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992002857"
+                              }
+                           ],
+                           "phone" : "+74992002857",
+                           "city" : "Москва",
+                           "latitude" : 55.8949,
+                           "address" : "Алтуфьевское шоссе, 89"
+                        },
+                        "drug" : {
+                           "descid" : "1675",
+                           "quantity" : "1",
+                           "name" : "Симвагексал 0,01 n30 табл п/о",
+                           "price" : "295"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6716,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЗАБОТА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79037977747"
+                              }
+                           ],
+                           "phone" : "+79037977747",
+                           "city" : "Видное",
+                           "latitude" : 55.5427,
+                           "address" : "Совхозная улица, 5к3А"
+                        },
+                        "drug" : {
+                           "descid" : "1675",
+                           "quantity" : "1",
+                           "name" : "Симвагексал 0,01 n30 табл п/о",
+                           "price" : "314"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "симвастатин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "diaformin_od",
+            "rus_name" : "Диаформин од",
+            "form" : "таб. пролонгир. действия 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "diaformin_od",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "6549",
+                           "quantity" : "1",
+                           "name" : "Диаформин од 500мг 60 таблетки",
+                           "price" : "174"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6019,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "&quot;БОГАТЫРЬ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953140060"
+                              },
+                              {
+                                 "number" : "+74957896029"
+                              }
+                           ],
+                           "phone" : "+74953140060; +74957896029",
+                           "city" : "Москва",
+                           "latitude" : 55.6094,
+                           "address" : "Кировоградская улица, 28 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6549",
+                           "quantity" : "1",
+                           "name" : "Диаформин од тбл 500мг 60",
+                           "price" : "185"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "метформина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

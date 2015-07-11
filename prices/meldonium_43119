@@ -1,0 +1,230 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "meldonium",
+            "rus_name" : "Мельдоний",
+            "form" : "р-р д/инъекций 100 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 8,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "meldonium",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5981,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956900719"
+                              }
+                           ],
+                           "phone" : "+74956900719",
+                           "city" : "Москва",
+                           "latitude" : 55.7608,
+                           "address" : "Большая Бронная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "4903",
+                           "quantity" : "1",
+                           "name" : "Мельдоний р-р д/ин 100мг/мл амп 5мл 10",
+                           "price" : "149"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "4903",
+                           "quantity" : "2",
+                           "name" : "Мельдоний р-р д/ин 100мг/мл амп 5мл 10",
+                           "price" : "151.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "4903",
+                           "quantity" : "1",
+                           "name" : "Мельдоний р-р д/ин 100мг/мл амп 5мл 10",
+                           "price" : "200"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4734,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармгрупп&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957896028"
+                              }
+                           ],
+                           "phone" : "+74957896028",
+                           "city" : "Москва",
+                           "latitude" : 55.8033,
+                           "address" : "улица Маршала Василевского, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4903",
+                           "quantity" : "1",
+                           "name" : "Мельдоний р-р д/ин 100мг/мл амп 5мл 10",
+                           "price" : "138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.774,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Квартет-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957294831"
+                              }
+                           ],
+                           "phone" : "+74957294831",
+                           "city" : "Москва",
+                           "latitude" : 55.6994,
+                           "address" : "улица Юных Ленинцев, 87 с1"
+                        },
+                        "drug" : {
+                           "descid" : "4903",
+                           "quantity" : "1",
+                           "name" : "Мельдоний р-р д/ин 100мг/мл амп 5мл 10",
+                           "price" : "158"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9735,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965666019"
+                              },
+                              {
+                                 "number" : "+74965666019"
+                              }
+                           ],
+                           "phone" : "+74965666019; +74965666019",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9222,
+                           "address" : "Центральная улица, 49, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4903",
+                           "quantity" : "10",
+                           "name" : "Мельдоний р-р д/ин. 100мг/мл 5мл 10",
+                           "price" : "162"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7619,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 037",
+                           "phones" : [
+                              {
+                                 "number" : "+74967931003"
+                              }
+                           ],
+                           "phone" : "+74967931003",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4406,
+                           "address" : "Советская улица, 13, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4903",
+                           "quantity" : "3",
+                           "name" : "Мельдоний р-р д/ин. 100мг/мл амп. 5мл n10",
+                           "price" : "149.33"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Атрика&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8106,
+                           "address" : "проспект Ленина, 06, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4903",
+                           "quantity" : "1",
+                           "name" : "Мельдоний р-р д/ин 100мг/мл амп 5мл 10",
+                           "price" : "144"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "мельдония дигидрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

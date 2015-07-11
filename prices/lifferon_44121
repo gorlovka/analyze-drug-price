@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "lifferon",
+            "rus_name" : "Лайфферон®",
+            "form" : "лиофилизат д/пригот. р-ра д/в/м, субконъюнктивального введ. и закапывания в глаз 1 млн.МЕ",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "lifferon",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6187,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Сиджам&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992380505"
+                              }
+                           ],
+                           "phone" : "+74992380505",
+                           "city" : "Москва",
+                           "latitude" : 55.7359,
+                           "address" : "улица Большая Полянка, 28 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3889",
+                           "quantity" : "2",
+                           "name" : "Лайфферон лиоф в/м, с/кон, зак/гл 1000000ме амп n5",
+                           "price" : "580"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "интерферон альфа-2b человеческий рекомбинантный"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "plasbumin_20",
+            "rus_name" : "Плазбумин 20",
+            "form" : "р-р д/инф. 20% (10 г/50 мл)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "plasbumin_20",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.661,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Азалия (Солнышко Автозаводская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956757992"
+                              }
+                           ],
+                           "phone" : "+74956757992",
+                           "city" : "Москва",
+                           "latitude" : 55.7094,
+                           "address" : "Автозаводская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1580",
+                           "quantity" : "1",
+                           "name" : "Плазбумин-20, р-р д/инф 20% фл 50мл",
+                           "price" : "1395"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3465,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Еврофармекс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955174654"
+                              }
+                           ],
+                           "phone" : "+74955174654",
+                           "city" : "Москва",
+                           "latitude" : 55.85,
+                           "address" : "Ангелов переулок, 9 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1580",
+                           "quantity" : "5",
+                           "name" : "Плазбумин 20 р-р д/инфуз 20% фл 50мл n1",
+                           "price" : "1890"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "альбумин человека"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

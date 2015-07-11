@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "bronchorus",
+            "rus_name" : "Бронхорус®",
+            "form" : "сироп 3 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "bronchorus",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5919,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НИКА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79169084008"
+                              }
+                           ],
+                           "phone" : "+79169084008",
+                           "city" : "Москва",
+                           "latitude" : 55.638,
+                           "address" : "микрорайон Северное Чертаново, 5а"
+                        },
+                        "drug" : {
+                           "descid" : "3846",
+                           "quantity" : "2",
+                           "name" : "Бронхорус 0,003/мл 100мл сироп",
+                           "price" : "47"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амброксола гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

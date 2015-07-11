@@ -1,0 +1,842 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "xefocam_rapid",
+            "rus_name" : "Ксефокам рапид",
+            "form" : "таб., покр. оболочкой, 8 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 31,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "xefocam_rapid",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид 0.008 n12 табл п/о",
+                           "price" : "332.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5474,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1610"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1610",
+                           "city" : "Москва",
+                           "latitude" : 55.7571,
+                           "address" : "Шмитовский проезд, 19"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "3",
+                           "name" : "Ксефокам рапид таб.п/о 8мг 12",
+                           "price" : "371"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6977,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СИГМА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74951248018"
+                              }
+                           ],
+                           "phone" : "+74951248018",
+                           "city" : "Москва",
+                           "latitude" : 55.7582,
+                           "address" : "Красноказарменная улица, 9"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид, тбл п/о 8мг 6*2",
+                           "price" : "355.66"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1731",
+                                    "1730"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1731, 1730",
+                           "city" : "Москва",
+                           "latitude" : 55.7388,
+                           "address" : "Кутузовский проспект, 36а"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид таб.п/о 8мг 12",
+                           "price" : "368"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5349,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Гарибальди",
+                           "phones" : [
+                              {
+                                 "number" : "+74995047853"
+                              }
+                           ],
+                           "phone" : "+74995047853",
+                           "city" : "Москва",
+                           "latitude" : 55.677,
+                           "address" : "улица Гарибальди, вл4Бс1"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "2",
+                           "name" : "Ксефокам рапид 8мг n12 таб.",
+                           "price" : "379"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5706,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (127, Цюрупы)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953313522"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1357"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74953313522; +74952311697, доб. 1357",
+                           "city" : "Москва",
+                           "latitude" : 55.6658,
+                           "address" : "улица Цюрупы, 13"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "2",
+                           "name" : "Ксефокам рапид таб.п/о 8мг 12",
+                           "price" : "371"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5837,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ИП Серегина М.А.",
+                           "phones" : [
+                              {
+                                 "number" : "+79645197959"
+                              }
+                           ],
+                           "phone" : "+79645197959",
+                           "city" : "Москва",
+                           "latitude" : 55.8467,
+                           "address" : "Ботаническая улица, 41 к7"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид таб п/о 8мг n12 уп кнт-яч пк &amp;lt;6*2&amp;gt;",
+                           "price" : "351"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7512,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР&quot; 49 (УЛЬМАС)",
+                           "phones" : [
+                              {
+                                 "number" : "+79661762765"
+                              }
+                           ],
+                           "phone" : "+79661762765",
+                           "city" : "Москва",
+                           "latitude" : 55.8201,
+                           "address" : "Открытое шоссе, 22"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "2",
+                           "name" : "Ксефокам рапид таб. п/о 8мг 12",
+                           "price" : "344.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6063,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Симферопольская",
+                           "phones" : [
+                              {
+                                 "number" : "+74996195508"
+                              }
+                           ],
+                           "phone" : "+74996195508",
+                           "city" : "Москва",
+                           "latitude" : 55.6464,
+                           "address" : "Симферопольский бульвар, 29 к3"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид 8мг n12 таб.",
+                           "price" : "353"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4914,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ДискомСтандарт",
+                           "phones" : [
+                              {
+                                 "number" : "+74954344268"
+                              }
+                           ],
+                           "phone" : "+74954344268",
+                           "city" : "Москва",
+                           "latitude" : 55.6672,
+                           "address" : "проспект Вернадского, 97 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид таб. п.о 8мг 12",
+                           "price" : "351"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4942,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 17",
+                           "phones" : [
+                              {
+                                 "number" : "+79637620520"
+                              }
+                           ],
+                           "phone" : "+79637620520",
+                           "city" : "Москва",
+                           "latitude" : 55.6579,
+                           "address" : "улица 26-ти Бакинских Комиссаров, 4к2"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид таб. п/о 8мг 12",
+                           "price" : "378"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4527,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Очаково",
+                           "phones" : [
+                              {
+                                 "number" : "+74954306225"
+                              }
+                           ],
+                           "phone" : "+74954306225",
+                           "city" : "Москва",
+                           "latitude" : 55.6791,
+                           "address" : "Большая Очаковская улица, 27/7с1-3"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид 8мг n12 таб.",
+                           "price" : "376"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7706,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармастар&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997221394"
+                              }
+                           ],
+                           "phone" : "+74997221394",
+                           "city" : "Москва",
+                           "latitude" : 55.6583,
+                           "address" : "Перервинский бульвар, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид 8мг n12 таб.",
+                           "price" : "380"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4949,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Островитянова",
+                           "phones" : [
+                              {
+                                 "number" : "+74954387475"
+                              }
+                           ],
+                           "phone" : "+74954387475",
+                           "city" : "Москва",
+                           "latitude" : 55.6449,
+                           "address" : "улица Островитянова, 5"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид 8мг n12 таб.",
+                           "price" : "357"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3505,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 484",
+                           "phones" : [
+                              {
+                                 "number" : "+79269042076"
+                              },
+                              {
+                                 "number" : "+74986022215"
+                              }
+                           ],
+                           "phone" : "+79269042076; +74986022215",
+                           "city" : "Московская область",
+                           "latitude" : 55.8193,
+                           "address" : "Красногорск, 1"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид табл.п.о. 8мг n12",
+                           "price" : "253"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4223,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1739",
+                                    "1744"
+                                 ]
+                              },
+                              {
+                                 "number" : "+74957939344"
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1739, 1744; +74957939344",
+                           "city" : "Москва",
+                           "latitude" : 55.8765,
+                           "address" : "МКАД, 73-й километр, 7"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид таб.п/о 8мг 12",
+                           "price" : "380"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5711,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВЕРАФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74997440387"
+                              }
+                           ],
+                           "phone" : "+74997440387",
+                           "city" : "Москва",
+                           "latitude" : 55.5773,
+                           "address" : "Ратная улица, 16 к3"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид 8мг 12 таб п/о",
+                           "price" : "349"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8603,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 022",
+                           "phones" : [
+                              {
+                                 "number" : "+74955512145"
+                              }
+                           ],
+                           "phone" : "+74955512145",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6269,
+                           "address" : "улица Лермонтова, 12а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид табл.п.о. 8мг n12",
+                           "price" : "356"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.352,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АНТЕВА",
+                           "phones" : [
+                              {
+                                 "number" : "+74957314399"
+                              }
+                           ],
+                           "phone" : "+74957314399",
+                           "city" : "Москва",
+                           "latitude" : 55.6395,
+                           "address" : "улица Шолохова, 12"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "2",
+                           "name" : "Ксефокам рапид 8мг n12 таб.",
+                           "price" : "322"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.513,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 033",
+                           "phones" : [
+                              {
+                                 "number" : "+74959679553"
+                              }
+                           ],
+                           "phone" : "+74959679553",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9417,
+                           "address" : "улица Павлова, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид табл.п.о. 8мг n12",
+                           "price" : "303"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.969,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 10",
+                           "phones" : [
+                              {
+                                 "number" : "+79256120252"
+                              }
+                           ],
+                           "phone" : "+79256120252",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7954,
+                           "address" : "улица Некрасова, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид таб. п/о 8 мг 12",
+                           "price" : "343.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5266,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; АВС &quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997931645"
+                              },
+                              {
+                                 "number" : "+74997931554"
+                              }
+                           ],
+                           "phone" : "+74997931645; +74997931554",
+                           "city" : "Москва",
+                           "latitude" : 55.5467,
+                           "address" : "улица Горчакова, 5"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид 8мг n12 таб.",
+                           "price" : "345"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5429,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»3",
+                           "phones" : [
+                              {
+                                 "number" : "+74955325880"
+                              }
+                           ],
+                           "phone" : "+74955325880",
+                           "city" : "Москва",
+                           "latitude" : 55.5396,
+                           "address" : "Чечёрский проезд, 16"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид 8мг n12 таб.",
+                           "price" : "357"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0104,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1604"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1604",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7514,
+                           "address" : "Советская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид таб.п/о 8мг 12",
+                           "price" : "365"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0159,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (240, Юбилейная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956625727"
+                              }
+                           ],
+                           "phone" : "+74956625727",
+                           "city" : "Железнодорожный",
+                           "latitude" : 55.7422,
+                           "address" : "Юбилейная улица, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид таб.п/о 8мг 12",
+                           "price" : "365"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8993,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №409",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79099726137"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79099726137",
+                           "city" : "Лыткарино",
+                           "latitude" : 55.5829,
+                           "address" : "Комсомольская улица, 24а"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид табл.п.о. 8мг n12",
+                           "price" : "344"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9083,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 156",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Лыткарино",
+                           "latitude" : 55.575,
+                           "address" : "Октябрьская улица, 20"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид табл.п.о. 8мг n12",
+                           "price" : "365"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1011,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №405 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Жуковский",
+                           "latitude" : 55.605,
+                           "address" : "улица Гагарина, 21, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид табл.п.о. 8мг n12",
+                           "price" : "104"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0542,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (262, Школьная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0900",
+                                    "1389"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0900, 1389",
+                           "city" : "Фрязино",
+                           "latitude" : 55.9551,
+                           "address" : "Школьная улица, 1а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "3",
+                           "name" : "Ксефокам рапид таб.п/о 8мг 12",
+                           "price" : "368"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5598,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (266, Февральская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74967636380"
+                              }
+                           ],
+                           "phone" : "+74967636380",
+                           "city" : "Подольск",
+                           "latitude" : 55.4275,
+                           "address" : "Февральская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид таб.п/о 8мг 12",
+                           "price" : "343"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.8559,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Истра",
+                           "latitude" : 55.9155,
+                           "address" : "площадь Революции, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2970",
+                           "quantity" : "1",
+                           "name" : "Ксефокам рапид таб.п/о 8мг 12",
+                           "price" : "365"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "лорноксикам"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

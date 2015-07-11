@@ -1,0 +1,181 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "vesticap",
+            "rus_name" : "Вестикап",
+            "form" : "капс. 24 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 6,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "vestikap",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6714,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОПТИФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678604"
+                              }
+                           ],
+                           "phone" : "+74999678604",
+                           "city" : "Москва",
+                           "latitude" : 55.7428,
+                           "address" : "Большая Андроньевская улица, 11/13"
+                        },
+                        "drug" : {
+                           "descid" : "6123",
+                           "quantity" : "1",
+                           "name" : "Вестикап капс 24мг 30",
+                           "price" : "310"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6708,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678623"
+                              }
+                           ],
+                           "phone" : "+74999678623",
+                           "city" : "Москва",
+                           "latitude" : 55.7032,
+                           "address" : "улица Трофимова, 13"
+                        },
+                        "drug" : {
+                           "descid" : "6123",
+                           "quantity" : "1",
+                           "name" : "Вестикап капс 24мг 30",
+                           "price" : "305"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5498,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Феникс-Мир",
+                           "phones" : [
+                              {
+                                 "number" : "+74956563926"
+                              }
+                           ],
+                           "phone" : "+74956563926",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "Красноармейская улица, 2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6123",
+                           "quantity" : "2",
+                           "name" : "Вестикап капс. 24мг 30 озон ооо (россия)",
+                           "price" : "360"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6863,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Здоровый стиль&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959589295"
+                              }
+                           ],
+                           "phone" : "+74959589295",
+                           "city" : "Москва",
+                           "latitude" : 55.7038,
+                           "address" : "улица Трофимова, 36 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6123",
+                           "quantity" : "1",
+                           "name" : "Вестикап капс. 24мг 30",
+                           "price" : "398"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7134,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Мебиус&quot; на Преображенке",
+                           "phones" : [
+                              {
+                                 "number" : "+74959632224"
+                              }
+                           ],
+                           "phone" : "+74959632224",
+                           "city" : "Москва",
+                           "latitude" : 55.7937,
+                           "address" : "улица Преображенский Вал, 4"
+                        },
+                        "drug" : {
+                           "descid" : "6123",
+                           "quantity" : "2",
+                           "name" : "Вестикап 24мг 30 капс",
+                           "price" : "345"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "6123",
+                           "quantity" : "5",
+                           "name" : "Вестикап капс 24мг бл n10x3",
+                           "price" : "390"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "бетагистина дигидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

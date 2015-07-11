@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ondansetron",
+            "rus_name" : "Ондансетрон",
+            "form" : "р-р д/инъекц. 4 мг/2 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ondansetron",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.499,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АПТЕКА Формула Здоровья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956268343"
+                              }
+                           ],
+                           "phone" : "+74956268343",
+                           "city" : "Москва",
+                           "latitude" : 55.7021,
+                           "address" : "улица Столетова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "2481",
+                           "quantity" : "2",
+                           "name" : "Ондансетрон раствор д/ин 2мл 5",
+                           "price" : "181.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.814,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74954682066"
+                              }
+                           ],
+                           "phone" : "+74954682066",
+                           "city" : "Москва",
+                           "latitude" : 55.8105,
+                           "address" : "Щёлковское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "2481",
+                           "quantity" : "1",
+                           "name" : "Ондансетрон раствор д/ин 4мг/2мл 5",
+                           "price" : "176"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ондансетрон (в форме гидрохлорида дигидрата) + ондансетрон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

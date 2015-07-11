@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "metronidazole",
+            "rus_name" : "Метронидазол",
+            "form" : "р-р д/инъекц. 500 мг/100 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "metronidazole",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 18",
+                           "phones" : [
+                              {
+                                 "number" : "+79039616643"
+                              }
+                           ],
+                           "phone" : "+79039616643",
+                           "city" : "Москва",
+                           "latitude" : 55.7986,
+                           "address" : "Большая Черкизовская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "271",
+                           "quantity" : "1",
+                           "name" : "Метронидазол р-р 100мл",
+                           "price" : "15.2"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "метронидазол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

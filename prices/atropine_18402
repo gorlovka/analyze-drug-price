@@ -1,0 +1,137 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "atropine",
+            "rus_name" : "Атропин",
+            "form" : "р-р д/инъекц. 0.1% (1 мг/1 мл)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "atropine",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6017,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956503600"
+                              },
+                              {
+                                 "number" : "+74956503625"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74956503600; +74956503625; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.7648,
+                           "address" : "Малый Палашёвский переулок, 2/8"
+                        },
+                        "drug" : {
+                           "descid" : "3471",
+                           "quantity" : "1",
+                           "name" : "Атропин сульфат р-р д/ин. 0,1% 1мл 10",
+                           "price" : "17.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7686,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991727931"
+                              }
+                           ],
+                           "phone" : "+74991727931",
+                           "city" : "Москва",
+                           "latitude" : 55.7,
+                           "address" : "улица Юных Ленинцев, 73 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3471",
+                           "quantity" : "2",
+                           "name" : "Атропин сульфат р-р д/ин. 0,1% 1мл 10",
+                           "price" : "23"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9629,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579842"
+                              }
+                           ],
+                           "phone" : "+74996579842",
+                           "city" : "Железнодорожный",
+                           "latitude" : 55.7288,
+                           "address" : "Павлино, 11, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3471",
+                           "quantity" : "1",
+                           "name" : "Атропин сульфат р-р д/ин. 0,1% 1мл 10",
+                           "price" : "19"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9692,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538026"
+                              }
+                           ],
+                           "phone" : "+74995538026",
+                           "city" : "Железнодорожный",
+                           "latitude" : 55.7442,
+                           "address" : "Береговая улица, 4а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3471",
+                           "quantity" : "1",
+                           "name" : "Атропин сульфат р-р д/ин. 0,1% 1мл 10",
+                           "price" : "18.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "атропина сульфат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

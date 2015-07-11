@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ceraxon",
+            "rus_name" : "Цераксон®",
+            "form" : "р-р д/приема внутрь 1000 мг/10 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ceraxon",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "4161",
+                           "quantity" : "2",
+                           "name" : "Цераксон 0,1/мл 10мл n10 р-р д/пр.внутрь",
+                           "price" : "1579"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6667,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; МЕГА-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996150016"
+                              }
+                           ],
+                           "phone" : "+74996150016",
+                           "city" : "Москва",
+                           "latitude" : 55.6802,
+                           "address" : "Судостроительная улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "4161",
+                           "quantity" : "2",
+                           "name" : "Цераксон р-р д/приема внутрь 1000мг 10мл пак. 10",
+                           "price" : "1487"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цитиколин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

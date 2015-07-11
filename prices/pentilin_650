@@ -1,0 +1,126 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "pentilin",
+            "rus_name" : "Пентилин",
+            "form" : "таб. пролонгир. действия, покр. оболочкой, 400 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "pentilin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8279,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №86",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7059,
+                           "address" : "Самаркандский бульвар, 8 к1"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "1",
+                           "name" : "Пентилин табл.п.о. 400мг n20",
+                           "price" : "172"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6666,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "АПТЕКА ЦАРИЦЫНСКАЯ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957283766"
+                              }
+                           ],
+                           "phone" : "+74957283766",
+                           "city" : "Москва",
+                           "latitude" : 55.6188,
+                           "address" : "Каспийская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "2",
+                           "name" : "Пентилин ретард 0.4г n20 таб.",
+                           "price" : "201"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8722,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармацевтика и Технологии&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955175947"
+                              },
+                              {
+                                 "number" : "+79257654847"
+                              }
+                           ],
+                           "phone" : "+74955175947; +79257654847",
+                           "city" : "Восточный",
+                           "latitude" : 55.82,
+                           "address" : "Главная улица, 29"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "1",
+                           "name" : "Пентилин таб. п.п.о прол. д-я 400мг 20",
+                           "price" : "210"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9395,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №1 529",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Ивантеевка",
+                           "latitude" : 55.9712,
+                           "address" : "улица Новосёлки, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "342",
+                           "quantity" : "1",
+                           "name" : "Пентилин табл.п.о. 400мг n20",
+                           "price" : "145"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "пентоксифиллин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

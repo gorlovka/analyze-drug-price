@@ -1,0 +1,140 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "mabthera",
+            "rus_name" : "Мабтера®",
+            "form" : "концентрат д/пригот. р-ра д/инф. 100 мг/10 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "mabthera",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6364,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люция&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959531618"
+                              },
+                              {
+                                 "number" : "+74959530128"
+                              }
+                           ],
+                           "phone" : "+74959531618; +74959530128",
+                           "city" : "Москва",
+                           "latitude" : 55.7316,
+                           "address" : "Новокузнецкая улица, 43/16"
+                        },
+                        "drug" : {
+                           "descid" : "2581",
+                           "quantity" : "2",
+                           "name" : "Мабтера, конц. д/инф р-ра 100мг/10мл фл 2",
+                           "price" : "10350"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "2581",
+                           "quantity" : "1",
+                           "name" : "Мабтера,концентрат для инфузий,100мг/10мл 2шт",
+                           "price" : "7000"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "2581",
+                           "quantity" : "33",
+                           "name" : "Мабтера 100 мг/10 мл конц-т 2",
+                           "price" : "30235"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3465,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Еврофармекс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955174654"
+                              }
+                           ],
+                           "phone" : "+74955174654",
+                           "city" : "Москва",
+                           "latitude" : 55.85,
+                           "address" : "Ангелов переулок, 9 к2"
+                        },
+                        "drug" : {
+                           "descid" : "2581",
+                           "quantity" : "4",
+                           "name" : "Мабтера конц д/инфуз р-ра 100мг/10мл фл n2",
+                           "price" : "6740"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ритуксимаб"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

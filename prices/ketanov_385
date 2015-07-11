@@ -1,0 +1,440 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ketanov",
+            "rus_name" : "Кетанов",
+            "form" : "р-р д/в/м введения 30 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 16,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ketanov",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5901,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490247"
+                              }
+                           ],
+                           "phone" : "+74996490247",
+                           "city" : "Москва",
+                           "latitude" : 55.7732,
+                           "address" : "1-я Тверская-Ямская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "10",
+                           "name" : "Кетанов р-р д/ин 30мг 1мл амп 10",
+                           "price" : "112.98"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5862,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "Фармсервис медикал",
+                           "phones" : [
+                              {
+                                 "number" : "+74992501012"
+                              }
+                           ],
+                           "phone" : "+74992501012",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "1-я Тверская-Ямская улица, 36 с1"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "6",
+                           "name" : "Кетанов р-р д/ин 30мг/1мл n10",
+                           "price" : "104"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6344,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490250"
+                              }
+                           ],
+                           "phone" : "+74996490250",
+                           "city" : "Москва",
+                           "latitude" : 55.7842,
+                           "address" : "проспект Мира, 51"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "10",
+                           "name" : "Кетанов р-р д/ин 30мг 1мл амп 10",
+                           "price" : "108.81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6208,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 25",
+                           "phones" : [
+                              {
+                                 "number" : "+74959840741"
+                              }
+                           ],
+                           "phone" : "+74959840741",
+                           "city" : "Москва",
+                           "latitude" : 55.7087,
+                           "address" : "Большая Тульская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "1",
+                           "name" : "Кетанов, р-р д/ин амп 30мг 1мл 10",
+                           "price" : "112.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490242"
+                              }
+                           ],
+                           "phone" : "+74996490242",
+                           "city" : "Москва",
+                           "latitude" : 55.7755,
+                           "address" : "проспект Маршала Жукова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "10",
+                           "name" : "Кетанов р-р д/ин 30мг 1мл амп 10",
+                           "price" : "112.11"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.595,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 33",
+                           "phones" : [
+                              {
+                                 "number" : "+74996432190"
+                              }
+                           ],
+                           "phone" : "+74996432190",
+                           "city" : "Москва",
+                           "latitude" : 55.6734,
+                           "address" : "Нагорный бульвар, 7"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "1",
+                           "name" : "Кетанов, р-р д/ин амп 30мг 1мл 10",
+                           "price" : "112.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7236,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Законность&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953540277"
+                              }
+                           ],
+                           "phone" : "+74953540277",
+                           "city" : "Москва",
+                           "latitude" : 55.6766,
+                           "address" : "Шоссейная улица, 39"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "1",
+                           "name" : "Кетанов р-р в/м введ. 30 мг амп. 1 мл. х",
+                           "price" : "115.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5073,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Форте г.Москва (торговый центр)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957821187"
+                              }
+                           ],
+                           "phone" : "+74957821187",
+                           "city" : "Москва",
+                           "latitude" : 55.6779,
+                           "address" : "проспект Вернадского, 14а"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "2",
+                           "name" : "Кетанов, р-р д/ин амп 30мг 1мл 10",
+                           "price" : "111"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8134,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 31",
+                           "phones" : [
+                              {
+                                 "number" : "+74999840768"
+                              }
+                           ],
+                           "phone" : "+74999840768",
+                           "city" : "Москва",
+                           "latitude" : 55.7265,
+                           "address" : "улица Молдагуловой, 12а"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "1",
+                           "name" : "Кетанов, р-р д/ин амп 30мг 1мл 10",
+                           "price" : "113.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7533,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 26",
+                           "phones" : [
+                              {
+                                 "number" : "+74956406230"
+                              }
+                           ],
+                           "phone" : "+74956406230",
+                           "city" : "Москва",
+                           "latitude" : 55.6641,
+                           "address" : "Братиславская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "2",
+                           "name" : "Кетанов, р-р д/ин амп 30мг 1мл 10",
+                           "price" : "113.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 17",
+                           "phones" : [
+                              {
+                                 "number" : "+74959842179"
+                              }
+                           ],
+                           "phone" : "+74959842179",
+                           "city" : "Москва",
+                           "latitude" : 55.868,
+                           "address" : "Северный бульвар, 10"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "3",
+                           "name" : "Кетанов, р-р д/ин амп 30мг 1мл 10",
+                           "price" : "117.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "10",
+                           "name" : "Кетанов р-р д/ин 30мг 1мл амп 10",
+                           "price" : "113.75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4132,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 20",
+                           "phones" : [
+                              {
+                                 "number" : "+74956385692"
+                              },
+                              {
+                                 "number" : "+74957562026"
+                              }
+                           ],
+                           "phone" : "+74956385692; +74957562026",
+                           "city" : "Москва",
+                           "latitude" : 55.8057,
+                           "address" : "улица Маршала Катукова, 23"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "1",
+                           "name" : "Кетанов, р-р д/ин амп 30мг 1мл 10",
+                           "price" : "112.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4147,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746321981"
+                              }
+                           ],
+                           "phone" : "+74746321981",
+                           "city" : "Москва",
+                           "latitude" : 55.6481,
+                           "address" : "улица 50 лет Октября, 1"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "3",
+                           "name" : "Кетанов р-р д/ин 30мг 1мл n10",
+                           "price" : "111"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3652,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 1",
+                           "phones" : [
+                              {
+                                 "number" : "+74957940135"
+                              },
+                              {
+                                 "number" : "+74957510010"
+                              }
+                           ],
+                           "phone" : "+74957940135; +74957510010",
+                           "city" : "Москва",
+                           "latitude" : 55.8433,
+                           "address" : "Митинская улица, 21"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "1",
+                           "name" : "Кетанов, р-р д/ин амп 30мг 1мл 10",
+                           "price" : "110.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3244,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НОТА-БЕНА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994096060"
+                              },
+                              {
+                                 "number" : "+74955658916"
+                              }
+                           ],
+                           "phone" : "+74994096060; +74955658916",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8067,
+                           "address" : "Южный бульвар, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "194",
+                           "quantity" : "1",
+                           "name" : "Кетанов р-р 1мл 10 амп",
+                           "price" : "109"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кеторолака трометамол (кеторолака трометамин)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

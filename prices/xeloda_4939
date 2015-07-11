@@ -1,0 +1,112 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "xeloda",
+            "rus_name" : "Кселода®",
+            "form" : "таб., покр. пленочной оболочкой, 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "xeloda",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5366,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Pharmacorp Ltd",
+                           "phones" : [
+                              {
+                                 "number" : "+74993911628"
+                              }
+                           ],
+                           "phone" : "+74993911628",
+                           "city" : "Москва",
+                           "latitude" : 55.7471,
+                           "address" : "Пресненская набережная, 10блокС"
+                        },
+                        "drug" : {
+                           "descid" : "2267",
+                           "quantity" : "2",
+                           "name" : "Кселода таблетки 500мг 120",
+                           "price" : "19400"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4172,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МЕДЦЕНТР-МОСИНТУР ЛТД&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955061407"
+                              },
+                              {
+                                 "number" : "+74952238910"
+                              }
+                           ],
+                           "phone" : "+74955061407; +74952238910",
+                           "city" : "Москва",
+                           "latitude" : 55.7302,
+                           "address" : "Кунцевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "2267",
+                           "quantity" : "11",
+                           "name" : "Кселода 500 мг 120 табл.",
+                           "price" : "17000"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4389,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «Лилия»",
+                           "phones" : [
+                              {
+                                 "number" : "+74956646042"
+                              },
+                              {
+                                 "number" : "+74956646041"
+                              }
+                           ],
+                           "phone" : "+74956646042; +74956646041",
+                           "city" : "Москва",
+                           "latitude" : 55.8497,
+                           "address" : "Сходненская улица, 37"
+                        },
+                        "drug" : {
+                           "descid" : "2267",
+                           "quantity" : "1",
+                           "name" : "Кселода, тбл п/о 500мг 120",
+                           "price" : "12400"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "капецитабин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,134 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "amphotericin_b",
+            "rus_name" : "Амфотерицин в",
+            "form" : "лиофилизат д/пригот. р-ра д/инф. 50 тыс.ЕД",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "amphotericin_b",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма на 1905",
+                           "phones" : [
+                              {
+                                 "number" : "+74995179009"
+                              }
+                           ],
+                           "phone" : "+74995179009",
+                           "city" : "Москва",
+                           "latitude" : 55.7645,
+                           "address" : "улица 1905 Года, 4 с2"
+                        },
+                        "drug" : {
+                           "descid" : "982",
+                           "quantity" : "20",
+                           "name" : "Амфотерицин в, лиоф.д/инф 50тыс ед фл 10мл 1",
+                           "price" : "28.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5368,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма на Аэропортовской",
+                           "phones" : [
+                              {
+                                 "number" : "+74995179009"
+                              },
+                              {
+                                 "number" : "+74995179088"
+                              }
+                           ],
+                           "phone" : "+74995179009; +74995179088",
+                           "city" : "Москва",
+                           "latitude" : 55.8012,
+                           "address" : "1-я Аэропортовская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "982",
+                           "quantity" : "10",
+                           "name" : "Амфотерицин в, лиоф.д/инф 50тыс ед фл 10мл 1",
+                           "price" : "30.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "982",
+                           "quantity" : "150",
+                           "name" : "Амфотерицин в лиоф д/инф 50000ед фл n1",
+                           "price" : "26"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5629,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма",
+                           "phones" : [
+                              {
+                                 "number" : "+74995179009"
+                              }
+                           ],
+                           "phone" : "+74995179009",
+                           "city" : "Москва",
+                           "latitude" : 55.8613,
+                           "address" : "Бескудниковский бульвар, 10 к5"
+                        },
+                        "drug" : {
+                           "descid" : "982",
+                           "quantity" : "20",
+                           "name" : "Амфотерицин в, лиоф.д/инф 50тыс ед фл 10мл 1",
+                           "price" : "28.6"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амфотерицин В"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

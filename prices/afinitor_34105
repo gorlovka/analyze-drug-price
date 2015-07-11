@@ -1,0 +1,159 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "afinitor",
+            "rus_name" : "Афинитор®",
+            "form" : "таб. 2.5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "afinitor",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "5753",
+                           "quantity" : "1",
+                           "name" : "Афинитор,таблетки,2,5мг 30шт",
+                           "price" : "84500"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;КедрФарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994093601"
+                              }
+                           ],
+                           "phone" : "+74994093601",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "Хорошёвское шоссе, 46"
+                        },
+                        "drug" : {
+                           "descid" : "5753",
+                           "quantity" : "10",
+                           "name" : "Афинитор тб 2.5мг бл n10x3",
+                           "price" : "120000"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7452,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490238"
+                              }
+                           ],
+                           "phone" : "+74996490238",
+                           "city" : "Москва",
+                           "latitude" : 55.6968,
+                           "address" : "улица Чистова, 16к1"
+                        },
+                        "drug" : {
+                           "descid" : "5753",
+                           "quantity" : "10",
+                           "name" : "Афинитор таб 2,5мг 30",
+                           "price" : "132348"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8205,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ИЗМАЙЛОВО",
+                           "phones" : [
+                              {
+                                 "number" : "+74956625463"
+                              }
+                           ],
+                           "phone" : "+74956625463",
+                           "city" : "Москва",
+                           "latitude" : 55.7745,
+                           "address" : "Большой Купавенский проезд, 4"
+                        },
+                        "drug" : {
+                           "descid" : "5753",
+                           "quantity" : "1",
+                           "name" : "Афинитор??? тб 2.5мг 30",
+                           "price" : "138788"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "5753",
+                           "quantity" : "1",
+                           "name" : "Афинитор 2,5мг 30 таблетки",
+                           "price" : "126597"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "эверолимус"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

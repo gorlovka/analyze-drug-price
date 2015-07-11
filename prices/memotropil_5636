@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "memotropil",
+            "rus_name" : "Мемотропил®",
+            "form" : "таб., покр. оболочкой, 800 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "memotropil",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4315,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Мёбиус",
+                           "phones" : [
+                              {
+                                 "number" : "+74954442072"
+                              }
+                           ],
+                           "phone" : "+74954442072",
+                           "city" : "Москва",
+                           "latitude" : 55.7202,
+                           "address" : "Можайское шоссе, 17"
+                        },
+                        "drug" : {
+                           "descid" : "2523",
+                           "quantity" : "2",
+                           "name" : "Мемотропил 1,2 n20 табл п/о",
+                           "price" : "110"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7608,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарм Крафт&quot;5",
+                           "phones" : [
+                              {
+                                 "number" : "+79264684755"
+                              },
+                              {
+                                 "number" : "+79264539423"
+                              }
+                           ],
+                           "phone" : "+79264684755; +79264539423",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9155,
+                           "address" : "Шараповский проезд, 1"
+                        },
+                        "drug" : {
+                           "descid" : "2523",
+                           "quantity" : "1",
+                           "name" : "Мемотропил 1.2 n20 табл п/о",
+                           "price" : "103.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "пирацетам"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

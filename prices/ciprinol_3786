@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ciprinol",
+            "rus_name" : "Ципринол®",
+            "form" : "конц. д/пригот. р-ра д/инф. 100 мг/10 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ciprinol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "514",
+                           "quantity" : "1",
+                           "name" : "Ципринол концентрат д/инф 100мг 10мл 5",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6338,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Полюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994732334"
+                              }
+                           ],
+                           "phone" : "+74994732334",
+                           "city" : "Москва",
+                           "latitude" : 55.8701,
+                           "address" : "проезд Дежнёва, 27 к1"
+                        },
+                        "drug" : {
+                           "descid" : "514",
+                           "quantity" : "1",
+                           "name" : "Ципринол конц д/инф 100мг 10мл амп n5",
+                           "price" : "101"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7834,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Здравница Плюс",
+                           "phones" : [
+                              {
+                                 "number" : "+74959805483"
+                              }
+                           ],
+                           "phone" : "+74959805483",
+                           "city" : "Москва",
+                           "latitude" : 55.6733,
+                           "address" : "Тихорецкий бульвар, 1с6"
+                        },
+                        "drug" : {
+                           "descid" : "514",
+                           "quantity" : "14",
+                           "name" : "Ципринол 100мг/10мл конц.амп. 5",
+                           "price" : "104"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ципрофлоксацин (в форме гидрохлорида моногидрата) + ципрофлоксацин (в форме лактата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "metoclopramid_akri",
+            "rus_name" : "Метоклопрамид-акри®",
+            "form" : "таб. 10 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "metoclopramid_akri",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9224,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74985207135"
+                              }
+                           ],
+                           "phone" : "+74985207135",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7602,
+                           "address" : "Разинское шоссе, 12, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1045",
+                           "quantity" : "8",
+                           "name" : "Метоклопрамид-акри таб 10мг n50",
+                           "price" : "30.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0068,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 4",
+                           "phones" : [
+                              {
+                                 "number" : "+74959819730"
+                              }
+                           ],
+                           "phone" : "+74959819730",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7503,
+                           "address" : "Пролетарская улица, 2к2"
+                        },
+                        "drug" : {
+                           "descid" : "1045",
+                           "quantity" : "1",
+                           "name" : "Метоклопрамид-акри таб 10мг n50",
+                           "price" : "29.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1161,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 9",
+                           "phones" : [
+                              {
+                                 "number" : "+74955108695"
+                              }
+                           ],
+                           "phone" : "+74955108695",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7532,
+                           "address" : "Шоссейная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1045",
+                           "quantity" : "2",
+                           "name" : "Метоклопрамид-акри таб 10мг n50",
+                           "price" : "30.6"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "метоклопрамида гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

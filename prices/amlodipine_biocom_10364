@@ -1,0 +1,112 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "amlodipine_biocom",
+            "rus_name" : "Амлодипин-биоком",
+            "form" : "таб. 5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "amlodipine_biocom",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5533,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО фирма &quot;Тревел Мединшур&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956133280"
+                              },
+                              {
+                                 "number" : "+74954111749"
+                              }
+                           ],
+                           "phone" : "+74956133280; +74954111749",
+                           "city" : "Москва",
+                           "latitude" : 55.8008,
+                           "address" : "улица 8 Марта, 1 с10"
+                        },
+                        "drug" : {
+                           "descid" : "3451",
+                           "quantity" : "2",
+                           "name" : "Амлодипин-биоком 0,01 n30 табл",
+                           "price" : "87.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3451",
+                           "quantity" : "2",
+                           "name" : "Амлодипин-биоком табл. 5 мг 30, биоком зао",
+                           "price" : "61.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7608,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарм Крафт&quot;5",
+                           "phones" : [
+                              {
+                                 "number" : "+79264684755"
+                              },
+                              {
+                                 "number" : "+79264539423"
+                              }
+                           ],
+                           "phone" : "+79264684755; +79264539423",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9155,
+                           "address" : "Шараповский проезд, 1"
+                        },
+                        "drug" : {
+                           "descid" : "3451",
+                           "quantity" : "5",
+                           "name" : "Амлодипин-биоком таб 5мг n30 уп кнт-яч пк &amp;lt;10*3&amp;gt;",
+                           "price" : "50"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амлодипин (в форме безилата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

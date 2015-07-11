@@ -1,0 +1,133 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "finoptin",
+            "rus_name" : "Финоптин",
+            "form" : "таб., покр. пленочной оболочкой, 40 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "finoptin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6355,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья г.Москва Север",
+                           "phones" : [
+                              {
+                                 "number" : "+74951236674"
+                              },
+                              {
+                                 "number" : "+74957750824"
+                              }
+                           ],
+                           "phone" : "+74951236674; +74957750824",
+                           "city" : "Москва",
+                           "latitude" : 55.7846,
+                           "address" : "проспект Мира, 56 с1"
+                        },
+                        "drug" : {
+                           "descid" : "817",
+                           "quantity" : "1",
+                           "name" : "Финоптин 40мг тб. 100 (орион)",
+                           "price" : "457"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5966,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №185 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+79164088175"
+                              },
+                              {
+                                 "number" : "+79670896653"
+                              }
+                           ],
+                           "phone" : "+79164088175; +79670896653",
+                           "city" : "Москва",
+                           "latitude" : 55.6363,
+                           "address" : "микрорайон Северное Чертаново, к823"
+                        },
+                        "drug" : {
+                           "descid" : "817",
+                           "quantity" : "1",
+                           "name" : "Финоптин табл.п.о. 40мг n30",
+                           "price" : "57.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №524",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Лобня",
+                           "latitude" : 56.018,
+                           "address" : "Текстильная улица, 18"
+                        },
+                        "drug" : {
+                           "descid" : "817",
+                           "quantity" : "1",
+                           "name" : "Финоптин табл.п.о. 40мг n30",
+                           "price" : "58.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7343,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №687 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4321,
+                           "address" : "Племхозский проезд, 3, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "817",
+                           "quantity" : "1",
+                           "name" : "Финоптин табл.п.о. 40мг n100",
+                           "price" : "115"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "верапамила гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

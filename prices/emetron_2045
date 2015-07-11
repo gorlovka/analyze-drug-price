@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "emetron",
+            "rus_name" : "Эметрон®",
+            "form" : "таб., покр. оболочкой, 4 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "emetron",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6118,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АС&quot;Эвалар&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992301871"
+                              }
+                           ],
+                           "phone" : "+74992301871",
+                           "city" : "Москва",
+                           "latitude" : 55.7282,
+                           "address" : "Калужская площадь, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1074",
+                           "quantity" : "1",
+                           "name" : "Эметрон 0,008 10 табл п/о",
+                           "price" : "1029"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ондансетрон (в форме гидрохлорида дигидрата) + ондансетрон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

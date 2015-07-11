@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "paracetamol_lekt",
+            "rus_name" : "Парацетамол-лект",
+            "form" : "таб. 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "paracetamol_lekt",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Рэдберн&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954917449"
+                              },
+                              {
+                                 "number" : "+74954917818"
+                              }
+                           ],
+                           "phone" : "+74954917449; +74954917818",
+                           "city" : "Москва",
+                           "latitude" : 55.8267,
+                           "address" : "Волоколамский проезд, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "7531",
+                           "quantity" : "45",
+                           "name" : "Парацетамол-лект тб 500мг 10 п-",
+                           "price" : "4.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0107,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВИТА-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955229477"
+                              }
+                           ],
+                           "phone" : "+74955229477",
+                           "city" : "Балашиха",
+                           "latitude" : 55.749,
+                           "address" : "Пролетарская улица, 3"
+                        },
+                        "drug" : {
+                           "descid" : "7531",
+                           "quantity" : "322",
+                           "name" : "Парацетамол-лект, 0.5 г тб. 10 тюменский хфз(россия)",
+                           "price" : "3.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "парацетамол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

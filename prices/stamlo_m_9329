@@ -1,0 +1,80 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "stamlo_m",
+            "rus_name" : "Стамло® м",
+            "form" : "таб. 10 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "stamlo_m",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7733,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека А5&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565",
+                                 "additional" : [
+                                    "0944"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74956453565, доб. 0944",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9231,
+                           "address" : "улица Попова, 1С2"
+                        },
+                        "drug" : {
+                           "descid" : "3297",
+                           "quantity" : "1",
+                           "name" : "Стамло м табл. 10мг n28",
+                           "price" : "265"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7788,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №1 176",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9237,
+                           "address" : "улица Попова, 2"
+                        },
+                        "drug" : {
+                           "descid" : "3297",
+                           "quantity" : "1",
+                           "name" : "Стамло м табл. 10мг n28",
+                           "price" : "265"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амлодипин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

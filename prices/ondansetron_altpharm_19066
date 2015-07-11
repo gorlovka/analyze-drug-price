@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ondansetron_altpharm",
+            "rus_name" : "Ондансетрон-альтфарм",
+            "form" : "супп. рект. 4 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ondansetron_altpharm",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5216,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лавка здоровья и красоты&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954209711"
+                              },
+                              {
+                                 "number" : "+74954202188"
+                              }
+                           ],
+                           "phone" : "+74954209711; +74954202188",
+                           "city" : "Москва",
+                           "latitude" : 55.633,
+                           "address" : "Профсоюзная улица, 109"
+                        },
+                        "drug" : {
+                           "descid" : "4747",
+                           "quantity" : "1",
+                           "name" : "Ондансетрон-альтфарм 0,016 n2 супп рект",
+                           "price" : "786.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья Юг",
+                           "phones" : [
+                              {
+                                 "number" : "+74959710100"
+                              }
+                           ],
+                           "phone" : "+74959710100",
+                           "city" : "Москва",
+                           "latitude" : 55.8571,
+                           "address" : "улица Героев Панфиловцев, 7"
+                        },
+                        "drug" : {
+                           "descid" : "4747",
+                           "quantity" : "1",
+                           "name" : "Ондансетрон-альтфарм 0,016 n2 супп рект",
+                           "price" : "468"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ондансетрон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

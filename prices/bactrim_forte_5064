@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "bactrim_forte",
+            "rus_name" : "Бактрим форте",
+            "form" : "таб., покр. оболочкой, 960 мг",
+            "has_desc" : false,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "bactrim_forte",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4735,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО(210, Золотухи)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965791414",
+                                 "additional" : [
+                                    "0921"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965791414, доб. 0921",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8053,
+                           "address" : "улица Золотухи, 8, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2309",
+                           "quantity" : "1",
+                           "name" : "Бактрим форте таб.п/о 960мг 10",
+                           "price" : "124"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "сульфаметоксазол + триметоприм"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

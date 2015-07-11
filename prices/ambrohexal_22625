@@ -1,0 +1,155 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ambrohexal",
+            "rus_name" : "Амброгексал®",
+            "form" : "сироп 6 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ambrohexal",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6801,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «МФК Помощь на Волгоградке»",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633814"
+                              }
+                           ],
+                           "phone" : "+74953633814",
+                           "city" : "Москва",
+                           "latitude" : 55.7267,
+                           "address" : "Волгоградский проспект, 26а"
+                        },
+                        "drug" : {
+                           "descid" : "937",
+                           "quantity" : "2",
+                           "name" : "Амброгексал 6мг/1мл-100мл сироп",
+                           "price" : "224"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5343,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Трэйси Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954857932"
+                              },
+                              {
+                                 "number" : "+74999410341"
+                              }
+                           ],
+                           "phone" : "+74954857932; +74999410341",
+                           "city" : "Москва",
+                           "latitude" : 55.8766,
+                           "address" : "улица Софьи Ковалевской, 2"
+                        },
+                        "drug" : {
+                           "descid" : "937",
+                           "quantity" : "1",
+                           "name" : "Амброгексал, сироп 6мг/1мл 100мл",
+                           "price" : "240"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5855,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ДИАНТУМПЛЮС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992002857"
+                              }
+                           ],
+                           "phone" : "+74992002857",
+                           "city" : "Москва",
+                           "latitude" : 55.8949,
+                           "address" : "Алтуфьевское шоссе, 89"
+                        },
+                        "drug" : {
+                           "descid" : "937",
+                           "quantity" : "1",
+                           "name" : "Амброгексал 6мг/1мл-100мл сироп",
+                           "price" : "235"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5619,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лотос&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957172581"
+                              }
+                           ],
+                           "phone" : "+74957172581",
+                           "city" : "Москва",
+                           "latitude" : 55.5454,
+                           "address" : "Изюмская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "937",
+                           "quantity" : "3",
+                           "name" : "Амброгексал 6мг/1мл-100мл сироп",
+                           "price" : "254"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5483,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ситифарма",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Подольск",
+                           "latitude" : 55.434,
+                           "address" : "проспект Ленина, 146/66"
+                        },
+                        "drug" : {
+                           "descid" : "937",
+                           "quantity" : "1",
+                           "name" : "Амброгексал 6мг/1мл-100мл сироп",
+                           "price" : "262"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амброксола гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

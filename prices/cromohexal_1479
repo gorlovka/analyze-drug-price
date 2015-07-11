@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "cromohexal",
+            "rus_name" : "Кромогексал®",
+            "form" : "спрей назальный дозированный 2.8 мг/1 доза",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "cromohexal",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6302,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Эра Здоровья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959886458"
+                              },
+                              {
+                                 "number" : "+74957786458"
+                              }
+                           ],
+                           "phone" : "+74959886458; +74957786458",
+                           "city" : "Москва",
+                           "latitude" : 55.7431,
+                           "address" : "Пятницкий переулок, 3"
+                        },
+                        "drug" : {
+                           "descid" : "776",
+                           "quantity" : "1",
+                           "name" : "Кромогексал спрей наз. фл 15,0",
+                           "price" : "162"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кромогликат натрия"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

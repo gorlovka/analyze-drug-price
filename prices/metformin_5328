@@ -1,0 +1,359 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "metformin",
+            "rus_name" : "Метформин",
+            "form" : "таб. 250 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 13,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "metformin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "2399",
+                           "quantity" : "3",
+                           "name" : "Метформин 0.5 n60 табл",
+                           "price" : "108.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6863,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Здоровый стиль&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959589295"
+                              }
+                           ],
+                           "phone" : "+74959589295",
+                           "city" : "Москва",
+                           "latitude" : 55.7038,
+                           "address" : "улица Трофимова, 36 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2399",
+                           "quantity" : "1",
+                           "name" : "Метформин 10 n60 табл",
+                           "price" : "287"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5216,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лавка здоровья и красоты&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954209711"
+                              },
+                              {
+                                 "number" : "+74954202188"
+                              }
+                           ],
+                           "phone" : "+74954209711; +74954202188",
+                           "city" : "Москва",
+                           "latitude" : 55.633,
+                           "address" : "Профсоюзная улица, 109"
+                        },
+                        "drug" : {
+                           "descid" : "2399",
+                           "quantity" : "5",
+                           "name" : "Метформин канон таб. п/о плен. 1000 60",
+                           "price" : "292.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8583,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 7",
+                           "phones" : [
+                              {
+                                 "number" : "+74993941225"
+                              }
+                           ],
+                           "phone" : "+74993941225",
+                           "city" : "Реутов",
+                           "latitude" : 55.7556,
+                           "address" : "улица Ленина, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2399",
+                           "quantity" : "1",
+                           "name" : "Метформин 0,85 60 таб",
+                           "price" : "236.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8587,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Вивафарм ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957038888"
+                              }
+                           ],
+                           "phone" : "+74957038888",
+                           "city" : "Москва",
+                           "latitude" : 55.7403,
+                           "address" : "Новокосинская улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "2399",
+                           "quantity" : "2",
+                           "name" : "Метформин 1,0 n60 табл",
+                           "price" : "269.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8611,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 3",
+                           "phones" : [
+                              {
+                                 "number" : "+74986618944"
+                              }
+                           ],
+                           "phone" : "+74986618944",
+                           "city" : "Реутов",
+                           "latitude" : 55.751,
+                           "address" : "Южная улица, 3в, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2399",
+                           "quantity" : "2",
+                           "name" : "Метформин 0,85 60 таб",
+                           "price" : "228.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья Юг",
+                           "phones" : [
+                              {
+                                 "number" : "+74959710100"
+                              }
+                           ],
+                           "phone" : "+74959710100",
+                           "city" : "Москва",
+                           "latitude" : 55.8571,
+                           "address" : "улица Героев Панфиловцев, 7"
+                        },
+                        "drug" : {
+                           "descid" : "2399",
+                           "quantity" : "1",
+                           "name" : "Метформин 0,85 n60 табл",
+                           "price" : "198.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8533,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Вивафарм ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74997966292"
+                              }
+                           ],
+                           "phone" : "+74997966292",
+                           "city" : "Москва",
+                           "latitude" : 55.6795,
+                           "address" : "Привольная улица, 73 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2399",
+                           "quantity" : "2",
+                           "name" : "Метформин 1,0 n60 табл",
+                           "price" : "269.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4147,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746321981"
+                              }
+                           ],
+                           "phone" : "+74746321981",
+                           "city" : "Москва",
+                           "latitude" : 55.6481,
+                           "address" : "улица 50 лет Октября, 1"
+                        },
+                        "drug" : {
+                           "descid" : "2399",
+                           "quantity" : "1",
+                           "name" : "Метформин 1.0 n60 табл",
+                           "price" : "273.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9224,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74985207135"
+                              }
+                           ],
+                           "phone" : "+74985207135",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7602,
+                           "address" : "Разинское шоссе, 12, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2399",
+                           "quantity" : "3",
+                           "name" : "Метформин 0,85 30 таб",
+                           "price" : "101"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9357,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 2",
+                           "phones" : [
+                              {
+                                 "number" : "+74965219407"
+                              }
+                           ],
+                           "phone" : "+74965219407",
+                           "city" : "Балашиха",
+                           "latitude" : 55.804,
+                           "address" : "Советская улица, 21, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2399",
+                           "quantity" : "4",
+                           "name" : "Метформин 1,0 60 таб",
+                           "price" : "251.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.969,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 10",
+                           "phones" : [
+                              {
+                                 "number" : "+79256120252"
+                              }
+                           ],
+                           "phone" : "+79256120252",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7954,
+                           "address" : "улица Некрасова, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2399",
+                           "quantity" : "1",
+                           "name" : "Метформин 1,0 60 таб",
+                           "price" : "253"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79255335280"
+                              }
+                           ],
+                           "phone" : "+79255335280",
+                           "city" : "Железнодорожный",
+                           "latitude" : 55.747,
+                           "address" : "Граничная улица, 18, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2399",
+                           "quantity" : "2",
+                           "name" : "Метформин 0,85 30 таб",
+                           "price" : "94.4"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "метформина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

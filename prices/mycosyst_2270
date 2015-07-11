@@ -1,0 +1,109 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "mycosyst",
+            "rus_name" : "Микосист®",
+            "form" : "р-р д/инф. 200 мг/100 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "mycosyst",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5619,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991250777"
+                              }
+                           ],
+                           "phone" : "+74991250777",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "улица Кржижановского, 3"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "1",
+                           "name" : "Микосист, р-р д/инф 200мг 100мл 1",
+                           "price" : "489"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957879355"
+                              }
+                           ],
+                           "phone" : "+74957879355",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "5-я Парковая улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "2",
+                           "name" : "Микосист, р-р д/инф 200мг 100мл 1",
+                           "price" : "299"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8203,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авиценна Фарма 3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957403143"
+                              },
+                              {
+                                 "number" : "+79269147136"
+                              }
+                           ],
+                           "phone" : "+74957403143; +79269147136",
+                           "city" : "Москва",
+                           "latitude" : 55.7916,
+                           "address" : "Нижняя Первомайская улица, 77"
+                        },
+                        "drug" : {
+                           "descid" : "1192",
+                           "quantity" : "2",
+                           "name" : "Микосист, р-р д/инф 200мг 100мл 1",
+                           "price" : "335"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "флуконазол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

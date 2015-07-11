@@ -1,0 +1,134 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "amosin",
+            "rus_name" : "Амосин®",
+            "form" : "порошок д/пригот. сусп. д/приема внутрь 5 г (250 мг/5 мл)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "amosin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "1411",
+                           "quantity" : "1",
+                           "name" : "Амосин пор д/сусп 250мг n10 (саше)",
+                           "price" : "46.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4746,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармакор №007",
+                           "phones" : [
+                              {
+                                 "number" : "+78127530098"
+                              },
+                              {
+                                 "number" : "+78127537914"
+                              }
+                           ],
+                           "phone" : "+78127530098; +78127537914",
+                           "city" : "Москва",
+                           "latitude" : 55.7763,
+                           "address" : "проспект Маршала Жукова, 30"
+                        },
+                        "drug" : {
+                           "descid" : "1411",
+                           "quantity" : "1",
+                           "name" : "Амосин порошок для приготовления суспензии 250мг n10",
+                           "price" : "51.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6073,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека от склада-Запад&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74951236781"
+                              }
+                           ],
+                           "phone" : "+74951236781",
+                           "city" : "Москва",
+                           "latitude" : 55.8649,
+                           "address" : "Северный бульвар, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1411",
+                           "quantity" : "1",
+                           "name" : "Амосин пор д/сусп 250мг n 10 (оао синтез г.курган/)",
+                           "price" : "52.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6627,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека от склада-Север&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74951236725"
+                              }
+                           ],
+                           "phone" : "+74951236725",
+                           "city" : "Москва",
+                           "latitude" : 55.8678,
+                           "address" : "Енисейская улица, 17 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1411",
+                           "quantity" : "1",
+                           "name" : "Амосин пор д/сусп 250мг n 10 (оао синтез г.курган/)",
+                           "price" : "52.7"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амоксициллин (в форме тригидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

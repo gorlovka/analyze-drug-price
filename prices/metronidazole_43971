@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "metronidazole",
+            "rus_name" : "Метронидазол",
+            "form" : "р-р д/инф. 5 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "metronidazole",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.536,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР&quot; 50 (УЛЬМАС)",
+                           "phones" : [
+                              {
+                                 "number" : "+79661763214"
+                              }
+                           ],
+                           "phone" : "+79661763214",
+                           "city" : "Москва",
+                           "latitude" : 55.7328,
+                           "address" : "3-й Сетуньский проезд, 8"
+                        },
+                        "drug" : {
+                           "descid" : "271",
+                           "quantity" : "10",
+                           "name" : "Метронидазол р-р д/инф. 5мг/мл бут. 100мл 1",
+                           "price" : "30.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5994,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «МФК Помощь»",
+                           "phones" : [
+                              {
+                                 "number" : "+74999079744"
+                              }
+                           ],
+                           "phone" : "+74999079744",
+                           "city" : "Москва",
+                           "latitude" : 55.8634,
+                           "address" : "улица Санникова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "271",
+                           "quantity" : "1",
+                           "name" : "Метронидазол р-р д/инф. 5 мг/мл 100 мл 1 флаконы (2968)",
+                           "price" : "17"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7504,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №417",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6607,
+                           "address" : "улица Перерва, 49"
+                        },
+                        "drug" : {
+                           "descid" : "271",
+                           "quantity" : "10",
+                           "name" : "Метронидазол р-р д/инф. 5мг/мл 100мл",
+                           "price" : "25.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "метронидазол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

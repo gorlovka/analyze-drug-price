@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ampicillin_ferein",
+            "rus_name" : "Ампициллин-ферейн",
+            "form" : "порошок д/пригот. р-ра д/в/в и в/м введения 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ampicillin_ferein",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6707,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АНГРО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956744996"
+                              },
+                              {
+                                 "number" : "+74955049709"
+                              }
+                           ],
+                           "phone" : "+74956744996; +74955049709",
+                           "city" : "Москва",
+                           "latitude" : 55.7252,
+                           "address" : "1-я Дубровская улица, 10/15"
+                        },
+                        "drug" : {
+                           "descid" : "3776",
+                           "quantity" : "8",
+                           "name" : "Ампициллин-ферейн пор. д/р-ра для в/в и в/м введ. 500 мг 5, брынцалов-а зао",
+                           "price" : "20"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ампициллин (в форме натриевой соли)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

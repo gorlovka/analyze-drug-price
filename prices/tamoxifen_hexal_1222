@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "tamoxifen_hexal",
+            "rus_name" : "Тамоксифен гексал",
+            "form" : "таб., покр. оболочкой, 20 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "tamoxifen_hexal",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2123,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 330",
+                           "phones" : [
+                              {
+                                 "number" : "+74964671529"
+                              }
+                           ],
+                           "phone" : "+74964671529",
+                           "city" : "Раменское",
+                           "latitude" : 55.5887,
+                           "address" : "Коммунистическая улица, 20, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "649",
+                           "quantity" : "1",
+                           "name" : "Тамоксифен гексал табл. 20мг n30",
+                           "price" : "133"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тамоксифен"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

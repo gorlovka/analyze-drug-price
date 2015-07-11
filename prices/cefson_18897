@@ -1,0 +1,159 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "cefson",
+            "rus_name" : "Цефсон",
+            "form" : "порошок д/пригот. р-ра д/в/м введения 1 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "cefson",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "4705",
+                           "quantity" : "2",
+                           "name" : "Цефсон пор приг р-ра д/в/м введ 1г с раствор.",
+                           "price" : "295"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6043,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЭВЕРЕСТ&quot;.",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678592"
+                              }
+                           ],
+                           "phone" : "+74999678592",
+                           "city" : "Москва",
+                           "latitude" : 55.6579,
+                           "address" : "Болотниковская улица, 12 к3"
+                        },
+                        "drug" : {
+                           "descid" : "4705",
+                           "quantity" : "1",
+                           "name" : "Цефсон пор приг р-ра д/в/м введ 1г с раствор.",
+                           "price" : "263.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6035,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ТЭКС-ФАРМ ОТРАДНОЕ",
+                           "phones" : [
+                              {
+                                 "number" : "+74997452967"
+                              }
+                           ],
+                           "phone" : "+74997452967",
+                           "city" : "Москва",
+                           "latitude" : 55.8655,
+                           "address" : "улица Декабристов, 15"
+                        },
+                        "drug" : {
+                           "descid" : "4705",
+                           "quantity" : "9",
+                           "name" : "Цефсон, пор. в/в 1г. с раствор.",
+                           "price" : "249"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люксор - Фарм Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992005500"
+                              },
+                              {
+                                 "number" : "+79260961147"
+                              }
+                           ],
+                           "phone" : "+74992005500; +79260961147",
+                           "city" : "Москва",
+                           "latitude" : 55.8932,
+                           "address" : "Алтуфьевское шоссе, 87"
+                        },
+                        "drug" : {
+                           "descid" : "4705",
+                           "quantity" : "1",
+                           "name" : "Цефсон пор. д/р-ра для в/в введ. 1000 мг 1 флаконы, мустафа невзат илач санаи а.ш.",
+                           "price" : "286"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7363,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Доброфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953984945"
+                              }
+                           ],
+                           "phone" : "+74953984945",
+                           "city" : "Москва",
+                           "latitude" : 55.6103,
+                           "address" : "Воронежская улица, 24"
+                        },
+                        "drug" : {
+                           "descid" : "4705",
+                           "quantity" : "8",
+                           "name" : "Цефсон пор приг р-ра д/в/м введ 1г с раствор.",
+                           "price" : "305"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цефтриаксон (в форме натриевой соли)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

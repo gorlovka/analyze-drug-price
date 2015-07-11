@@ -1,0 +1,165 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ketoprofen_organica",
+            "rus_name" : "Кетопрофен органика",
+            "form" : "таб., покр. пленочной оболочкой, 100 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ketoprofen_organica",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5251,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Фирма Здоровье г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991483745"
+                              },
+                              {
+                                 "number" : "+74991480456"
+                              }
+                           ],
+                           "phone" : "+74991483745; +74991480456",
+                           "city" : "Москва",
+                           "latitude" : 55.7361,
+                           "address" : "улица 1812 Года, 2"
+                        },
+                        "drug" : {
+                           "descid" : "7038",
+                           "quantity" : "1",
+                           "name" : "Кетопрофен органика таб. п/о плен. 100мг 20",
+                           "price" : "128.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5837,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ИП Серегина М.А.",
+                           "phones" : [
+                              {
+                                 "number" : "+79645197959"
+                              }
+                           ],
+                           "phone" : "+79645197959",
+                           "city" : "Москва",
+                           "latitude" : 55.8467,
+                           "address" : "Ботаническая улица, 41 к7"
+                        },
+                        "drug" : {
+                           "descid" : "7038",
+                           "quantity" : "1",
+                           "name" : "Кетопрофен органика таб п.п.о. 100мг n20 уп кнт-яч пк &amp;lt;10*2&amp;gt;",
+                           "price" : "131"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7883,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "206 аптека На Рязанском проспекте г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991703501"
+                              }
+                           ],
+                           "phone" : "+74991703501",
+                           "city" : "Москва",
+                           "latitude" : 55.7187,
+                           "address" : "Рязанский проспект, 71 к1"
+                        },
+                        "drug" : {
+                           "descid" : "7038",
+                           "quantity" : "5",
+                           "name" : "Кетопрофен органика таб. п/о пл. 100мг 20",
+                           "price" : "121.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НатурРецепт&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956549961"
+                              },
+                              {
+                                 "number" : "+74956549962"
+                              },
+                              {
+                                 "number" : "+74956549496"
+                              }
+                           ],
+                           "phone" : "+74956549961; +74956549962; +74956549496",
+                           "city" : "Москва",
+                           "latitude" : 55.6591,
+                           "address" : "Мячковский бульвар, 1"
+                        },
+                        "drug" : {
+                           "descid" : "7038",
+                           "quantity" : "9",
+                           "name" : "Кетопрофен органика таб. п/о плен. 100мг 20",
+                           "price" : "126"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5855,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ДИАНТУМПЛЮС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992002857"
+                              }
+                           ],
+                           "phone" : "+74992002857",
+                           "city" : "Москва",
+                           "latitude" : 55.8949,
+                           "address" : "Алтуфьевское шоссе, 89"
+                        },
+                        "drug" : {
+                           "descid" : "7038",
+                           "quantity" : "2",
+                           "name" : "Кетопрофен органика таб. п/о плен. 100мг 20",
+                           "price" : "132"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кетопрофен"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

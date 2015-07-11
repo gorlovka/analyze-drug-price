@@ -1,0 +1,169 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "vinpocetine",
+            "rus_name" : "Винпоцетин",
+            "form" : "концентрат д/пригот. р-ра д/инфузий 5 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "vinpocetin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6707,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АНГРО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956744996"
+                              },
+                              {
+                                 "number" : "+74955049709"
+                              }
+                           ],
+                           "phone" : "+74956744996; +74955049709",
+                           "city" : "Москва",
+                           "latitude" : 55.7252,
+                           "address" : "1-я Дубровская улица, 10/15"
+                        },
+                        "drug" : {
+                           "descid" : "74",
+                           "quantity" : "1",
+                           "name" : "Винпоцетин конц. д/р-ра д/инф. 5 мг/мл 2 мл 10 ампулы, эллара мц ооо",
+                           "price" : "52"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.499,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москава (4, Багратионовская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991451276",
+                                 "additional" : [
+                                    "1988",
+                                    "1328"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74991451276, доб. 1988, 1328",
+                           "city" : "Москва",
+                           "latitude" : 55.7449,
+                           "address" : "улица Барклая, 12/12"
+                        },
+                        "drug" : {
+                           "descid" : "74",
+                           "quantity" : "2",
+                           "name" : "Винпоцетин конц.д/р-ра д/инф. 5мг/мл 2мл 10",
+                           "price" : "99.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6782,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (58, Новинки)",
+                           "phones" : [
+                              {
+                                 "number" : "+74996172092"
+                              }
+                           ],
+                           "phone" : "+74996172092",
+                           "city" : "Москва",
+                           "latitude" : 55.6766,
+                           "address" : "улица Новинки, 31"
+                        },
+                        "drug" : {
+                           "descid" : "74",
+                           "quantity" : "1",
+                           "name" : "Винпоцетин конц.д/р-ра д/инф. 5мг/мл 2мл 10",
+                           "price" : "125"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6611,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (12, Бажова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74951877927"
+                              }
+                           ],
+                           "phone" : "+74951877927",
+                           "city" : "Москва",
+                           "latitude" : 55.8344,
+                           "address" : "улица Бажова, 7"
+                        },
+                        "drug" : {
+                           "descid" : "74",
+                           "quantity" : "1",
+                           "name" : "Винпоцетин конц.д/р-ра д/инф. 5мг/мл 2мл 10",
+                           "price" : "127"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.851,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (41, Авиаконструктора Миля)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955040663"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1320"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74955040663; +74952311697, доб. 1320",
+                           "city" : "Москва",
+                           "latitude" : 55.6859,
+                           "address" : "улица Авиаконструктора Миля, 4 к1"
+                        },
+                        "drug" : {
+                           "descid" : "74",
+                           "quantity" : "1",
+                           "name" : "Винпоцетин конц.д/р-ра д/инф. 5мг/мл 2мл 10",
+                           "price" : "99.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "винпоцетин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

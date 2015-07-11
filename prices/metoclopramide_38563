@@ -1,0 +1,109 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "metoclopramid",
+            "rus_name" : "Метоклопрамид",
+            "form" : "р-р д/в/в и в/м введения 5 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "metoclopramide",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5288,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 1 (ООО Феерия Фарм)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991572172"
+                              }
+                           ],
+                           "phone" : "+74991572172",
+                           "city" : "Москва",
+                           "latitude" : 55.7994,
+                           "address" : "улица Викторенко, 2/1"
+                        },
+                        "drug" : {
+                           "descid" : "267",
+                           "quantity" : "1",
+                           "name" : "Метоклопрамид, р-р д/ин амп 5мг/мл 2мл 10",
+                           "price" : "74.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2958,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Река Смородина&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957360033"
+                              }
+                           ],
+                           "phone" : "+74957360033",
+                           "city" : "Внуково",
+                           "latitude" : 55.611,
+                           "address" : "Большая Внуковская улица, 19/8, Москва, район Внуково"
+                        },
+                        "drug" : {
+                           "descid" : "267",
+                           "quantity" : "1",
+                           "name" : "Метоклопрамид, р-р д/ин 5мг/мл 2мл 10",
+                           "price" : "78"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9735,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965666019"
+                              },
+                              {
+                                 "number" : "+74965666019"
+                              }
+                           ],
+                           "phone" : "+74965666019; +74965666019",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9222,
+                           "address" : "Центральная улица, 49, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "267",
+                           "quantity" : "2",
+                           "name" : "Метоклопрамид р-р в/в и в/м 5мг/мл 2мл 10",
+                           "price" : "59"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "метоклопрамида гидрохлорид + метоклопрамид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

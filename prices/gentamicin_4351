@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "gentamicin",
+            "rus_name" : "Гентамицин",
+            "form" : "р-р д/в/в и в/м введения 80 мг/2 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "gentamicin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2926,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Первый Мед&quot;, г.Красногорск 2 (&quot;Абсолют-Инвест&quot;)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957200789"
+                              }
+                           ],
+                           "phone" : "+74957200789",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8351,
+                           "address" : "Успенская улица, 32, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1101",
+                           "quantity" : "1",
+                           "name" : "Гентамицин, р-р д/инъ 80мг 2мл 10",
+                           "price" : "38"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "гентамицин + гентамицин (в форме сульфата) + гентамицина сульфат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

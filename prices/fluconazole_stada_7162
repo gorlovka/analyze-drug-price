@@ -1,0 +1,143 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "fluconazole_stada",
+            "rus_name" : "Флуконазол штада",
+            "form" : "капс. 50 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "fluconazole_stada",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3136",
+                           "quantity" : "3",
+                           "name" : "Флуконазол-штада капс.0,15 n1",
+                           "price" : "69"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5383,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Пастэр&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991549624"
+                              }
+                           ],
+                           "phone" : "+74991549624",
+                           "city" : "Москва",
+                           "latitude" : 55.8421,
+                           "address" : "улица Генерала Рычагова, 15"
+                        },
+                        "drug" : {
+                           "descid" : "3136",
+                           "quantity" : "1",
+                           "name" : "Флуконазол-штада 0.15 n1 капс",
+                           "price" : "73.83"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НатурРецепт&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956549961"
+                              },
+                              {
+                                 "number" : "+74956549962"
+                              },
+                              {
+                                 "number" : "+74956549496"
+                              }
+                           ],
+                           "phone" : "+74956549961; +74956549962; +74956549496",
+                           "city" : "Москва",
+                           "latitude" : 55.6591,
+                           "address" : "Мячковский бульвар, 1"
+                        },
+                        "drug" : {
+                           "descid" : "3136",
+                           "quantity" : "3",
+                           "name" : "Флуконазол-штада 0,15 n1 капс",
+                           "price" : "70.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3244,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НОТА-БЕНА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994096060"
+                              },
+                              {
+                                 "number" : "+74955658916"
+                              }
+                           ],
+                           "phone" : "+74994096060; +74955658916",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8067,
+                           "address" : "Южный бульвар, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3136",
+                           "quantity" : "8",
+                           "name" : "Флуконазол-штада 0.15 1 капс",
+                           "price" : "70"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "флуконазол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

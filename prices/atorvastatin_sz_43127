@@ -1,0 +1,368 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "atorvastatin_sz",
+            "rus_name" : "Аторвастатин-сз",
+            "form" : "таб., покрытые пленочной оболочкой, 20 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 13,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "atorvastatin_sz",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6707,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АНГРО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956744996"
+                              },
+                              {
+                                 "number" : "+74955049709"
+                              }
+                           ],
+                           "phone" : "+74956744996; +74955049709",
+                           "city" : "Москва",
+                           "latitude" : 55.7252,
+                           "address" : "1-я Дубровская улица, 10/15"
+                        },
+                        "drug" : {
+                           "descid" : "8788",
+                           "quantity" : "2",
+                           "name" : "Аторвастатин-сз табл. п/о пленочной 20 мг 30, северная звезда зао",
+                           "price" : "185"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6145,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 4 (ООО Феерия Фарм Север)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956026573"
+                              }
+                           ],
+                           "phone" : "+74956026573",
+                           "city" : "Москва",
+                           "latitude" : 55.7937,
+                           "address" : "улица Сущёвский Вал, 55"
+                        },
+                        "drug" : {
+                           "descid" : "8788",
+                           "quantity" : "4",
+                           "name" : "Аторвастатин сз, тбл 20мг 30",
+                           "price" : "205.44"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6594,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "72 аптека На Автозаводской г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956751155"
+                              },
+                              {
+                                 "number" : "+74956750598"
+                              }
+                           ],
+                           "phone" : "+74956751155; +74956750598",
+                           "city" : "Москва",
+                           "latitude" : 55.7128,
+                           "address" : "Восточная улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "8788",
+                           "quantity" : "1",
+                           "name" : "Аторвастатин-сз таб. п/о плен. 20мг 30",
+                           "price" : "193"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЮНИКС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993755785"
+                              }
+                           ],
+                           "phone" : "+74993755785",
+                           "city" : "Москва",
+                           "latitude" : 55.7938,
+                           "address" : "Бутырская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "8788",
+                           "quantity" : "1",
+                           "name" : "Аторвастатин-сз таб. п.п.о. 20мг 30",
+                           "price" : "330"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЭпиФарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956655943"
+                              }
+                           ],
+                           "phone" : "+74956655943",
+                           "city" : "Москва",
+                           "latitude" : 55.7332,
+                           "address" : "Нижегородская улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "8788",
+                           "quantity" : "3",
+                           "name" : "Аторвастатин-сз таб. п/о плен. 20мг 30",
+                           "price" : "186"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ЗДОРОВЬЕ ПЛЮС",
+                           "phones" : [
+                              {
+                                 "number" : "+74991223092"
+                              }
+                           ],
+                           "phone" : "+74991223092",
+                           "city" : "Москва",
+                           "latitude" : 55.6542,
+                           "address" : "улица Каховка, 10к3"
+                        },
+                        "drug" : {
+                           "descid" : "8788",
+                           "quantity" : "4",
+                           "name" : "Аторвастатин-сз 20мг n30 таб.",
+                           "price" : "160.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7883,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "206 аптека На Рязанском проспекте г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991703501"
+                              }
+                           ],
+                           "phone" : "+74991703501",
+                           "city" : "Москва",
+                           "latitude" : 55.7187,
+                           "address" : "Рязанский проспект, 71 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8788",
+                           "quantity" : "4",
+                           "name" : "Аторвастатин-сз таб. п/о плен. 20мг 30",
+                           "price" : "203.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Берклий&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79269030728"
+                              },
+                              {
+                                 "number" : "+74997042889"
+                              }
+                           ],
+                           "phone" : "+79269030728; +74997042889",
+                           "city" : "Москва",
+                           "latitude" : 55.6355,
+                           "address" : "Профсоюзная улица, 103а"
+                        },
+                        "drug" : {
+                           "descid" : "8788",
+                           "quantity" : "1",
+                           "name" : "Аторвастатин-сз таб. п.п.о. 20мг 30",
+                           "price" : "209.79"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4942,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека-225&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954561606"
+                              }
+                           ],
+                           "phone" : "+74954561606",
+                           "city" : "Москва",
+                           "latitude" : 55.859,
+                           "address" : "Фестивальная улица, 12/20"
+                        },
+                        "drug" : {
+                           "descid" : "8788",
+                           "quantity" : "1",
+                           "name" : "Аторвастатин-сз тб п/о 20мг блист n10x3",
+                           "price" : "202.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люксор - Фарм Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992005500"
+                              },
+                              {
+                                 "number" : "+79260961147"
+                              }
+                           ],
+                           "phone" : "+74992005500; +79260961147",
+                           "city" : "Москва",
+                           "latitude" : 55.8932,
+                           "address" : "Алтуфьевское шоссе, 87"
+                        },
+                        "drug" : {
+                           "descid" : "8788",
+                           "quantity" : "1",
+                           "name" : "Аторвастатин-сз табл. п/о пленочной 20 мг 30, северная звезда зао",
+                           "price" : "186.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.668,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЖА Аптека&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994768475"
+                              }
+                           ],
+                           "phone" : "+74994768475",
+                           "city" : "Москва",
+                           "latitude" : 55.8925,
+                           "address" : "Студёный проезд, 28"
+                        },
+                        "drug" : {
+                           "descid" : "8788",
+                           "quantity" : "3",
+                           "name" : "Аторвастатин-сз таб п о плен 20мг 30 таб п/о 20мг",
+                           "price" : "367.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5067,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО « ИНТЕРТОРГ»",
+                           "phones" : [
+                              {
+                                 "number" : "+74959716524"
+                              }
+                           ],
+                           "phone" : "+74959716524",
+                           "city" : "Москва",
+                           "latitude" : 55.6194,
+                           "address" : "Новоясеневский проспект, 1к1"
+                        },
+                        "drug" : {
+                           "descid" : "8788",
+                           "quantity" : "1",
+                           "name" : "Аторвастатин-сз,таб п/о 20 мг 30",
+                           "price" : "210"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Авиценна",
+                           "phones" : [
+                              {
+                                 "number" : "+79295627410"
+                              }
+                           ],
+                           "phone" : "+79295627410",
+                           "city" : "Химки",
+                           "latitude" : 55.8973,
+                           "address" : "Совхозная улица, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8788",
+                           "quantity" : "6",
+                           "name" : "Аторвастатин-сз 20мг таб. п/пл/об. х30",
+                           "price" : "161.3"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "аторвастатин (в форме кальциевой соли)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

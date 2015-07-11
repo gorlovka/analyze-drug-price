@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "captopril_sti",
+            "rus_name" : "Каптоприл-сти",
+            "form" : "таб. 25 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "captopril_sti",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4761,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МРБ Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959470206"
+                              }
+                           ],
+                           "phone" : "+74959470206",
+                           "city" : "Москва",
+                           "latitude" : 55.7792,
+                           "address" : "улица Народного Ополчения, 23 к3"
+                        },
+                        "drug" : {
+                           "descid" : "2273",
+                           "quantity" : "3",
+                           "name" : "Каптоприл-сти 0,05 n40 табл",
+                           "price" : "44.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4472,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МРБ Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957822526"
+                              }
+                           ],
+                           "phone" : "+74957822526",
+                           "city" : "Москва",
+                           "latitude" : 55.8547,
+                           "address" : "Химкинский бульвар, 14 к4"
+                        },
+                        "drug" : {
+                           "descid" : "2273",
+                           "quantity" : "1",
+                           "name" : "Каптоприл-сти 0,05 n40 табл",
+                           "price" : "44.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4147,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746321981"
+                              }
+                           ],
+                           "phone" : "+74746321981",
+                           "city" : "Москва",
+                           "latitude" : 55.6481,
+                           "address" : "улица 50 лет Октября, 1"
+                        },
+                        "drug" : {
+                           "descid" : "2273",
+                           "quantity" : "5",
+                           "name" : "Каптоприл-сти 0.05 n40 табл",
+                           "price" : "43"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "каптоприл"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

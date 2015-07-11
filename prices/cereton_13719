@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "cereton",
+            "rus_name" : "Церетон®",
+            "form" : "р-р д/в/в и в/м введения 1 г/4 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "cereton",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8205,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ИЗМАЙЛОВО",
+                           "phones" : [
+                              {
+                                 "number" : "+74956625463"
+                              }
+                           ],
+                           "phone" : "+74956625463",
+                           "city" : "Москва",
+                           "latitude" : 55.7745,
+                           "address" : "Большой Купавенский проезд, 4"
+                        },
+                        "drug" : {
+                           "descid" : "3973",
+                           "quantity" : "1",
+                           "name" : "Церетон раствор д/ин 4мл 5 сотекс",
+                           "price" : "583"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.814,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74954682066"
+                              }
+                           ],
+                           "phone" : "+74954682066",
+                           "city" : "Москва",
+                           "latitude" : 55.8105,
+                           "address" : "Щёлковское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "3973",
+                           "quantity" : "1",
+                           "name" : "Церетон раствор д/ин 4мл 5 сотекс",
+                           "price" : "587"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5152,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ЗАПАД",
+                           "phones" : [
+                              {
+                                 "number" : "+74953382639"
+                              }
+                           ],
+                           "phone" : "+74953382639",
+                           "city" : "Москва",
+                           "latitude" : 55.6304,
+                           "address" : "Профсоюзная улица, 128 к2"
+                        },
+                        "drug" : {
+                           "descid" : "3973",
+                           "quantity" : "1",
+                           "name" : "Церетон р-р д/и 4мл 3",
+                           "price" : "323.4"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "холина альфосцерат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

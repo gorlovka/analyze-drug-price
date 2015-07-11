@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "atomax",
+            "rus_name" : "Атомакс®",
+            "form" : "таб., покр. пленочной оболочкой, 10 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "atomax",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6666,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "АПТЕКА ЦАРИЦЫНСКАЯ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957283766"
+                              }
+                           ],
+                           "phone" : "+74957283766",
+                           "city" : "Москва",
+                           "latitude" : 55.6188,
+                           "address" : "Каспийская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "3165",
+                           "quantity" : "3",
+                           "name" : "Атомакс табл. п/о плен 10 мг (аторвастатин) 30",
+                           "price" : "101.6"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "аторвастатин (в форме аторвастатина кальция тригидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

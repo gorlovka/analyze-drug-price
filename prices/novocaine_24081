@@ -1,0 +1,639 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "novocaine",
+            "rus_name" : "Новокаин",
+            "form" : "р-р д/инъекц. 5 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 23,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "novocaine",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6543,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»2",
+                           "phones" : [
+                              {
+                                 "number" : "+74955325351"
+                              }
+                           ],
+                           "phone" : "+74955325351",
+                           "city" : "Москва",
+                           "latitude" : 55.7369,
+                           "address" : "улица Большие Каменщики, 6"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "7",
+                           "name" : "Новокаин р-р д/ин. 5мг/мл 5мл 10",
+                           "price" : "36"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955451350"
+                              },
+                              {
+                                 "number" : "+79262305469"
+                              }
+                           ],
+                           "phone" : "+74955451350; +79262305469",
+                           "city" : "Москва",
+                           "latitude" : 55.7384,
+                           "address" : "Марксистская улица, 3 с1"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "3",
+                           "name" : "Новокаин р-р д/и 5мг/мл 5мл амп n10",
+                           "price" : "32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6637,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; Форте&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956766200"
+                              },
+                              {
+                                 "number" : "+74955071442"
+                              }
+                           ],
+                           "phone" : "+74956766200; +74955071442",
+                           "city" : "Москва",
+                           "latitude" : 55.7299,
+                           "address" : "2-й Крутицкий переулок, 18с1"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "10",
+                           "name" : "Новокаин р-р д/ин. 5 мг/мл 5 мл 10 ампулы, органика оао",
+                           "price" : "34"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6733,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ ФАРМ Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953635014"
+                              }
+                           ],
+                           "phone" : "+74953635014",
+                           "city" : "Москва",
+                           "latitude" : 55.7301,
+                           "address" : "Волгоградский проспект, 10"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "4",
+                           "name" : "Новокаин р-р д/и 5мг/мл 5мл амп n10",
+                           "price" : "34.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5667,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Источник",
+                           "phones" : [
+                              {
+                                 "number" : "+74992467796"
+                              },
+                              {
+                                 "number" : "+74959288793"
+                              },
+                              {
+                                 "number" : "+74959288736"
+                              },
+                              {
+                                 "number" : "+74959288793"
+                              }
+                           ],
+                           "phone" : "+74992467796; +74959288793; +74959288736; +74959288793",
+                           "city" : "Москва",
+                           "latitude" : 55.7264,
+                           "address" : "Усачёва улица, 38"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "8",
+                           "name" : "Новокаин р-р д/ин. 5 мг/мл 5 мл 10 ампулы, органика оао",
+                           "price" : "33"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6707,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АНГРО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956744996"
+                              },
+                              {
+                                 "number" : "+74955049709"
+                              }
+                           ],
+                           "phone" : "+74956744996; +74955049709",
+                           "city" : "Москва",
+                           "latitude" : 55.7252,
+                           "address" : "1-я Дубровская улица, 10/15"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "2",
+                           "name" : "Новокаин р-р д/ин. 5 мг/мл 5 мл 10 ампулы, органика оао",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5452,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 18",
+                           "phones" : [
+                              {
+                                 "number" : "+74959455039"
+                              }
+                           ],
+                           "phone" : "+74959455039",
+                           "city" : "Москва",
+                           "latitude" : 55.7749,
+                           "address" : "1-й Хорошёвский проезд, 14 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "1",
+                           "name" : "Новокаин, р-р д/инъ 5мг/мл 5мл 10",
+                           "price" : "33.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5498,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Феникс-Мир",
+                           "phones" : [
+                              {
+                                 "number" : "+74956563926"
+                              }
+                           ],
+                           "phone" : "+74956563926",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "Красноармейская улица, 2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "5",
+                           "name" : "Новокаин 5мг/мл р-р д/ин. 5мл амп. х10 б м (r) биохимик оао (россия)",
+                           "price" : "27"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5785,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фортис г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956397363"
+                              },
+                              {
+                                 "number" : "+74956108378"
+                              }
+                           ],
+                           "phone" : "+74956397363; +74956108378",
+                           "city" : "Москва",
+                           "latitude" : 55.8191,
+                           "address" : "улица Яблочкова, 19г"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "5",
+                           "name" : "Новокаин 5мг/мл р-р д/ин. 5мл амп. х10 б м (r) биохимик оао (россия)",
+                           "price" : "27"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5251,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЮНИКС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991514961"
+                              }
+                           ],
+                           "phone" : "+74991514961",
+                           "city" : "Москва",
+                           "latitude" : 55.803,
+                           "address" : "Ленинградский проспект, 66"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "3",
+                           "name" : "Новокаин р-р д/ин. 5мг/мл 5мл 10",
+                           "price" : "34"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Фирма Здоровье г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74957381041"
+                              }
+                           ],
+                           "phone" : "+74957381041",
+                           "city" : "Москва",
+                           "latitude" : 55.7659,
+                           "address" : "Филёвский бульвар, 11"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "5",
+                           "name" : "Новокаин р-р д/ин 5мг/мл амп. полимер. 5мл 10",
+                           "price" : "42.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7883,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "206 аптека На Рязанском проспекте г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991703501"
+                              }
+                           ],
+                           "phone" : "+74991703501",
+                           "city" : "Москва",
+                           "latitude" : 55.7187,
+                           "address" : "Рязанский проспект, 71 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "10",
+                           "name" : "Новокаин р-р д/ин 5мг/мл амп. полимер. 5мл 10",
+                           "price" : "39.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НатурРецепт&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956549961"
+                              },
+                              {
+                                 "number" : "+74956549962"
+                              },
+                              {
+                                 "number" : "+74956549496"
+                              }
+                           ],
+                           "phone" : "+74956549961; +74956549962; +74956549496",
+                           "city" : "Москва",
+                           "latitude" : 55.6591,
+                           "address" : "Мячковский бульвар, 1"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "23",
+                           "name" : "Новокаин 5мг/мл р-р д/ин. 10мл амп. х10",
+                           "price" : "37"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "3",
+                           "name" : "Новокаин р-р д/ин. 5 мг/мл 5 мл 10 ампулы, славянская аптека ооо",
+                           "price" : "39.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4942,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека-225&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954561606"
+                              }
+                           ],
+                           "phone" : "+74954561606",
+                           "city" : "Москва",
+                           "latitude" : 55.859,
+                           "address" : "Фестивальная улица, 12/20"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "6",
+                           "name" : "Новокаин р-р д/и 5мг/мл 5мл амп n10",
+                           "price" : "33.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7414,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74993561909"
+                              }
+                           ],
+                           "phone" : "+74993561909",
+                           "city" : "Москва",
+                           "latitude" : 55.6434,
+                           "address" : "Батайский проезд, 63"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "11",
+                           "name" : "Новокаин, р-р д/инъ 5мг/мл 5мл 10",
+                           "price" : "34.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7581,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармацевт Уздеников г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74953455000"
+                              },
+                              {
+                                 "number" : "+74953450310"
+                              }
+                           ],
+                           "phone" : "+74953455000; +74953450310",
+                           "city" : "Москва",
+                           "latitude" : 55.6496,
+                           "address" : "Мячковский бульвар, 18 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "1",
+                           "name" : "Новокаин р-р д/и 5мг/мл 5мл амп n10",
+                           "price" : "33"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4958,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;Аптека 192 &quot;На Клинской",
+                           "phones" : [
+                              {
+                                 "number" : "+74954552233"
+                              },
+                              {
+                                 "number" : "+74954550175"
+                              }
+                           ],
+                           "phone" : "+74954552233; +74954550175",
+                           "city" : "Москва",
+                           "latitude" : 55.869,
+                           "address" : "Клинская улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "2",
+                           "name" : "Новокаин 5мг/мл р-р д/ин. 5мл амп. х10 б м (r) биохимик оао (россия)",
+                           "price" : "27"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8519,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»5 (ООО &quot;Сэсса Фарм плюс&quot;)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956423265"
+                              }
+                           ],
+                           "phone" : "+74956423265",
+                           "city" : "Москва",
+                           "latitude" : 55.7005,
+                           "address" : "Лермонтовский проспект, 10 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "9",
+                           "name" : "Новокаин р-р д/ин. 5мг/мл 5мл 10",
+                           "price" : "32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3883,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 9",
+                           "phones" : [
+                              {
+                                 "number" : "+74959158336"
+                              }
+                           ],
+                           "phone" : "+74959158336",
+                           "city" : "Москва",
+                           "latitude" : 55.89,
+                           "address" : "Воротынская улица, 18"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "2",
+                           "name" : "Новокаин, р-р д/инъ 5мг/мл 5мл 10",
+                           "price" : "33.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0107,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВИТА-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955229477"
+                              }
+                           ],
+                           "phone" : "+74955229477",
+                           "city" : "Балашиха",
+                           "latitude" : 55.749,
+                           "address" : "Пролетарская улица, 3"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "8",
+                           "name" : "Новокаин р-р д/ин. 5мг/мл 5мл амп. 10 биохимик оао(россия)",
+                           "price" : "25.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2958,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Река Смородина&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957360033"
+                              }
+                           ],
+                           "phone" : "+74957360033",
+                           "city" : "Внуково",
+                           "latitude" : 55.611,
+                           "address" : "Большая Внуковская улица, 19/8, Москва, район Внуково"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "5",
+                           "name" : "Новокаин, р-р д/инъекц 5мг/мл 5мл 10",
+                           "price" : "42"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2162,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека-225",
+                           "phones" : [
+                              {
+                                 "number" : "+74954548085"
+                              }
+                           ],
+                           "phone" : "+74954548085",
+                           "city" : "Зеленоград",
+                           "latitude" : 55.9913,
+                           "address" : "Савёлкинский проезд, 4, Москва"
+                        },
+                        "drug" : {
+                           "descid" : "2543",
+                           "quantity" : "37",
+                           "name" : "Новокаин р-р д/и 5мг/мл 5мл амп n10",
+                           "price" : "23.3"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "прокаин + прокаина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

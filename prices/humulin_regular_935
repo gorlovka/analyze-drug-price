@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "humulin_regular",
+            "rus_name" : "Хумулин® регуляр",
+            "form" : "р-р д/инъекц. 100 МЕ/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "humulin_regular",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6709,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула здоровья (Сокольники)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992688240"
+                              }
+                           ],
+                           "phone" : "+74992688240",
+                           "city" : "Москва",
+                           "latitude" : 55.7912,
+                           "address" : "улица Сокольнический Вал, 38"
+                        },
+                        "drug" : {
+                           "descid" : "500",
+                           "quantity" : "1",
+                           "name" : "Хумулин регуляр р-р д/ин 100ме 3мл картр",
+                           "price" : "1350"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "инсулин нейтральный растворимый биосинтетический человеческий + инсулин человеческий + инсулин растворимый (человеческий генно-инженерный)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

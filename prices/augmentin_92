@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "augmentin",
+            "rus_name" : "Аугментин®",
+            "form" : "порошок д/пригот. сусп. д/приема внутрь 200 мг+28.5 мг/5 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "augmentin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "37",
+                           "quantity" : "5",
+                           "name" : "Аугментин 200мг+28,5мг/5мл пор.д/ сусп.",
+                           "price" : "155"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7834,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Здравница Плюс",
+                           "phones" : [
+                              {
+                                 "number" : "+74959805483"
+                              }
+                           ],
+                           "phone" : "+74959805483",
+                           "city" : "Москва",
+                           "latitude" : 55.6733,
+                           "address" : "Тихорецкий бульвар, 1с6"
+                        },
+                        "drug" : {
+                           "descid" : "37",
+                           "quantity" : "1",
+                           "name" : "Аугментин пор.д/пр.сусп.200мг+28,5мг/5мл",
+                           "price" : "173"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амоксициллин (в форме тригидрата) + клавулановая кислота (в форме калиевой соли) + амоксициллин (в форме натриевой соли)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

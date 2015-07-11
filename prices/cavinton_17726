@@ -1,0 +1,60 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "cavinton",
+            "rus_name" : "Кавинтон®",
+            "form" : "концентрат д/пригот. р-ра д/инф. 50 мг/10 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "cavinton",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7591,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москава (23, Братиславская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0971",
+                                    "1309"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0971, 1309",
+                           "city" : "Москва",
+                           "latitude" : 55.6598,
+                           "address" : "Братиславская улица, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "180",
+                           "quantity" : "1",
+                           "name" : "Кавинтон конц.д/р-ра д/инф. 10мл 5",
+                           "price" : "342"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "винпоцетин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

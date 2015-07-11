@@ -1,0 +1,143 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ketorolac",
+            "rus_name" : "Кеторолак",
+            "form" : "р-р д/в/в и в/м введения 30 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ketorolac",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5847,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диасфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266856"
+                              },
+                              {
+                                 "number" : "+74956266857"
+                              }
+                           ],
+                           "phone" : "+74956266856; +74956266857",
+                           "city" : "Москва",
+                           "latitude" : 55.7756,
+                           "address" : "1-я Брестская улица, 66"
+                        },
+                        "drug" : {
+                           "descid" : "1885",
+                           "quantity" : "2",
+                           "name" : "Кеторолак 1мл 10 р-р д/ин",
+                           "price" : "51"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4172,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МЕДЦЕНТР-МОСИНТУР ЛТД&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955061407"
+                              },
+                              {
+                                 "number" : "+74952238910"
+                              }
+                           ],
+                           "phone" : "+74955061407; +74952238910",
+                           "city" : "Москва",
+                           "latitude" : 55.7302,
+                           "address" : "Кунцевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1885",
+                           "quantity" : "5",
+                           "name" : "Кеторолак р-р д/и в/м 30мг 1мл 10 ампул",
+                           "price" : "82.63"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4138,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО Звездочка",
+                           "phones" : [
+                              {
+                                 "number" : "+74991416569"
+                              },
+                              {
+                                 "number" : "+74959978003"
+                              },
+                              {
+                                 "number" : "+74959978053"
+                              }
+                           ],
+                           "phone" : "+74991416569; +74959978003; +74959978053",
+                           "city" : "Москва",
+                           "latitude" : 55.7383,
+                           "address" : "Ярцевская улица, 22 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1885",
+                           "quantity" : "5",
+                           "name" : "Кеторолак, р-р д/инъ 30мг 1мл 10",
+                           "price" : "55"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6988,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАКС-М&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955486445"
+                              }
+                           ],
+                           "phone" : "+74955486445",
+                           "city" : "Московская область",
+                           "latitude" : 55.5551,
+                           "address" : "Видное, 9"
+                        },
+                        "drug" : {
+                           "descid" : "1885",
+                           "quantity" : "3",
+                           "name" : "Кеторолак р-р д/ин. амп. 1мл 10",
+                           "price" : "75.6"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кеторолака трометамол (кеторолака трометамин)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

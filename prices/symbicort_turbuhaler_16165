@@ -1,0 +1,145 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "symbicort_turbuhaler",
+            "rus_name" : "Симбикорт® турбухалер®",
+            "form" : "порошок д/ингаляций дозированный 320 мкг+9 мкг/1 доза",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "symbicort_turbuhaler",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5162,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Будь здоров!",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1361"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1361",
+                           "city" : "Москва",
+                           "latitude" : 55.8053,
+                           "address" : "Ленинградский проспект, 74 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1206",
+                           "quantity" : "1",
+                           "name" : "Симбикорт турбухалер пор.д/ингал. 320/9мкг 60доз",
+                           "price" : "2790"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8504,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (252, пл. Дмитрия Донского)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1903",
+                                    "1989"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1903, 1989",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6299,
+                           "address" : "площадь Дмитрия Донского, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1206",
+                           "quantity" : "1",
+                           "name" : "Симбикорт турбухалер пор.д/ингал. 320/9мкг 60доз",
+                           "price" : "2508"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7726,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (225, Корнеева)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1387"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1387",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4359,
+                           "address" : "улица Корнеева, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1206",
+                           "quantity" : "5",
+                           "name" : "Симбикорт турбухалер пор.д/ингал. 320/9мкг 60доз",
+                           "price" : "2471"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.0443,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1740",
+                                    "1736"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1740, 1736",
+                           "city" : "Краснознаменск",
+                           "latitude" : 55.6012,
+                           "address" : "Молодёжная улица, 2/1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1206",
+                           "quantity" : "1",
+                           "name" : "Симбикорт турбухалер пор.д/ингал. 320/9мкг 60доз",
+                           "price" : "2551"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "будесонид + формотерола фумарата дигидрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

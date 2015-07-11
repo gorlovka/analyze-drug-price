@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "dysport",
+            "rus_name" : "Диспорт®",
+            "form" : "лиофилизат д/пригот. р-ра д/инъекций 300 ЕД",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "dysport",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74953517130"
+                              }
+                           ],
+                           "phone" : "+74953517130",
+                           "city" : "Москва",
+                           "latitude" : 55.6769,
+                           "address" : "Краснодарская улица, 57 к1"
+                        },
+                        "drug" : {
+                           "descid" : "942",
+                           "quantity" : "2",
+                           "name" : "Диспорт лиоф. д/приг. р-ра в/м п/к 300ед фл. 1",
+                           "price" : "13700"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5331,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959679545"
+                              }
+                           ],
+                           "phone" : "+74959679545",
+                           "city" : "Москва",
+                           "latitude" : 55.6456,
+                           "address" : "улица Генерала Антонова, 3"
+                        },
+                        "drug" : {
+                           "descid" : "942",
+                           "quantity" : "1",
+                           "name" : "Диспорт лиоф. д/приг. р-ра в/м п/к 300ед фл. 1",
+                           "price" : "13953"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "комплекс ботулинический токсин типа A - гемагглютинин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,630 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "atenolol_ratiopharm",
+            "rus_name" : "Атенолол-ратиофарм",
+            "form" : "таб., покр. оболочкой, 25 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 23,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "atenolol_ratiopharm",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5981,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956900719"
+                              }
+                           ],
+                           "phone" : "+74956900719",
+                           "city" : "Москва",
+                           "latitude" : 55.7608,
+                           "address" : "Большая Бронная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "2",
+                           "name" : "Атенолол-ратиофарм тбл п/о 25мг 30",
+                           "price" : "17.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5853,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аклауд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992504120"
+                              },
+                              {
+                                 "number" : "+74992504001"
+                              }
+                           ],
+                           "phone" : "+74992504120; +74992504001",
+                           "city" : "Москва",
+                           "latitude" : 55.7736,
+                           "address" : "2-я Брестская улица, 37 с1"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "1",
+                           "name" : "Атенолол-ратиофарм, тбл п/о 25мг 30",
+                           "price" : "15.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6094,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобал-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217612"
+                              },
+                              {
+                                 "number" : "+74959217601"
+                              }
+                           ],
+                           "phone" : "+74959217612; +74959217601",
+                           "city" : "Москва",
+                           "latitude" : 55.7208,
+                           "address" : "улица Шаболовка, 24"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "2",
+                           "name" : "Атенолол-ратиофарм, тбл п/о 25мг 30",
+                           "price" : "15.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "3",
+                           "name" : "Атенолол-ратиофарм тбл п/о 25мг 30",
+                           "price" : "17.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "1",
+                           "name" : "Атенолол-ратиофарм тбл п/о 25мг 30",
+                           "price" : "15"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Джонталд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991473085"
+                              },
+                              {
+                                 "number" : "+74991431096"
+                              }
+                           ],
+                           "phone" : "+74991473085; +74991431096",
+                           "city" : "Москва",
+                           "latitude" : 55.7257,
+                           "address" : "Мосфильмовская улица, 2В"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "7",
+                           "name" : "Атенолол-ратиофарм, тбл п/о 25мг 30",
+                           "price" : "18"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5724,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Солнышко-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959914592"
+                              }
+                           ],
+                           "phone" : "+74959914592",
+                           "city" : "Москва",
+                           "latitude" : 55.6848,
+                           "address" : "Профсоюзная улица, 5/9"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "2",
+                           "name" : "Атенолол-ратиофарм, тбл п/о 25мг 30",
+                           "price" : "16"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АКМ фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952116138"
+                              },
+                              {
+                                 "number" : "+74952116147"
+                              }
+                           ],
+                           "phone" : "+74952116138; +74952116147",
+                           "city" : "Москва",
+                           "latitude" : 55.7969,
+                           "address" : "улица Маршала Бирюзова, 26"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "5",
+                           "name" : "Атенолол-ратиофарм, тбл п/о 25мг 30",
+                           "price" : "15.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6043,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЭВЕРЕСТ&quot;.",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678592"
+                              }
+                           ],
+                           "phone" : "+74999678592",
+                           "city" : "Москва",
+                           "latitude" : 55.6579,
+                           "address" : "Болотниковская улица, 12 к3"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "1",
+                           "name" : "Атенолол-ратиофарм тбл п/о 25мг 30",
+                           "price" : "15.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4734,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармгрупп&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957896028"
+                              }
+                           ],
+                           "phone" : "+74957896028",
+                           "city" : "Москва",
+                           "latitude" : 55.8033,
+                           "address" : "улица Маршала Василевского, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "2",
+                           "name" : "Атенолол-ратиофарм тбл п/о 25мг 30",
+                           "price" : "13.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.777,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;КВАРТЕТ-ФАРМА&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7126,
+                           "address" : "Зеленодольская улица, 22/14"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "2",
+                           "name" : "Атенолол-ратиофарм тбл п/о 25мг 30",
+                           "price" : "15.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6402,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармстар&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994996561"
+                              },
+                              {
+                                 "number" : "+79857267056"
+                              }
+                           ],
+                           "phone" : "+74994996561; +79857267056",
+                           "city" : "Москва",
+                           "latitude" : 55.8494,
+                           "address" : "Снежная улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "2",
+                           "name" : "Атенолол-ратиофарм, тбл п/о 25мг 30",
+                           "price" : "16.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4362,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Тонистарк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954442715"
+                              }
+                           ],
+                           "phone" : "+74954442715",
+                           "city" : "Москва",
+                           "latitude" : 55.723,
+                           "address" : "улица Багрицкого, 8"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "3",
+                           "name" : "Атенолол-ратиофарм, тбл п/о 25мг 30",
+                           "price" : "17"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7651,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека в Марьино",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6813,
+                           "address" : "Ставропольская улица, 50/22"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "5",
+                           "name" : "Атенолол-ратиофарм тбл п/о 25мг 30",
+                           "price" : "13"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5983,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Горпром-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79035081695"
+                              },
+                              {
+                                 "number" : "+79035081693"
+                              }
+                           ],
+                           "phone" : "+79035081695; +79035081693",
+                           "city" : "Москва",
+                           "latitude" : 55.8657,
+                           "address" : "улица Декабристов, 10 к2"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "4",
+                           "name" : "Атенолол-ратиофарм, тбл п/о 25мг 30",
+                           "price" : "16.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5117,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Марена-Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74959914072"
+                              },
+                              {
+                                 "number" : "+74957732879"
+                              }
+                           ],
+                           "phone" : "+74959914072; +74957732879",
+                           "city" : "Москва",
+                           "latitude" : 55.8517,
+                           "address" : "Кронштадтский бульвар, 47"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "2",
+                           "name" : "Атенолол-ратиофарм, тбл п/о 25мг 30",
+                           "price" : "18"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6918,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЭЛ Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74952275378"
+                              },
+                              {
+                                 "number" : "+74952275379"
+                              }
+                           ],
+                           "phone" : "+74952275378; +74952275379",
+                           "city" : "Москва",
+                           "latitude" : 55.8621,
+                           "address" : "Ярославское шоссе, 55"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "5",
+                           "name" : "Атенолол-ратиофарм, тбл п/о 25мг 30",
+                           "price" : "13"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4898,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Глициния-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959675403"
+                              },
+                              {
+                                 "number" : "+74959675406"
+                              }
+                           ],
+                           "phone" : "+74959675403; +74959675406",
+                           "city" : "Москва",
+                           "latitude" : 55.8467,
+                           "address" : "Авангардная улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "1",
+                           "name" : "Атенолол-ратиофарм, тбл п/о 25мг 30",
+                           "price" : "15"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5157,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Правила здоровья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79857624841"
+                              },
+                              {
+                                 "number" : "+79857624847"
+                              }
+                           ],
+                           "phone" : "+79857624841; +79857624847",
+                           "city" : "Москва",
+                           "latitude" : 55.631,
+                           "address" : "Профсоюзная улица, 128 к1"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "4",
+                           "name" : "Атенолол-ратиофарм, тбл п/о 25мг 30",
+                           "price" : "13.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5879,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Адонис-Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74959243094"
+                              }
+                           ],
+                           "phone" : "+74959243094",
+                           "city" : "Москва",
+                           "latitude" : 55.885,
+                           "address" : "Алтуфьевское шоссе, 64"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "5",
+                           "name" : "Атенолол-ратиофарм, тбл п/о 25мг 30",
+                           "price" : "17.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5994,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Оксалин&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952013616"
+                              }
+                           ],
+                           "phone" : "+74952013616",
+                           "city" : "Москва",
+                           "latitude" : 55.5934,
+                           "address" : "Варшавское шоссе, 152"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "2",
+                           "name" : "Атенолол-ратиофарм, тбл п/о 25мг 30",
+                           "price" : "21"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3487,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МедФарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217874"
+                              },
+                              {
+                                 "number" : "+74959217875"
+                              },
+                              {
+                                 "number" : "+74986832266"
+                              }
+                           ],
+                           "phone" : "+74959217874; +74959217875; +74986832266",
+                           "city" : "Химки",
+                           "latitude" : 55.9407,
+                           "address" : "Новозаводская улица, 12, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "2",
+                           "name" : "Атенолол-ратиофарм, тбл п/о 25мг 30",
+                           "price" : "17.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Атрика&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8106,
+                           "address" : "проспект Ленина, 06, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "809",
+                           "quantity" : "1",
+                           "name" : "Атенолол-ратиофарм тбл п/о 25мг 30",
+                           "price" : "15.4"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "атенолол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

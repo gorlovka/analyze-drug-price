@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "cavinton",
+            "rus_name" : "Кавинтон®",
+            "form" : "концентрат д/пригот. р-ра д/инф. 10 мг/2 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "cavinton",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4472,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МРБ Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957822526"
+                              }
+                           ],
+                           "phone" : "+74957822526",
+                           "city" : "Москва",
+                           "latitude" : 55.8547,
+                           "address" : "Химкинский бульвар, 14 к4"
+                        },
+                        "drug" : {
+                           "descid" : "180",
+                           "quantity" : "1",
+                           "name" : "Кавинтон конц. д/инф 2мл 10 амп.",
+                           "price" : "232.8"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "винпоцетин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

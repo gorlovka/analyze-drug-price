@@ -1,0 +1,331 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "haloperidol",
+            "rus_name" : "Галоперидол",
+            "form" : "р-р д/инъекц. 0.5% (5 мг/1 мл)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 11,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "haloperidol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6279,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (76, Пятницкая)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959150427"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1334"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74959150427; +74952311697, доб. 1334",
+                           "city" : "Москва",
+                           "latitude" : 55.7445,
+                           "address" : "Пятницкая улица, 9/28"
+                        },
+                        "drug" : {
+                           "descid" : "1100",
+                           "quantity" : "2",
+                           "name" : "Галоперидол р-р д/в/в и в/м введ. 5мг 1мл 5",
+                           "price" : "114"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6017,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956503600"
+                              },
+                              {
+                                 "number" : "+74956503625"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74956503600; +74956503625; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.7648,
+                           "address" : "Малый Палашёвский переулок, 2/8"
+                        },
+                        "drug" : {
+                           "descid" : "1100",
+                           "quantity" : "1",
+                           "name" : "Галоперидол р-р д/ин. 0,5% 1мл 5",
+                           "price" : "110"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.602,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Аптека 5 &quot;На Триумфальной&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956997993"
+                              },
+                              {
+                                 "number" : "+74956996243"
+                              }
+                           ],
+                           "phone" : "+74956997993; +74956996243",
+                           "city" : "Москва",
+                           "latitude" : 55.7703,
+                           "address" : "Воротниковский переулок, 8с1"
+                        },
+                        "drug" : {
+                           "descid" : "1100",
+                           "quantity" : "2",
+                           "name" : "Галоперидол р-р для в/в и в/м введ 5мг амп 1мл 5",
+                           "price" : "121"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АС&quot;Эвалар&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992463637"
+                              }
+                           ],
+                           "phone" : "+74992463637",
+                           "city" : "Москва",
+                           "latitude" : 55.7357,
+                           "address" : "Зубовский бульвар, 13 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1100",
+                           "quantity" : "1",
+                           "name" : "Галоперидол р-р для в/м введ 0,5% амп 1мл 10",
+                           "price" : "68.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7686,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991727931"
+                              }
+                           ],
+                           "phone" : "+74991727931",
+                           "city" : "Москва",
+                           "latitude" : 55.7,
+                           "address" : "улица Юных Ленинцев, 73 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1100",
+                           "quantity" : "3",
+                           "name" : "Галоперидол р-р д/ин. 0,5% 1мл 5",
+                           "price" : "101"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74953517130"
+                              }
+                           ],
+                           "phone" : "+74953517130",
+                           "city" : "Москва",
+                           "latitude" : 55.6769,
+                           "address" : "Краснодарская улица, 57 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1100",
+                           "quantity" : "1",
+                           "name" : "Галоперидол р-р д/ин. 0,5% 1мл 10",
+                           "price" : "46"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8508,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. МОСОБЛФАРМАЦИЯ.  Аптека №1 334",
+                           "phones" : [
+                              {
+                                 "number" : "+79067318366"
+                              }
+                           ],
+                           "phone" : "+79067318366",
+                           "city" : "Реутов",
+                           "latitude" : 55.7673,
+                           "address" : "Садовый проезд, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1100",
+                           "quantity" : "1",
+                           "name" : "Галоперидол р-р д/ин. 0,5% 1мл n10 мосхимфарм",
+                           "price" : "75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6964,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «ТОРГМЕТ»",
+                           "phones" : [
+                              {
+                                 "number" : "+74956600255"
+                              }
+                           ],
+                           "phone" : "+74956600255",
+                           "city" : "Москва",
+                           "latitude" : 55.8798,
+                           "address" : "улица Малыгина, 5 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1100",
+                           "quantity" : "2",
+                           "name" : "Галоперидол 0.5% р-р д/ин. 1мл амп. х10 б (r)",
+                           "price" : "69.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6968,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (34, Шипиловский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953434230"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1314"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74953434230; +74952311697, доб. 1314",
+                           "city" : "Москва",
+                           "latitude" : 55.6113,
+                           "address" : "Шипиловский проезд, 39 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1100",
+                           "quantity" : "3",
+                           "name" : "Галоперидол р-р д/в/в и в/м введ. 5мг 1мл 5",
+                           "price" : "106"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.546,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла 271",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1767",
+                                    "1768"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1767, 1768",
+                           "city" : "Подольск",
+                           "latitude" : 55.4197,
+                           "address" : "Большая Серпуховская улица, 32"
+                        },
+                        "drug" : {
+                           "descid" : "1100",
+                           "quantity" : "1",
+                           "name" : "Галоперидол р-р д/в/в и в/м введ. 5мг 1мл 5",
+                           "price" : "104"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4915,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (236, Ленина)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965192777"
+                              }
+                           ],
+                           "phone" : "+74965192777",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8882,
+                           "address" : "улица Ленина, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1100",
+                           "quantity" : "1",
+                           "name" : "Галоперидол р-р д/в/в и в/м введ. 5мг 1мл 5",
+                           "price" : "93.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "галоперидол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

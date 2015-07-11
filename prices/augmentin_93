@@ -1,0 +1,262 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "augmentin",
+            "rus_name" : "Аугментин®",
+            "form" : "порошок д/пригот. сусп. д/приема внутрь 400 мг+57 мг/5 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 9,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "augmentin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6003,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Софрино г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956374111"
+                              },
+                              {
+                                 "number" : "+74956377568"
+                              }
+                           ],
+                           "phone" : "+74956374111; +74956377568",
+                           "city" : "Москва",
+                           "latitude" : 55.7444,
+                           "address" : "улица Пречистенка, 6"
+                        },
+                        "drug" : {
+                           "descid" : "37",
+                           "quantity" : "1",
+                           "name" : "Аугментин 400мг/57мг пор. д/приг. сусп.",
+                           "price" : "271.45"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6187,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Сиджам&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992380505"
+                              }
+                           ],
+                           "phone" : "+74992380505",
+                           "city" : "Москва",
+                           "latitude" : 55.7359,
+                           "address" : "улица Большая Полянка, 28 к1"
+                        },
+                        "drug" : {
+                           "descid" : "37",
+                           "quantity" : "5",
+                           "name" : "Аугментин пор д/внутрь сусп 400мг+57мг/5мл фл с мерн колп 12",
+                           "price" : "275"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармакон-Мед&quot; Аптека 14",
+                           "phones" : [
+                              {
+                                 "number" : "+74956101646"
+                              },
+                              {
+                                 "number" : "+74956113494"
+                              }
+                           ],
+                           "phone" : "+74956101646; +74956113494",
+                           "city" : "Москва",
+                           "latitude" : 55.8141,
+                           "address" : "Тимирязевская улица, 23"
+                        },
+                        "drug" : {
+                           "descid" : "37",
+                           "quantity" : "1",
+                           "name" : "Аугментин пор д/сусп 400мг/57мг/5мл",
+                           "price" : "285"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8583,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 7",
+                           "phones" : [
+                              {
+                                 "number" : "+74993941225"
+                              }
+                           ],
+                           "phone" : "+74993941225",
+                           "city" : "Реутов",
+                           "latitude" : 55.7556,
+                           "address" : "улица Ленина, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "37",
+                           "quantity" : "1",
+                           "name" : "Аугментин 400мг/57мг/5мл пор д/сусп",
+                           "price" : "273.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8611,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 3",
+                           "phones" : [
+                              {
+                                 "number" : "+74986618944"
+                              }
+                           ],
+                           "phone" : "+74986618944",
+                           "city" : "Реутов",
+                           "latitude" : 55.751,
+                           "address" : "Южная улица, 3в, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "37",
+                           "quantity" : "1",
+                           "name" : "Аугментин 400мг/57мг/5мл пор д/сусп",
+                           "price" : "269"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9224,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74985207135"
+                              }
+                           ],
+                           "phone" : "+74985207135",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7602,
+                           "address" : "Разинское шоссе, 12, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "37",
+                           "quantity" : "1",
+                           "name" : "Аугментин 400мг/57мг/5мл пор д/сусп",
+                           "price" : "270.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9357,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 2",
+                           "phones" : [
+                              {
+                                 "number" : "+74965219407"
+                              }
+                           ],
+                           "phone" : "+74965219407",
+                           "city" : "Балашиха",
+                           "latitude" : 55.804,
+                           "address" : "Советская улица, 21, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "37",
+                           "quantity" : "5",
+                           "name" : "Аугментин 400мг/57мг/5мл пор д/сусп",
+                           "price" : "269.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79255335280"
+                              }
+                           ],
+                           "phone" : "+79255335280",
+                           "city" : "Железнодорожный",
+                           "latitude" : 55.747,
+                           "address" : "Граничная улица, 18, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "37",
+                           "quantity" : "1",
+                           "name" : "Аугментин 400мг/57мг/5мл пор д/сусп",
+                           "price" : "270.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9696,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 5",
+                           "phones" : [
+                              {
+                                 "number" : "+74957411840"
+                              }
+                           ],
+                           "phone" : "+74957411840",
+                           "city" : "Балашиха",
+                           "latitude" : 55.823,
+                           "address" : "улица Свердлова, 19а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "37",
+                           "quantity" : "1",
+                           "name" : "Аугментин 400мг/57мг/5мл пор д/сусп",
+                           "price" : "267.6"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амоксициллин (в форме тригидрата) + клавулановая кислота (в форме калиевой соли) + амоксициллин (в форме натриевой соли)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

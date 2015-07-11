@@ -1,0 +1,162 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "advagraf",
+            "rus_name" : "Адваграф®",
+            "form" : "капс. пролонгир. действия 1 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "advagraf",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "3314",
+                           "quantity" : "13",
+                           "name" : "Адваграф,капсулы,1мг 50шт",
+                           "price" : "3500"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.499,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АПТЕКА Формула Здоровья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956268343"
+                              }
+                           ],
+                           "phone" : "+74956268343",
+                           "city" : "Москва",
+                           "latitude" : 55.7021,
+                           "address" : "улица Столетова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "3314",
+                           "quantity" : "1",
+                           "name" : "Адваграф ??? капс 50",
+                           "price" : "5110"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7452,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490238"
+                              }
+                           ],
+                           "phone" : "+74996490238",
+                           "city" : "Москва",
+                           "latitude" : 55.6968,
+                           "address" : "улица Чистова, 16к1"
+                        },
+                        "drug" : {
+                           "descid" : "3314",
+                           "quantity" : "10",
+                           "name" : "Адваграф капс пролонг 1мг 50",
+                           "price" : "5624.45"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8205,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ИЗМАЙЛОВО",
+                           "phones" : [
+                              {
+                                 "number" : "+74956625463"
+                              }
+                           ],
+                           "phone" : "+74956625463",
+                           "city" : "Москва",
+                           "latitude" : 55.7745,
+                           "address" : "Большой Купавенский проезд, 4"
+                        },
+                        "drug" : {
+                           "descid" : "3314",
+                           "quantity" : "1",
+                           "name" : "Адваграф??? капс 1мг 50",
+                           "price" : "3993"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "3314",
+                           "quantity" : "33",
+                           "name" : "Адваграф 1 мг капс. 50",
+                           "price" : "5380"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "такролимус"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

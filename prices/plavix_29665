@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "plavix",
+            "rus_name" : "Плавикс®",
+            "form" : "таб., покр. пленочной оболочкой, 300 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "plavix",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.814,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74954682066"
+                              }
+                           ],
+                           "phone" : "+74954682066",
+                           "city" : "Москва",
+                           "latitude" : 55.8105,
+                           "address" : "Щёлковское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "608",
+                           "quantity" : "3",
+                           "name" : "Плавикс тб 300мг 10",
+                           "price" : "2395"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5879,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Адонис-Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74959243094"
+                              }
+                           ],
+                           "phone" : "+74959243094",
+                           "city" : "Москва",
+                           "latitude" : 55.885,
+                           "address" : "Алтуфьевское шоссе, 64"
+                        },
+                        "drug" : {
+                           "descid" : "608",
+                           "quantity" : "1",
+                           "name" : "Плавикс, тбл п/п/о 300мг 10",
+                           "price" : "2525.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "клопидогрел"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

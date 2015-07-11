@@ -1,0 +1,685 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "gliclazide_mr",
+            "rus_name" : "Гликлазид мв",
+            "form" : "таб. с модифиц. высвобождением 30 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 26,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "gliclazide_mr",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6114,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Фармацевтическая компания &quot;БЕЛЫЙ ЛОТОС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959804897"
+                              }
+                           ],
+                           "phone" : "+74959804897",
+                           "city" : "Москва",
+                           "latitude" : 55.7268,
+                           "address" : "улица Шаболовка, 2"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "7",
+                           "name" : "Гликлазид мв 30 мг таб с модиф.высв.х60",
+                           "price" : "133"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6333,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955856015"
+                              },
+                              {
+                                 "number" : "+79162130905"
+                              }
+                           ],
+                           "phone" : "+74955856015; +79162130905",
+                           "city" : "Москва",
+                           "latitude" : 55.7856,
+                           "address" : "улица Гиляровского, 50"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "1",
+                           "name" : "Гликлазид мв тб модиф высв 30мг блист n30x2",
+                           "price" : "133.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "1",
+                           "name" : "Гликлазид мв,таблетки с модифицированным высвобождением,30мг 60шт",
+                           "price" : "129"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "1",
+                           "name" : "Гликлазид мв 0.03 n60 табл с модиф высвоб",
+                           "price" : "142"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "2",
+                           "name" : "Гликлазид мв тбл с модиф. высвоб. 30мг 60",
+                           "price" : "134"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "1",
+                           "name" : "Гликлазид мв тбл с модиф. высвоб. 30мг 60",
+                           "price" : "136"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7154,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья-2",
+                           "phones" : [
+                              {
+                                 "number" : "+74956264772"
+                              }
+                           ],
+                           "phone" : "+74956264772",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "Просторная улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "1",
+                           "name" : "Гликлазид мв тб 30мг 60",
+                           "price" : "130.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Фирма Здоровье г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74957381041"
+                              }
+                           ],
+                           "phone" : "+74957381041",
+                           "city" : "Москва",
+                           "latitude" : 55.7659,
+                           "address" : "Филёвский бульвар, 11"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "8",
+                           "name" : "Гликлазид мв табл 30мг 30 (озон)",
+                           "price" : "139"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6043,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЭВЕРЕСТ&quot;.",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678592"
+                              }
+                           ],
+                           "phone" : "+74999678592",
+                           "city" : "Москва",
+                           "latitude" : 55.6579,
+                           "address" : "Болотниковская улица, 12 к3"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "1",
+                           "name" : "Гликлазид мв тбл с модиф. высвоб. 30мг 60",
+                           "price" : "122.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.738,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АСАКИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957770006"
+                              },
+                              {
+                                 "number" : "+74953501401"
+                              }
+                           ],
+                           "phone" : "+74957770006; +74953501401",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Люблинская улица, 50 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "2",
+                           "name" : "Гликлазид мв, тбл модиф высв 30мг 60",
+                           "price" : "120"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5936,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Феерия г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74955855080"
+                              },
+                              {
+                                 "number" : "+74955459469"
+                              }
+                           ],
+                           "phone" : "+74955855080; +74955459469",
+                           "city" : "Москва",
+                           "latitude" : 55.6516,
+                           "address" : "улица Каховка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "1",
+                           "name" : "Гликлазид мв, тбл 30мг 60",
+                           "price" : "121"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.465,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 2 (ООО Феерия Фарм Плюс)",
+                           "phones" : [
+                              {
+                                 "number" : "+74997204839"
+                              }
+                           ],
+                           "phone" : "+74997204839",
+                           "city" : "Москва",
+                           "latitude" : 55.8077,
+                           "address" : "улица Маршала Василевского, 15"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "1",
+                           "name" : "Гликлазид мв, тбл 30мг 60",
+                           "price" : "132"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7562,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991675698"
+                              }
+                           ],
+                           "phone" : "+74991675698",
+                           "city" : "Москва",
+                           "latitude" : 55.824,
+                           "address" : "Открытое шоссе, 21 к4"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "4",
+                           "name" : "Гликлазид мв тбл. с модиф. высвоб. 0,03 n60",
+                           "price" : "137.55"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7651,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека в Марьино",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6813,
+                           "address" : "Ставропольская улица, 50/22"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "1",
+                           "name" : "Гликлазид мв тбл с модиф. высвоб. 30мг 60",
+                           "price" : "115"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Малина&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999038725"
+                              }
+                           ],
+                           "phone" : "+74999038725",
+                           "city" : "Москва",
+                           "latitude" : 55.8593,
+                           "address" : "Алтуфьевское шоссе, 22"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "2",
+                           "name" : "Гликлазид мв, тбл модиф высв 30мг 60",
+                           "price" : "162"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8611,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 3",
+                           "phones" : [
+                              {
+                                 "number" : "+74986618944"
+                              }
+                           ],
+                           "phone" : "+74986618944",
+                           "city" : "Реутов",
+                           "latitude" : 55.751,
+                           "address" : "Южная улица, 3в, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "1",
+                           "name" : "Гликлазид мв таб. с мод высвоб.30мг 60",
+                           "price" : "125.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7199,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 46",
+                           "phones" : [
+                              {
+                                 "number" : "+74983017066"
+                              }
+                           ],
+                           "phone" : "+74983017066",
+                           "city" : "Мытищи",
+                           "latitude" : 55.8945,
+                           "address" : "улица Веры Волошиной, 20, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "1",
+                           "name" : "Гликлазид мв таб. с модиф. высвоб. 30мг 60",
+                           "price" : "130.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9224,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74985207135"
+                              }
+                           ],
+                           "phone" : "+74985207135",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7602,
+                           "address" : "Разинское шоссе, 12, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "3",
+                           "name" : "Гликлазид мв таб. с мод высвоб.30мг 60",
+                           "price" : "124.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8623,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 13",
+                           "phones" : [
+                              {
+                                 "number" : "+79015140401"
+                              }
+                           ],
+                           "phone" : "+79015140401",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6276,
+                           "address" : "Томилинская улица, 7, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "6",
+                           "name" : "Гликлазид мв таб. с модиф. высвоб. 30мг 60",
+                           "price" : "128.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9357,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 2",
+                           "phones" : [
+                              {
+                                 "number" : "+74965219407"
+                              }
+                           ],
+                           "phone" : "+74965219407",
+                           "city" : "Балашиха",
+                           "latitude" : 55.804,
+                           "address" : "Советская улица, 21, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "10",
+                           "name" : "Гликлазид мв таб. с мод высвоб.30мг 60",
+                           "price" : "122.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0068,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 4",
+                           "phones" : [
+                              {
+                                 "number" : "+74959819730"
+                              }
+                           ],
+                           "phone" : "+74959819730",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7503,
+                           "address" : "Пролетарская улица, 2к2"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "6",
+                           "name" : "Гликлазид мв таб. с мод высвоб.30мг 60",
+                           "price" : "126.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0107,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВИТА-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955229477"
+                              }
+                           ],
+                           "phone" : "+74955229477",
+                           "city" : "Балашиха",
+                           "latitude" : 55.749,
+                           "address" : "Пролетарская улица, 3"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "1",
+                           "name" : "Гликлазид мв таб. с модиф. высвоб. 30мг 60 озон ооо(россия)",
+                           "price" : "130"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2958,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Река Смородина&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957360033"
+                              }
+                           ],
+                           "phone" : "+74957360033",
+                           "city" : "Внуково",
+                           "latitude" : 55.611,
+                           "address" : "Большая Внуковская улица, 19/8, Москва, район Внуково"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "2",
+                           "name" : "Гликлазид мв, тбл модиф высв 30мг 60",
+                           "price" : "141"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1161,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 9",
+                           "phones" : [
+                              {
+                                 "number" : "+74955108695"
+                              }
+                           ],
+                           "phone" : "+74955108695",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7532,
+                           "address" : "Шоссейная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "4",
+                           "name" : "Гликлазид мв таб. с мод высвоб.30мг 60",
+                           "price" : "130"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5062,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 48",
+                           "phones" : [
+                              {
+                                 "number" : "+74957284067"
+                              }
+                           ],
+                           "phone" : "+74957284067",
+                           "city" : "Подольск",
+                           "latitude" : 55.4325,
+                           "address" : "Октябрьский проспект, 21, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "3",
+                           "name" : "Гликлазид мв таб. с модиф. высвоб. 30мг 60",
+                           "price" : "128.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Атрика&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8106,
+                           "address" : "проспект Ленина, 06, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8521",
+                           "quantity" : "1",
+                           "name" : "Гликлазид мв тбл с модиф. высвоб. 30мг 60",
+                           "price" : "106"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "гликлазид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

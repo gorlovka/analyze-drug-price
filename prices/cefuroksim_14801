@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "cefuroksim",
+            "rus_name" : "Цефуроксим",
+            "form" : "порошок д/пригот. р-ра д/в/в и в/м введения 750 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "cefuroksim",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "4050",
+                           "quantity" : "2",
+                           "name" : "Цефуроксим пор. д/ин фл 750мг 1",
+                           "price" : "126"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.573,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999764410"
+                              }
+                           ],
+                           "phone" : "+74999764410",
+                           "city" : "Москва",
+                           "latitude" : 55.8118,
+                           "address" : "улица Костякова, 6/5"
+                        },
+                        "drug" : {
+                           "descid" : "4050",
+                           "quantity" : "36",
+                           "name" : "Цефуроксим, пор д/инъ в/в в/м 750мг фл 1",
+                           "price" : "117.65"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6338,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Полюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994732334"
+                              }
+                           ],
+                           "phone" : "+74994732334",
+                           "city" : "Москва",
+                           "latitude" : 55.8701,
+                           "address" : "проезд Дежнёва, 27 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4050",
+                           "quantity" : "5",
+                           "name" : "Цефуроксим пор д/и в/м 750мг фл",
+                           "price" : "72"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цефуроксим (в форме натриевой соли)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

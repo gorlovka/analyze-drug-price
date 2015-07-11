@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "bicillin_1",
+            "rus_name" : "Бициллин®-1",
+            "form" : "порошок д/пригот. сусп. д/в/м введения 1.2 млн.ЕД",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "bicillin_1",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6977,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СИГМА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74951248018"
+                              }
+                           ],
+                           "phone" : "+74951248018",
+                           "city" : "Москва",
+                           "latitude" : 55.7582,
+                           "address" : "Красноказарменная улица, 9"
+                        },
+                        "drug" : {
+                           "descid" : "984",
+                           "quantity" : "50",
+                           "name" : "Бициллин-1, пор.д/приг сусп для в/м введ 600тыс.ед 1",
+                           "price" : "7.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "бензатина бензилпенициллин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

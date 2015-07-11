@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "cetirizin_hexal",
+            "rus_name" : "Цетиризин гексал",
+            "form" : "капли д/приема внутрь 10 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "cetirizin_hexal",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7975,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Мебиус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959659820"
+                              },
+                              {
+                                 "number" : "+74959659819"
+                              }
+                           ],
+                           "phone" : "+74959659820; +74959659819",
+                           "city" : "Москва",
+                           "latitude" : 55.8024,
+                           "address" : "9-я Парковая улица, 43/26"
+                        },
+                        "drug" : {
+                           "descid" : "2899",
+                           "quantity" : "1",
+                           "name" : "Цетиризин гексал 20мл капли",
+                           "price" : "244"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6035,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ТЭКС-ФАРМ ОТРАДНОЕ",
+                           "phones" : [
+                              {
+                                 "number" : "+74997452967"
+                              }
+                           ],
+                           "phone" : "+74997452967",
+                           "city" : "Москва",
+                           "latitude" : 55.8655,
+                           "address" : "улица Декабристов, 15"
+                        },
+                        "drug" : {
+                           "descid" : "2899",
+                           "quantity" : "1",
+                           "name" : "Цетиризин гексал капли 20мл",
+                           "price" : "206"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цетиризина дигидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

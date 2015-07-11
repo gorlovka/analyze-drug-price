@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "lorafen",
+            "rus_name" : "Лорафен",
+            "form" : "драже 1 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "lorafen",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8157,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;АНСИмед&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954685225"
+                              },
+                              {
+                                 "number" : "+74995302091"
+                              }
+                           ],
+                           "phone" : "+74954685225; +74995302091",
+                           "city" : "Москва",
+                           "latitude" : 55.7974,
+                           "address" : "Измайловский бульвар, 67 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1357",
+                           "quantity" : "55",
+                           "name" : "Лорафен 1мг 25 драже",
+                           "price" : "206.97"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7619,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 037",
+                           "phones" : [
+                              {
+                                 "number" : "+74967931003"
+                              }
+                           ],
+                           "phone" : "+74967931003",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4406,
+                           "address" : "Советская улица, 13, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1357",
+                           "quantity" : "16",
+                           "name" : "Лорафен драже 1мг n25",
+                           "price" : "213"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "лоразепам"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

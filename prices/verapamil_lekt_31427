@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "verapamil_lekt",
+            "rus_name" : "Верапамил-лект",
+            "form" : "таб., покр. оболочкой, 80 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "verapamil_lekt",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Терра Вита&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996189219"
+                              }
+                           ],
+                           "phone" : "+74996189219",
+                           "city" : "Москва",
+                           "latitude" : 55.6806,
+                           "address" : "Нагатинская набережная, 16к3"
+                        },
+                        "drug" : {
+                           "descid" : "6725",
+                           "quantity" : "5",
+                           "name" : "Верапамил-лект 80 мг тб. 50",
+                           "price" : "53.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3684,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГудМедикал&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959711538"
+                              }
+                           ],
+                           "phone" : "+74959711538",
+                           "city" : "Московский",
+                           "latitude" : 55.5929,
+                           "address" : "Радужная улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "6725",
+                           "quantity" : "10",
+                           "name" : "Верапамил-лект таб. п.п.о. 80мг 50",
+                           "price" : "60"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "верапамила гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

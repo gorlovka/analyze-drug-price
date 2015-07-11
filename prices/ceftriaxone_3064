@@ -1,0 +1,112 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ceftriaxone",
+            "rus_name" : "Цефтриаксон",
+            "form" : "порошок д/пригот. р-ра д/в/в и в/м введен. 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ceftriaxone",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6302,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Эра Здоровья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959886458"
+                              },
+                              {
+                                 "number" : "+74957786458"
+                              }
+                           ],
+                           "phone" : "+74959886458; +74957786458",
+                           "city" : "Москва",
+                           "latitude" : 55.7431,
+                           "address" : "Пятницкий переулок, 3"
+                        },
+                        "drug" : {
+                           "descid" : "1572",
+                           "quantity" : "4",
+                           "name" : "Цефтриаксон пор д/ин фл 1,0",
+                           "price" : "26"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; ЭЛЬРУФ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959510826"
+                              }
+                           ],
+                           "phone" : "+74959510826",
+                           "city" : "Москва",
+                           "latitude" : 55.7311,
+                           "address" : "Валовая улица, 14с8"
+                        },
+                        "drug" : {
+                           "descid" : "1572",
+                           "quantity" : "11",
+                           "name" : "Цефтриаксон пор.для в/в и в/м введ. 1,0",
+                           "price" : "25.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5785,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фортис г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956397363"
+                              },
+                              {
+                                 "number" : "+74956108378"
+                              }
+                           ],
+                           "phone" : "+74956397363; +74956108378",
+                           "city" : "Москва",
+                           "latitude" : 55.8191,
+                           "address" : "улица Яблочкова, 19г"
+                        },
+                        "drug" : {
+                           "descid" : "1572",
+                           "quantity" : "10",
+                           "name" : "Цефтриаксон 1.0 пор д/р-ра в/в в/м+р-ль красфарма оао (россия)",
+                           "price" : "180"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цефтриаксон (в форме натриевой соли) + цефтриаксон (в форме динатриевой соли) + цефтриаксон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

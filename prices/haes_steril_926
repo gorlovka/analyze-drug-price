@@ -1,0 +1,441 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "haes_steril",
+            "rus_name" : "Хаес-стерил",
+            "form" : "р-р д/инф. 10% (ГЭК 200/0.5)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 15,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "haes_steril",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва (Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992382865"
+                              },
+                              {
+                                 "number" : "+74992387410"
+                              }
+                           ],
+                           "phone" : "+74992382865; +74992387410",
+                           "city" : "Москва",
+                           "latitude" : 55.7341,
+                           "address" : "улица Большая Полянка, 30"
+                        },
+                        "drug" : {
+                           "descid" : "495",
+                           "quantity" : "1",
+                           "name" : "Хаес-стерил 10% р-р д/инф. 500мл 1 разб",
+                           "price" : "355"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "495",
+                           "quantity" : "6",
+                           "name" : "Хаес-стерил 10% 500мл 1р р-р д/инф",
+                           "price" : "352"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6364,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люция&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959531618"
+                              },
+                              {
+                                 "number" : "+74959530128"
+                              }
+                           ],
+                           "phone" : "+74959531618; +74959530128",
+                           "city" : "Москва",
+                           "latitude" : 55.7316,
+                           "address" : "Новокузнецкая улица, 43/16"
+                        },
+                        "drug" : {
+                           "descid" : "495",
+                           "quantity" : "1",
+                           "name" : "Хаес-стерил, р-р д/инф 10% 500мл 10 дроб 1/10",
+                           "price" : "1776.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6094,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобал-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217612"
+                              },
+                              {
+                                 "number" : "+74959217601"
+                              }
+                           ],
+                           "phone" : "+74959217612; +74959217601",
+                           "city" : "Москва",
+                           "latitude" : 55.7208,
+                           "address" : "улица Шаболовка, 24"
+                        },
+                        "drug" : {
+                           "descid" : "495",
+                           "quantity" : "10",
+                           "name" : "Хаес-стерил, р-р д/инф 10% 500мл 10 дроб 1/10",
+                           "price" : "398"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.671,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 11",
+                           "phones" : [
+                              {
+                                 "number" : "+74959111480"
+                              }
+                           ],
+                           "phone" : "+74959111480",
+                           "city" : "Москва",
+                           "latitude" : 55.7401,
+                           "address" : "Таганская улица, 31/22"
+                        },
+                        "drug" : {
+                           "descid" : "495",
+                           "quantity" : "2",
+                           "name" : "Хаес-стерил, р-р д/инф 10% 500мл 10",
+                           "price" : "3701"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5878,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Калина Фарм МСК",
+                           "phones" : [
+                              {
+                                 "number" : "+74991267745"
+                              },
+                              {
+                                 "number" : "+74956646053"
+                              },
+                              {
+                                 "number" : "+74956646056"
+                              },
+                              {
+                                 "number" : "+78005500321"
+                              }
+                           ],
+                           "phone" : "+74991267745; +74956646053; +74956646056; +78005500321",
+                           "city" : "Москва",
+                           "latitude" : 55.6915,
+                           "address" : "улица Шверника, 12/2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "495",
+                           "quantity" : "9",
+                           "name" : "Хаес-стерил, р-р д/инф 10% 500мл 1",
+                           "price" : "389"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4906,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЛекФарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959913603"
+                              },
+                              {
+                                 "number" : "+74959912803"
+                              }
+                           ],
+                           "phone" : "+74959913603; +74959912803",
+                           "city" : "Москва",
+                           "latitude" : 55.7973,
+                           "address" : "улица Маршала Рыбалко, 9"
+                        },
+                        "drug" : {
+                           "descid" : "495",
+                           "quantity" : "19",
+                           "name" : "Хаес-стерил, р-р д/инф 10% 500мл 10 дроб 1/10",
+                           "price" : "393.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7934,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИНАД-ЭКСПЕРТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956522369"
+                              },
+                              {
+                                 "number" : "+74956522370"
+                              }
+                           ],
+                           "phone" : "+74956522369; +74956522370",
+                           "city" : "Москва",
+                           "latitude" : 55.7997,
+                           "address" : "7-я Парковая улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "495",
+                           "quantity" : "33",
+                           "name" : "Хаес-стерил 10% 500 мл р-р фл. 1",
+                           "price" : "679"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8027,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №78",
+                           "phones" : [
+                              {
+                                 "number" : "+74991662336"
+                              }
+                           ],
+                           "phone" : "+74991662336",
+                           "city" : "Москва",
+                           "latitude" : 55.7975,
+                           "address" : "Измайловский бульвар, 55"
+                        },
+                        "drug" : {
+                           "descid" : "495",
+                           "quantity" : "3",
+                           "name" : "Хаес-стерил р-р д/инф. флак. 10% 500мл n10",
+                           "price" : "4140"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5983,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Горпром-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79035081695"
+                              },
+                              {
+                                 "number" : "+79035081693"
+                              }
+                           ],
+                           "phone" : "+79035081695; +79035081693",
+                           "city" : "Москва",
+                           "latitude" : 55.8657,
+                           "address" : "улица Декабристов, 10 к2"
+                        },
+                        "drug" : {
+                           "descid" : "495",
+                           "quantity" : "1",
+                           "name" : "Хаес-стерил, р-р д/инф 10% 500мл 10 дроб 1/10",
+                           "price" : "289"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4898,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Глициния-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959675403"
+                              },
+                              {
+                                 "number" : "+74959675406"
+                              }
+                           ],
+                           "phone" : "+74959675403; +74959675406",
+                           "city" : "Москва",
+                           "latitude" : 55.8467,
+                           "address" : "Авангардная улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "495",
+                           "quantity" : "3",
+                           "name" : "Хаес-стерил, р-р д/инф 10% 500мл 10 дроб 1/10",
+                           "price" : "413"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6115,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №479",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6218,
+                           "address" : "Кировоградская улица, 9 к4"
+                        },
+                        "drug" : {
+                           "descid" : "495",
+                           "quantity" : "1",
+                           "name" : "Хаес-стерил р-р д/инф. флак. 10% 500мл n10",
+                           "price" : "395"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5879,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Адонис-Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74959243094"
+                              }
+                           ],
+                           "phone" : "+74959243094",
+                           "city" : "Москва",
+                           "latitude" : 55.885,
+                           "address" : "Алтуфьевское шоссе, 64"
+                        },
+                        "drug" : {
+                           "descid" : "495",
+                           "quantity" : "2",
+                           "name" : "Хаес-стерил, р-р д/инф 10% 500мл 10 дроб 1/10",
+                           "price" : "342"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4389,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «Лилия»",
+                           "phones" : [
+                              {
+                                 "number" : "+74956646042"
+                              },
+                              {
+                                 "number" : "+74956646041"
+                              }
+                           ],
+                           "phone" : "+74956646042; +74956646041",
+                           "city" : "Москва",
+                           "latitude" : 55.8497,
+                           "address" : "Сходненская улица, 37"
+                        },
+                        "drug" : {
+                           "descid" : "495",
+                           "quantity" : "10",
+                           "name" : "Хаес-стерил, р-р д/инф 10% 500мл 1 10/1 дроб.",
+                           "price" : "462"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8534,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ТС &quot;АПТЕЧКА&quot;.  Аптека №435",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6839,
+                           "address" : "улица Генерала Кузнецова, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "495",
+                           "quantity" : "2",
+                           "name" : "Хаес-стерил р-р д/инф. флак. 10% 500мл n10",
+                           "price" : "3978"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "гидроксиэтилкрахмал 200/0.5"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "cefabol",
+            "rus_name" : "Цефабол®",
+            "form" : "порошок д/пригот. р-ра д/в/в и в/м введения 1 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "cefabol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6048,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953120632"
+                              }
+                           ],
+                           "phone" : "+74953120632",
+                           "city" : "Москва",
+                           "latitude" : 55.6286,
+                           "address" : "Чертановская улица, 9 к3"
+                        },
+                        "drug" : {
+                           "descid" : "2766",
+                           "quantity" : "50",
+                           "name" : "Цефабол, пор д/инъ в/в и в/м 1г 5фл уп кон/с р-лем/пач карт",
+                           "price" : "622.08"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4217,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959490314"
+                              }
+                           ],
+                           "phone" : "+74959490314",
+                           "city" : "Москва",
+                           "latitude" : 55.8494,
+                           "address" : "Туристская улица, 13 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2766",
+                           "quantity" : "8",
+                           "name" : "Цефабол, пор д/инъ в/в и в/м 1г 5фл уп кон/с р-лем/пач карт",
+                           "price" : "622.1"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цефотаксим (в форме натриевой соли)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

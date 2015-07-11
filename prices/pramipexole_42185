@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "pramipexole",
+            "rus_name" : "Прамипексол",
+            "form" : "таб. 0.25 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "pramipexole",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4958,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956412870"
+                              }
+                           ],
+                           "phone" : "+74956412870",
+                           "city" : "Москва",
+                           "latitude" : 55.7468,
+                           "address" : "Большая Филёвская улица, 19/18 к2"
+                        },
+                        "drug" : {
+                           "descid" : "8658",
+                           "quantity" : "1",
+                           "name" : "Прамипексол таб. 0,25мг 30",
+                           "price" : "483"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "прамипексола дигидрохлорида моногидрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

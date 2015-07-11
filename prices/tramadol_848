@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "tramadol",
+            "rus_name" : "Трамадол",
+            "form" : "капс. 50 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "tramadol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5711,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВЕРАФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74997440387"
+                              }
+                           ],
+                           "phone" : "+74997440387",
+                           "city" : "Москва",
+                           "latitude" : 55.5773,
+                           "address" : "Ратная улица, 16 к3"
+                        },
+                        "drug" : {
+                           "descid" : "448",
+                           "quantity" : "1",
+                           "name" : "Трамадол капс. 50мг 20",
+                           "price" : "71"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3469,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека Ново-Переделкино&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957330127"
+                              },
+                              {
+                                 "number" : "+74957330128"
+                              }
+                           ],
+                           "phone" : "+74957330127; +74957330128",
+                           "city" : "Москва",
+                           "latitude" : 55.643,
+                           "address" : "улица Скульптора Мухиной, 6"
+                        },
+                        "drug" : {
+                           "descid" : "448",
+                           "quantity" : "3",
+                           "name" : "Трамадол капc 50 мг блист n10x2",
+                           "price" : "72.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "трамадола гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

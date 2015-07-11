@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "piracetam_richter",
+            "rus_name" : "Пирацетам-рихтер",
+            "form" : "таб., покр. пленочной оболочкой, 400 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "piracetam_richter",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6388,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»4 (ООО &quot;Сэсса Фарм плюс&quot;)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956649436"
+                              }
+                           ],
+                           "phone" : "+74956649436",
+                           "city" : "Москва",
+                           "latitude" : 55.813,
+                           "address" : "проспект Мира, 122"
+                        },
+                        "drug" : {
+                           "descid" : "1484",
+                           "quantity" : "1",
+                           "name" : "Пирацетам-рихтер 400мг n20 таб.",
+                           "price" : "91"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.527,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»",
+                           "phones" : [
+                              {
+                                 "number" : "+74955326904"
+                              }
+                           ],
+                           "phone" : "+74955326904",
+                           "city" : "Москва",
+                           "latitude" : 55.6595,
+                           "address" : "улица Академика Челомея, 3 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1484",
+                           "quantity" : "2",
+                           "name" : "Пирацетам-рихтер 400мг n20 таб.",
+                           "price" : "97"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "пирацетам"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

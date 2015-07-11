@@ -1,0 +1,1965 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "hexicon",
+            "rus_name" : "Гексикон®",
+            "form" : "р-р д/наружн. прим. 0.05%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 76,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "hexicon",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5973,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №853 ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7667,
+                           "address" : "Благовещенский переулок, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "120"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6335,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла (Сретенский тупик)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0944"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0944",
+                           "city" : "Москва",
+                           "latitude" : 55.7712,
+                           "address" : "Сретенский тупик, 4"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон п/э р-р. фл. 100мл",
+                           "price" : "121"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6583,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (87, Земляной Вал)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957302730"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1911"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957302730; +74952311697, доб. 1911",
+                           "city" : "Москва",
+                           "latitude" : 55.7595,
+                           "address" : "улица Земляной Вал, 27"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон п/э р-р. фл. 100мл",
+                           "price" : "119"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5862,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "Фармсервис медикал",
+                           "phones" : [
+                              {
+                                 "number" : "+74992501012"
+                              }
+                           ],
+                           "phone" : "+74992501012",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "1-я Тверская-Ямская улица, 36 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р 0.05% 100мл",
+                           "price" : "111"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5933,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №808",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7813,
+                           "address" : "1-я Миусская улица, 24/22с4"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "122"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5575,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79269093008"
+                              }
+                           ],
+                           "phone" : "+79269093008",
+                           "city" : "Москва",
+                           "latitude" : 55.7568,
+                           "address" : "Мантулинская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "3",
+                           "name" : "Гексикон р-р наруж. 0,05% 100мл",
+                           "price" : "110"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;РУСАПТЕКА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993433207"
+                              }
+                           ],
+                           "phone" : "+74993433207",
+                           "city" : "Москва",
+                           "latitude" : 55.7712,
+                           "address" : "Бауманская улица, 38 с2"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон, 0,05% р-р д/наруж 100мл",
+                           "price" : "110"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6774,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №816",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7733,
+                           "address" : "Спартаковская улица, 21"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "124"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6755,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №953",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7202,
+                           "address" : "Шарикоподшипниковская улица, 11 с6"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "106"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.661,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1946",
+                                    "1985"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1946, 1985",
+                           "city" : "Москва",
+                           "latitude" : 55.7917,
+                           "address" : "улица Сокольнический Вал, 22"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон п/э р-р. фл. 100мл",
+                           "price" : "66"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.526,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №573",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7291,
+                           "address" : "улица Пырьева, 20"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "105"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5927,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №578 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6866,
+                           "address" : "улица Винокурова, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "106"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5443,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №210",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6897,
+                           "address" : "Ленинский проспект, 68/10"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "3",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "108"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7195,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956639773"
+                              }
+                           ],
+                           "phone" : "+74956639773",
+                           "city" : "Москва",
+                           "latitude" : 55.8005,
+                           "address" : "улица Хромова, 7/1"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р наруж. 0,05% 100мл",
+                           "price" : "105"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6588,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (140, Нагатинская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74996120178"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1973"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74996120178; +74952311697, доб. 1973",
+                           "city" : "Москва",
+                           "latitude" : 55.6778,
+                           "address" : "Нагатинская улица, 31"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон п/э р-р. фл. 100мл",
+                           "price" : "94.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5788,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №462",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8269,
+                           "address" : "улица Яблочкова, 37"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "119"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7267,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ТС &quot;АПТЕЧКА&quot;.  Аптека №123",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6884,
+                           "address" : "Шоссейная улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "116"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.748,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;РИГЛА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1657",
+                                    "1658"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1657, 1658",
+                           "city" : "Москва",
+                           "latitude" : 55.697,
+                           "address" : "7-я улица Текстильщиков, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон п/э р-р. фл. 100мл",
+                           "price" : "105"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7862,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Парус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957702729"
+                              }
+                           ],
+                           "phone" : "+74957702729",
+                           "city" : "Москва",
+                           "latitude" : 55.7425,
+                           "address" : "Кусковская улица, 31 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "3",
+                           "name" : "Гексикон р-р 0.05% для наружн. применения 100мл",
+                           "price" : "116.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5834,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №87",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6549,
+                           "address" : "Керченская улица, 1б"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "105"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ЗДОРОВЬЕ ПЛЮС",
+                           "phones" : [
+                              {
+                                 "number" : "+74991223092"
+                              }
+                           ],
+                           "phone" : "+74991223092",
+                           "city" : "Москва",
+                           "latitude" : 55.6542,
+                           "address" : "улица Каховка, 10к3"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "3",
+                           "name" : "Гексикон 0,05% раствор 100мл",
+                           "price" : "108.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6466,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №173",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8515,
+                           "address" : "Снежная улица, 16 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "99"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5088,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №977",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.668,
+                           "address" : "Ленинский проспект, 130 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "107"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6126,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №171 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8607,
+                           "address" : "проезд Якушкина, 10"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "105"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8205,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ИЗМАЙЛОВО",
+                           "phones" : [
+                              {
+                                 "number" : "+74956625463"
+                              }
+                           ],
+                           "phone" : "+74956625463",
+                           "city" : "Москва",
+                           "latitude" : 55.7745,
+                           "address" : "Большой Купавенский проезд, 4"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон раствор 0.05% 100мл",
+                           "price" : "116.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5331,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959679545"
+                              }
+                           ],
+                           "phone" : "+74959679545",
+                           "city" : "Москва",
+                           "latitude" : 55.6456,
+                           "address" : "улица Генерала Антонова, 3"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р наруж. 0,05% 100мл",
+                           "price" : "108"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.764,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №367",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6637,
+                           "address" : "Перервинский бульвар, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "109"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8241,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №674",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.719,
+                           "address" : "Вешняковская улица, 39а"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "103"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5015,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №170 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8538,
+                           "address" : "Флотская улица, 50"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "113"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8192,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №414",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7064,
+                           "address" : "Ферганская улица, 17"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "44"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7413,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №150 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6512,
+                           "address" : "Люблинская улица, 108а"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "105"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4051,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74997927686"
+                              }
+                           ],
+                           "phone" : "+74997927686",
+                           "city" : "Москва",
+                           "latitude" : 55.7256,
+                           "address" : "улица Маршала Неделина, 15"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р наруж. 0,05% 100мл",
+                           "price" : "106"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.511,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №71",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.859,
+                           "address" : "Онежская улица, 34 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "120"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3972,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1775",
+                                    "1776"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1775, 1776",
+                           "city" : "Москва",
+                           "latitude" : 55.723,
+                           "address" : "улица Толбухина, 13 к3"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон п/э р-р. фл. 100мл",
+                           "price" : "121"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.451,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №176 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8513,
+                           "address" : "улица Свободы, 57"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "122"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8443,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (10, Жулебинский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957064069"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1982",
+                                    "1980",
+                                    "1303"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957064069; +74952311697, доб. 1982, 1980, 1303",
+                           "city" : "Москва",
+                           "latitude" : 55.6987,
+                           "address" : "Жулебинский бульвар, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон п/э р-р. фл. 100мл",
+                           "price" : "92"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №166 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79684012281"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79684012281",
+                           "city" : "Москва",
+                           "latitude" : 55.6291,
+                           "address" : "улица Тёплый Стан, 10"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "110"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8583,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (39, Генерала Кузнецова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1318",
+                                    "0973"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1318, 0973",
+                           "city" : "Москва",
+                           "latitude" : 55.6895,
+                           "address" : "улица Генерала Кузнецова, 14 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон п/э р-р. фл. 100мл",
+                           "price" : "99"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4351,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №466",
+                           "phones" : [
+                              {
+                                 "number" : "+74995004024"
+                              }
+                           ],
+                           "phone" : "+74995004024",
+                           "city" : "Москва",
+                           "latitude" : 55.8628,
+                           "address" : "Планерная улица, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "8",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "96"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.716,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (263, Волошиной)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955880374"
+                              }
+                           ],
+                           "phone" : "+74955880374",
+                           "city" : "Мытищи",
+                           "latitude" : 55.8965,
+                           "address" : "улица Веры Волошиной, 24, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон п/э р-р. фл. 100мл",
+                           "price" : "121"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8874,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №904",
+                           "phones" : [
+                              {
+                                 "number" : "+79253178170"
+                              },
+                              {
+                                 "number" : "+78929997415"
+                              },
+                              {
+                                 "number" : "+79296131995"
+                              }
+                           ],
+                           "phone" : "+79253178170; +78929997415; +79296131995",
+                           "city" : "Москва",
+                           "latitude" : 55.7167,
+                           "address" : "улица Рудневка, 19"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "118"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8722,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955596075"
+                              },
+                              {
+                                 "number" : "+74955590344"
+                              }
+                           ],
+                           "phone" : "+74955596075; +74955590344",
+                           "city" : "Люберцы",
+                           "latitude" : 55.6704,
+                           "address" : "Юбилейная улица, 17а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "110"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7256,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №39",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9048,
+                           "address" : "Новомытищинский проспект, 76, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "108"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3481,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 483",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8146,
+                           "address" : "Ильинское шоссе, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "119"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3505,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 484",
+                           "phones" : [
+                              {
+                                 "number" : "+79269042076"
+                              },
+                              {
+                                 "number" : "+74986022215"
+                              }
+                           ],
+                           "phone" : "+79269042076; +74986022215",
+                           "city" : "Московская область",
+                           "latitude" : 55.8193,
+                           "address" : "Красногорск, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "4",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "114"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 174",
+                           "phones" : [
+                              {
+                                 "number" : "+74955820113"
+                              }
+                           ],
+                           "phone" : "+74955820113",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9079,
+                           "address" : "Новомытищинский проспект, 48, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "99"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7389,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №433",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538314"
+                              }
+                           ],
+                           "phone" : "+74995538314",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9063,
+                           "address" : "улица Щербакова, 2 к1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "108"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3652,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 1",
+                           "phones" : [
+                              {
+                                 "number" : "+74957940135"
+                              },
+                              {
+                                 "number" : "+74957510010"
+                              }
+                           ],
+                           "phone" : "+74957940135; +74957510010",
+                           "city" : "Москва",
+                           "latitude" : 55.8433,
+                           "address" : "Митинская улица, 21"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон, р-р д/наружнего применения 0,05% 100мл",
+                           "price" : "98.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3375,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №1 123",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8164,
+                           "address" : "улица Чайковского, 8а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "48"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3373,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955610855"
+                              }
+                           ],
+                           "phone" : "+74955610855",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8168,
+                           "address" : "улица Чайковского, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "48"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8603,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 022",
+                           "phones" : [
+                              {
+                                 "number" : "+74955512145"
+                              }
+                           ],
+                           "phone" : "+74955512145",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6269,
+                           "address" : "улица Лермонтова, 12а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "109"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3568,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №173 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79684013368"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79684013368",
+                           "city" : "Москва",
+                           "latitude" : 55.637,
+                           "address" : "улица Шолохова, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "124"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.513,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 033",
+                           "phones" : [
+                              {
+                                 "number" : "+74959679553"
+                              }
+                           ],
+                           "phone" : "+74959679553",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9417,
+                           "address" : "улица Павлова, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "94.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9546,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №408",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Балашиха",
+                           "latitude" : 55.8211,
+                           "address" : "Звёздная улица, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "124"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9617,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 469",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Балашиха",
+                           "latitude" : 55.8135,
+                           "address" : "Заречная улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "116"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2838,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 496 ",
+                           "phones" : [
+                              {
+                                 "number" : "+79015346385"
+                              }
+                           ],
+                           "phone" : "+79015346385",
+                           "city" : "Одинцово",
+                           "latitude" : 55.6643,
+                           "address" : "улица Маковского, 22а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "118"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5561,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №471",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.5454,
+                           "address" : "Скобелевская улица, 24"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "126"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8562,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. АПТЕКИ А5 Московская область.  Аптека №1 806",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Королёв",
+                           "latitude" : 55.9192,
+                           "address" : "улица Дзержинского, 16/1"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "99"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7233,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1715",
+                                    "1716"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1715, 1716",
+                           "city" : "Видное",
+                           "latitude" : 55.543,
+                           "address" : "Ольховая улица, 11, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон п/э р-р. фл. 100мл",
+                           "price" : "95.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9083,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 156",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Лыткарино",
+                           "latitude" : 55.575,
+                           "address" : "Октябрьская улица, 20"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "109"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9865,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (212,Сиреневая)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965692188"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1376"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965692188; +74952311697, доб. 1376",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9282,
+                           "address" : "Сиреневая улица, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон п/э р-р. фл. 100мл",
+                           "price" : "110"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9395,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №1 529",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Ивантеевка",
+                           "latitude" : 55.9712,
+                           "address" : "улица Новосёлки, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "108"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5584,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 269",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74967632061"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74967632061",
+                           "city" : "Подольск",
+                           "latitude" : 55.4309,
+                           "address" : "Революционный проспект, 17"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "4",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "99"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5501,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1724",
+                                    "1725"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1724, 1725",
+                           "city" : "Подольск",
+                           "latitude" : 55.4301,
+                           "address" : "Советская улица, 20/44"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон п/э р-р. фл. 100мл",
+                           "price" : "113"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7726,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (225, Корнеева)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1387"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1387",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4359,
+                           "address" : "улица Корнеева, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон п/э р-р. фл. 100мл",
+                           "price" : "113"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5277,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №843",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Подольск",
+                           "latitude" : 55.4231,
+                           "address" : "улица Готвальда, 17, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "113"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2964,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №259",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Троицк",
+                           "latitude" : 55.4697,
+                           "address" : "Сиреневый бульвар, 7, Москва"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "4",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "107"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2188,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №506",
+                           "phones" : [
+                              {
+                                 "number" : "+74965240687"
+                              }
+                           ],
+                           "phone" : "+74965240687",
+                           "city" : "Электроугли",
+                           "latitude" : 55.7172,
+                           "address" : "Школьная улица, 33, Московская область, Ногинский район"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "4",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "108"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7683,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 036",
+                           "phones" : [
+                              {
+                                 "number" : "+79037136912"
+                              }
+                           ],
+                           "phone" : "+79037136912",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4222,
+                           "address" : "улица Талалихина, 10, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "124"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8431,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 475 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "микрорайон Авиационный",
+                           "latitude" : 55.4134,
+                           "address" : "улица Ильюшина, 13/19, Московская область, Домодедово"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "116"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.9793,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 192",
+                           "phones" : [
+                              {
+                                 "number" : "+79684052608"
+                              }
+                           ],
+                           "phone" : "+79684052608",
+                           "city" : "Голицыно",
+                           "latitude" : 55.6215,
+                           "address" : "Молодежный проезд, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "3",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "111"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2306,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №613",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Раменское",
+                           "latitude" : 55.5711,
+                           "address" : "Красноармейская улица, 4б, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "108"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4374,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 449",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74965764916"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74965764916",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8001,
+                           "address" : "проспект Ленина, 8, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "3",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "99"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8939,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №1 041",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74967964386"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74967964386",
+                           "city" : "Домодедово",
+                           "latitude" : 55.2704,
+                           "address" : "1-я Вокзальная улица, 28б"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "1",
+                           "name" : "Гексикон р-р д/местн.прим. 0,05% 100мл",
+                           "price" : "117"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4915,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (236, Ленина)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965192777"
+                              }
+                           ],
+                           "phone" : "+74965192777",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8882,
+                           "address" : "улица Ленина, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон п/э р-р. фл. 100мл",
+                           "price" : "113"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.976,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Хотьково",
+                           "latitude" : 56.2517,
+                           "address" : "улица Михеенко, 20"
+                        },
+                        "drug" : {
+                           "descid" : "1112",
+                           "quantity" : "2",
+                           "name" : "Гексикон п/э р-р. фл. 100мл",
+                           "price" : "110"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "хлоргексидина биглюконат + хлоргексидина биглюконат (20% р-р) + хлоргексидина глюконат (в форме 20% раствора)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

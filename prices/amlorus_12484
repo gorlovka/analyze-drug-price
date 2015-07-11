@@ -1,0 +1,131 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "amlorus",
+            "rus_name" : "Амлорус®",
+            "form" : "таб. 5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "amlorus",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Терра Вита&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996189219"
+                              }
+                           ],
+                           "phone" : "+74996189219",
+                           "city" : "Москва",
+                           "latitude" : 55.6806,
+                           "address" : "Нагатинская набережная, 16к3"
+                        },
+                        "drug" : {
+                           "descid" : "3621",
+                           "quantity" : "5",
+                           "name" : "Амлорус /амлодипин/ 5мг таб. х30 (r)",
+                           "price" : "14.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7613,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957837209"
+                              }
+                           ],
+                           "phone" : "+74957837209",
+                           "city" : "Москва",
+                           "latitude" : 55.6765,
+                           "address" : "Краснодарская улица, 48"
+                        },
+                        "drug" : {
+                           "descid" : "3621",
+                           "quantity" : "1",
+                           "name" : "Амлорус тбл 5мг 30",
+                           "price" : "9.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5919,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НИКА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79169084008"
+                              }
+                           ],
+                           "phone" : "+79169084008",
+                           "city" : "Москва",
+                           "latitude" : 55.638,
+                           "address" : "микрорайон Северное Чертаново, 5а"
+                        },
+                        "drug" : {
+                           "descid" : "3621",
+                           "quantity" : "3",
+                           "name" : "Амлорус 5мг n30 таб.",
+                           "price" : "13"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9914,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ИНТЕКО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965671185"
+                              }
+                           ],
+                           "phone" : "+74965671185",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9228,
+                           "address" : "площадь Ленина, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3621",
+                           "quantity" : "2",
+                           "name" : "Амлорус /амлодипин/ 5мг таб. х30",
+                           "price" : "12"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амлодипин (в форме безилата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

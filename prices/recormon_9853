@@ -1,0 +1,410 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "recormon",
+            "rus_name" : "Рекормон®",
+            "form" : "р-р д/в/в и п/к введения 2000 МЕ/0.3 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 15,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "recormon",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6302,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Эра Здоровья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959886458"
+                              },
+                              {
+                                 "number" : "+74957786458"
+                              }
+                           ],
+                           "phone" : "+74959886458; +74957786458",
+                           "city" : "Москва",
+                           "latitude" : 55.7431,
+                           "address" : "Пятницкий переулок, 3"
+                        },
+                        "drug" : {
+                           "descid" : "2825",
+                           "quantity" : "1",
+                           "name" : "Рекормон 2000ме/0,3мл р-р в/в 6 шприц",
+                           "price" : "5950"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6075,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №390",
+                           "phones" : [
+                              {
+                                 "number" : "+74999788881"
+                              }
+                           ],
+                           "phone" : "+74999788881",
+                           "city" : "Москва",
+                           "latitude" : 55.7767,
+                           "address" : "Краснопролетарская улица, 14/2"
+                        },
+                        "drug" : {
+                           "descid" : "2825",
+                           "quantity" : "1",
+                           "name" : "Рекормон р-р д/ин. 2000ме шприц-тюб. 0,3мл n6",
+                           "price" : "5799"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7066,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 5",
+                           "phones" : [
+                              {
+                                 "number" : "+74959796597"
+                              }
+                           ],
+                           "phone" : "+74959796597",
+                           "city" : "Москва",
+                           "latitude" : 55.782,
+                           "address" : "Большая Семёновская улица, 26"
+                        },
+                        "drug" : {
+                           "descid" : "2825",
+                           "quantity" : "1",
+                           "name" : "Рекормон раствор д/ин 2000ме 0.3мл 6 шприц-тюбик",
+                           "price" : "5400"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2825",
+                           "quantity" : "1",
+                           "name" : "Рекормон р-р д/ин.2000ме/0,3мл n6 шприц",
+                           "price" : "5959"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "2825",
+                           "quantity" : "5",
+                           "name" : "Рекормон р-р для в/в и п/к вв 2000ме шприц-тюб с игл 0.3мл n",
+                           "price" : "5900"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5352,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №490",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79099722438"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79099722438",
+                           "city" : "Москва",
+                           "latitude" : 55.6889,
+                           "address" : "улица Строителей, 6 к4"
+                        },
+                        "drug" : {
+                           "descid" : "2825",
+                           "quantity" : "1",
+                           "name" : "Рекормон р-р д/ин. 2000ме шприц-тюб. 0,3мл n6",
+                           "price" : "6054"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.764,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №367",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6637,
+                           "address" : "Перервинский бульвар, 1"
+                        },
+                        "drug" : {
+                           "descid" : "2825",
+                           "quantity" : "1",
+                           "name" : "Рекормон р-р д/ин. 2000ме шприц-тюб. 0,3мл n6",
+                           "price" : "5815"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7579,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ЮГ",
+                           "phones" : [
+                              {
+                                 "number" : "+74955041811"
+                              }
+                           ],
+                           "phone" : "+74955041811",
+                           "city" : "Москва",
+                           "latitude" : 55.659,
+                           "address" : "Братиславская улица, 16 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2825",
+                           "quantity" : "1",
+                           "name" : "Рекормон??? раствор д/ин 2000ме/0.3мл 6",
+                           "price" : "3210"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №317",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8547,
+                           "address" : "Фестивальная улица, 2б"
+                        },
+                        "drug" : {
+                           "descid" : "2825",
+                           "quantity" : "2",
+                           "name" : "Рекормон р-р д/ин. 2000ме шприц-тюб. 0,3мл n6",
+                           "price" : "6353"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4764,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №312",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6456,
+                           "address" : "Ленинский проспект, 127"
+                        },
+                        "drug" : {
+                           "descid" : "2825",
+                           "quantity" : "1",
+                           "name" : "Рекормон р-р д/ин. 2000ме шприц-тюб. 0,3мл n6",
+                           "price" : "5610"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "2825",
+                           "quantity" : "1",
+                           "name" : "Рекормон раствор для инъекций 2000 ме 0,3мл 6 шприц-тюбик",
+                           "price" : "5797"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8534,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ТС &quot;АПТЕЧКА&quot;.  Аптека №435",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6839,
+                           "address" : "улица Генерала Кузнецова, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2825",
+                           "quantity" : "1",
+                           "name" : "Рекормон р-р д/ин. 2000ме шприц-тюб. 0,3мл n6",
+                           "price" : "5491"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4539,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №89",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74955727471"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74955727471",
+                           "city" : "Химки",
+                           "latitude" : 55.8998,
+                           "address" : "проспект Мира, 18/5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2825",
+                           "quantity" : "1",
+                           "name" : "Рекормон р-р д/ин. 2000ме шприц-тюб. 0,3мл n6",
+                           "price" : "2741"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9864,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула здоровья",
+                           "phones" : [
+                              {
+                                 "number" : "+74955055909"
+                              }
+                           ],
+                           "phone" : "+74955055909",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7981,
+                           "address" : "шоссе Энтузиастов, 80"
+                        },
+                        "drug" : {
+                           "descid" : "2825",
+                           "quantity" : "3",
+                           "name" : "Рекормон раствор д/ин 2000ме 0.3мл шприц",
+                           "price" : "5900"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2089,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №614",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Раменское",
+                           "latitude" : 55.5758,
+                           "address" : "улица Чугунова, 15б, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2825",
+                           "quantity" : "1",
+                           "name" : "Рекормон р-р д/ин. 2000ме шприц-тюб. 0,3мл n6",
+                           "price" : "5695"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "эпоэтин бета"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

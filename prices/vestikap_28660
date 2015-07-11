@@ -1,0 +1,238 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "vestikap",
+            "rus_name" : "Вестикап",
+            "form" : "капс.16 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 8,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "vestikap",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "6123",
+                           "quantity" : "1",
+                           "name" : "Вестикап капс 16мг 30",
+                           "price" : "198.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7222,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармацевтическая гильдия&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952217904"
+                              }
+                           ],
+                           "phone" : "+74952217904",
+                           "city" : "Москва",
+                           "latitude" : 55.7805,
+                           "address" : "Вельяминовская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "6123",
+                           "quantity" : "1",
+                           "name" : "Вестикап капс 16мг 30",
+                           "price" : "239"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4927,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО “Дубкифарм”",
+                           "phones" : [
+                              {
+                                 "number" : "+74956418097"
+                              }
+                           ],
+                           "phone" : "+74956418097",
+                           "city" : "Москва",
+                           "latitude" : 55.8554,
+                           "address" : "улица Лавочкина, 7Ас1"
+                        },
+                        "drug" : {
+                           "descid" : "6123",
+                           "quantity" : "1",
+                           "name" : "Вестикап 16мг капс 30",
+                           "price" : "235"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "6123",
+                           "quantity" : "1",
+                           "name" : "Вестикап 16мг 30 капсулы",
+                           "price" : "230"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7328,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "4816",
+                                    "4817"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 4816, 4817",
+                           "city" : "Москва",
+                           "latitude" : 55.612,
+                           "address" : "Ореховый бульвар, 22а"
+                        },
+                        "drug" : {
+                           "descid" : "6123",
+                           "quantity" : "1",
+                           "name" : "Вестикап капс. 16мг 30",
+                           "price" : "254.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5994,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Оксалин&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952013616"
+                              }
+                           ],
+                           "phone" : "+74952013616",
+                           "city" : "Москва",
+                           "latitude" : 55.5934,
+                           "address" : "Варшавское шоссе, 152"
+                        },
+                        "drug" : {
+                           "descid" : "6123",
+                           "quantity" : "1",
+                           "name" : "Вестикап 16мг капс 30",
+                           "price" : "222"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.35,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Митино",
+                           "phones" : [
+                              {
+                                 "number" : "+74957527800"
+                              }
+                           ],
+                           "phone" : "+74957527800",
+                           "city" : "Москва",
+                           "latitude" : 55.8486,
+                           "address" : "3-й Митинский переулок, 1"
+                        },
+                        "drug" : {
+                           "descid" : "6123",
+                           "quantity" : "1",
+                           "name" : "Вестикап 16мг n30 капс.",
+                           "price" : "266"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9571,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (260, г. Железнодорожный)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1908"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1908",
+                           "city" : "Железнодорожный",
+                           "latitude" : 55.7501,
+                           "address" : "Центральная улица, 41, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "6123",
+                           "quantity" : "1",
+                           "name" : "Вестикап капс. 16мг 30",
+                           "price" : "251"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "бетагистина дигидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

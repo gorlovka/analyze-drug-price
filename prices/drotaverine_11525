@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "drotaverine",
+            "rus_name" : "Дротаверин",
+            "form" : "р-р д/инъекц. 20 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "drotaverine",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6801,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «МФК Помощь на Волгоградке»",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633814"
+                              }
+                           ],
+                           "phone" : "+74953633814",
+                           "city" : "Москва",
+                           "latitude" : 55.7267,
+                           "address" : "Волгоградский проспект, 26а"
+                        },
+                        "drug" : {
+                           "descid" : "1606",
+                           "quantity" : "2",
+                           "name" : "Дротаверин р-р д/ инъек. 20 мг/мл 2мл 10",
+                           "price" : "47.52"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4512,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №150",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6731,
+                           "address" : "Озёрная улица, 29"
+                        },
+                        "drug" : {
+                           "descid" : "1606",
+                           "quantity" : "1",
+                           "name" : "Дротаверин р-р д/ин. 20мг/мл амп. 2мл n10",
+                           "price" : "52.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "дротаверина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

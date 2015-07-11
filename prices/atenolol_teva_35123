@@ -1,0 +1,816 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "atenolol_teva",
+            "rus_name" : "Атенолол-тева",
+            "form" : "таб. 25 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 30,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "atenolol_teva",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5981,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956900719"
+                              }
+                           ],
+                           "phone" : "+74956900719",
+                           "city" : "Москва",
+                           "latitude" : 55.7608,
+                           "address" : "Большая Бронная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "2",
+                           "name" : "Атенолол-тева тбл 25мг 30",
+                           "price" : "15.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "3",
+                           "name" : "Атенолол-тева 25мг 30 тб",
+                           "price" : "15"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6714,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОПТИФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678604"
+                              }
+                           ],
+                           "phone" : "+74999678604",
+                           "city" : "Москва",
+                           "latitude" : 55.7428,
+                           "address" : "Большая Андроньевская улица, 11/13"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "2",
+                           "name" : "Атенолол-тева тбл 25мг 30",
+                           "price" : "15.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.671,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 11",
+                           "phones" : [
+                              {
+                                 "number" : "+74959111480"
+                              }
+                           ],
+                           "phone" : "+74959111480",
+                           "city" : "Москва",
+                           "latitude" : 55.7401,
+                           "address" : "Таганская улица, 31/22"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "2",
+                           "name" : "Атенолол-тева, тбл п/о 25мг 30",
+                           "price" : "15.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "1",
+                           "name" : "Атенолол-тева тбл 25мг 30",
+                           "price" : "17.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5667,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Источник",
+                           "phones" : [
+                              {
+                                 "number" : "+74992467796"
+                              },
+                              {
+                                 "number" : "+74959288793"
+                              },
+                              {
+                                 "number" : "+74959288736"
+                              },
+                              {
+                                 "number" : "+74959288793"
+                              }
+                           ],
+                           "phone" : "+74992467796; +74959288793; +74959288736; +74959288793",
+                           "city" : "Москва",
+                           "latitude" : 55.7264,
+                           "address" : "Усачёва улица, 38"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "3",
+                           "name" : "Атенолол-тева табл. п/о 25 мг 30, тева фармацевтические предприятия лтд, произведено меркле гмбх",
+                           "price" : "15.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6145,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 4 (ООО Феерия Фарм Север)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956026573"
+                              }
+                           ],
+                           "phone" : "+74956026573",
+                           "city" : "Москва",
+                           "latitude" : 55.7937,
+                           "address" : "улица Сущёвский Вал, 55"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "4",
+                           "name" : "Атенолол тева, тбл п/о 25мг 30",
+                           "price" : "12.48"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;КедрФарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994093601"
+                              }
+                           ],
+                           "phone" : "+74994093601",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "Хорошёвское шоссе, 46"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "20",
+                           "name" : "Атенолол-тева тб п/о 25мг бл n10x3",
+                           "price" : "13"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "3",
+                           "name" : "Атенолол-тева тбл 25мг 30",
+                           "price" : "16"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7183,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Белиссимо-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959883195"
+                              }
+                           ],
+                           "phone" : "+74959883195",
+                           "city" : "Москва",
+                           "latitude" : 55.7511,
+                           "address" : "шоссе Энтузиастов, 24/43"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "2",
+                           "name" : "Атенолол-тева тбл 25мг 30",
+                           "price" : "16"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5533,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО фирма &quot;Тревел Мединшур&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956133280"
+                              },
+                              {
+                                 "number" : "+74954111749"
+                              }
+                           ],
+                           "phone" : "+74956133280; +74954111749",
+                           "city" : "Москва",
+                           "latitude" : 55.8008,
+                           "address" : "улица 8 Марта, 1 с10"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "3",
+                           "name" : "Атенолол-тева 25мг n30 таб.",
+                           "price" : "14.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "3",
+                           "name" : "Атенолол -тева 25мг.n30 табл.",
+                           "price" : "13"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6667,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; МЕГА-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996150016"
+                              }
+                           ],
+                           "phone" : "+74996150016",
+                           "city" : "Москва",
+                           "latitude" : 55.6802,
+                           "address" : "Судостроительная улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "1",
+                           "name" : "Атенолол-тева таб. 25мг 30",
+                           "price" : "15"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7354,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 27",
+                           "phones" : [
+                              {
+                                 "number" : "+74991788467"
+                              }
+                           ],
+                           "phone" : "+74991788467",
+                           "city" : "Москва",
+                           "latitude" : 55.71,
+                           "address" : "Волгоградский проспект, 63"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "2",
+                           "name" : "Атенолол-тева, тбл п/о 25мг 30",
+                           "price" : "13.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.538,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 15",
+                           "phones" : [
+                              {
+                                 "number" : "+74959830895"
+                              }
+                           ],
+                           "phone" : "+74959830895",
+                           "city" : "Москва",
+                           "latitude" : 55.6837,
+                           "address" : "Ленинский проспект, 74"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "3",
+                           "name" : "Атенолол-тева, тбл п/о 25мг 30",
+                           "price" : "13.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5248,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЛАТИС-ТОРГ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991381001"
+                              },
+                              {
+                                 "number" : "+74991381065"
+                              },
+                              {
+                                 "number" : "+79166721665"
+                              }
+                           ],
+                           "phone" : "+74991381001; +74991381065; +79166721665",
+                           "city" : "Москва",
+                           "latitude" : 55.6846,
+                           "address" : "улица Крупской, 19/17"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "6",
+                           "name" : "Атенолол-тева, тбл п/о 25мг 30",
+                           "price" : "15.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4734,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармгрупп&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957896028"
+                              }
+                           ],
+                           "phone" : "+74957896028",
+                           "city" : "Москва",
+                           "latitude" : 55.8033,
+                           "address" : "улица Маршала Василевского, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "5",
+                           "name" : "Атенолол-тева тбл 25мг 30",
+                           "price" : "14.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8017,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.7936,
+                           "address" : "Первомайская улица, 81"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "3",
+                           "name" : "Атенолол-тева таб. п/о 25мг 30",
+                           "price" : "15"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4138,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО Звездочка",
+                           "phones" : [
+                              {
+                                 "number" : "+74991416569"
+                              },
+                              {
+                                 "number" : "+74959978003"
+                              },
+                              {
+                                 "number" : "+74959978053"
+                              }
+                           ],
+                           "phone" : "+74991416569; +74959978003; +74959978053",
+                           "city" : "Москва",
+                           "latitude" : 55.7383,
+                           "address" : "Ярцевская улица, 22 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "4",
+                           "name" : "Атенолол-тева, тбл п/о 25мг 30",
+                           "price" : "15"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НатурРецепт&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956549961"
+                              },
+                              {
+                                 "number" : "+74956549962"
+                              },
+                              {
+                                 "number" : "+74956549496"
+                              }
+                           ],
+                           "phone" : "+74956549961; +74956549962; +74956549496",
+                           "city" : "Москва",
+                           "latitude" : 55.6591,
+                           "address" : "Мячковский бульвар, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "5",
+                           "name" : "Атенолол-тева таб. п/о 25 мг 30",
+                           "price" : "16"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6383,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 24",
+                           "phones" : [
+                              {
+                                 "number" : "+74957868043"
+                              }
+                           ],
+                           "phone" : "+74957868043",
+                           "city" : "Москва",
+                           "latitude" : 55.8735,
+                           "address" : "Полярная улица, 6 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "1",
+                           "name" : "Атенолол-тева, тбл п/о 25мг 30",
+                           "price" : "17.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4132,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 20",
+                           "phones" : [
+                              {
+                                 "number" : "+74956385692"
+                              },
+                              {
+                                 "number" : "+74957562026"
+                              }
+                           ],
+                           "phone" : "+74956385692; +74957562026",
+                           "city" : "Москва",
+                           "latitude" : 55.8057,
+                           "address" : "улица Маршала Катукова, 23"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "1",
+                           "name" : "Атенолол-тева, тбл п/о 25мг 30",
+                           "price" : "15.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4396,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Флория Север&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994979834"
+                              }
+                           ],
+                           "phone" : "+74994979834",
+                           "city" : "Москва",
+                           "latitude" : 55.843,
+                           "address" : "Сходненская улица, 36/11"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "1",
+                           "name" : "Атенолол-тева табл. п/о 25 мг 30, тева фармацевтические предприятия лтд, произведено меркле гмбх",
+                           "price" : "16.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Поляна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955437314"
+                              }
+                           ],
+                           "phone" : "+74955437314",
+                           "city" : "Москва",
+                           "latitude" : 55.8884,
+                           "address" : "Алтуфьевское шоссе, 70"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "1",
+                           "name" : "Атенолол-тева тб 25мг блист n10x3",
+                           "price" : "14.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "1",
+                           "name" : "Атенолол-тева 25мг 30 таблетки",
+                           "price" : "18"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люксор - Фарм Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992005500"
+                              },
+                              {
+                                 "number" : "+79260961147"
+                              }
+                           ],
+                           "phone" : "+74992005500; +79260961147",
+                           "city" : "Москва",
+                           "latitude" : 55.8932,
+                           "address" : "Алтуфьевское шоссе, 87"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "1",
+                           "name" : "Атенолол-тева табл. п/о 25 мг 30, тева фармацевтические предприятия лтд, произведено меркле гмбх",
+                           "price" : "15.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5855,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ДИАНТУМПЛЮС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992002857"
+                              }
+                           ],
+                           "phone" : "+74992002857",
+                           "city" : "Москва",
+                           "latitude" : 55.8949,
+                           "address" : "Алтуфьевское шоссе, 89"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "1",
+                           "name" : "Атенолол тева 25мг 30 тб.",
+                           "price" : "18"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4074,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 4",
+                           "phones" : [
+                              {
+                                 "number" : "+74986011113"
+                              }
+                           ],
+                           "phone" : "+74986011113",
+                           "city" : "Химки",
+                           "latitude" : 55.9012,
+                           "address" : "проспект Мельникова, 2Б"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "9",
+                           "name" : "Атенолол-тева, тбл п/о 25мг 30",
+                           "price" : "15.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5636,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «ФармПрогресс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Щербинка",
+                           "latitude" : 55.5103,
+                           "address" : "Пушкинская улица, 2, Москва"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "3",
+                           "name" : "Атенолол-тева таб. п/о 25мг 30",
+                           "price" : "17"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Атрика&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8106,
+                           "address" : "проспект Ленина, 06, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1975",
+                           "quantity" : "1",
+                           "name" : "Атенолол-тева тбл 25мг 30",
+                           "price" : "14"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "атенолол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

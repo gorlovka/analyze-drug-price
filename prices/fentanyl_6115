@@ -1,0 +1,52 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "fentanyl",
+            "rus_name" : "Фентанил",
+            "form" : "р-р д/инъекц. 0.005% (50 мкг/1 мл)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "fentanyl",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6879,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 132",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Видное",
+                           "latitude" : 55.5463,
+                           "address" : "Булатниковская улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "2709",
+                           "quantity" : "14",
+                           "name" : "Фентанил р-р для в/в и в/м введения 0,005% 1мл n5",
+                           "price" : "91.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "фентанил"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

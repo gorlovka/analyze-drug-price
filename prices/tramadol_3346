@@ -1,0 +1,349 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "tramadol",
+            "rus_name" : "Трамадол",
+            "form" : "таб. 50 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 13,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "tramadol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8157,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;АНСИмед&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954685225"
+                              },
+                              {
+                                 "number" : "+74995302091"
+                              }
+                           ],
+                           "phone" : "+74954685225; +74995302091",
+                           "city" : "Москва",
+                           "latitude" : 55.7974,
+                           "address" : "Измайловский бульвар, 67 к1"
+                        },
+                        "drug" : {
+                           "descid" : "448",
+                           "quantity" : "55",
+                           "name" : "Трамадол 50 мг 20 табл",
+                           "price" : "70.55"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8508,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. МОСОБЛФАРМАЦИЯ.  Аптека №1 334",
+                           "phones" : [
+                              {
+                                 "number" : "+79067318366"
+                              }
+                           ],
+                           "phone" : "+79067318366",
+                           "city" : "Реутов",
+                           "latitude" : 55.7673,
+                           "address" : "Садовый проезд, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "448",
+                           "quantity" : "15",
+                           "name" : "Трамадол табл. 50мг n20",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3375,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №1 123",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8164,
+                           "address" : "улица Чайковского, 8а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "448",
+                           "quantity" : "13",
+                           "name" : "Трамадол табл. 50мг n20",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9333,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 001",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7912,
+                           "address" : "Первомайская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "448",
+                           "quantity" : "21",
+                           "name" : "Трамадол табл. 50мг n20",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8603,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 022",
+                           "phones" : [
+                              {
+                                 "number" : "+74955512145"
+                              }
+                           ],
+                           "phone" : "+74955512145",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6269,
+                           "address" : "улица Лермонтова, 12а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "448",
+                           "quantity" : "1",
+                           "name" : "Трамадол табл. 50мг n20",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2809,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 207",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Одинцово",
+                           "latitude" : 55.6694,
+                           "address" : "улица Маковского, 8, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "448",
+                           "quantity" : "69",
+                           "name" : "Трамадол табл. 50мг n20",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8463,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 461",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Королёв",
+                           "latitude" : 55.9367,
+                           "address" : "улица Тихонравова, 36"
+                        },
+                        "drug" : {
+                           "descid" : "448",
+                           "quantity" : "5",
+                           "name" : "Трамадол табл. 50мг n20",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9079,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 064",
+                           "phones" : [
+                              {
+                                 "number" : "+74965361009"
+                              }
+                           ],
+                           "phone" : "+74965361009",
+                           "city" : "Ивантеевка",
+                           "latitude" : 55.9666,
+                           "address" : "Советский проспект, 24"
+                        },
+                        "drug" : {
+                           "descid" : "448",
+                           "quantity" : "5",
+                           "name" : "Трамадол табл. 50мг n20",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.065,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 442",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9027,
+                           "address" : "Институтская улица, 30, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "448",
+                           "quantity" : "37",
+                           "name" : "Трамадол табл. 50мг n20",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2123,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 330",
+                           "phones" : [
+                              {
+                                 "number" : "+74964671529"
+                              }
+                           ],
+                           "phone" : "+74964671529",
+                           "city" : "Раменское",
+                           "latitude" : 55.5887,
+                           "address" : "Коммунистическая улица, 20, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "448",
+                           "quantity" : "1",
+                           "name" : "Трамадол табл. 50мг n20",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.9871,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 221",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Голицыно",
+                           "latitude" : 55.614,
+                           "address" : "Коммунистический проспект, 6"
+                        },
+                        "drug" : {
+                           "descid" : "448",
+                           "quantity" : "28",
+                           "name" : "Трамадол табл. 50мг n20",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5126,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 078",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74967622506"
+                              },
+                              {
+                                 "number" : "+74967604476"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74967622506; +74967604476",
+                           "city" : "Климовск",
+                           "latitude" : 55.3606,
+                           "address" : "улица Победы, 12, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "448",
+                           "quantity" : "5",
+                           "name" : "Трамадол табл. 50мг n20",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1362,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 121",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Красноармейск",
+                           "latitude" : 56.1217,
+                           "address" : "улица Строителей, 4"
+                        },
+                        "drug" : {
+                           "descid" : "448",
+                           "quantity" : "4",
+                           "name" : "Трамадол табл. 50мг n20",
+                           "price" : "81"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "трамадола гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

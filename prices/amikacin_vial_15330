@@ -1,0 +1,806 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "amikacin_vial",
+            "rus_name" : "Амикацин-виал",
+            "form" : "порошок д/пригот. р-ра д/в/в и в/м введения 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 28,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "amikacin_vial",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5933,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Будь Здоров&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1348"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1348",
+                           "city" : "Москва",
+                           "latitude" : 55.733,
+                           "address" : "Комсомольский проспект, 3 с1"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "4",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "34.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6583,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (87, Земляной Вал)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957302730"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1911"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957302730; +74952311697, доб. 1911",
+                           "city" : "Москва",
+                           "latitude" : 55.7595,
+                           "address" : "улица Земляной Вал, 27"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "4",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "35.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5474,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1610"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1610",
+                           "city" : "Москва",
+                           "latitude" : 55.7571,
+                           "address" : "Шмитовский проезд, 19"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "1",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "29.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5375,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1618",
+                                    "1619"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1618, 1619",
+                           "city" : "Москва",
+                           "latitude" : 55.7619,
+                           "address" : "улица Литвина-Седого, 13с2"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "10",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "13.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5251,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Фирма Здоровье г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991483745"
+                              },
+                              {
+                                 "number" : "+74991480456"
+                              }
+                           ],
+                           "phone" : "+74991483745; +74991480456",
+                           "city" : "Москва",
+                           "latitude" : 55.7361,
+                           "address" : "улица 1812 Года, 2"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "11",
+                           "name" : "Амикацин-виал пор. пригот. р-ра в/в и в/м введ. фл. 500мг 1",
+                           "price" : "23.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (47, Дмитровское)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959777736"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1324"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74959777736; +74952311697, доб. 1324",
+                           "city" : "Москва",
+                           "latitude" : 55.8191,
+                           "address" : "Дмитровское шоссе, 15 к2"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "5",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "37"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.665,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (107, Андропова пр-кт)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957868248"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0924",
+                                    "1344"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957868248; +74952311697, доб. 0924, 1344",
+                           "city" : "Москва",
+                           "latitude" : 55.6797,
+                           "address" : "проспект Андропова, 21г"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "4",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "100",
+                           "name" : "Амикацин-виал пор для в/в и в/м введ 500мг фл n1",
+                           "price" : "22"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5583,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1613",
+                                    "1614"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1613, 1614",
+                           "city" : "Москва",
+                           "latitude" : 55.6698,
+                           "address" : "улица Гарибальди, 27 к4"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "2",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7922,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;РИГЛА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Москва",
+                           "latitude" : 55.7168,
+                           "address" : "Рязанский проспект, 46"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "4",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "40"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4906,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Москва",
+                           "latitude" : 55.8357,
+                           "address" : "улица Адмирала Макарова, 6с13"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "4",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "31.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7591,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москава (23, Братиславская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0971",
+                                    "1309"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0971, 1309",
+                           "city" : "Москва",
+                           "latitude" : 55.6598,
+                           "address" : "Братиславская улица, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "20",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "37"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7364,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "4822",
+                                    "4827"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 4822, 4827",
+                           "city" : "Москва",
+                           "latitude" : 55.6481,
+                           "address" : "Новочеркасский бульвар, 41 к4"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "5",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "25.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6646,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (23, Енисейская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954713724"
+                              }
+                           ],
+                           "phone" : "+74954713724",
+                           "city" : "Москва",
+                           "latitude" : 55.8729,
+                           "address" : "Енисейская улица, 29"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "6",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "23"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.435,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (33, Волоколамское)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954913367"
+                              }
+                           ],
+                           "phone" : "+74954913367",
+                           "city" : "Москва",
+                           "latitude" : 55.8248,
+                           "address" : "Волоколамское шоссе, 92"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "10",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "19.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Берклий&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79269030728"
+                              },
+                              {
+                                 "number" : "+74997042889"
+                              }
+                           ],
+                           "phone" : "+79269030728; +74997042889",
+                           "city" : "Москва",
+                           "latitude" : 55.6355,
+                           "address" : "Профсоюзная улица, 103а"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "2",
+                           "name" : "Амикацин-виал пор в/в и в/м 500мг 1",
+                           "price" : "32.22"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8932,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1779",
+                                    "1780"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1779, 1780",
+                           "city" : "Люберцы",
+                           "latitude" : 55.7054,
+                           "address" : "улица 8 Марта, 61, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "1",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "24.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6553,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НИКА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79252111558"
+                              }
+                           ],
+                           "phone" : "+79252111558",
+                           "city" : "Москва",
+                           "latitude" : 55.5836,
+                           "address" : "Булатниковский проезд, 14 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "10",
+                           "name" : "Амикацин-виал пор д/в/м в/в 500мг n1фл",
+                           "price" : "25"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5711,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВЕРАФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74997440387"
+                              }
+                           ],
+                           "phone" : "+74997440387",
+                           "city" : "Москва",
+                           "latitude" : 55.5773,
+                           "address" : "Ратная улица, 16 к3"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "6",
+                           "name" : "Амикацин-виал пор. пригот. р-ра в/в и в/м введ. фл. 500мг 1",
+                           "price" : "23"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9228,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (206,Егорьевское шоссе)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955578991"
+                              }
+                           ],
+                           "phone" : "+74955578991",
+                           "city" : "Люберцы",
+                           "latitude" : 55.6582,
+                           "address" : "Егорьевское шоссе, 2"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "4",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "41"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5102,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (224, Дирижабельная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954086138"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1386"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74954086138; +74952311697, доб. 1386",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9407,
+                           "address" : "Дирижабельная улица, 10, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "3",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "41"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.994,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (209, 1-й Советский пер)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965670288"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1374"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965670288; +74952311697, доб. 1374",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9195,
+                           "address" : "1-й Советский переулок, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "20",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "35.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9897,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1753",
+                                    "1763"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1753, 1763",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9231,
+                           "address" : "улица Шмидта, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "29",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "35.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4822,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (219, Ленина)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959158947"
+                              }
+                           ],
+                           "phone" : "+74959158947",
+                           "city" : "Лобня",
+                           "latitude" : 56.0124,
+                           "address" : "улица Ленина, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "33",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "36.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4402,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (247, Краснополянский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538440"
+                              }
+                           ],
+                           "phone" : "+74995538440",
+                           "city" : "Лобня",
+                           "latitude" : 56.0084,
+                           "address" : "Краснополянский проезд, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "20",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "36"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4353,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "4820",
+                                    "4824"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 4820, 4824",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8074,
+                           "address" : "проспект Ленина, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "5",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "35.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4353,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "4823",
+                                    "4825"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 4823, 4825",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8691,
+                           "address" : "2-я Глуховская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "20",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "37"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.976,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Хотьково",
+                           "latitude" : 56.2517,
+                           "address" : "улица Михеенко, 20"
+                        },
+                        "drug" : {
+                           "descid" : "4074",
+                           "quantity" : "2",
+                           "name" : "Амикацин-виал пор.д/ин. 500мг 1",
+                           "price" : "34"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амикацин (в форме сульфата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

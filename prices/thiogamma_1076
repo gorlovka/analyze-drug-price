@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "thiogamma",
+            "rus_name" : "Тиогамма®",
+            "form" : "р-р д/инф. 600 мг/50 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "thiogamma",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4315,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Мёбиус",
+                           "phones" : [
+                              {
+                                 "number" : "+74954442072"
+                              }
+                           ],
+                           "phone" : "+74954442072",
+                           "city" : "Москва",
+                           "latitude" : 55.7202,
+                           "address" : "Можайское шоссе, 17"
+                        },
+                        "drug" : {
+                           "descid" : "571",
+                           "quantity" : "10",
+                           "name" : "Тиогамма р-р д/инф. 0,012/мл 50мл 1фл.",
+                           "price" : "230"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тиоктовая кислота + тиоктовой кислоты меглюминовая соль"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

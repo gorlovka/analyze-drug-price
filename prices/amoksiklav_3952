@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "amoksiklav",
+            "rus_name" : "Амоксиклав®",
+            "form" : "порошок д/пригот. р-ра д/в/в введения 1000 мг+200 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "amoksiklav",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6708,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678623"
+                              }
+                           ],
+                           "phone" : "+74999678623",
+                           "city" : "Москва",
+                           "latitude" : 55.7032,
+                           "address" : "улица Трофимова, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1954",
+                           "quantity" : "1",
+                           "name" : "Амоксиклав, пор.д/инъ 1г+200мг фл 5",
+                           "price" : "775"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6667,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; МЕГА-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996150016"
+                              }
+                           ],
+                           "phone" : "+74996150016",
+                           "city" : "Москва",
+                           "latitude" : 55.6802,
+                           "address" : "Судостроительная улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1954",
+                           "quantity" : "1",
+                           "name" : "Амоксиклав пор. д/ин. 1000мг+200мг 5",
+                           "price" : "765"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.831,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Формула Здоровья Вешняки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953750926"
+                              }
+                           ],
+                           "phone" : "+74953750926",
+                           "city" : "Москва",
+                           "latitude" : 55.7347,
+                           "address" : "Вешняковская улица, 17а"
+                        },
+                        "drug" : {
+                           "descid" : "1954",
+                           "quantity" : "1",
+                           "name" : "Амоксиклав пор в/в фл 1000мг+200мг х 5",
+                           "price" : "835"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амоксициллин (в форме тригидрата) + клавулановая кислота (в форме калиевой соли) + клавулановая кислота (в форме клавуланата калия) + амоксициллин (в форме натриевой соли)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

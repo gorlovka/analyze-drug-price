@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "elzepam",
+            "rus_name" : "Элзепам®",
+            "form" : "таб. 1 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "elzepam",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.709,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диалог&quot; г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74953632262"
+                              }
+                           ],
+                           "phone" : "+74953632262",
+                           "city" : "Москва",
+                           "latitude" : 55.7622,
+                           "address" : "Авиамоторная улица, 2 к17"
+                        },
+                        "drug" : {
+                           "descid" : "4394",
+                           "quantity" : "1",
+                           "name" : "Элзепам (феназепам) таб. 0,001г 50",
+                           "price" : "73.1"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "бромдигидрохлорфенилбензодиазепин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

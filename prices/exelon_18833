@@ -1,0 +1,414 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "exelon",
+            "rus_name" : "Экселон®",
+            "form" : "трансдермальная терапевтическая система (ТТС) 9 мг (4.6 мг/24 ч)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 14,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "exelon",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва (Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992382865"
+                              },
+                              {
+                                 "number" : "+74992387410"
+                              }
+                           ],
+                           "phone" : "+74992382865; +74992387410",
+                           "city" : "Москва",
+                           "latitude" : 55.7341,
+                           "address" : "улица Большая Полянка, 30"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "2",
+                           "name" : "Экселон трансдерм.сист.4,6 мг/24 часа 30",
+                           "price" : "3820"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "1",
+                           "name" : "Экселон 4,6/24ч 30 трансдерм терап сист",
+                           "price" : "3989"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6364,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люция&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959531618"
+                              },
+                              {
+                                 "number" : "+74959530128"
+                              }
+                           ],
+                           "phone" : "+74959531618; +74959530128",
+                           "city" : "Москва",
+                           "latitude" : 55.7316,
+                           "address" : "Новокузнецкая улица, 43/16"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "1",
+                           "name" : "Экселон, трансдерм.терап.система 4,6мг/24ч 30",
+                           "price" : "3975"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5847,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диасфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266856"
+                              },
+                              {
+                                 "number" : "+74956266857"
+                              }
+                           ],
+                           "phone" : "+74956266856; +74956266857",
+                           "city" : "Москва",
+                           "latitude" : 55.7756,
+                           "address" : "1-я Брестская улица, 66"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "2",
+                           "name" : "Экселон 4,6/24ч 30 трансдерм терап сист",
+                           "price" : "3870"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6016,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Семья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999785551"
+                              },
+                              {
+                                 "number" : "+74999730180"
+                              }
+                           ],
+                           "phone" : "+74999785551; +74999730180",
+                           "city" : "Москва",
+                           "latitude" : 55.7809,
+                           "address" : "Сущёвская улица, 13/15"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "1",
+                           "name" : "Экселон трансдерм. 4.6/24ч 30",
+                           "price" : "3988"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6784,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СИТИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956649855"
+                              },
+                              {
+                                 "number" : "+79250409555"
+                              }
+                           ],
+                           "phone" : "+74956649855; +79250409555",
+                           "city" : "Москва",
+                           "latitude" : 55.785,
+                           "address" : "улица Жебрунова, 4"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "1",
+                           "name" : "Экселон, трансдерм.терап.система 4,6мг/24ч 30",
+                           "price" : "3589"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "1",
+                           "name" : "Экселон трансдермальн. 4.6/24ч 30",
+                           "price" : "3629"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6662,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6776,
+                           "address" : "улица Новинки, 1"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "1",
+                           "name" : "Экселон трансдермальная система 4,6 мг 30",
+                           "price" : "3570"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6187,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «ФармПрогресс»",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6536,
+                           "address" : "Чонгарский бульвар, вл2А"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "2",
+                           "name" : "Экселон трансдермальная система 4,6 мг 30",
+                           "price" : "3715"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4687,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Янтарь Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959425985"
+                              }
+                           ],
+                           "phone" : "+74959425985",
+                           "city" : "Москва",
+                           "latitude" : 55.8142,
+                           "address" : "Волоколамское шоссе, 45"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "1",
+                           "name" : "Экселон 0,0046/24часа n30 трансдерм терапевт с-ма",
+                           "price" : "3963.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7934,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИНАД-ЭКСПЕРТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956522369"
+                              },
+                              {
+                                 "number" : "+74956522370"
+                              }
+                           ],
+                           "phone" : "+74956522369; +74956522370",
+                           "city" : "Москва",
+                           "latitude" : 55.7997,
+                           "address" : "7-я Парковая улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "2",
+                           "name" : "Экселон трансдерм.сис. 4,6 мг/сут 30",
+                           "price" : "3790"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "1",
+                           "name" : "Экселон трансдерм.система 4,6мг/сут 30",
+                           "price" : "3791"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5879,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Адонис-Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74959243094"
+                              }
+                           ],
+                           "phone" : "+74959243094",
+                           "city" : "Москва",
+                           "latitude" : 55.885,
+                           "address" : "Алтуфьевское шоссе, 64"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "1",
+                           "name" : "Экселон, трансдерм.терап.система 4,6мг/24ч 30",
+                           "price" : "4092.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4389,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «Лилия»",
+                           "phones" : [
+                              {
+                                 "number" : "+74956646042"
+                              },
+                              {
+                                 "number" : "+74956646041"
+                              }
+                           ],
+                           "phone" : "+74956646042; +74956646041",
+                           "city" : "Москва",
+                           "latitude" : 55.8497,
+                           "address" : "Сходненская улица, 37"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "1",
+                           "name" : "Экселон, трансдерм.терап.система 4,6мг/24ч 30",
+                           "price" : "4103.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ривастигмин (в форме гидротартрата) + ривастигмин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

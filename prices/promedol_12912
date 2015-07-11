@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "promedol",
+            "rus_name" : "Промедол",
+            "form" : "таб. 25 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "promedol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4345,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 397",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74955759611"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74955759611",
+                           "city" : "Химки",
+                           "latitude" : 55.8916,
+                           "address" : "Ленинградская улица, 18а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2680",
+                           "quantity" : "10",
+                           "name" : "Промедол табл. 25мг n10",
+                           "price" : "256.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тримеперидин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

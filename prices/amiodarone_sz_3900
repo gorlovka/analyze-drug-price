@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "amiodarone_ns",
+            "rus_name" : "Амиодарон-сз",
+            "form" : "таб. 200 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "amiodarone_sz",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6025,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОКТАВИЯ&quot; г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999735057"
+                              }
+                           ],
+                           "phone" : "+74999735057",
+                           "city" : "Москва",
+                           "latitude" : 55.7777,
+                           "address" : "Долгоруковская улица, 38 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1941",
+                           "quantity" : "3",
+                           "name" : "Амиодарон-сз таб 200мг n30 (уп конт яч n10х3)",
+                           "price" : "105"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амиодарона гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

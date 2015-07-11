@@ -1,0 +1,131 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "haloperidol",
+            "rus_name" : "Галоперидол",
+            "form" : "р-р д/в/в и в/м введения 5 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "haloperidol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6714,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОПТИФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678604"
+                              }
+                           ],
+                           "phone" : "+74999678604",
+                           "city" : "Москва",
+                           "latitude" : 55.7428,
+                           "address" : "Большая Андроньевская улица, 11/13"
+                        },
+                        "drug" : {
+                           "descid" : "1100",
+                           "quantity" : "1",
+                           "name" : "Галоперидол р-р д/в/м введ 5мг/мл амп 1мл 10",
+                           "price" : "48.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.596,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678549"
+                              }
+                           ],
+                           "phone" : "+74999678549",
+                           "city" : "Москва",
+                           "latitude" : 55.7861,
+                           "address" : "Новослободская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "1100",
+                           "quantity" : "1",
+                           "name" : "Галоперидол р-р д/в/м введ 5мг/мл амп 1мл 10",
+                           "price" : "57"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "1100",
+                           "quantity" : "1",
+                           "name" : "Галоперидол р-р д/в/в и в/м введ 5мг/мл амп 1мл 5",
+                           "price" : "110"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.775,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОПТИФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953686195"
+                              }
+                           ],
+                           "phone" : "+74953686195",
+                           "city" : "Москва",
+                           "latitude" : 55.757,
+                           "address" : "1-я Владимирская улица, 14"
+                        },
+                        "drug" : {
+                           "descid" : "1100",
+                           "quantity" : "1",
+                           "name" : "Галоперидол р-р д/в/м введ 5мг/мл амп 1мл 10",
+                           "price" : "45.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "галоперидол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

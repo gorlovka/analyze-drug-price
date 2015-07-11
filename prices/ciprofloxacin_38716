@@ -1,0 +1,680 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ciprofloxacin",
+            "rus_name" : "Ципрофлоксацин",
+            "form" : "р-р д/инф. 2 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 26,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ciprofloxacin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6707,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АНГРО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956744996"
+                              },
+                              {
+                                 "number" : "+74955049709"
+                              }
+                           ],
+                           "phone" : "+74956744996; +74955049709",
+                           "city" : "Москва",
+                           "latitude" : 55.7252,
+                           "address" : "1-я Дубровская улица, 10/15"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "2",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2 мг/мл 100 мл 1 флаконы, синтез ако оао",
+                           "price" : "20"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5433,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №19",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7437,
+                           "address" : "Кутузовский проспект, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "6",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "33.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5834,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №896 ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7917,
+                           "address" : "улица Нижняя Масловка, 5"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "2",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.526,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №573",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7291,
+                           "address" : "улица Пырьева, 20"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "1",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "14.52"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.573,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999764410"
+                              }
+                           ],
+                           "phone" : "+74999764410",
+                           "city" : "Москва",
+                           "latitude" : 55.8118,
+                           "address" : "улица Костякова, 6/5"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "4",
+                           "name" : "Ципрофлоксацин, р-р д/инф 2мг/мл фл 100мл",
+                           "price" : "21.92"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6618,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №344",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8144,
+                           "address" : "Рижский проезд, 8"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "1",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.462,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №870",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7322,
+                           "address" : "Кастанаевская улица, 49"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "1",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6034,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №484",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79099814324"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79099814324",
+                           "city" : "Москва",
+                           "latitude" : 55.6408,
+                           "address" : "Балаклавский проспект, 7"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "10",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "33.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6079,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №424",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6394,
+                           "address" : "Чертановская улица, 1в к1"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "5",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "25.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4062,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №887 ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7325,
+                           "address" : "улица Боженко, 14 к1"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "1",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "17.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4505,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №357",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8345,
+                           "address" : "Малая Набережная улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "35",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "24"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6115,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №479",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6218,
+                           "address" : "Кировоградская улица, 9 к4"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "3",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "1",
+                           "name" : "Ципрофлоксацин раствор для инфузий 2мг/мл 100мл 1 флакон",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №166 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79684012281"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79684012281",
+                           "city" : "Москва",
+                           "latitude" : 55.6291,
+                           "address" : "улица Тёплый Стан, 10"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "2",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8534,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ТС &quot;АПТЕЧКА&quot;.  Аптека №435",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6839,
+                           "address" : "улица Генерала Кузнецова, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "1",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4351,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №466",
+                           "phones" : [
+                              {
+                                 "number" : "+74995004024"
+                              }
+                           ],
+                           "phone" : "+74995004024",
+                           "city" : "Москва",
+                           "latitude" : 55.8628,
+                           "address" : "Планерная улица, 7"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "9",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "15.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5425,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954226311"
+                              }
+                           ],
+                           "phone" : "+74954226311",
+                           "city" : "Москва",
+                           "latitude" : 55.6024,
+                           "address" : "улица Паустовского, 1"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "2",
+                           "name" : "Ципрофлоксацин, р-р д/инф 2мг/мл фл 100мл",
+                           "price" : "22.41"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4515,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 398",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Химки",
+                           "latitude" : 55.8876,
+                           "address" : "улица Чапаева, 11, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "2",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3624,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Трилистник на Митинском",
+                           "phones" : [
+                              {
+                                 "number" : "+74957528330"
+                              }
+                           ],
+                           "phone" : "+74957528330",
+                           "city" : "Москва",
+                           "latitude" : 55.8442,
+                           "address" : "Митинская улица, 27 к2"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "18",
+                           "name" : "Ципрофлоксацин, р-р для в/в введения 2мг/мл 100мл 1",
+                           "price" : "31"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6879,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 132",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Видное",
+                           "latitude" : 55.5463,
+                           "address" : "Булатниковская улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "2",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "26"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5429,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 266",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74967570710"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74967570710",
+                           "city" : "Подольск",
+                           "latitude" : 55.4275,
+                           "address" : "улица Свердлова, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "21",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5027,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №431",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Подольск",
+                           "latitude" : 55.4255,
+                           "address" : "Ленинградский проезд, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "2",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5208,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 080",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74967622999"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74967622999",
+                           "city" : "Климовск",
+                           "latitude" : 55.3596,
+                           "address" : "улица Победы, 2/18, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "2",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "29.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.8639,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №386",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Московская область",
+                           "latitude" : 55.7249,
+                           "address" : "Звенигород, 22"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "2",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.8593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ТС Аптечка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956518323"
+                              }
+                           ],
+                           "phone" : "+74956518323",
+                           "city" : "Звенигород",
+                           "latitude" : 55.7293,
+                           "address" : "Московская улица, 22, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "2",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4392,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №343",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8619,
+                           "address" : "улица Декабристов, 1а"
+                        },
+                        "drug" : {
+                           "descid" : "589",
+                           "quantity" : "1",
+                           "name" : "Ципрофлоксацин р-р д/инф. 2мг/мл флак. 100мл",
+                           "price" : "17.9"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ципрофлоксацин + ципрофлоксацина гидрохлорид + ципрофлоксацин (в форме гидрохлорида) + ципрофлоксацин (в форме гидрохлорида моногидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

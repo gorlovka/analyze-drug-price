@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "anastrozole_teva",
+            "rus_name" : "Анастрозол-тева",
+            "form" : "таб., покр. пленочной обол., 1 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "anastrozole_teva",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5366,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Pharmacorp Ltd",
+                           "phones" : [
+                              {
+                                 "number" : "+74993911628"
+                              }
+                           ],
+                           "phone" : "+74993911628",
+                           "city" : "Москва",
+                           "latitude" : 55.7471,
+                           "address" : "Пресненская набережная, 10блокС"
+                        },
+                        "drug" : {
+                           "descid" : "5624",
+                           "quantity" : "5",
+                           "name" : "Анастрозол тева таб 1мг 28",
+                           "price" : "3900"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8722,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955596075"
+                              },
+                              {
+                                 "number" : "+74955590344"
+                              }
+                           ],
+                           "phone" : "+74955596075; +74955590344",
+                           "city" : "Люберцы",
+                           "latitude" : 55.6704,
+                           "address" : "Юбилейная улица, 17а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5624",
+                           "quantity" : "1",
+                           "name" : "Анастрозол-тева табл.п.о. 1мг n28",
+                           "price" : "4415"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "анастрозол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

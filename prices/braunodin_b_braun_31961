@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "braunodin_b_braun",
+            "rus_name" : "Браунодин б.браун",
+            "form" : "мазь д/наружн. прим. 10%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "braunodin_b_braun",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; Фармкомпания на Пироговской&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992487181"
+                              }
+                           ],
+                           "phone" : "+74992487181",
+                           "city" : "Москва",
+                           "latitude" : 55.7342,
+                           "address" : "Погодинская улица, 1с1"
+                        },
+                        "drug" : {
+                           "descid" : "6929",
+                           "quantity" : "5",
+                           "name" : "Браунодин б.браун мазь 10%",
+                           "price" : "620"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6929",
+                           "quantity" : "3",
+                           "name" : "Браунодин б браун 10% 20,0 мазь",
+                           "price" : "200"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "повидон-йод"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

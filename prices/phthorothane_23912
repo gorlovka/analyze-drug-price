@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "phthorothane",
+            "rus_name" : "Фторотан",
+            "form" : "жидкость д/ингал. 50 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "phthorothane",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9848,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 438",
+                           "phones" : [
+                              {
+                                 "number" : "+74965665757"
+                              }
+                           ],
+                           "phone" : "+74965665757",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9222,
+                           "address" : "улица Зубеева, 10а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5727",
+                           "quantity" : "14",
+                           "name" : "Фторотан р-р д/ингал. наркоза фл-кап. 50мл",
+                           "price" : "507"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "галотан"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

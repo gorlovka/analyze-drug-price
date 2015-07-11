@@ -1,0 +1,221 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "sibazon",
+            "rus_name" : "Сибазон",
+            "form" : "р-р д/в/в и в/м введения 0.5% (10 мг/2 мл)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 7,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "sibazon",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8508,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. МОСОБЛФАРМАЦИЯ.  Аптека №1 334",
+                           "phones" : [
+                              {
+                                 "number" : "+79067318366"
+                              }
+                           ],
+                           "phone" : "+79067318366",
+                           "city" : "Реутов",
+                           "latitude" : 55.7673,
+                           "address" : "Садовый проезд, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2120",
+                           "quantity" : "14",
+                           "name" : "Сибазон р-р д/ин. амп. 0,5% 2мл n5",
+                           "price" : "63"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8406,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 114",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74955114454"
+                              },
+                              {
+                                 "number" : "+74955113937"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74955114454; +74955113937",
+                           "city" : "Королёв",
+                           "latitude" : 55.9215,
+                           "address" : "проспект Королёва, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2120",
+                           "quantity" : "2",
+                           "name" : "Сибазон р-р д/ин. амп. 0,5% 2мл n5",
+                           "price" : "63.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9079,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 064",
+                           "phones" : [
+                              {
+                                 "number" : "+74965361009"
+                              }
+                           ],
+                           "phone" : "+74965361009",
+                           "city" : "Ивантеевка",
+                           "latitude" : 55.9666,
+                           "address" : "Советский проспект, 24"
+                        },
+                        "drug" : {
+                           "descid" : "2120",
+                           "quantity" : "5",
+                           "name" : "Сибазон р-р д/ин. амп. 0,5% 2мл n5",
+                           "price" : "55.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8417,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 302",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79684052612"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79684052612",
+                           "city" : "Пушкино",
+                           "latitude" : 56.011,
+                           "address" : "Московский проспект, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2120",
+                           "quantity" : "12",
+                           "name" : "Сибазон р-р д/ин. амп. 0,5% 2мл n5",
+                           "price" : "63.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.1215,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №1 067",
+                           "phones" : [
+                              {
+                                 "number" : "+74963177528"
+                              },
+                              {
+                                 "number" : "+74963196377"
+                              }
+                           ],
+                           "phone" : "+74963177528; +74963196377",
+                           "city" : "Дедовск",
+                           "latitude" : 55.858,
+                           "address" : "Больничная улица, 4, Московская область, Истринский район"
+                        },
+                        "drug" : {
+                           "descid" : "2120",
+                           "quantity" : "3",
+                           "name" : "Сибазон р-р д/ин. амп. 0,5% 2мл n5",
+                           "price" : "63.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1071,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 059",
+                           "phones" : [
+                              {
+                                 "number" : "+74955569009"
+                              },
+                              {
+                                 "number" : "+74984823465"
+                              }
+                           ],
+                           "phone" : "+74955569009; +74984823465",
+                           "city" : "Жуковский",
+                           "latitude" : 55.609,
+                           "address" : "Клубная улица, 11, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2120",
+                           "quantity" : "20",
+                           "name" : "Сибазон р-р д/ин. амп. 0,5% 2мл n5",
+                           "price" : "63"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.9788,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 193",
+                           "phones" : [
+                              {
+                                 "number" : "+74963423321"
+                              }
+                           ],
+                           "phone" : "+74963423321",
+                           "city" : "поселок городского типа Селятино",
+                           "latitude" : 55.5114,
+                           "address" : "Больничная улица, 23А"
+                        },
+                        "drug" : {
+                           "descid" : "2120",
+                           "quantity" : "148",
+                           "name" : "Сибазон р-р д/ин. амп. 0,5% 2мл n5",
+                           "price" : "66"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "диазепам"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,221 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "galantamine",
+            "rus_name" : "Галантамин",
+            "form" : "таб., покр. пленочной оболочкой, 12 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 7,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "galantamine",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "6728",
+                           "quantity" : "2",
+                           "name" : "Галантамин таб п/пл.об 12мг 56",
+                           "price" : "2599"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "6728",
+                           "quantity" : "2",
+                           "name" : "Галантамин 12мг 56 табл п/о",
+                           "price" : "2562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6087,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.7192,
+                           "address" : "улица Шаболовка, 30/12"
+                        },
+                        "drug" : {
+                           "descid" : "6728",
+                           "quantity" : "5",
+                           "name" : "Галантамин таб. п/о плен.12мг 56",
+                           "price" : "2210"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.596,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678549"
+                              }
+                           ],
+                           "phone" : "+74999678549",
+                           "city" : "Москва",
+                           "latitude" : 55.7861,
+                           "address" : "Новослободская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "6728",
+                           "quantity" : "1",
+                           "name" : "Галантамин тбл п/о 12мг 56",
+                           "price" : "2814"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5533,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО фирма &quot;Тревел Мединшур&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956133280"
+                              },
+                              {
+                                 "number" : "+74954111749"
+                              }
+                           ],
+                           "phone" : "+74956133280; +74954111749",
+                           "city" : "Москва",
+                           "latitude" : 55.8008,
+                           "address" : "улица 8 Марта, 1 с10"
+                        },
+                        "drug" : {
+                           "descid" : "6728",
+                           "quantity" : "1",
+                           "name" : "Галантамин таб. п/о плен.12мг 56",
+                           "price" : "2647"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6089,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999045455"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74999045455; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8623,
+                           "address" : "улица Декабристов, 20 к2"
+                        },
+                        "drug" : {
+                           "descid" : "6728",
+                           "quantity" : "10",
+                           "name" : "Галантамин таб п.о 12мг 56",
+                           "price" : "2399"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.814,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74954682066"
+                              }
+                           ],
+                           "phone" : "+74954682066",
+                           "city" : "Москва",
+                           "latitude" : 55.8105,
+                           "address" : "Щёлковское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "6728",
+                           "quantity" : "1",
+                           "name" : "Галантамин тб 12мг 56",
+                           "price" : "2580"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "галантамин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

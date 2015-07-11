@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "clotrimazole",
+            "rus_name" : "Клотримазол",
+            "form" : "гель д/наружн. прим. 1%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "clotrimazole",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4567,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999684756"
+                              }
+                           ],
+                           "phone" : "+74999684756",
+                           "city" : "Москва",
+                           "latitude" : 55.81,
+                           "address" : "Авиационная улица, 68"
+                        },
+                        "drug" : {
+                           "descid" : "1455",
+                           "quantity" : "5",
+                           "name" : "Клотримазол гель 1% 20г",
+                           "price" : "55"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "клотримазол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

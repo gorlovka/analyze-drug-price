@@ -1,0 +1,112 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "exelon",
+            "rus_name" : "Экселон®",
+            "form" : "трансдермальная терапевтическая система (ТТС) 27 мг (13.3 мг/24 ч)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "exelon",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6402,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармстар&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994996561"
+                              },
+                              {
+                                 "number" : "+79857267056"
+                              }
+                           ],
+                           "phone" : "+74994996561; +79857267056",
+                           "city" : "Москва",
+                           "latitude" : 55.8494,
+                           "address" : "Снежная улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "1",
+                           "name" : "Экселон, трансдерм.терап.система 13,3мг/24ч 30",
+                           "price" : "3555"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5057,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «ФармПрогресс»",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6754,
+                           "address" : "проспект Вернадского, 39"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "1",
+                           "name" : "Экселон трансдермальная система 13,3 мг/24 ч 30",
+                           "price" : "4050"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4437,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Эко-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217912"
+                              },
+                              {
+                                 "number" : "+74959217637"
+                              }
+                           ],
+                           "phone" : "+74959217912; +74959217637",
+                           "city" : "Химки",
+                           "latitude" : 55.8902,
+                           "address" : "Пролетарская улица, 1/30, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "659",
+                           "quantity" : "1",
+                           "name" : "Экселон, трансдерм.терап.система 13,3мг/24ч 30",
+                           "price" : "3846"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ривастигмин (в форме гидротартрата) + ривастигмин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

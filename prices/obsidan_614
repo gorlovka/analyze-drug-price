@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "obsidan",
+            "rus_name" : "Обзидан",
+            "form" : "таб. 40 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "obsidan",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.352,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АНТЕВА",
+                           "phones" : [
+                              {
+                                 "number" : "+74957314399"
+                              }
+                           ],
+                           "phone" : "+74957314399",
+                           "city" : "Москва",
+                           "latitude" : 55.6395,
+                           "address" : "улица Шолохова, 12"
+                        },
+                        "drug" : {
+                           "descid" : "320",
+                           "quantity" : "1",
+                           "name" : "Обзидан 40мг n60 таб.",
+                           "price" : "70"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0591,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строй-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79011846532"
+                              }
+                           ],
+                           "phone" : "+79011846532",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9009,
+                           "address" : "улица Ленина, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "320",
+                           "quantity" : "3",
+                           "name" : "Обзидан таб. 40мг 60",
+                           "price" : "70"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "пропранолола гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "diabeton_mr",
+            "rus_name" : "Диабетон® мв",
+            "form" : "таб. с модифицир. высвобождением 30 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "diabeton_mr",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7694,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека на Братиславской",
+                           "phones" : [
+                              {
+                                 "number" : "+74953479231"
+                              }
+                           ],
+                           "phone" : "+74953479231",
+                           "city" : "Москва",
+                           "latitude" : 55.6526,
+                           "address" : "Братиславская улица, 31 к3"
+                        },
+                        "drug" : {
+                           "descid" : "1028",
+                           "quantity" : "2",
+                           "name" : "Диабетон мв 30мг n60 таб.",
+                           "price" : "320.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0107,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВИТА-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955229477"
+                              }
+                           ],
+                           "phone" : "+74955229477",
+                           "city" : "Балашиха",
+                           "latitude" : 55.749,
+                           "address" : "Пролетарская улица, 3"
+                        },
+                        "drug" : {
+                           "descid" : "1028",
+                           "quantity" : "5",
+                           "name" : "Диабетон мв 30мг таб. с модифиц. высв. х60 (r) лаборатории сервье/сердикс ооо (россия)",
+                           "price" : "293"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "гликлазид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

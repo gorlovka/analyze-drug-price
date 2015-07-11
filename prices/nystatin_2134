@@ -1,0 +1,4323 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "nystatin",
+            "rus_name" : "Нистатин",
+            "form" : "суппозитории рект. 500 тыс.ЕД",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 173,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "nystatin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6287,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №651",
+                           "phones" : [
+                              {
+                                 "number" : "+79260298909"
+                              }
+                           ],
+                           "phone" : "+79260298909",
+                           "city" : "Москва",
+                           "latitude" : 55.7432,
+                           "address" : "Пятницкая улица, 17/4 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "119"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6382,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №855 ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7521,
+                           "address" : "улица Солянка, 12 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6124,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №817",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7346,
+                           "address" : "улица Большая Якиманка, 32"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "142"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6343,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №80",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7668,
+                           "address" : "Сретенский бульвар, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "171"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6257,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №90",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7704,
+                           "address" : "Большой Сухаревский переулок, 2/24"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "64.55"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5832,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №929",
+                           "phones" : [
+                              {
+                                 "number" : "+74957950984"
+                              }
+                           ],
+                           "phone" : "+74957950984",
+                           "city" : "Москва",
+                           "latitude" : 55.7477,
+                           "address" : "улица Арбат, 54/2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "181"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин 500000ед 10 супп рект",
+                           "price" : "95"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5871,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №849 ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7387,
+                           "address" : "Зубовский бульвар, 22/39"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6543,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»2",
+                           "phones" : [
+                              {
+                                 "number" : "+74955325351"
+                              }
+                           ],
+                           "phone" : "+74955325351",
+                           "city" : "Москва",
+                           "latitude" : 55.7369,
+                           "address" : "улица Большие Каменщики, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин ваг.свечи 500000ед n10",
+                           "price" : "59"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6627,
+                           "roundtheclock" : 1,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №983",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7617,
+                           "address" : "Нижний Сусальный переулок, 4 с3"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "125"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №32",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7706,
+                           "address" : "Тишинская площадь, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "108"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6016,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Семья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999785551"
+                              },
+                              {
+                                 "number" : "+74999730180"
+                              }
+                           ],
+                           "phone" : "+74999785551; +74999730180",
+                           "city" : "Москва",
+                           "latitude" : 55.7809,
+                           "address" : "Сущёвская улица, 13/15"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин 500000ед 10 супп рект",
+                           "price" : "67"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6697,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №963",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.739,
+                           "address" : "Таганская улица, 44"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "79"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6281,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 464",
+                           "phones" : [
+                              {
+                                 "number" : "+79265195853"
+                              }
+                           ],
+                           "phone" : "+79265195853",
+                           "city" : "Москва",
+                           "latitude" : 55.7848,
+                           "address" : "улица Щепкина, 61/2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "66"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6406,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №622",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7832,
+                           "address" : "Орлово-Давыдовский переулок, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.675,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №658 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7385,
+                           "address" : "Нижегородская улица, 2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "119"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5996,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №215 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+79258977019"
+                              }
+                           ],
+                           "phone" : "+79258977019",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Тихвинская улица, 17 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5845,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ТС &quot;АПТЕЧКА&quot;.  Аптека №1 000",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7885,
+                           "address" : "улица Правды, 24 с5"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "78"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6723,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 8",
+                           "phones" : [
+                              {
+                                 "number" : "+74955101755"
+                              }
+                           ],
+                           "phone" : "+74955101755",
+                           "city" : "Москва",
+                           "latitude" : 55.7819,
+                           "address" : "Русаковская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп вагин 500000ед бл n5x2",
+                           "price" : "84.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5916,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №454",
+                           "phones" : [
+                              {
+                                 "number" : "+74959802280"
+                              }
+                           ],
+                           "phone" : "+74959802280",
+                           "city" : "Москва",
+                           "latitude" : 55.793,
+                           "address" : "улица Сущёвский Вал, 5 с2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "103"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5834,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №896 ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7917,
+                           "address" : "улица Нижняя Масловка, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "66"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5519,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №850",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7801,
+                           "address" : "2-й Боткинский проезд, 5 к4"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5587,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №475",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7854,
+                           "address" : "Ленинградский проспект, 31а"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "131"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6984,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №184",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7314,
+                           "address" : "Средняя Калитниковская улица, 28 с4"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "165"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7084,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №486",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7818,
+                           "address" : "Большая Семёновская улица, 32"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "93.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6093,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №581",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6928,
+                           "address" : "Севастопольский проспект, 3б"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "97.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5676,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №995",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.8098,
+                           "address" : "Тимирязевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "103"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5875,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №134",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8157,
+                           "address" : "улица Гончарова, 15"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "162"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5927,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №578 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6866,
+                           "address" : "улица Винокурова, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "90"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5714,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997241703"
+                              },
+                              {
+                                 "number" : "+74995855515"
+                              }
+                           ],
+                           "phone" : "+74997241703; +74995855515",
+                           "city" : "Москва",
+                           "latitude" : 55.689,
+                           "address" : "улица Дмитрия Ульянова, 17 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп. ваг. 500000 ед 10",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар (Преображенская площадь)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959636100"
+                              }
+                           ],
+                           "phone" : "+74959636100",
+                           "city" : "Москва",
+                           "latitude" : 55.7974,
+                           "address" : "Большая Черкизовская улица, 5 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин 500000ед n10 суппозитории вагинальные",
+                           "price" : "73"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №491",
+                           "phones" : [
+                              {
+                                 "number" : "+74956376035"
+                              }
+                           ],
+                           "phone" : "+74956376035",
+                           "city" : "Москва",
+                           "latitude" : 55.8246,
+                           "address" : "1-я Останкинская улица, 53"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "101"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4927,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Алекс Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959426630"
+                              }
+                           ],
+                           "phone" : "+74959426630",
+                           "city" : "Москва",
+                           "latitude" : 55.7719,
+                           "address" : "улица Мнёвники, 7 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин ваг.свечи 500000ед n10",
+                           "price" : "89"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5982,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №398",
+                           "phones" : [
+                              {
+                                 "number" : "+74991275959"
+                              }
+                           ],
+                           "phone" : "+74991275959",
+                           "city" : "Москва",
+                           "latitude" : 55.6781,
+                           "address" : "улица Ремизова, 3"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "109"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Фирма Здоровье г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74957381041"
+                              }
+                           ],
+                           "phone" : "+74957381041",
+                           "city" : "Москва",
+                           "latitude" : 55.7659,
+                           "address" : "Филёвский бульвар, 11"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "5",
+                           "name" : "Нистатин 500000 ед ваг.супп. х10",
+                           "price" : "88"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5987,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №226 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6755,
+                           "address" : "Нагорная улица, 27 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "97.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5511,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №913",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6828,
+                           "address" : "улица Вавилова, 69/75"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "142"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5798,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №392",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8272,
+                           "address" : "улица Яблочкова, 36"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "171"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7336,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "АСНА (Текстильщики)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991794283"
+                              }
+                           ],
+                           "phone" : "+74991794283",
+                           "city" : "Москва",
+                           "latitude" : 55.7013,
+                           "address" : "Люблинская улица, 25/1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин 500000ед n10 суппозитории вагинальные",
+                           "price" : "88"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7501,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №696 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7149,
+                           "address" : "улица Васильцовский Стан, 7 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "103"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7154,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №165 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8152,
+                           "address" : "бульвар Маршала Рокоссовского, 31с2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "74"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4713,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №820",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7753,
+                           "address" : "проспект Маршала Жукова, 39 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "155"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.497,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №621 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6989,
+                           "address" : "Мичуринский проспект, 34"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5673,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Целитель+&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957794761"
+                              }
+                           ],
+                           "phone" : "+74957794761",
+                           "city" : "Москва",
+                           "latitude" : 55.6698,
+                           "address" : "Новочерёмушкинская улица, 57"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп рект 500000ед n10 уп кнт-яч пк &amp;lt;5*2&amp;gt;",
+                           "price" : "85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5349,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Гарибальди",
+                           "phones" : [
+                              {
+                                 "number" : "+74995047853"
+                              }
+                           ],
+                           "phone" : "+74995047853",
+                           "city" : "Москва",
+                           "latitude" : 55.677,
+                           "address" : "улица Гарибальди, вл4Бс1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин 500000ед n10 суппозитории вагинальные",
+                           "price" : "77"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5123,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №310",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8204,
+                           "address" : "улица Зои и Александра Космодемьянских, 14/10"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "86.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7376,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №480 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74957252698"
+                              }
+                           ],
+                           "phone" : "+74957252698",
+                           "city" : "Москва",
+                           "latitude" : 55.8149,
+                           "address" : "Открытое шоссе, 9с1а"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "18",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "110"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7716,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №189 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7156,
+                           "address" : "Окская улица, 36 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "119"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7591,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №682 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7007,
+                           "address" : "улица Юных Ленинцев, 42 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "90"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4614,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №291",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.719,
+                           "address" : "улица Артамонова, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "144"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4571,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №649",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7818,
+                           "address" : "Живописная улица, 6 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "71"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4616,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №895 ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7897,
+                           "address" : "улица Паршина, 4"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "97.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4911,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №50",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6838,
+                           "address" : "улица Удальцова, 42"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "142"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6491,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999684911"
+                              }
+                           ],
+                           "phone" : "+74999684911",
+                           "city" : "Москва",
+                           "latitude" : 55.654,
+                           "address" : "Каширское шоссе, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин супп. ваг. 500000 ед 10",
+                           "price" : "71"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5173,
+                           "roundtheclock" : 1,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №69",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6676,
+                           "address" : "Ленинский проспект, 99"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "119"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4448,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №243",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7218,
+                           "address" : "Можайское шоссе, 3/1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "140"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5011,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №565",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6697,
+                           "address" : "улица Лобачевского, 42"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "169"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.527,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»",
+                           "phones" : [
+                              {
+                                 "number" : "+74955326904"
+                              }
+                           ],
+                           "phone" : "+74955326904",
+                           "city" : "Москва",
+                           "latitude" : 55.6595,
+                           "address" : "улица Академика Челомея, 3 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин ваг.свечи 500000ед n10",
+                           "price" : "56"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7903,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №840",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7083,
+                           "address" : "улица Фёдора Полетаева, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "79"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7789,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №980",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8101,
+                           "address" : "Щёлковское шоссе, 27а"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5927,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;ТС &quot;АПТЕЧКА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959158419"
+                              }
+                           ],
+                           "phone" : "+74959158419",
+                           "city" : "Москва",
+                           "latitude" : 55.8581,
+                           "address" : "улица Хачатуряна, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "44.11"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.603,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №206",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79096352997"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79096352997",
+                           "city" : "Москва",
+                           "latitude" : 55.8606,
+                           "address" : "улица Хачатуряна, 16"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "131"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6034,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №484",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79099814324"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79099814324",
+                           "city" : "Москва",
+                           "latitude" : 55.6408,
+                           "address" : "Балаклавский проспект, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "98"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8027,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №78",
+                           "phones" : [
+                              {
+                                 "number" : "+74991662336"
+                              }
+                           ],
+                           "phone" : "+74991662336",
+                           "city" : "Москва",
+                           "latitude" : 55.7975,
+                           "address" : "Измайловский бульвар, 55"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "119"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5911,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармапарк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955653137"
+                              }
+                           ],
+                           "phone" : "+74955653137",
+                           "city" : "Москва",
+                           "latitude" : 55.638,
+                           "address" : "микрорайон Северное Чертаново, 5г"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин ваг.свечи 500000ед 10",
+                           "price" : "84"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4154,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №1",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.741,
+                           "address" : "Ярцевская улица, 25а"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "142"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5966,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №185 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+79164088175"
+                              },
+                              {
+                                 "number" : "+79670896653"
+                              }
+                           ],
+                           "phone" : "+79164088175; +79670896653",
+                           "city" : "Москва",
+                           "latitude" : 55.6363,
+                           "address" : "микрорайон Северное Чертаново, к823"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "97.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6225,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №172 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+79258976972"
+                              }
+                           ],
+                           "phone" : "+79258976972",
+                           "city" : "Москва",
+                           "latitude" : 55.868,
+                           "address" : "Юрловский проезд, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "65.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4165,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №451",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.723,
+                           "address" : "улица Гришина, 15"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "77"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7504,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №417",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6607,
+                           "address" : "улица Перерва, 49"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "69.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8165,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №79",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7126,
+                           "address" : "Рязанский проспект, вл99ас1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4527,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Очаково",
+                           "phones" : [
+                              {
+                                 "number" : "+74954306225"
+                              }
+                           ],
+                           "phone" : "+74954306225",
+                           "city" : "Москва",
+                           "latitude" : 55.6791,
+                           "address" : "Большая Очаковская улица, 27/7с1-3"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин 500000ед n10 суппозитории вагинальные",
+                           "price" : "92"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4085,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74954134256"
+                              }
+                           ],
+                           "phone" : "+74954134256",
+                           "city" : "Москва",
+                           "latitude" : 55.7605,
+                           "address" : "Осенний бульвар, 16 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин супп. рект. 500000 ед 10",
+                           "price" : "93"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7973,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №221 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8156,
+                           "address" : "Уральская улица, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6732,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №91",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6358,
+                           "address" : "Кантемировская улица, 7 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "98.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8219,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №584",
+                           "phones" : [
+                              {
+                                 "number" : "+74996816135"
+                              }
+                           ],
+                           "phone" : "+74996816135",
+                           "city" : "Москва",
+                           "latitude" : 55.7161,
+                           "address" : "Вешняковская улица, 43"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.764,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №367",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6637,
+                           "address" : "Перервинский бульвар, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "73.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8241,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №674",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.719,
+                           "address" : "Вешняковская улица, 39а"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "90"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6497,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №618 ",
+                           "phones" : [
+                              {
+                                 "number" : "+79258076926"
+                              },
+                              {
+                                 "number" : "+79162980672"
+                              },
+                              {
+                                 "number" : "+79269732770"
+                              }
+                           ],
+                           "phone" : "+79258076926; +79162980672; +79269732770",
+                           "city" : "Москва",
+                           "latitude" : 55.8712,
+                           "address" : "проезд Дежнёва, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4554,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956642416"
+                              }
+                           ],
+                           "phone" : "+74956642416",
+                           "city" : "Москва",
+                           "latitude" : 55.8315,
+                           "address" : "Подмосковная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин супп. ваг. 500000 ед 10",
+                           "price" : "96"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5873,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №158",
+                           "phones" : [
+                              {
+                                 "number" : "+79032227624"
+                              }
+                           ],
+                           "phone" : "+79032227624",
+                           "city" : "Москва",
+                           "latitude" : 55.872,
+                           "address" : "Алтуфьевское шоссе, 40"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4921,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №626",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.8516,
+                           "address" : "Флотская улица, 5 ка"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4179,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №175",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8053,
+                           "address" : "улица Исаковского, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "90"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8187,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №120",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8069,
+                           "address" : "15-я Парковая улица, 44 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "131"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8279,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №86",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7059,
+                           "address" : "Самаркандский бульвар, 8 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "86"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4949,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Островитянова",
+                           "phones" : [
+                              {
+                                 "number" : "+74954387475"
+                              }
+                           ],
+                           "phone" : "+74954387475",
+                           "city" : "Москва",
+                           "latitude" : 55.6449,
+                           "address" : "улица Островитянова, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин 500000ед n10 суппозитории вагинальные",
+                           "price" : "92"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5111,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №16",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8647,
+                           "address" : "Фестивальная улица, 50 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "109"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8473,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №55",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7389,
+                           "address" : "Суздальская улица, 12 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6115,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №479",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6218,
+                           "address" : "Кировоградская улица, 9 к4"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "108"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5216,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лавка здоровья и красоты&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954209711"
+                              },
+                              {
+                                 "number" : "+74954202188"
+                              }
+                           ],
+                           "phone" : "+74954209711; +74954202188",
+                           "city" : "Москва",
+                           "latitude" : 55.633,
+                           "address" : "Профсоюзная улица, 109"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "9",
+                           "name" : "Нистатин ваг.свечи 500000ед n10",
+                           "price" : "86"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5889,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №605",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6202,
+                           "address" : "Чертановская улица, 30 к5"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "74"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4764,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №312",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6456,
+                           "address" : "Ленинский проспект, 127"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "80.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8309,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №56",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8102,
+                           "address" : "Щёлковское шоссе, 100"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "132"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6844,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №295 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8803,
+                           "address" : "Тайнинская улица, 14"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7043,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №174",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8773,
+                           "address" : "улица Малыгина, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8291,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №160",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74996816145"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74996816145",
+                           "city" : "Москва",
+                           "latitude" : 55.8161,
+                           "address" : "Хабаровская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "75.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8291,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;ТС&quot;Аптечка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996816145"
+                              }
+                           ],
+                           "phone" : "+74996816145",
+                           "city" : "Москва",
+                           "latitude" : 55.817,
+                           "address" : "Хабаровская улица, 4 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "75.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6929,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;ТС&quot;Аптечка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957807928"
+                              }
+                           ],
+                           "phone" : "+74957807928",
+                           "city" : "Москва",
+                           "latitude" : 55.8815,
+                           "address" : "улица Малыгина, 9"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8622,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №841",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Реутов",
+                           "latitude" : 55.7471,
+                           "address" : "Южная улица, 10а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "9",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "170"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5122,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959679536"
+                              }
+                           ],
+                           "phone" : "+74959679536",
+                           "city" : "Москва",
+                           "latitude" : 55.6279,
+                           "address" : "Профсоюзная улица, 138"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "5",
+                           "name" : "Нистатин супп. ваг. 500000 ед 10",
+                           "price" : "67"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7053,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №144 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+79258976944"
+                              }
+                           ],
+                           "phone" : "+79258976944",
+                           "city" : "Москва",
+                           "latitude" : 55.6225,
+                           "address" : "улица Маршала Захарова, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "162"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7446,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 30",
+                           "phones" : [
+                              {
+                                 "number" : "+79647294704"
+                              }
+                           ],
+                           "phone" : "+79647294704",
+                           "city" : "Москва",
+                           "latitude" : 55.6329,
+                           "address" : "улица Борисовские Пруды, 14 к4"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин 500000ед 10 супп.",
+                           "price" : "85.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.686,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74991854572"
+                              }
+                           ],
+                           "phone" : "+74991854572",
+                           "city" : "Москва",
+                           "latitude" : 55.8846,
+                           "address" : "Тайнинская улица, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп. ваг. 500000 ед 10",
+                           "price" : "145"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.658,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №74",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79684052611"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79684052611",
+                           "city" : "Москва",
+                           "latitude" : 55.8883,
+                           "address" : "Широкая улица, 9 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "69.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4416,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №969",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8493,
+                           "address" : "Химкинский бульвар, 23"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "103"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6771,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №49",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8877,
+                           "address" : "Широкая улица, 29"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "131"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8495,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №941",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6986,
+                           "address" : "Жулебинский бульвар, 10/6"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "130"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3766,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №378",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Новоивановское",
+                           "latitude" : 55.7127,
+                           "address" : "Амбулаторная улица, 49а, Московская область, Одинцовский район"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7364,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №287",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.626,
+                           "address" : "Ореховый проезд, 9"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "88"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.507,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №167",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6236,
+                           "address" : "Профсоюзная улица, 146к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "77"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4862,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №163",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6262,
+                           "address" : "улица Генерала Тюленева, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "119"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.605,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №372",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8974,
+                           "address" : "улица Лескова, 14"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "76"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7266,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №912",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6163,
+                           "address" : "Борисовский проезд, 40 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "162"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.534,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №94",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74965430089"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74965430089",
+                           "city" : "Москва",
+                           "latitude" : 55.8936,
+                           "address" : "Карельский бульвар, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4128,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №122",
+                           "phones" : [
+                              {
+                                 "number" : "+79150853268"
+                              },
+                              {
+                                 "number" : "+79851921008"
+                              }
+                           ],
+                           "phone" : "+79150853268; +79851921008",
+                           "city" : "Москва",
+                           "latitude" : 55.8513,
+                           "address" : "бульвар Яна Райниса, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "86.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4129,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №130 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6517,
+                           "address" : "улица 50 лет Октября, 11"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "43.78"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4941,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №289",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6138,
+                           "address" : "улица Генерала Тюленева, 41а"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6146,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579758"
+                              }
+                           ],
+                           "phone" : "+74996579758",
+                           "city" : "Москва",
+                           "latitude" : 55.5964,
+                           "address" : "Россошанская улица, 13 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп. рект. 500000 ед 10",
+                           "price" : "72"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.546,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Голубинская",
+                           "phones" : [
+                              {
+                                 "number" : "+74954232169"
+                              },
+                              {
+                                 "number" : "+74954238372"
+                              },
+                              {
+                                 "number" : "+74954233522"
+                              }
+                           ],
+                           "phone" : "+74954232169; +74954238372; +74954233522",
+                           "city" : "Москва",
+                           "latitude" : 55.5939,
+                           "address" : "Голубинская улица, 32/2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин 500000ед n10 суппозитории вагинальные",
+                           "price" : "88"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4001,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №496",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6447,
+                           "address" : "улица Авиаторов, 18"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "132"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4515,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 398",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Химки",
+                           "latitude" : 55.8876,
+                           "address" : "улица Чапаева, 11, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "80.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 174",
+                           "phones" : [
+                              {
+                                 "number" : "+74955820113"
+                              }
+                           ],
+                           "phone" : "+74955820113",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9079,
+                           "address" : "Новомытищинский проспект, 48, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "67"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4275,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №294",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Химки",
+                           "latitude" : 55.8838,
+                           "address" : "улица Панфилова, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "162"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4345,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 397",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74955759611"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74955759611",
+                           "city" : "Химки",
+                           "latitude" : 55.8916,
+                           "address" : "Ленинградская улица, 18а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "80.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3244,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НОТА-БЕНА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994096060"
+                              },
+                              {
+                                 "number" : "+74955658916"
+                              }
+                           ],
+                           "phone" : "+74994096060; +74955658916",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8067,
+                           "address" : "Южный бульвар, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин 500000ед 10 супп.ваг.",
+                           "price" : "65"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5768,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №379",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.5778,
+                           "address" : "Старобитцевская улица, 21 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.35,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Митино",
+                           "phones" : [
+                              {
+                                 "number" : "+74957527800"
+                              }
+                           ],
+                           "phone" : "+74957527800",
+                           "city" : "Москва",
+                           "latitude" : 55.8486,
+                           "address" : "3-й Митинский переулок, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин 500000ед n10 суппозитории вагинальные",
+                           "price" : "88"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9333,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 001",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7912,
+                           "address" : "Первомайская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "67"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4004,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №648 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.8881,
+                           "address" : "Воротынская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "112"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5777,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №844",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.5685,
+                           "address" : "бульвар Дмитрия Донского, 9 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "79"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5697,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Грина",
+                           "phones" : [
+                              {
+                                 "number" : "+74957148427"
+                              }
+                           ],
+                           "phone" : "+74957148427",
+                           "city" : "Москва",
+                           "latitude" : 55.5682,
+                           "address" : "улица Грина, 30"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин 500000ед n10 суппозитории вагинальные",
+                           "price" : "92"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3505,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №174 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6404,
+                           "address" : "улица Шолохова, 18"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "98"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7733,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека А5&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565",
+                                 "additional" : [
+                                    "0944"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74956453565, доб. 0944",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9231,
+                           "address" : "улица Попова, 1С2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "78.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7788,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №1 176",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9237,
+                           "address" : "улица Попова, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "78.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3072,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 485",
+                           "phones" : [
+                              {
+                                 "number" : "+78498565044"
+                              }
+                           ],
+                           "phone" : "+78498565044",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8385,
+                           "address" : "улица Карбышева, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "112"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3009,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 125",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8379,
+                           "address" : "улица Карбышева, 19а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "119"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5081,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538447"
+                              },
+                              {
+                                 "number" : "+74995855515"
+                              },
+                              {
+                                 "number" : "+74995538447"
+                              },
+                              {
+                                 "number" : "+74995855515"
+                              }
+                           ],
+                           "phone" : "+74995538447; +74995855515; +74995538447; +74995855515",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.945,
+                           "address" : "Дирижабельная улица, 24, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп. рект. 500000 ед 10",
+                           "price" : "73"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7085,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №269",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Видное",
+                           "latitude" : 55.5526,
+                           "address" : "Советский проезд, 11, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7024,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №823",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Московская область",
+                           "latitude" : 55.5517,
+                           "address" : "Видное, 10"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "126"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9672,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №293",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74956639726"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74956639726",
+                           "city" : "Балашиха",
+                           "latitude" : 55.8154,
+                           "address" : "Спортивная улица, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "78.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2838,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 496 ",
+                           "phones" : [
+                              {
+                                 "number" : "+79015346385"
+                              }
+                           ],
+                           "phone" : "+79015346385",
+                           "city" : "Одинцово",
+                           "latitude" : 55.6643,
+                           "address" : "улица Маковского, 22а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "167"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5513,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №582 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.5463,
+                           "address" : "бульвар Адмирала Ушакова, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "126"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5561,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №471",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.5454,
+                           "address" : "Скобелевская улица, 24"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "123"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9722,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579670"
+                              }
+                           ],
+                           "phone" : "+74996579670",
+                           "city" : "Балашиха",
+                           "latitude" : 55.831,
+                           "address" : "улица Свердлова, 38, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин супп. ваг. 500000 ед 10",
+                           "price" : "105"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5429,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»3",
+                           "phones" : [
+                              {
+                                 "number" : "+74955325880"
+                              }
+                           ],
+                           "phone" : "+74955325880",
+                           "city" : "Москва",
+                           "latitude" : 55.5396,
+                           "address" : "Чечёрский проезд, 16"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин свечи 500000ед n10",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9083,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 156",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Лыткарино",
+                           "latitude" : 55.575,
+                           "address" : "Октябрьская улица, 20"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "77.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2117,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №257",
+                           "phones" : [
+                              {
+                                 "number" : "+79057668848"
+                              },
+                              {
+                                 "number" : "+74956431255"
+                              }
+                           ],
+                           "phone" : "+79057668848; +74956431255",
+                           "city" : "Одинцовский район",
+                           "latitude" : 55.6588,
+                           "address" : "ВНИИССОК, 8, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "132"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9848,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 438",
+                           "phones" : [
+                              {
+                                 "number" : "+74965665757"
+                              }
+                           ],
+                           "phone" : "+74965665757",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9222,
+                           "address" : "улица Зубеева, 10а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "78.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9079,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 064",
+                           "phones" : [
+                              {
+                                 "number" : "+74965361009"
+                              }
+                           ],
+                           "phone" : "+74965361009",
+                           "city" : "Ивантеевка",
+                           "latitude" : 55.9666,
+                           "address" : "Советский проспект, 24"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "65"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9213,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №579",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Ивантеевка",
+                           "latitude" : 55.966,
+                           "address" : "Рощинская улица, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9766,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957397699"
+                              }
+                           ],
+                           "phone" : "+74957397699",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9403,
+                           "address" : "микрорайон Богородский, 10 к1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп. рект. 500000 ед 10",
+                           "price" : "75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.853,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 305",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Пушкино",
+                           "latitude" : 56.0027,
+                           "address" : "Надсоновская улица, 15, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "131"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8583,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. АПТЕКИ А5 Московская область.  Аптека №1 804",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Пушкино",
+                           "latitude" : 56.0027,
+                           "address" : "Московский проспект, 44, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "93.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0641,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ТС &quot;АПТЕЧКА&quot;.  Аптека №5",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74959679558"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74959679558",
+                           "city" : "Щелково",
+                           "latitude" : 55.9069,
+                           "address" : "улица Гагарина, 3"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7428,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №1 038",
+                           "phones" : [
+                              {
+                                 "number" : "+74967936481"
+                              }
+                           ],
+                           "phone" : "+74967936481",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4502,
+                           "address" : "улица Гагарина, 50, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7439,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74967936484"
+                              }
+                           ],
+                           "phone" : "+74967936484",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4503,
+                           "address" : "улица Гагарина, 50"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.045,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957397697"
+                              }
+                           ],
+                           "phone" : "+74957397697",
+                           "city" : "Фрязино",
+                           "latitude" : 55.9557,
+                           "address" : "Октябрьская улица, 10, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "11",
+                           "name" : "Нистатин супп. рект. 500000 ед 10",
+                           "price" : "61"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0539,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №1 395",
+                           "phones" : [
+                              {
+                                 "number" : "+79067829786"
+                              }
+                           ],
+                           "phone" : "+79067829786",
+                           "city" : "Фрязино",
+                           "latitude" : 55.9503,
+                           "address" : "Полевая улица, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "79"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0586,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 393",
+                           "phones" : [
+                              {
+                                 "number" : "+74965640872"
+                              }
+                           ],
+                           "phone" : "+74965640872",
+                           "city" : "Фрязино",
+                           "latitude" : 55.9547,
+                           "address" : "проспект Мира, 20, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "85.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5465,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+78002006303"
+                              }
+                           ],
+                           "phone" : "+78002006303",
+                           "city" : "Подольск",
+                           "latitude" : 55.4308,
+                           "address" : "Большая Серпуховская улица, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "86"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5451,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №1 518 ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Подольск",
+                           "latitude" : 55.429,
+                           "address" : "Большая Серпуховская улица, 2/30"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "86"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5751,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №1 271",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74967540838"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74967540838",
+                           "city" : "Подольск",
+                           "latitude" : 55.4203,
+                           "address" : "Северная улица, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "137"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1967,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека А5&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565",
+                                 "additional" : [
+                                    "1850"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74956453565, доб. 1850",
+                           "city" : "поселок городского типа Монино",
+                           "latitude" : 55.8471,
+                           "address" : "улица Мира, 9"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "77"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2188,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №506",
+                           "phones" : [
+                              {
+                                 "number" : "+74965240687"
+                              }
+                           ],
+                           "phone" : "+74965240687",
+                           "city" : "Электроугли",
+                           "latitude" : 55.7172,
+                           "address" : "Школьная улица, 33, Московская область, Ногинский район"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "80.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7683,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 036",
+                           "phones" : [
+                              {
+                                 "number" : "+79037136912"
+                              }
+                           ],
+                           "phone" : "+79037136912",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4222,
+                           "address" : "улица Талалихина, 10, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "131"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5292,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 280",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Подольск",
+                           "latitude" : 55.4138,
+                           "address" : "улица Ватутина, 79, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "65"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.9672,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 223",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Голицыно",
+                           "latitude" : 55.6124,
+                           "address" : "проспект Керамиков, 92, Московская область, Одинцовский район"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5208,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 080",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74967622999"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74967622999",
+                           "city" : "Климовск",
+                           "latitude" : 55.3596,
+                           "address" : "улица Победы, 2/18, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "99"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.8639,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №386",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Московская область",
+                           "latitude" : 55.7249,
+                           "address" : "Звенигород, 22"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.рект. 500000ед n10",
+                           "price" : "81.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5268,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №226",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "поселок городского типа Львовский",
+                           "latitude" : 55.3161,
+                           "address" : "Пролетарская улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.863,
+                           "roundtheclock" : 1,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 066",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Истра",
+                           "latitude" : 55.9131,
+                           "address" : "улица 9 Гвардейской Дивизии, 42, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4392,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №343",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8619,
+                           "address" : "улица Декабристов, 1а"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "144"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4899,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №463",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538197"
+                              },
+                              {
+                                 "number" : "+79036106860"
+                              }
+                           ],
+                           "phone" : "+74995538197; +79036106860",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8884,
+                           "address" : "улица Ленина, 12, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин супп.ваг. 500000ед n10",
+                           "price" : "132"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "нистатин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

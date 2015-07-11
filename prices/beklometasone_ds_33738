@@ -1,0 +1,115 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "beklometasone_ds",
+            "rus_name" : "Беклометазон дс",
+            "form" : "аэрозоль д/инг. дозир. 250 мкг/1 доза",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "beklometasone_ds",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5847,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диасфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266856"
+                              },
+                              {
+                                 "number" : "+74956266857"
+                              }
+                           ],
+                           "phone" : "+74956266856; +74956266857",
+                           "city" : "Москва",
+                           "latitude" : 55.7756,
+                           "address" : "1-я Брестская улица, 66"
+                        },
+                        "drug" : {
+                           "descid" : "7154",
+                           "quantity" : "1",
+                           "name" : "Беклометазон дс аэроз 250мкг/1д 200доз",
+                           "price" : "167"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6016,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Семья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999785551"
+                              },
+                              {
+                                 "number" : "+74999730180"
+                              }
+                           ],
+                           "phone" : "+74999785551; +74999730180",
+                           "city" : "Москва",
+                           "latitude" : 55.7809,
+                           "address" : "Сущёвская улица, 13/15"
+                        },
+                        "drug" : {
+                           "descid" : "7154",
+                           "quantity" : "3",
+                           "name" : "Беклометазон дс аэр д/инг.дозир.250 200д",
+                           "price" : "159.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8088,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Авиценна Фарма",
+                           "phones" : [
+                              {
+                                 "number" : "+74956038512"
+                              },
+                              {
+                                 "number" : "+79671612272"
+                              }
+                           ],
+                           "phone" : "+74956038512; +79671612272",
+                           "city" : "Москва",
+                           "latitude" : 55.791,
+                           "address" : "Нижняя Первомайская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "7154",
+                           "quantity" : "1",
+                           "name" : "Беклометазон-дс аэроз.ингал.250 мкг/200 доз",
+                           "price" : "169.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "беклометазон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ascorbic_acid",
+            "rus_name" : "Аскорбиновая кислота",
+            "form" : "таб. 75 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ascorbic_acid",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6091,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Домашняя медицина&quot;.",
+                           "phones" : [
+                              {
+                                 "number" : "+74956299468"
+                              }
+                           ],
+                           "phone" : "+74956299468",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "Тверская улица, 12 с8"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "44",
+                           "name" : "Аскорбиновая кислота тб жеват 75мг бумага парафин n10",
+                           "price" : "15"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "аскорбиновая кислота"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

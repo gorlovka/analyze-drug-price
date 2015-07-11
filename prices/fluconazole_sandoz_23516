@@ -1,0 +1,409 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "fluconazole_sandoz",
+            "rus_name" : "Флуконазол сандоз®",
+            "form" : "капс. 150 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 15,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "fluconazole_sandoz",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "5608",
+                           "quantity" : "3",
+                           "name" : "Флуконазол сандоз 150мг 1 капс",
+                           "price" : "155"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5452,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 18",
+                           "phones" : [
+                              {
+                                 "number" : "+74959455039"
+                              }
+                           ],
+                           "phone" : "+74959455039",
+                           "city" : "Москва",
+                           "latitude" : 55.7749,
+                           "address" : "1-й Хорошёвский проезд, 14 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5608",
+                           "quantity" : "1",
+                           "name" : "Флуконазол сандоз, капс 150мг 1",
+                           "price" : "163.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6554,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лотос&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956826565"
+                              }
+                           ],
+                           "phone" : "+74956826565",
+                           "city" : "Москва",
+                           "latitude" : 55.8119,
+                           "address" : "улица Павла Корчагина, 2/1"
+                        },
+                        "drug" : {
+                           "descid" : "5608",
+                           "quantity" : "3",
+                           "name" : "Флуконазол сандоз капс 150мг n1",
+                           "price" : "154"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7261,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «ТОРГМЕТ»",
+                           "phones" : [
+                              {
+                                 "number" : "+74956035653"
+                              }
+                           ],
+                           "phone" : "+74956035653",
+                           "city" : "Москва",
+                           "latitude" : 55.7828,
+                           "address" : "Щербаковская улица, 7"
+                        },
+                        "drug" : {
+                           "descid" : "5608",
+                           "quantity" : "1",
+                           "name" : "Флуконазол-сандоз 150мг капс. х1",
+                           "price" : "155"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5337,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 3",
+                           "phones" : [
+                              {
+                                 "number" : "+74991513512"
+                              }
+                           ],
+                           "phone" : "+74991513512",
+                           "city" : "Москва",
+                           "latitude" : 55.8023,
+                           "address" : "улица Черняховского, 4"
+                        },
+                        "drug" : {
+                           "descid" : "5608",
+                           "quantity" : "1",
+                           "name" : "Флуконазол сандоз, капс 150мг 1",
+                           "price" : "132.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6013,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека Магистериум&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991237364"
+                              }
+                           ],
+                           "phone" : "+74991237364",
+                           "city" : "Москва",
+                           "latitude" : 55.6765,
+                           "address" : "улица Ремизова, 9"
+                        },
+                        "drug" : {
+                           "descid" : "5608",
+                           "quantity" : "3",
+                           "name" : "Флуконазол сандоз капс. 150мг 1",
+                           "price" : "165"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7354,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 27",
+                           "phones" : [
+                              {
+                                 "number" : "+74991788467"
+                              }
+                           ],
+                           "phone" : "+74991788467",
+                           "city" : "Москва",
+                           "latitude" : 55.71,
+                           "address" : "Волгоградский проспект, 63"
+                        },
+                        "drug" : {
+                           "descid" : "5608",
+                           "quantity" : "1",
+                           "name" : "Флуконазол сандоз, капс 150мг 1",
+                           "price" : "159.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.538,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 15",
+                           "phones" : [
+                              {
+                                 "number" : "+74959830895"
+                              }
+                           ],
+                           "phone" : "+74959830895",
+                           "city" : "Москва",
+                           "latitude" : 55.6837,
+                           "address" : "Ленинский проспект, 74"
+                        },
+                        "drug" : {
+                           "descid" : "5608",
+                           "quantity" : "5",
+                           "name" : "Флуконазол сандоз, капс 150мг 1",
+                           "price" : "166.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7183,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 12",
+                           "phones" : [
+                              {
+                                 "number" : "+74991609686"
+                              }
+                           ],
+                           "phone" : "+74991609686",
+                           "city" : "Москва",
+                           "latitude" : 55.8117,
+                           "address" : "Бойцовая улица, 17 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5608",
+                           "quantity" : "1",
+                           "name" : "Флуконазол сандоз, капс 150мг 1",
+                           "price" : "171.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6553,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма на Амундсена.",
+                           "phones" : [
+                              {
+                                 "number" : "+74956566154"
+                              },
+                              {
+                                 "number" : "+74995179009"
+                              }
+                           ],
+                           "phone" : "+74956566154; +74995179009",
+                           "city" : "Москва",
+                           "latitude" : 55.8547,
+                           "address" : "улица Амундсена, 19"
+                        },
+                        "drug" : {
+                           "descid" : "5608",
+                           "quantity" : "6",
+                           "name" : "Флуконазол сандоз, капс 150мг 1",
+                           "price" : "167.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8134,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 31",
+                           "phones" : [
+                              {
+                                 "number" : "+74999840768"
+                              }
+                           ],
+                           "phone" : "+74999840768",
+                           "city" : "Москва",
+                           "latitude" : 55.7265,
+                           "address" : "улица Молдагуловой, 12а"
+                        },
+                        "drug" : {
+                           "descid" : "5608",
+                           "quantity" : "5",
+                           "name" : "Флуконазол сандоз, капс 150мг 1",
+                           "price" : "166.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6968,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 33",
+                           "phones" : [
+                              {
+                                 "number" : "+74999408039"
+                              }
+                           ],
+                           "phone" : "+74999408039",
+                           "city" : "Москва",
+                           "latitude" : 55.6373,
+                           "address" : "Каширское шоссе, 57 к2"
+                        },
+                        "drug" : {
+                           "descid" : "5608",
+                           "quantity" : "1",
+                           "name" : "Флуконазол-сандоз капс. 150 мг х1",
+                           "price" : "162.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3651,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 10",
+                           "phones" : [
+                              {
+                                 "number" : "+74959840526"
+                              }
+                           ],
+                           "phone" : "+74959840526",
+                           "city" : "Новоивановское",
+                           "latitude" : 55.705,
+                           "address" : "улица Агрохимиков, 2, Московская область, Одинцовский район"
+                        },
+                        "drug" : {
+                           "descid" : "5608",
+                           "quantity" : "2",
+                           "name" : "Флуконазол-сандоз капс. 150 мг х1",
+                           "price" : "162.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3883,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 9",
+                           "phones" : [
+                              {
+                                 "number" : "+74959158336"
+                              }
+                           ],
+                           "phone" : "+74959158336",
+                           "city" : "Москва",
+                           "latitude" : 55.89,
+                           "address" : "Воротынская улица, 18"
+                        },
+                        "drug" : {
+                           "descid" : "5608",
+                           "quantity" : "3",
+                           "name" : "Флуконазол сандоз, капс 150мг 1",
+                           "price" : "166.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3684,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГудМедикал&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959711538"
+                              }
+                           ],
+                           "phone" : "+74959711538",
+                           "city" : "Московский",
+                           "latitude" : 55.5929,
+                           "address" : "Радужная улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "5608",
+                           "quantity" : "2",
+                           "name" : "Флуконазол сандоз капс. 150мг 1",
+                           "price" : "155.2"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "флуконазол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

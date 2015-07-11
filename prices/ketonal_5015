@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ketonal",
+            "rus_name" : "Кетонал®",
+            "form" : "р-р д/в/в и в/м введения 50 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ketonal",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8519,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Сэсса Фарм»5 (ООО &quot;Сэсса Фарм плюс&quot;)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956423265"
+                              }
+                           ],
+                           "phone" : "+74956423265",
+                           "city" : "Москва",
+                           "latitude" : 55.7005,
+                           "address" : "Лермонтовский проспект, 10 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2289",
+                           "quantity" : "1",
+                           "name" : "Кетонал р-р 50мг 2ммлn50 ампл",
+                           "price" : "965"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кетопрофен"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

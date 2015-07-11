@@ -1,0 +1,953 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "methotrexat_ebewe",
+            "rus_name" : "Метотрексат-эбеве",
+            "form" : "таб. 10 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 35,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "methotrexat_ebewe",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6099,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999684753"
+                              }
+                           ],
+                           "phone" : "+74999684753",
+                           "city" : "Москва",
+                           "latitude" : 55.7658,
+                           "address" : "улица Большая Дмитровка, 23"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "2",
+                           "name" : "Метотрексат-эбеве таб. 10мг 50",
+                           "price" : "587"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6364,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люция&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959531618"
+                              },
+                              {
+                                 "number" : "+74959530128"
+                              }
+                           ],
+                           "phone" : "+74959531618; +74959530128",
+                           "city" : "Москва",
+                           "latitude" : 55.7316,
+                           "address" : "Новокузнецкая улица, 43/16"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "1",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "578"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5947,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Официна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992513420"
+                              },
+                              {
+                                 "number" : "+79859995613"
+                              }
+                           ],
+                           "phone" : "+74992513420; +79859995613",
+                           "city" : "Москва",
+                           "latitude" : 55.7725,
+                           "address" : "3-я Тверская-Ямская улица, 21/23"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "10",
+                           "name" : "Метотрексат-эбеве таб. 10мг 50",
+                           "price" : "502"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955451350"
+                              },
+                              {
+                                 "number" : "+79262305469"
+                              }
+                           ],
+                           "phone" : "+74955451350; +79262305469",
+                           "city" : "Москва",
+                           "latitude" : 55.7384,
+                           "address" : "Марксистская улица, 3 с1"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "2",
+                           "name" : "Метотрексат-эбеве тб 10мг бан n50",
+                           "price" : "530"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6094,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобал-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217612"
+                              },
+                              {
+                                 "number" : "+74959217601"
+                              }
+                           ],
+                           "phone" : "+74959217612; +74959217601",
+                           "city" : "Москва",
+                           "latitude" : 55.7208,
+                           "address" : "улица Шаболовка, 24"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "2",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "488"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6637,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; Форте&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956766200"
+                              },
+                              {
+                                 "number" : "+74955071442"
+                              }
+                           ],
+                           "phone" : "+74956766200; +74955071442",
+                           "city" : "Москва",
+                           "latitude" : 55.7299,
+                           "address" : "2-й Крутицкий переулок, 18с1"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "2",
+                           "name" : "Метотрексат-эбеве табл. 10 мг 50, эбеве арцнаймиттел гмбх",
+                           "price" : "600"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6355,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья г.Москва Север",
+                           "phones" : [
+                              {
+                                 "number" : "+74951236674"
+                              },
+                              {
+                                 "number" : "+74957750824"
+                              }
+                           ],
+                           "phone" : "+74951236674; +74957750824",
+                           "city" : "Москва",
+                           "latitude" : 55.7846,
+                           "address" : "проспект Мира, 56 с1"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "1",
+                           "name" : "Метотрексат-эбеве 10мг тб. 50",
+                           "price" : "600"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "2",
+                           "name" : "Метотрексат-эбеве,таблетки,10мг 50шт",
+                           "price" : "550"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6733,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ ФАРМ Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953635014"
+                              }
+                           ],
+                           "phone" : "+74953635014",
+                           "city" : "Москва",
+                           "latitude" : 55.7301,
+                           "address" : "Волгоградский проспект, 10"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "2",
+                           "name" : "Метотрексат-эбеве тб 10мг бан n50",
+                           "price" : "531"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.661,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Азалия (Солнышко Автозаводская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956757992"
+                              }
+                           ],
+                           "phone" : "+74956757992",
+                           "city" : "Москва",
+                           "latitude" : 55.7094,
+                           "address" : "Автозаводская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "2",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "568"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.709,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диалог&quot; г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74953632262"
+                              }
+                           ],
+                           "phone" : "+74953632262",
+                           "city" : "Москва",
+                           "latitude" : 55.7622,
+                           "address" : "Авиамоторная улица, 2 к17"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "2",
+                           "name" : "Метотрексат-эбеве таб. 10мг 50",
+                           "price" : "579"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "104",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "506.66"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Фиалка",
+                           "phones" : [
+                              {
+                                 "number" : "+74956479126"
+                              },
+                              {
+                                 "number" : "+74952109168"
+                              },
+                              {
+                                 "number" : "+74952109169"
+                              }
+                           ],
+                           "phone" : "+74956479126; +74952109168; +74952109169",
+                           "city" : "Москва",
+                           "latitude" : 55.8079,
+                           "address" : "проспект Мира, 95 с1"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "1",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "529"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5724,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Солнышко-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959914592"
+                              }
+                           ],
+                           "phone" : "+74959914592",
+                           "city" : "Москва",
+                           "latitude" : 55.6848,
+                           "address" : "Профсоюзная улица, 5/9"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "5",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "568"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6625,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Ромашка-Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74996125870"
+                              },
+                              {
+                                 "number" : "+74993811015"
+                              },
+                              {
+                                 "number" : "+74993811016"
+                              }
+                           ],
+                           "phone" : "+74996125870; +74993811015; +74993811016",
+                           "city" : "Москва",
+                           "latitude" : 55.6791,
+                           "address" : "проспект Андропова, 30"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "1",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "600"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6678,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 3 (ООО Феерия Фарм Юг)",
+                           "phones" : [
+                              {
+                                 "number" : "+74996174244"
+                              }
+                           ],
+                           "phone" : "+74996174244",
+                           "city" : "Москва",
+                           "latitude" : 55.6766,
+                           "address" : "улица Новинки, 4"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "1",
+                           "name" : "Метотрексат-эбеве, тбл 10мг 50",
+                           "price" : "514.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7436,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Альфа&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957273545"
+                              }
+                           ],
+                           "phone" : "+74957273545",
+                           "city" : "Москва",
+                           "latitude" : 55.7036,
+                           "address" : "8-я улица Текстильщиков, 11"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "1",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АКМ фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952116138"
+                              },
+                              {
+                                 "number" : "+74952116147"
+                              }
+                           ],
+                           "phone" : "+74952116138; +74952116147",
+                           "city" : "Москва",
+                           "latitude" : 55.7969,
+                           "address" : "улица Маршала Бирюзова, 26"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "2",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "599"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7412,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АСАКИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957770006"
+                              }
+                           ],
+                           "phone" : "+74957770006",
+                           "city" : "Москва",
+                           "latitude" : 55.6993,
+                           "address" : "улица Юных Ленинцев, 12"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "1",
+                           "name" : "Метотрексат-эбеве, тбл 10мг 50",
+                           "price" : "502"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6402,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармстар&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994996561"
+                              },
+                              {
+                                 "number" : "+79857267056"
+                              }
+                           ],
+                           "phone" : "+74994996561; +79857267056",
+                           "city" : "Москва",
+                           "latitude" : 55.8494,
+                           "address" : "Снежная улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "2",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "575"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6491,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999684911"
+                              }
+                           ],
+                           "phone" : "+74999684911",
+                           "city" : "Москва",
+                           "latitude" : 55.654,
+                           "address" : "Каширское шоссе, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "5",
+                           "name" : "Метотрексат-эбеве таб. 10мг 50",
+                           "price" : "508"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.774,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Квартет-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957294831"
+                              }
+                           ],
+                           "phone" : "+74957294831",
+                           "city" : "Москва",
+                           "latitude" : 55.6994,
+                           "address" : "улица Юных Ленинцев, 87 с1"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "2",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "513.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7651,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека в Марьино",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6813,
+                           "address" : "Ставропольская улица, 50/22"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "2",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "461.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5983,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Горпром-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79035081695"
+                              },
+                              {
+                                 "number" : "+79035081693"
+                              }
+                           ],
+                           "phone" : "+79035081695; +79035081693",
+                           "city" : "Москва",
+                           "latitude" : 55.8657,
+                           "address" : "улица Декабристов, 10 к2"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "2",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "568"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8205,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ИЗМАЙЛОВО",
+                           "phones" : [
+                              {
+                                 "number" : "+74956625463"
+                              }
+                           ],
+                           "phone" : "+74956625463",
+                           "city" : "Москва",
+                           "latitude" : 55.7745,
+                           "address" : "Большой Купавенский проезд, 4"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "5",
+                           "name" : "Метотрексат эбеве тб 10мг",
+                           "price" : "575.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6918,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЭЛ Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74952275378"
+                              },
+                              {
+                                 "number" : "+74952275379"
+                              }
+                           ],
+                           "phone" : "+74952275378; +74952275379",
+                           "city" : "Москва",
+                           "latitude" : 55.8621,
+                           "address" : "Ярославское шоссе, 55"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "1",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "565"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7156,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957805527"
+                              }
+                           ],
+                           "phone" : "+74957805527",
+                           "city" : "Москва",
+                           "latitude" : 55.6465,
+                           "address" : "Новочеркасский бульвар, 10 к1"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "1",
+                           "name" : "Метотрексат-эбеве таб. 10мг 50",
+                           "price" : "571"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4898,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Глициния-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959675403"
+                              },
+                              {
+                                 "number" : "+74959675406"
+                              }
+                           ],
+                           "phone" : "+74959675403; +74959675406",
+                           "city" : "Москва",
+                           "latitude" : 55.8467,
+                           "address" : "Авангардная улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "2",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "559.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5255,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарм-Хаус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217801"
+                              },
+                              {
+                                 "number" : "+74959914587"
+                              }
+                           ],
+                           "phone" : "+74959217801; +74959914587",
+                           "city" : "Москва",
+                           "latitude" : 55.6441,
+                           "address" : "Профсоюзная улица, 102/47"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "1",
+                           "name" : "Метотрексат-эбеве тбл 10мг 50",
+                           "price" : "520"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "2",
+                           "name" : "Метотрексат-эбеве табл. 10 мг 50, эбеве арцнаймиттел гмбх",
+                           "price" : "576"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.831,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Формула Здоровья Вешняки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953750926"
+                              }
+                           ],
+                           "phone" : "+74953750926",
+                           "city" : "Москва",
+                           "latitude" : 55.7347,
+                           "address" : "Вешняковская улица, 17а"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "10",
+                           "name" : "Метотрексат-эбеве тб 10мг 50",
+                           "price" : "599.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8279,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 44",
+                           "phones" : [
+                              {
+                                 "number" : "+74957412770"
+                              }
+                           ],
+                           "phone" : "+74957412770",
+                           "city" : "Москва",
+                           "latitude" : 55.7789,
+                           "address" : "Челябинская улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "1",
+                           "name" : "Метотрексат-эбеве таб. 10мг 50",
+                           "price" : "561"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 25",
+                           "phones" : [
+                              {
+                                 "number" : "+79645349561"
+                              }
+                           ],
+                           "phone" : "+79645349561",
+                           "city" : "Москва",
+                           "latitude" : 55.8606,
+                           "address" : "улица Лавочкина, 42"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "5",
+                           "name" : "Метотрексат-эбеве таб. 10мг 50",
+                           "price" : "561"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9692,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538026"
+                              }
+                           ],
+                           "phone" : "+74995538026",
+                           "city" : "Железнодорожный",
+                           "latitude" : 55.7442,
+                           "address" : "Береговая улица, 4а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "7",
+                           "name" : "Метотрексат-эбеве таб. 10мг 50",
+                           "price" : "528"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9864,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула здоровья",
+                           "phones" : [
+                              {
+                                 "number" : "+74955055909"
+                              }
+                           ],
+                           "phone" : "+74955055909",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7981,
+                           "address" : "шоссе Энтузиастов, 80"
+                        },
+                        "drug" : {
+                           "descid" : "269",
+                           "quantity" : "20",
+                           "name" : "Метотрексат-эбеве 10мг тб. 50",
+                           "price" : "533"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "метотрексат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

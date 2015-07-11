@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "triphtazine",
+            "rus_name" : "Трифтазин",
+            "form" : "р-р д/в/м введения 0.2% (2 мг/1 мл)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "triphtazine",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.391,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФармАссист",
+                           "phones" : [
+                              {
+                                 "number" : "+74952254589"
+                              }
+                           ],
+                           "phone" : "+74952254589",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "улица Кулакова, 20 с14"
+                        },
+                        "drug" : {
+                           "descid" : "2686",
+                           "quantity" : "2",
+                           "name" : "Трифтазин 0,2% раствор для инъекций 1мл 10 ампулы",
+                           "price" : "55"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9333,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 001",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7912,
+                           "address" : "Первомайская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "2686",
+                           "quantity" : "10",
+                           "name" : "Трифтазин р-р д/ин. амп. 0,2% 1мл n10",
+                           "price" : "53"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "трифлуоперазина гидрохлорид + трифлуоперазин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

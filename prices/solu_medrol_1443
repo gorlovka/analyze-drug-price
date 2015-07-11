@@ -1,0 +1,209 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "solu_medrol",
+            "rus_name" : "Солу-медрол®",
+            "form" : "лиофилизат д/пригот. р-ра д/в/в и в/м введения 250 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 7,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "solu_medrol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5901,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490247"
+                              }
+                           ],
+                           "phone" : "+74996490247",
+                           "city" : "Москва",
+                           "latitude" : 55.7732,
+                           "address" : "1-я Тверская-Ямская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "10",
+                           "name" : "Солу-медрол лиоф д/ин 250мг фл 2-емк 1 /+р-тель/",
+                           "price" : "456.77"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6801,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «МФК Помощь на Волгоградке»",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633814"
+                              }
+                           ],
+                           "phone" : "+74953633814",
+                           "city" : "Москва",
+                           "latitude" : 55.7267,
+                           "address" : "Волгоградский проспект, 26а"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "2",
+                           "name" : "Солу-медрол 250 мг 1 лиоф. д/приг. р-ра д/в/в и в/м +р-ль фл.",
+                           "price" : "256"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЮНИКС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993755785"
+                              }
+                           ],
+                           "phone" : "+74993755785",
+                           "city" : "Москва",
+                           "latitude" : 55.7938,
+                           "address" : "Бутырская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "2",
+                           "name" : "Солу-медрол лиоф в/в и в/м 250мг 1",
+                           "price" : "420"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490242"
+                              }
+                           ],
+                           "phone" : "+74996490242",
+                           "city" : "Москва",
+                           "latitude" : 55.7755,
+                           "address" : "проспект Маршала Жукова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "10",
+                           "name" : "Солу-медрол лиоф д/ин 250мг фл 2-емк 1 /+р-тель/",
+                           "price" : "456.77"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "2",
+                           "name" : "Солу-медрол лиоф. д/р-ра для в/в и в/м введ. 250 мг 1 флаконы, пфайзер мфг. бельгия н.в.",
+                           "price" : "460"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "33",
+                           "name" : "Солу-медрол 250мг лиоф. 1",
+                           "price" : "396"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490240"
+                              }
+                           ],
+                           "phone" : "+74996490240",
+                           "city" : "Москва",
+                           "latitude" : 55.6513,
+                           "address" : "Люблинская улица, 163/1"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "10",
+                           "name" : "Солу-медрол лиоф д/ин 250мг фл 2-емк 1 /+р-тель/",
+                           "price" : "456.81"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "метилпреднизолон (в форме натрия сукцината)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

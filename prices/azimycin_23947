@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "azimycin",
+            "rus_name" : "Азимицин",
+            "form" : "таб., покр. пленочной оболочкой, 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "azimycin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6048,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953120632"
+                              }
+                           ],
+                           "phone" : "+74953120632",
+                           "city" : "Москва",
+                           "latitude" : 55.6286,
+                           "address" : "Чертановская улица, 9 к3"
+                        },
+                        "drug" : {
+                           "descid" : "4996",
+                           "quantity" : "4",
+                           "name" : "Азимицин, тбл п.п.о. 500мг 3",
+                           "price" : "53.57"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "азитромицин (в форме дигидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

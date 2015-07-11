@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "omnipaque",
+            "rus_name" : "Омнипак",
+            "form" : "р-р д/инъекц. 240 мг йода/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "omnipaque",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.601,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Формула Здоровья Запад&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957410180"
+                              }
+                           ],
+                           "phone" : "+74957410180",
+                           "city" : "Москва",
+                           "latitude" : 55.7844,
+                           "address" : "Сущёвская улица, 31"
+                        },
+                        "drug" : {
+                           "descid" : "326",
+                           "quantity" : "1",
+                           "name" : "Омнипак 300 раствор д/ин 20мл 25",
+                           "price" : "8650"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "йод (в форме йогексола)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

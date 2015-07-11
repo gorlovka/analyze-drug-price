@@ -1,0 +1,155 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "phenazepam",
+            "rus_name" : "Феназепам",
+            "form" : "раствор для в/в и в/м введения 1 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "phenazepam",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6714,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОПТИФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678604"
+                              }
+                           ],
+                           "phone" : "+74999678604",
+                           "city" : "Москва",
+                           "latitude" : 55.7428,
+                           "address" : "Большая Андроньевская улица, 11/13"
+                        },
+                        "drug" : {
+                           "descid" : "3305",
+                           "quantity" : "1",
+                           "name" : "Феназепам р-р д/в/в в/м введ 1мг/мл амп 1мл 10",
+                           "price" : "170.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6708,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678623"
+                              }
+                           ],
+                           "phone" : "+74999678623",
+                           "city" : "Москва",
+                           "latitude" : 55.7032,
+                           "address" : "улица Трофимова, 13"
+                        },
+                        "drug" : {
+                           "descid" : "3305",
+                           "quantity" : "1",
+                           "name" : "Феназепам р-р д/в/в в/м введ 1мг/мл амп 1мл 10",
+                           "price" : "133"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7506,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956602415"
+                              }
+                           ],
+                           "phone" : "+74956602415",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "Краснодонская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "3305",
+                           "quantity" : "1",
+                           "name" : "Феназепам р-р д/в/в в/м введ 1мг/мл амп 1мл 10",
+                           "price" : "158.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7651,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека в Марьино",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6813,
+                           "address" : "Ставропольская улица, 50/22"
+                        },
+                        "drug" : {
+                           "descid" : "3305",
+                           "quantity" : "1",
+                           "name" : "Феназепам р-р д/в/в в/м введ 1мг/мл амп 1мл 10",
+                           "price" : "141.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3469,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека Ново-Переделкино&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957330127"
+                              },
+                              {
+                                 "number" : "+74957330128"
+                              }
+                           ],
+                           "phone" : "+74957330127; +74957330128",
+                           "city" : "Москва",
+                           "latitude" : 55.643,
+                           "address" : "улица Скульптора Мухиной, 6"
+                        },
+                        "drug" : {
+                           "descid" : "3305",
+                           "quantity" : "3",
+                           "name" : "Феназепам р-р д/и 1мг/мл 1мл амп n10",
+                           "price" : "161.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "7-бром-1,3-дигидро-5-(2-хлорфенил)-2Н-1,4-бензодиазепин-2-он + бромдигидрохлорфенилбензодиазепин (феназепам) + феназепам (7-бром-1,3-дигидро-5-(2-хлорфенил)-2Н-1,4-бензодиазепин-2-он) + бромдигидро-хлорфенил-бензодиазепинон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

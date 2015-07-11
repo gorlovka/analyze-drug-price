@@ -1,0 +1,4473 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "nystatin",
+            "rus_name" : "Нистатин",
+            "form" : "мазь 100 тыс.ЕД/1 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 163,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "nystatin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6279,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (76, Пятницкая)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959150427"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1334"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74959150427; +74952311697, доб. 1334",
+                           "city" : "Москва",
+                           "latitude" : 55.7445,
+                           "address" : "Пятницкая улица, 9/28"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "86"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (18, Маросейка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0970",
+                                    "1307"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0970, 1307",
+                           "city" : "Москва",
+                           "latitude" : 55.7572,
+                           "address" : "улица Маросейка, 2/15 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "82.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6159,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (13, Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0984"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0984",
+                           "city" : "Москва",
+                           "latitude" : 55.7411,
+                           "address" : "улица Большая Полянка, 4/10"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "62.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.597,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (102, Арбат)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0975",
+                                    "1341"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0975, 1341",
+                           "city" : "Москва",
+                           "latitude" : 55.7511,
+                           "address" : "улица Арбат, 15/43"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "86"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959535296"
+                              }
+                           ],
+                           "phone" : "+74959535296",
+                           "city" : "Москва",
+                           "latitude" : 55.7362,
+                           "address" : "Новокузнецкая улица, 20/21-19 с5"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 15г",
+                           "price" : "39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.61,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (10, Крымский Вал)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992389577"
+                              }
+                           ],
+                           "phone" : "+74992389577",
+                           "city" : "Москва",
+                           "latitude" : 55.7309,
+                           "address" : "улица Крымский Вал, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "89"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6494,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "4821",
+                                    "4826"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 4821, 4826",
+                           "city" : "Москва",
+                           "latitude" : 55.7392,
+                           "address" : "Гончарный проезд, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5843,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (109, Смоленский бульвар)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957807971"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0923",
+                                    "1346"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957807971; +74952311697, доб. 0923, 1346",
+                           "city" : "Москва",
+                           "latitude" : 55.7404,
+                           "address" : "Смоленский бульвар, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "87"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6583,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (87, Земляной Вал)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957302730"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1911"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957302730; +74952311697, доб. 1911",
+                           "city" : "Москва",
+                           "latitude" : 55.7595,
+                           "address" : "улица Земляной Вал, 27"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6363,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва (133, Павелецкая)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1363"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1363",
+                           "city" : "Москва",
+                           "latitude" : 55.7297,
+                           "address" : "Павелецкая площадь, 2 с3"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6376,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (89, Дубининская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952358205"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1340"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952358205; +74952311697, доб. 1340",
+                           "city" : "Москва",
+                           "latitude" : 55.7277,
+                           "address" : "Дубининская улица, 11/17 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957293797"
+                              }
+                           ],
+                           "phone" : "+74957293797",
+                           "city" : "Москва",
+                           "latitude" : 55.7638,
+                           "address" : "Малая Грузинская улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 15г",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6039,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (68, Селезневская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0991",
+                                    "1955"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0991, 1955",
+                           "city" : "Москва",
+                           "latitude" : 55.7796,
+                           "address" : "Селезнёвская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "84"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5813,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (86, Грузинский Вал)",
+                           "phones" : [
+                              {
+                                 "number" : "+74997912864"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1338"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74997912864; +74952311697, доб. 1338",
+                           "city" : "Москва",
+                           "latitude" : 55.7743,
+                           "address" : "улица Грузинский Вал, 26 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6344,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490250"
+                              }
+                           ],
+                           "phone" : "+74996490250",
+                           "city" : "Москва",
+                           "latitude" : 55.7842,
+                           "address" : "проспект Мира, 51"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "10",
+                           "name" : "Нистатин мазь 100тыс ед/г 30г",
+                           "price" : "49.18"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490249"
+                              }
+                           ],
+                           "phone" : "+74996490249",
+                           "city" : "Москва",
+                           "latitude" : 55.7227,
+                           "address" : "Фрунзенская набережная, 36/2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "10",
+                           "name" : "Нистатин мазь 100тыс ед/г 15г",
+                           "price" : "26.41"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5736,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (6, Ленинградский пр-кт)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952577115"
+                              }
+                           ],
+                           "phone" : "+74952577115",
+                           "city" : "Москва",
+                           "latitude" : 55.7811,
+                           "address" : "Ленинградский проспект, 13 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "85.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5479,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992156351"
+                              }
+                           ],
+                           "phone" : "+74992156351",
+                           "city" : "Москва",
+                           "latitude" : 55.7583,
+                           "address" : "Шмитовский проезд, 16 с2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "10",
+                           "name" : "Нистатин мазь 100тыс ед/г 30г",
+                           "price" : "51.76"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5474,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1610"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1610",
+                           "city" : "Москва",
+                           "latitude" : 55.7571,
+                           "address" : "Шмитовский проезд, 19"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "76.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5999,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1742"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1742",
+                           "city" : "Москва",
+                           "latitude" : 55.7919,
+                           "address" : "улица Сущёвский Вал, 12"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "77.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6208,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 25",
+                           "phones" : [
+                              {
+                                 "number" : "+74959840741"
+                              }
+                           ],
+                           "phone" : "+74959840741",
+                           "city" : "Москва",
+                           "latitude" : 55.7087,
+                           "address" : "Большая Тульская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 15г",
+                           "price" : "44.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6221,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (110, Большая Тульская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955425572"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1347",
+                                    "0935"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74955425572; +74952311697, доб. 1347, 0935",
+                           "city" : "Москва",
+                           "latitude" : 55.7087,
+                           "address" : "Большая Тульская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "88"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.661,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1946",
+                                    "1985"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1946, 1985",
+                           "city" : "Москва",
+                           "latitude" : 55.7917,
+                           "address" : "улица Сокольнический Вал, 22"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "66"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5921,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (139, Вавилова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956627913"
+                              }
+                           ],
+                           "phone" : "+74956627913",
+                           "city" : "Москва",
+                           "latitude" : 55.7069,
+                           "address" : "улица Вавилова, 3"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6784,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СИТИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956649855"
+                              },
+                              {
+                                 "number" : "+79250409555"
+                              }
+                           ],
+                           "phone" : "+74956649855; +79250409555",
+                           "city" : "Москва",
+                           "latitude" : 55.785,
+                           "address" : "улица Жебрунова, 4"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 15г",
+                           "price" : "28.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6767,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Живика",
+                           "phones" : [
+                              {
+                                 "number" : "+74959158854"
+                              }
+                           ],
+                           "phone" : "+74959158854",
+                           "city" : "Москва",
+                           "latitude" : 55.79,
+                           "address" : "Сокольническая площадь, 4"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "44"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1731",
+                                    "1730"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1731, 1730",
+                           "city" : "Москва",
+                           "latitude" : 55.7388,
+                           "address" : "Кутузовский проспект, 36а"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "87"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6168,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (48, Шереметьевская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1948"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1948",
+                           "city" : "Москва",
+                           "latitude" : 55.8063,
+                           "address" : "Шереметьевская улица, 66Ас2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "87"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Джонталд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991473085"
+                              },
+                              {
+                                 "number" : "+74991431096"
+                              }
+                           ],
+                           "phone" : "+74991473085; +74991431096",
+                           "city" : "Москва",
+                           "latitude" : 55.7257,
+                           "address" : "Мосфильмовская улица, 2В"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин, мазь д/наружн. прим. 100тыс.ед/г 15гр",
+                           "price" : "35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6443,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ИП Бескрайняя Е.С.",
+                           "phones" : [
+                              {
+                                 "number" : "+74991749461"
+                              }
+                           ],
+                           "phone" : "+74991749461",
+                           "city" : "Москва",
+                           "latitude" : 55.8058,
+                           "address" : "3-я Мытищинская улица, 3 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "5",
+                           "name" : "Нистатин мазь 15г",
+                           "price" : "34"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.709,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (125, Гольяновская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74997870820"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1355"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74997870820; +74952311697, доб. 1355",
+                           "city" : "Москва",
+                           "latitude" : 55.7757,
+                           "address" : "Гольяновская улица, 7 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "86"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5196,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1788",
+                                    "1789"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1788, 1789",
+                           "city" : "Москва",
+                           "latitude" : 55.7356,
+                           "address" : "площадь Победы, 1 кб"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "73.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.573,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999764410"
+                              }
+                           ],
+                           "phone" : "+74999764410",
+                           "city" : "Москва",
+                           "latitude" : 55.8118,
+                           "address" : "улица Костякова, 6/5"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "8",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "71.61"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.499,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москава (4, Багратионовская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991451276",
+                                 "additional" : [
+                                    "1988",
+                                    "1328"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74991451276, доб. 1988, 1328",
+                           "city" : "Москва",
+                           "latitude" : 55.7449,
+                           "address" : "улица Барклая, 12/12"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "6",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "97.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5368,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма на Аэропортовской",
+                           "phones" : [
+                              {
+                                 "number" : "+74995179009"
+                              },
+                              {
+                                 "number" : "+74995179088"
+                              }
+                           ],
+                           "phone" : "+74995179009; +74995179088",
+                           "city" : "Москва",
+                           "latitude" : 55.8012,
+                           "address" : "1-я Аэропортовская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 15г",
+                           "price" : "36"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7372,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Престиж-групп&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997489982"
+                              }
+                           ],
+                           "phone" : "+74997489982",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "5-я улица Соколиной Горы, 19 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед/г 15г",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.73,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авиценна Фарма 2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79263818740"
+                              },
+                              {
+                                 "number" : "+74997489553"
+                              }
+                           ],
+                           "phone" : "+79263818740; +74997489553",
+                           "city" : "Москва",
+                           "latitude" : 55.7795,
+                           "address" : "Измайловское шоссе, 29"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "10",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4966,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1335",
+                                    "1336",
+                                    "1337"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1335, 1336, 1337",
+                           "city" : "Москва",
+                           "latitude" : 55.7459,
+                           "address" : "улица Барклая, 16 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "73.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5288,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 1 (ООО Феерия Фарм)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991572172"
+                              }
+                           ],
+                           "phone" : "+74991572172",
+                           "city" : "Москва",
+                           "latitude" : 55.7994,
+                           "address" : "улица Викторенко, 2/1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "50"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6328,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (19, Академика Королева)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956830802"
+                              }
+                           ],
+                           "phone" : "+74956830802",
+                           "city" : "Москва",
+                           "latitude" : 55.8209,
+                           "address" : "улица Академика Королёва, 3"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (47, Дмитровское)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959777736"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1324"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74959777736; +74952311697, доб. 1324",
+                           "city" : "Москва",
+                           "latitude" : 55.8191,
+                           "address" : "Дмитровское шоссе, 15 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "79.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7154,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья-2",
+                           "phones" : [
+                              {
+                                 "number" : "+74956264772"
+                              }
+                           ],
+                           "phone" : "+74956264772",
+                           "city" : "Москва",
+                           "latitude" : 55.8039,
+                           "address" : "Просторная улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин 30г мазь 100тыс ед",
+                           "price" : "55"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6013,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека Магистериум&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991237364"
+                              }
+                           ],
+                           "phone" : "+74991237364",
+                           "city" : "Москва",
+                           "latitude" : 55.6765,
+                           "address" : "улица Ремизова, 9"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "54"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4899,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (5, Маршала Жукова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1914"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1914",
+                           "city" : "Москва",
+                           "latitude" : 55.7753,
+                           "address" : "проспект Маршала Жукова, 19 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6667,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; МЕГА-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996150016"
+                              }
+                           ],
+                           "phone" : "+74996150016",
+                           "city" : "Москва",
+                           "latitude" : 55.6802,
+                           "address" : "Судостроительная улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед/г 30г",
+                           "price" : "42.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7043,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Будь Здоров&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991681306"
+                              }
+                           ],
+                           "phone" : "+74991681306",
+                           "city" : "Москва",
+                           "latitude" : 55.8109,
+                           "address" : "Краснобогатырская улица, 27"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "102"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.665,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (107, Андропова пр-кт)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957868248"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0924",
+                                    "1344"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957868248; +74952311697, доб. 0924, 1344",
+                           "city" : "Москва",
+                           "latitude" : 55.6797,
+                           "address" : "проспект Андропова, 21г"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "84"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7269,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (35, Б. Черкизовская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991689237"
+                              }
+                           ],
+                           "phone" : "+74991689237",
+                           "city" : "Москва",
+                           "latitude" : 55.7985,
+                           "address" : "Большая Черкизовская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "75.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6588,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (140, Нагатинская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74996120178"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1973"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74996120178; +74952311697, доб. 1973",
+                           "city" : "Москва",
+                           "latitude" : 55.6778,
+                           "address" : "Нагатинская улица, 31"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7354,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 27",
+                           "phones" : [
+                              {
+                                 "number" : "+74991788467"
+                              }
+                           ],
+                           "phone" : "+74991788467",
+                           "city" : "Москва",
+                           "latitude" : 55.71,
+                           "address" : "Волгоградский проспект, 63"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "60.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (31, Энтузиастов)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956721388"
+                              }
+                           ],
+                           "phone" : "+74956721388",
+                           "city" : "Москва",
+                           "latitude" : 55.7585,
+                           "address" : "шоссе Энтузиастов, 48/1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6965,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (28, Миллионная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991694210"
+                              }
+                           ],
+                           "phone" : "+74991694210",
+                           "city" : "Москва",
+                           "latitude" : 55.8167,
+                           "address" : "Миллионная улица, 11 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5059,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 6 (ООО Феерия Фарм Запад)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991981909"
+                              }
+                           ],
+                           "phone" : "+74991981909",
+                           "city" : "Москва",
+                           "latitude" : 55.8,
+                           "address" : "улица Алабяна, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "6",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 15г",
+                           "price" : "35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.504,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991986003"
+                              }
+                           ],
+                           "phone" : "+74991986003",
+                           "city" : "Москва",
+                           "latitude" : 55.8004,
+                           "address" : "улица Алабяна, 10к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "62.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7262,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Авиценнафарма Халтуринская, 18",
+                           "phones" : [
+                              {
+                                 "number" : "+74956031967"
+                              },
+                              {
+                                 "number" : "+79652088880"
+                              }
+                           ],
+                           "phone" : "+74956031967; +79652088880",
+                           "city" : "Москва",
+                           "latitude" : 55.8053,
+                           "address" : "Халтуринская улица, 18"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "5",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 15г",
+                           "price" : "30.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4806,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (52, Народного ополчения)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991918571"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1326"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74991918571; +74952311697, доб. 1326",
+                           "city" : "Москва",
+                           "latitude" : 55.7771,
+                           "address" : "улица Народного Ополчения, 20 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "66.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6782,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (58, Новинки)",
+                           "phones" : [
+                              {
+                                 "number" : "+74996172092"
+                              }
+                           ],
+                           "phone" : "+74996172092",
+                           "city" : "Москва",
+                           "latitude" : 55.6766,
+                           "address" : "улица Новинки, 31"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7183,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 12",
+                           "phones" : [
+                              {
+                                 "number" : "+74991609686"
+                              }
+                           ],
+                           "phone" : "+74991609686",
+                           "city" : "Москва",
+                           "latitude" : 55.8117,
+                           "address" : "Бойцовая улица, 17 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "60.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5364,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (130, Ленинский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991318716"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1360"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74991318716; +74952311697, доб. 1360",
+                           "city" : "Москва",
+                           "latitude" : 55.6827,
+                           "address" : "Ленинский проспект, 78"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "86.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6611,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (12, Бажова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74951877927"
+                              }
+                           ],
+                           "phone" : "+74951877927",
+                           "city" : "Москва",
+                           "latitude" : 55.8344,
+                           "address" : "улица Бажова, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "87"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4971,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (105, Мичуринский проспект)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311696",
+                                 "additional" : [
+                                    "1927"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311696, доб. 1927",
+                           "city" : "Москва",
+                           "latitude" : 55.6976,
+                           "address" : "Мичуринский проспект, 36"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "73.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5292,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (31, Академическая)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1312"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1312",
+                           "city" : "Москва",
+                           "latitude" : 55.824,
+                           "address" : "Большая Академическая улица, 24 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 15г",
+                           "price" : "28"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5583,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1613",
+                                    "1614"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1613, 1614",
+                           "city" : "Москва",
+                           "latitude" : 55.6698,
+                           "address" : "улица Гарибальди, 27 к4"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "73.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5706,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (127, Цюрупы)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953313522"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1357"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74953313522; +74952311697, доб. 1357",
+                           "city" : "Москва",
+                           "latitude" : 55.6658,
+                           "address" : "улица Цюрупы, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "76.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7862,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Парус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957702729"
+                              }
+                           ],
+                           "phone" : "+74957702729",
+                           "city" : "Москва",
+                           "latitude" : 55.7425,
+                           "address" : "Кусковская улица, 31 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед/г 15г",
+                           "price" : "27"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4548,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (11, Живописная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959479584"
+                              }
+                           ],
+                           "phone" : "+74959479584",
+                           "city" : "Москва",
+                           "latitude" : 55.7883,
+                           "address" : "Живописная улица, 24"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "66"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7836,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991652530"
+                              }
+                           ],
+                           "phone" : "+74991652530",
+                           "city" : "Москва",
+                           "latitude" : 55.7904,
+                           "address" : "3-я Парковая улица, 7/17"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "74.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.465,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 2 (ООО Феерия Фарм Плюс)",
+                           "phones" : [
+                              {
+                                 "number" : "+74997204839"
+                              }
+                           ],
+                           "phone" : "+74997204839",
+                           "city" : "Москва",
+                           "latitude" : 55.8077,
+                           "address" : "улица Маршала Василевского, 15"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 15г",
+                           "price" : "33"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7922,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;РИГЛА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Москва",
+                           "latitude" : 55.7168,
+                           "address" : "Рязанский проспект, 46"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 15г",
+                           "price" : "35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.463,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Н2О-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957988752"
+                              }
+                           ],
+                           "phone" : "+74957988752",
+                           "city" : "Москва",
+                           "latitude" : 55.8086,
+                           "address" : "улица Маршала Василевского, 17"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "60"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7934,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 5 (ООО Феерия Фарм Восток)",
+                           "phones" : [
+                              {
+                                 "number" : "+74951236559"
+                              }
+                           ],
+                           "phone" : "+74951236559",
+                           "city" : "Москва",
+                           "latitude" : 55.7162,
+                           "address" : "Рязанский проспект, 48"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "5",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 15г",
+                           "price" : "38.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7897,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993676006"
+                              }
+                           ],
+                           "phone" : "+74993676006",
+                           "city" : "Москва",
+                           "latitude" : 55.7928,
+                           "address" : "Первомайская улица, 46/50"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "71.61"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7562,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991675698"
+                              }
+                           ],
+                           "phone" : "+74991675698",
+                           "city" : "Москва",
+                           "latitude" : 55.824,
+                           "address" : "Открытое шоссе, 21 к4"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "74.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7603,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (26, Открытое)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991677362"
+                              }
+                           ],
+                           "phone" : "+74991677362",
+                           "city" : "Москва",
+                           "latitude" : 55.8246,
+                           "address" : "Открытое шоссе, 24 к36"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "85.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7651,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека в Марьино",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6813,
+                           "address" : "Ставропольская улица, 50/22"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед/г 30г",
+                           "price" : "39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4533,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (37, Авиационная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1940"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1940",
+                           "city" : "Москва",
+                           "latitude" : 55.8099,
+                           "address" : "Авиационная улица, 70 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "79.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5679,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Прагматэкс",
+                           "phones" : [
+                              {
+                                 "number" : "+74994817242"
+                              }
+                           ],
+                           "phone" : "+74994817242",
+                           "city" : "Москва",
+                           "latitude" : 55.8576,
+                           "address" : "Дубнинская улица, 2 к6"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4914,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ДискомСтандарт",
+                           "phones" : [
+                              {
+                                 "number" : "+74954344268"
+                              }
+                           ],
+                           "phone" : "+74954344268",
+                           "city" : "Москва",
+                           "latitude" : 55.6672,
+                           "address" : "проспект Вернадского, 97 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100 т.ед/г 15г",
+                           "price" : "34"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4906,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Москва",
+                           "latitude" : 55.8357,
+                           "address" : "улица Адмирала Макарова, 6с13"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "75.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4283,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (142, Можайское шоссе)",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538361"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1349"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74995538361; +74952311697, доб. 1349",
+                           "city" : "Москва",
+                           "latitude" : 55.7211,
+                           "address" : "Можайское шоссе, 18 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "106"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8047,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (62, Первомайская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954612049"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1329"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74954612049; +74952311697, доб. 1329",
+                           "city" : "Москва",
+                           "latitude" : 55.7936,
+                           "address" : "Первомайская улица, 89"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 15г",
+                           "price" : "42"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6035,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ТЭКС-ФАРМ ОТРАДНОЕ",
+                           "phones" : [
+                              {
+                                 "number" : "+74997452967"
+                              }
+                           ],
+                           "phone" : "+74997452967",
+                           "city" : "Москва",
+                           "latitude" : 55.8655,
+                           "address" : "улица Декабристов, 15"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин мазь 100тыс.ед/г 15г",
+                           "price" : "23.66"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5987,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека 159 Ригла",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1974"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1974",
+                           "city" : "Москва",
+                           "latitude" : 55.6371,
+                           "address" : "Чертаново Северное микрорайон, 1 корпус 2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "81.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4172,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МЕДЦЕНТР-МОСИНТУР ЛТД&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955061407"
+                              },
+                              {
+                                 "number" : "+74952238910"
+                              }
+                           ],
+                           "phone" : "+74955061407; +74952238910",
+                           "city" : "Москва",
+                           "latitude" : 55.7302,
+                           "address" : "Кунцевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "5",
+                           "name" : "Нистатин мазь 15г туба",
+                           "price" : "30.37"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6537,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Живика",
+                           "phones" : [
+                              {
+                                 "number" : "+74953250622"
+                              }
+                           ],
+                           "phone" : "+74953250622",
+                           "city" : "Москва",
+                           "latitude" : 55.6367,
+                           "address" : "Пролетарский проспект, 14/49 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "43.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6748,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (52, Летчика Бабушкина)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954715459"
+                              }
+                           ],
+                           "phone" : "+74954715459",
+                           "city" : "Москва",
+                           "latitude" : 55.8671,
+                           "address" : "улица Лётчика Бабушкина, 23"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4898,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (21, Авангардная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954598264"
+                              }
+                           ],
+                           "phone" : "+74954598264",
+                           "city" : "Москва",
+                           "latitude" : 55.8481,
+                           "address" : "Авангардная улица, 18"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "78.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6646,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (23, Енисейская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954713724"
+                              }
+                           ],
+                           "phone" : "+74954713724",
+                           "city" : "Москва",
+                           "latitude" : 55.8729,
+                           "address" : "Енисейская улица, 29"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7607,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Арт-Фарм»",
+                           "phones" : [
+                              {
+                                 "number" : "+74959684613"
+                              }
+                           ],
+                           "phone" : "+74959684613",
+                           "city" : "Москва",
+                           "latitude" : 55.6563,
+                           "address" : "Братиславская улица, 20"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин, мазь д/наружн. прим. 100тыс.ед/г 15гр",
+                           "price" : "45"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7578,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека в Марьино&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953455110"
+                              }
+                           ],
+                           "phone" : "+74953455110",
+                           "city" : "Москва",
+                           "latitude" : 55.654,
+                           "address" : "Новомарьинская улица, 14/15"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед/г 15г",
+                           "price" : "26"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.435,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (33, Волоколамское)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954913367"
+                              }
+                           ],
+                           "phone" : "+74954913367",
+                           "city" : "Москва",
+                           "latitude" : 55.8248,
+                           "address" : "Волоколамское шоссе, 92"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 15г",
+                           "price" : "22"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4132,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 20",
+                           "phones" : [
+                              {
+                                 "number" : "+74956385692"
+                              },
+                              {
+                                 "number" : "+74957562026"
+                              }
+                           ],
+                           "phone" : "+74956385692; +74957562026",
+                           "city" : "Москва",
+                           "latitude" : 55.8057,
+                           "address" : "улица Маршала Катукова, 23"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "64.15"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5646,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (73, Керамический)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959001172"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1333"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74959001172; +74952311697, доб. 1333",
+                           "city" : "Москва",
+                           "latitude" : 55.8755,
+                           "address" : "Керамический проезд, 51 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "84"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6676,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (126, Луганская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953223901"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1356"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74953223901; +74952311697, доб. 1356",
+                           "city" : "Москва",
+                           "latitude" : 55.6247,
+                           "address" : "Луганская улица, 7 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "78.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4064,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (11, Строгинский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957502909"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1983",
+                                    "1984",
+                                    "1304"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957502909; +74952311697, доб. 1983, 1984, 1304",
+                           "city" : "Москва",
+                           "latitude" : 55.8037,
+                           "address" : "Строгинский бульвар, 21"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "70.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.684,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (18, Осташковский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991854095"
+                              }
+                           ],
+                           "phone" : "+74991854095",
+                           "city" : "Москва",
+                           "latitude" : 55.877,
+                           "address" : "Осташковский проезд, 8 с2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4079,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (24, Маршала Катукова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957505050"
+                              }
+                           ],
+                           "phone" : "+74957505050",
+                           "city" : "Москва",
+                           "latitude" : 55.8081,
+                           "address" : "улица Маршала Катукова, 17 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "63.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5178,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997935489"
+                              }
+                           ],
+                           "phone" : "+74997935489",
+                           "city" : "Москва",
+                           "latitude" : 55.6331,
+                           "address" : "Профсоюзная улица, 124"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "74.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6528,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла (100, Шокальского)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0994"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0994",
+                           "city" : "Москва",
+                           "latitude" : 55.8819,
+                           "address" : "проезд Шокальского, 41"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "73.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4715,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (14, Ленинградское ш)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0985",
+                                    "1921"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0985, 1921",
+                           "city" : "Москва",
+                           "latitude" : 55.8547,
+                           "address" : "Ленинградское шоссе, 92/1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5157,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Правила здоровья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79857624841"
+                              },
+                              {
+                                 "number" : "+79857624847"
+                              }
+                           ],
+                           "phone" : "+79857624841; +79857624847",
+                           "city" : "Москва",
+                           "latitude" : 55.631,
+                           "address" : "Профсоюзная улица, 128 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин, мазь д/наружн. прим. 100тыс.ед/г 15гр",
+                           "price" : "35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8233,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья-3",
+                           "phones" : [
+                              {
+                                 "number" : "+74959434303"
+                              }
+                           ],
+                           "phone" : "+74959434303",
+                           "city" : "Москва",
+                           "latitude" : 55.8225,
+                           "address" : "Хабаровская улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "5",
+                           "name" : "Нистатин 30г мазь 100тыс ед",
+                           "price" : "55"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8277,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954698810"
+                              }
+                           ],
+                           "phone" : "+74954698810",
+                           "city" : "Москва",
+                           "latitude" : 55.8192,
+                           "address" : "Хабаровская улица, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "71.61"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8269,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (5, Хабаровская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957708948"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1981",
+                                    "1302"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957708948; +74952311697, доб. 1981, 1302",
+                           "city" : "Москва",
+                           "latitude" : 55.8214,
+                           "address" : "Хабаровская улица, 12/23"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "83"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6044,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 14",
+                           "phones" : [
+                              {
+                                 "number" : "+74953150002"
+                              }
+                           ],
+                           "phone" : "+74953150002",
+                           "city" : "Москва",
+                           "latitude" : 55.6147,
+                           "address" : "Кировоградская улица, вл22Г"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "60.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8502,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Цветочки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959732898"
+                              }
+                           ],
+                           "phone" : "+74959732898",
+                           "city" : "Москва",
+                           "latitude" : 55.7013,
+                           "address" : "Лермонтовский проспект, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 15г",
+                           "price" : "23"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.851,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (41, Авиаконструктора Миля)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955040663"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1320"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74955040663; +74952311697, доб. 1320",
+                           "city" : "Москва",
+                           "latitude" : 55.6859,
+                           "address" : "улица Авиаконструктора Миля, 4 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 15г",
+                           "price" : "43.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5067,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО « ИНТЕРТОРГ»",
+                           "phones" : [
+                              {
+                                 "number" : "+74959716524"
+                              }
+                           ],
+                           "phone" : "+74959716524",
+                           "city" : "Москва",
+                           "latitude" : 55.6194,
+                           "address" : "Новоясеневский проспект, 1к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "5",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "69"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5918,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (40, Шенкурский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1942"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1942",
+                           "city" : "Москва",
+                           "latitude" : 55.8975,
+                           "address" : "Шенкурский проезд, 14"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8546,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (66, Жулебинский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957045202"
+                              }
+                           ],
+                           "phone" : "+74957045202",
+                           "city" : "Москва",
+                           "latitude" : 55.6891,
+                           "address" : "Жулебинский бульвар, 30 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6968,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (34, Шипиловский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953434230"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1314"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74953434230; +74952311697, доб. 1314",
+                           "city" : "Москва",
+                           "latitude" : 55.6113,
+                           "address" : "Шипиловский проезд, 39 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "87"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8583,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (39, Генерала Кузнецова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1318",
+                                    "0973"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1318, 0973",
+                           "city" : "Москва",
+                           "latitude" : 55.6895,
+                           "address" : "улица Генерала Кузнецова, 14 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "40.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5887,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Ромашки",
+                           "phones" : [
+                              {
+                                 "number" : "+74999083503"
+                              },
+                              {
+                                 "number" : "+74999678645"
+                              }
+                           ],
+                           "phone" : "+74999083503; +74999678645",
+                           "city" : "Москва",
+                           "latitude" : 55.8993,
+                           "address" : "Алтуфьевское шоссе, 88"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "49"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8562,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Андервуд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997966630"
+                              }
+                           ],
+                           "phone" : "+74997966630",
+                           "city" : "Москва",
+                           "latitude" : 55.6865,
+                           "address" : "улица Генерала Кузнецова, 20"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин, мазь д/наружн. прим. 100тыс.ед/г 15гр",
+                           "price" : "45"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957040851"
+                              }
+                           ],
+                           "phone" : "+74957040851",
+                           "city" : "Москва",
+                           "latitude" : 55.6876,
+                           "address" : "улица Генерала Кузнецова, 13 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "74.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5884,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Москва",
+                           "latitude" : 55.6019,
+                           "address" : "Чертановская улица, 58 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "78.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7522,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (47, Кустанайская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957833134"
+                              }
+                           ],
+                           "phone" : "+74957833134",
+                           "city" : "Москва",
+                           "latitude" : 55.6196,
+                           "address" : "Кустанайская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "84"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4199,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (20, Туристская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959484681"
+                              }
+                           ],
+                           "phone" : "+74959484681",
+                           "city" : "Москва",
+                           "latitude" : 55.8558,
+                           "address" : "Туристская улица, 27 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "5",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7279,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (44, Воронежская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953996748"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1322"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74953996748; +74952311697, доб. 1322",
+                           "city" : "Москва",
+                           "latitude" : 55.6101,
+                           "address" : "Воронежская улица, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "74"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6636,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (46, Бирюлевская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953262065"
+                              },
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74953262065; +74952311697",
+                           "city" : "Москва",
+                           "latitude" : 55.5992,
+                           "address" : "Бирюлёвская улица, 7 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "78.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.716,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (263, Волошиной)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955880374"
+                              }
+                           ],
+                           "phone" : "+74955880374",
+                           "city" : "Мытищи",
+                           "latitude" : 55.8965,
+                           "address" : "улица Веры Волошиной, 24, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5425,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954226311"
+                              }
+                           ],
+                           "phone" : "+74954226311",
+                           "city" : "Москва",
+                           "latitude" : 55.6024,
+                           "address" : "улица Паустовского, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "69.75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7125,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (45, Домодедовская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953433945"
+                              }
+                           ],
+                           "phone" : "+74953433945",
+                           "city" : "Москва",
+                           "latitude" : 55.6046,
+                           "address" : "Домодедовская улица, 28"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "85.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3985,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (37, Солнцевский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0972",
+                                    "1316"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0972, 1316",
+                           "city" : "Москва",
+                           "latitude" : 55.6514,
+                           "address" : "Солнцевский проспект, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 15г",
+                           "price" : "31.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7159,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (264, Сукромки)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1397"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1397",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9026,
+                           "address" : "улица Сукромка, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "5",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "83.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7039,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (258, Юбилейная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1906"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1906",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9053,
+                           "address" : "Юбилейная улица, 38 к3, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "5",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8932,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1779",
+                                    "1780"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1779, 1780",
+                           "city" : "Люберцы",
+                           "latitude" : 55.7054,
+                           "address" : "улица 8 Марта, 61, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "80.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4223,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1739",
+                                    "1744"
+                                 ]
+                              },
+                              {
+                                 "number" : "+74957939344"
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1739, 1744; +74957939344",
+                           "city" : "Москва",
+                           "latitude" : 55.8765,
+                           "address" : "МКАД, 73-й километр, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8411,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1747",
+                                    "1748"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1747, 1748",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6374,
+                           "address" : "улица Ленина, 2а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "77.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3624,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Трилистник на Митинском",
+                           "phones" : [
+                              {
+                                 "number" : "+74957528330"
+                              }
+                           ],
+                           "phone" : "+74957528330",
+                           "city" : "Москва",
+                           "latitude" : 55.8442,
+                           "address" : "Митинская улица, 27 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "12",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "55"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7305,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Живика",
+                           "phones" : [
+                              {
+                                 "number" : "+74986872693"
+                              }
+                           ],
+                           "phone" : "+74986872693",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9119,
+                           "address" : "улица Матросова, 14/16"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "42.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8504,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (252, пл. Дмитрия Донского)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1903",
+                                    "1989"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1903, 1989",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6299,
+                           "address" : "площадь Дмитрия Донского, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "72.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3308,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (253, Пионерская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955632479"
+                              }
+                           ],
+                           "phone" : "+74955632479",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8272,
+                           "address" : "Пионерская улица, 14, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 15г",
+                           "price" : "27.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5102,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (224, Дирижабельная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954086138"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1386"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74954086138; +74952311697, доб. 1386",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9407,
+                           "address" : "Дирижабельная улица, 10, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5041,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (230, Проспект Пацаева)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956907934",
+                                 "additional" : [
+                                    "1388"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74956907934, доб. 1388",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9474,
+                           "address" : "проспект Пацаева, 7 к2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "88"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.971,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (105, Свердлова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1705"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1705",
+                           "city" : "Балашиха",
+                           "latitude" : 55.8296,
+                           "address" : "улица Свердлова, 37, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "72.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8689,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1752",
+                                    "1761"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1752, 1761",
+                           "city" : "Королёв",
+                           "latitude" : 55.9162,
+                           "address" : "проспект Космонавтов, 23/37, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "71.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7233,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1715",
+                                    "1716"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1715, 1716",
+                           "city" : "Видное",
+                           "latitude" : 55.543,
+                           "address" : "Ольховая улица, 11, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "83"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0159,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (240, Юбилейная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956625727"
+                              }
+                           ],
+                           "phone" : "+74956625727",
+                           "city" : "Железнодорожный",
+                           "latitude" : 55.7422,
+                           "address" : "Юбилейная улица, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "63.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9124,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1751",
+                                    "1761"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1751, 1761",
+                           "city" : "Лыткарино",
+                           "latitude" : 55.5823,
+                           "address" : "Парковая улица, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "72.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.994,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (209, 1-й Советский пер)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965670288"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1374"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965670288; +74952311697, доб. 1374",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9195,
+                           "address" : "1-й Советский переулок, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "78"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9897,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1753",
+                                    "1763"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1753, 1763",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9231,
+                           "address" : "улица Шмидта, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "81"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4741,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (222, Ленина)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955088363"
+                              }
+                           ],
+                           "phone" : "+74955088363",
+                           "city" : "Лобня",
+                           "latitude" : 56.0109,
+                           "address" : "улица Ленина, 23 к3, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "50.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9865,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (212,Сиреневая)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965692188"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1376"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965692188; +74952311697, доб. 1376",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9282,
+                           "address" : "Сиреневая улица, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "82.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4822,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (219, Ленина)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959158947"
+                              }
+                           ],
+                           "phone" : "+74959158947",
+                           "city" : "Лобня",
+                           "latitude" : 56.0124,
+                           "address" : "улица Ленина, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "83"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4402,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (247, Краснополянский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538440"
+                              }
+                           ],
+                           "phone" : "+74995538440",
+                           "city" : "Лобня",
+                           "latitude" : 56.0084,
+                           "address" : "Краснополянский проезд, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "82"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8633,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лэнд-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965358525"
+                              }
+                           ],
+                           "phone" : "+74965358525",
+                           "city" : "Пушкино",
+                           "latitude" : 55.9958,
+                           "address" : "Пушкинское шоссе, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "74.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8643,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лэнд-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965357660"
+                              }
+                           ],
+                           "phone" : "+74965357660",
+                           "city" : "Пушкино",
+                           "latitude" : 55.9957,
+                           "address" : "Пушкинское шоссе, 4а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "6",
+                           "name" : "Нистатин, мазь 100тыс.ед/г 30г",
+                           "price" : "74.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.121,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (241, Гагарина)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959679557"
+                              }
+                           ],
+                           "phone" : "+74959679557",
+                           "city" : "Дедовск",
+                           "latitude" : 55.8603,
+                           "address" : "улица Гагарина, 12"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "5",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "72.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0542,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (262, Школьная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0900",
+                                    "1389"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0900, 1389",
+                           "city" : "Фрязино",
+                           "latitude" : 55.9551,
+                           "address" : "Школьная улица, 1а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "4",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "64.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1132,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "4814",
+                                    "4815"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 4814, 4815",
+                           "city" : "Жуковский",
+                           "latitude" : 55.5981,
+                           "address" : "улица Гагарина, 2а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 15г",
+                           "price" : "39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5501,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1724",
+                                    "1725"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1724, 1725",
+                           "city" : "Подольск",
+                           "latitude" : 55.4301,
+                           "address" : "Советская улица, 20/44"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "72.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5598,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (266, Февральская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74967636380"
+                              }
+                           ],
+                           "phone" : "+74967636380",
+                           "city" : "Подольск",
+                           "latitude" : 55.4275,
+                           "address" : "Февральская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7726,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (225, Корнеева)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1387"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1387",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4359,
+                           "address" : "улица Корнеева, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "5",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "85.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.546,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла 271",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1767",
+                                    "1768"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1767, 1768",
+                           "city" : "Подольск",
+                           "latitude" : 55.4197,
+                           "address" : "Большая Серпуховская улица, 32"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "3",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "49.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.1517,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311698",
+                                 "additional" : [
+                                    "1773",
+                                    "1777"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311698, доб. 1773, 1777",
+                           "city" : "Москва",
+                           "latitude" : 55.985,
+                           "address" : "Зеленоград, к1446"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "76.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.0443,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1740",
+                                    "1736"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1740, 1736",
+                           "city" : "Краснознаменск",
+                           "latitude" : 55.6012,
+                           "address" : "Молодёжная улица, 2/1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "74"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.3975,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (217, III Интернационала)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965110033"
+                              },
+                              {
+                                 "number" : "+74965193242"
+                              }
+                           ],
+                           "phone" : "+74965110033; +74965193242",
+                           "city" : "Ногинск",
+                           "latitude" : 55.84,
+                           "address" : "3-го Интернационала улица, 252"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "75.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4361,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (218, III-Интернационала)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965142665"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1382"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965142665; +74952311697, доб. 1382",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8541,
+                           "address" : "улица 3 Интернационала, 83"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "72.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4394,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (215, Комсомольская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965143171"
+                              },
+                              {
+                                 "number" : "+74965191501"
+                              }
+                           ],
+                           "phone" : "+74965143171; +74965191501",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8515,
+                           "address" : "Комсомольская улица, 76, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "74"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4353,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "4823",
+                                    "4825"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 4823, 4825",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8691,
+                           "address" : "2-я Глуховская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "72.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (216, III-Интернационала)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965141927"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1380"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965141927; +74952311697, доб. 1380",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8576,
+                           "address" : "улица 3 Интернационала, 44"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "2",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "80"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4915,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (236, Ленина)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965192777"
+                              }
+                           ],
+                           "phone" : "+74965192777",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8882,
+                           "address" : "улица Ленина, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1126",
+                           "quantity" : "1",
+                           "name" : "Нистатин мазь 100тыс.ед 30г",
+                           "price" : "76.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "нистатин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

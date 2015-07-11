@@ -1,0 +1,134 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "sodium_chlorid_vial",
+            "rus_name" : "Натрия хлорид-виал",
+            "form" : "р-р д/инф. 0.9%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "sodium_chlorid_vial",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6761,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Целитель г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956326238"
+                              }
+                           ],
+                           "phone" : "+74956326238",
+                           "city" : "Москва",
+                           "latitude" : 55.7377,
+                           "address" : "Малая Калитниковская улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "8492",
+                           "quantity" : "2",
+                           "name" : "Натрия хлорид-виал 0.9% 400мл n30 р-р д/инф хэбэй тяньчэн фармасьютикал ко.. лтд. (китай)",
+                           "price" : "1047.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4942,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека-225&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954561606"
+                              }
+                           ],
+                           "phone" : "+74954561606",
+                           "city" : "Москва",
+                           "latitude" : 55.859,
+                           "address" : "Фестивальная улица, 12/20"
+                        },
+                        "drug" : {
+                           "descid" : "8492",
+                           "quantity" : "1",
+                           "name" : "Натрия хлорид виал р-р д/инф 0.9% 400мл бут n30",
+                           "price" : "1255"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5216,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лавка здоровья и красоты&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954209711"
+                              },
+                              {
+                                 "number" : "+74954202188"
+                              }
+                           ],
+                           "phone" : "+74954209711; +74954202188",
+                           "city" : "Москва",
+                           "latitude" : 55.633,
+                           "address" : "Профсоюзная улица, 109"
+                        },
+                        "drug" : {
+                           "descid" : "8492",
+                           "quantity" : "1",
+                           "name" : "Натрия хлорид-виал 0,9% 400мл n30 р-р д/",
+                           "price" : "1236"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9914,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ИНТЕКО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965671185"
+                              }
+                           ],
+                           "phone" : "+74965671185",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9228,
+                           "address" : "площадь Ленина, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8492",
+                           "quantity" : "1",
+                           "name" : "Натрия хлорид-виал 40 0,9% 200мл",
+                           "price" : "1324"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "натрия хлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

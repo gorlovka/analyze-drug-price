@@ -1,0 +1,87 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "carboplatin",
+            "rus_name" : "Карбоплатин",
+            "form" : "концентрат д/пригот. р-ра д/инф. 450 мг/45 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "carboplatin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7412,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АСАКИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957770006"
+                              }
+                           ],
+                           "phone" : "+74957770006",
+                           "city" : "Москва",
+                           "latitude" : 55.6993,
+                           "address" : "улица Юных Ленинцев, 12"
+                        },
+                        "drug" : {
+                           "descid" : "1637",
+                           "quantity" : "2",
+                           "name" : "Карбоплатин, концентрат д/инф 450мг 45мл 1",
+                           "price" : "2419"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.994,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (209, 1-й Советский пер)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965670288"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1374"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965670288; +74952311697, доб. 1374",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9195,
+                           "address" : "1-й Советский переулок, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1637",
+                           "quantity" : "2",
+                           "name" : "Карбоплатин конц.д/инф. 450мг 45мл 1",
+                           "price" : "2087"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "карбоплатин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

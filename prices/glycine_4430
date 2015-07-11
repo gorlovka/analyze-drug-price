@@ -1,0 +1,134 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "glycine",
+            "rus_name" : "Глицин-мхфп",
+            "form" : "таб. подъязычные 100 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "glycine",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5178,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997935489"
+                              }
+                           ],
+                           "phone" : "+74997935489",
+                           "city" : "Москва",
+                           "latitude" : 55.6331,
+                           "address" : "Профсоюзная улица, 124"
+                        },
+                        "drug" : {
+                           "descid" : "2084",
+                           "quantity" : "6",
+                           "name" : "Глицин-мхфп таб. подъязычные 100 мг 50",
+                           "price" : "26.88"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.668,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЖА Аптека&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994768475"
+                              }
+                           ],
+                           "phone" : "+74994768475",
+                           "city" : "Москва",
+                           "latitude" : 55.8925,
+                           "address" : "Студёный проезд, 28"
+                        },
+                        "drug" : {
+                           "descid" : "2084",
+                           "quantity" : "4",
+                           "name" : "Глицин-мхфп таб подъяз 100мг n50 уп кнт-яч пк &amp;lt;10*5&amp;gt;",
+                           "price" : "28.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7608,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарм Крафт&quot;5",
+                           "phones" : [
+                              {
+                                 "number" : "+79264684755"
+                              },
+                              {
+                                 "number" : "+79264539423"
+                              }
+                           ],
+                           "phone" : "+79264684755; +79264539423",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9155,
+                           "address" : "Шараповский проезд, 1"
+                        },
+                        "drug" : {
+                           "descid" : "2084",
+                           "quantity" : "2",
+                           "name" : "Глицин-мхфп таб подъязычн 100мг n50 уп кнт-яч пк &amp;lt;10*5&amp;gt;",
+                           "price" : "25"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8633,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лэнд-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965358525"
+                              }
+                           ],
+                           "phone" : "+74965358525",
+                           "city" : "Пушкино",
+                           "latitude" : 55.9958,
+                           "address" : "Пушкинское шоссе, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2084",
+                           "quantity" : "4",
+                           "name" : "Глицин-мхфп таб. подъязычные 100 мг 50",
+                           "price" : "31.43"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "глицин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "heparin_ferein",
+            "rus_name" : "Гепарин-ферейн",
+            "form" : "р-р д/инъекц. 5 тыс.МЕ/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "heparin_ferein",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957455287"
+                              }
+                           ],
+                           "phone" : "+74957455287",
+                           "city" : "Москва",
+                           "latitude" : 55.7587,
+                           "address" : "улица Земляной Вал, 24/30"
+                        },
+                        "drug" : {
+                           "descid" : "2054",
+                           "quantity" : "2",
+                           "name" : "Гепарин-ферейн, р-р д/инъ 5тыс.ме/мл фл 5мл 5",
+                           "price" : "571.11"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "гепарин натрия"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

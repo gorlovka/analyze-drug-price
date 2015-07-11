@@ -1,0 +1,131 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "maruxa",
+            "rus_name" : "Марукса",
+            "form" : "таб., покр. пленочной оболочкой, 20 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "maruxa",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7446,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 30",
+                           "phones" : [
+                              {
+                                 "number" : "+79647294704"
+                              }
+                           ],
+                           "phone" : "+79647294704",
+                           "city" : "Москва",
+                           "latitude" : 55.6329,
+                           "address" : "улица Борисовские Пруды, 14 к4"
+                        },
+                        "drug" : {
+                           "descid" : "8635",
+                           "quantity" : "1",
+                           "name" : "Марукса 0,01 30 табл п/о",
+                           "price" : "823.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7199,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ФармМедТрейд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6128,
+                           "address" : "Ореховый бульвар, 15"
+                        },
+                        "drug" : {
+                           "descid" : "8635",
+                           "quantity" : "1",
+                           "name" : "Марукса таб. п/о 0,01 30",
+                           "price" : "949"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6444,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 21",
+                           "phones" : [
+                              {
+                                 "number" : "+74953850836"
+                              }
+                           ],
+                           "phone" : "+74953850836",
+                           "city" : "Москва",
+                           "latitude" : 55.5933,
+                           "address" : "Медынская улица, 6а"
+                        },
+                        "drug" : {
+                           "descid" : "8635",
+                           "quantity" : "2",
+                           "name" : "Марукса 0,01 30 табл п/о",
+                           "price" : "829.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9914,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ИНТЕКО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965671185"
+                              }
+                           ],
+                           "phone" : "+74965671185",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9228,
+                           "address" : "площадь Ленина, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8635",
+                           "quantity" : "2",
+                           "name" : "Марукса 0,01 n30 табл п/о",
+                           "price" : "861"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "мемантина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,709 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "solu_medrol",
+            "rus_name" : "Солу-медрол®",
+            "form" : "лиофилизат д/пригот. р-ра д/в/в и в/м введения 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 25,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "solu_medrol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6279,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (76, Пятницкая)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959150427"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1334"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74959150427; +74952311697, доб. 1334",
+                           "city" : "Москва",
+                           "latitude" : 55.7445,
+                           "address" : "Пятницкая улица, 9/28"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "1",
+                           "name" : "Солу-медрол лиоф.д/р-ра для в/в и в/м введ. 500мг 1",
+                           "price" : "406"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "12",
+                           "name" : "Солу-медрол лиоф д/приг р-ра в/в и в/м 500мг 1фл+раств",
+                           "price" : "415"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АС&quot;Эвалар&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992463637"
+                              }
+                           ],
+                           "phone" : "+74992463637",
+                           "city" : "Москва",
+                           "latitude" : 55.7357,
+                           "address" : "Зубовский бульвар, 13 с1"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "5",
+                           "name" : "Солу-медрол 500мг 1 лиоф. д/приг. р-ра д/в/в и в/м +р-ль фл.",
+                           "price" : "396.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6344,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490250"
+                              }
+                           ],
+                           "phone" : "+74996490250",
+                           "city" : "Москва",
+                           "latitude" : 55.7842,
+                           "address" : "проспект Мира, 51"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "10",
+                           "name" : "Солу-медрол лиоф д/ин 500мг фл 1 /+р-тель/",
+                           "price" : "547.63"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма на 1905",
+                           "phones" : [
+                              {
+                                 "number" : "+74995179009"
+                              }
+                           ],
+                           "phone" : "+74995179009",
+                           "city" : "Москва",
+                           "latitude" : 55.7645,
+                           "address" : "улица 1905 Года, 4 с2"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "5",
+                           "name" : "Солу-медрол, лиоф.д/ин фл 500мг (+1)",
+                           "price" : "449.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.584,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490249"
+                              }
+                           ],
+                           "phone" : "+74996490249",
+                           "city" : "Москва",
+                           "latitude" : 55.7227,
+                           "address" : "Фрунзенская набережная, 36/2"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "10",
+                           "name" : "Солу-медрол лиоф д/ин 500мг фл 1 /+р-тель/",
+                           "price" : "423.47"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490237"
+                              }
+                           ],
+                           "phone" : "+74996490237",
+                           "city" : "Москва",
+                           "latitude" : 55.7741,
+                           "address" : "Бауманская улица, 26 с1"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "10",
+                           "name" : "Солу-медрол лиоф д/ин 500мг фл 1 /+р-тель/",
+                           "price" : "578.51"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5479,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992156351"
+                              }
+                           ],
+                           "phone" : "+74992156351",
+                           "city" : "Москва",
+                           "latitude" : 55.7583,
+                           "address" : "Шмитовский проезд, 16 с2"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "10",
+                           "name" : "Солу-медрол лиоф д/ин 500мг фл 1 /+р-тель/",
+                           "price" : "562.66"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5474,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1610"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1610",
+                           "city" : "Москва",
+                           "latitude" : 55.7571,
+                           "address" : "Шмитовский проезд, 19"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "1",
+                           "name" : "Солу-медрол лиоф.д/р-ра для в/в и в/м введ. 500мг 1",
+                           "price" : "591"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1731",
+                                    "1730"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1731, 1730",
+                           "city" : "Москва",
+                           "latitude" : 55.7388,
+                           "address" : "Кутузовский проспект, 36а"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "1",
+                           "name" : "Солу-медрол лиоф.д/р-ра для в/в и в/м введ. 500мг 1",
+                           "price" : "581"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.721,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490239"
+                              }
+                           ],
+                           "phone" : "+74996490239",
+                           "city" : "Москва",
+                           "latitude" : 55.7463,
+                           "address" : "Авиамоторная улица, 51"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "10",
+                           "name" : "Солу-медрол лиоф д/ин 500мг фл 1 /+р-тель/",
+                           "price" : "568.56"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5288,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 1 (ООО Феерия Фарм)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991572172"
+                              }
+                           ],
+                           "phone" : "+74991572172",
+                           "city" : "Москва",
+                           "latitude" : 55.7994,
+                           "address" : "улица Викторенко, 2/1"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "1",
+                           "name" : "Солу-медрол, лиоф.д/ин фл 500мг (+1)",
+                           "price" : "315"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5181,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1755",
+                                    "1758"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1755, 1758",
+                           "city" : "Москва",
+                           "latitude" : 55.7963,
+                           "address" : "Чапаевский переулок, 18/1"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "1",
+                           "name" : "Солу-медрол лиоф.д/р-ра для в/в и в/м введ. 500мг 1",
+                           "price" : "450"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (47, Дмитровское)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959777736"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1324"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74959777736; +74952311697, доб. 1324",
+                           "city" : "Москва",
+                           "latitude" : 55.8191,
+                           "address" : "Дмитровское шоссе, 15 к2"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "1",
+                           "name" : "Солу-медрол лиоф.д/р-ра для в/в и в/м введ. 500мг 1",
+                           "price" : "449"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.665,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (107, Андропова пр-кт)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957868248"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0924",
+                                    "1344"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957868248; +74952311697, доб. 0924, 1344",
+                           "city" : "Москва",
+                           "latitude" : 55.6797,
+                           "address" : "проспект Андропова, 21г"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "1",
+                           "name" : "Солу-медрол лиоф.д/р-ра для в/в и в/м введ. 500мг 1",
+                           "price" : "577"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7412,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АСАКИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957770006"
+                              }
+                           ],
+                           "phone" : "+74957770006",
+                           "city" : "Москва",
+                           "latitude" : 55.6993,
+                           "address" : "улица Юных Ленинцев, 12"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "3",
+                           "name" : "Солу-медрол, лиоф.д/ин фл 500мг (+1)",
+                           "price" : "395"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5629,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма",
+                           "phones" : [
+                              {
+                                 "number" : "+74995179009"
+                              }
+                           ],
+                           "phone" : "+74995179009",
+                           "city" : "Москва",
+                           "latitude" : 55.8613,
+                           "address" : "Бескудниковский бульвар, 10 к5"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "5",
+                           "name" : "Солу-медрол, лиоф.д/ин фл 500мг (+1)",
+                           "price" : "449.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "10",
+                           "name" : "Солу-медрол лиоф д/ин 500мг фл 1 /+р-тель/",
+                           "price" : "448.53"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7591,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москава (23, Братиславская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0971",
+                                    "1309"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0971, 1309",
+                           "city" : "Москва",
+                           "latitude" : 55.6598,
+                           "address" : "Братиславская улица, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "2",
+                           "name" : "Солу-медрол лиоф.д/р-ра для в/в и в/м введ. 500мг 1",
+                           "price" : "414"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4079,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (24, Маршала Катукова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957505050"
+                              }
+                           ],
+                           "phone" : "+74957505050",
+                           "city" : "Москва",
+                           "latitude" : 55.8081,
+                           "address" : "улица Маршала Катукова, 17 к1"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "4",
+                           "name" : "Солу-медрол лиоф.д/р-ра для в/в и в/м введ. 500мг 1",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8269,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (5, Хабаровская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957708948"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1981",
+                                    "1302"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957708948; +74952311697, доб. 1981, 1302",
+                           "city" : "Москва",
+                           "latitude" : 55.8214,
+                           "address" : "Хабаровская улица, 12/23"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "2",
+                           "name" : "Солу-медрол лиоф.д/р-ра для в/в и в/м введ. 500мг 1",
+                           "price" : "413"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8502,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Цветочки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959732898"
+                              }
+                           ],
+                           "phone" : "+74959732898",
+                           "city" : "Москва",
+                           "latitude" : 55.7013,
+                           "address" : "Лермонтовский проспект, 8"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "5",
+                           "name" : "Солу-медрол, лиоф.д/ин фл 500мг (+1)",
+                           "price" : "495"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья Юг",
+                           "phones" : [
+                              {
+                                 "number" : "+74959710100"
+                              }
+                           ],
+                           "phone" : "+74959710100",
+                           "city" : "Москва",
+                           "latitude" : 55.8571,
+                           "address" : "улица Героев Панфиловцев, 7"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "2",
+                           "name" : "Солу-медрол лиоф д/ин 500мг фл 1",
+                           "price" : "520"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.994,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (209, 1-й Советский пер)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965670288"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1374"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965670288; +74952311697, доб. 1374",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9195,
+                           "address" : "1-й Советский переулок, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "3",
+                           "name" : "Солу-медрол лиоф.д/р-ра для в/в и в/м введ. 500мг 1",
+                           "price" : "587"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9865,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (212,Сиреневая)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965692188"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1376"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965692188; +74952311697, доб. 1376",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9282,
+                           "address" : "Сиреневая улица, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "762",
+                           "quantity" : "4",
+                           "name" : "Солу-медрол лиоф.д/р-ра для в/в и в/м введ. 500мг 1",
+                           "price" : "458"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "метилпреднизолон (в форме натрия сукцината)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

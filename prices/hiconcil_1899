@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "hiconcil",
+            "rus_name" : "Хиконцил",
+            "form" : "капс. 250 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "hiconcil",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6133,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №292 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+79684012831"
+                              }
+                           ],
+                           "phone" : "+79684012831",
+                           "city" : "Москва",
+                           "latitude" : 55.7111,
+                           "address" : "улица Серпуховский Вал, 17"
+                        },
+                        "drug" : {
+                           "descid" : "1004",
+                           "quantity" : "1",
+                           "name" : "Хиконцил капс. 250мг n16",
+                           "price" : "48"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амоксициллин (в форме тригидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

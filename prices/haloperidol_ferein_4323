@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "haloperidol_ferein",
+            "rus_name" : "Галоперидол-ферейн",
+            "form" : "р-р д/в/в и в/м введения 5 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "haloperidol_ferein",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "2043",
+                           "quantity" : "1",
+                           "name" : "Галоперидол-ферейн 0.005/мл 1мл n10 амп в/в в/м",
+                           "price" : "52.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ЗДОРОВЬЕ ПЛЮС",
+                           "phones" : [
+                              {
+                                 "number" : "+74991223092"
+                              }
+                           ],
+                           "phone" : "+74991223092",
+                           "city" : "Москва",
+                           "latitude" : 55.6542,
+                           "address" : "улица Каховка, 10к3"
+                        },
+                        "drug" : {
+                           "descid" : "2043",
+                           "quantity" : "2",
+                           "name" : "Галоперидол -ферейн 50мг 1мл n10 амп в/м",
+                           "price" : "56"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8587,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Вивафарм ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957038888"
+                              }
+                           ],
+                           "phone" : "+74957038888",
+                           "city" : "Москва",
+                           "latitude" : 55.7403,
+                           "address" : "Новокосинская улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "2043",
+                           "quantity" : "5",
+                           "name" : "Галоперидол-ферейн 0,005/мл 1мл n10 амп в/в в/м",
+                           "price" : "52.6"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "галоперидол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

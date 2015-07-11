@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "serum_against_gangrene_polyvalent_horse_purified_concentrated_liquid",
+            "rus_name" : "Сыворотка противогангренозная поливалентная лошадиная очищенная концентрированная жидкая",
+            "form" : "р-р д/инъекций 30 тыс. МЕ/1 доза",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "serum_against_gangrene_polyvalent_horse_purified_concentrated_liquid",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "6786",
+                           "quantity" : "1",
+                           "name" : "Сыворотка противогангренозная поливалентная лошадиная очищенная концентрированная жидкая р-р д/ин. 30 тыс.ме 1 ампулы, микроген нпо фгуп (пермское нп",
+                           "price" : "4580"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "антитоксин гангренозный"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

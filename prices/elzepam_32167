@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "elzepam",
+            "rus_name" : "Элзепам®",
+            "form" : "таб. 0.5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "elzepam",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7015,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Омега&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957071279"
+                              },
+                              {
+                                 "number" : "+74959782004"
+                              }
+                           ],
+                           "phone" : "+74957071279; +74959782004",
+                           "city" : "Москва",
+                           "latitude" : 55.7648,
+                           "address" : "Солдатская улица, 6а"
+                        },
+                        "drug" : {
+                           "descid" : "4394",
+                           "quantity" : "5",
+                           "name" : "Элзепам тбл 0.5мг 50",
+                           "price" : "68"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "4394",
+                           "quantity" : "15",
+                           "name" : "Элзепам тб 0.5мг бл n10x5",
+                           "price" : "65"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "бромдигидрохлорфенилбензодиазепин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

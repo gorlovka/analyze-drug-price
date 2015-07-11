@@ -1,0 +1,957 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "jodbalance",
+            "rus_name" : "Йодбаланс®",
+            "form" : "таб. 261.6 мкг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 36,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "jodbalance",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5425,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74991523829"
+                              },
+                              {
+                                 "number" : "+74995855515"
+                              }
+                           ],
+                           "phone" : "+74991523829; +74995855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8011,
+                           "address" : "Красноармейская улица, 24"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "3",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "111"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4949,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74991980037"
+                              }
+                           ],
+                           "phone" : "+74991980037",
+                           "city" : "Москва",
+                           "latitude" : 55.7922,
+                           "address" : "улица Маршала Бирюзова, 13"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "2",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "113"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7772,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74953689662"
+                              }
+                           ],
+                           "phone" : "+74953689662",
+                           "city" : "Москва",
+                           "latitude" : 55.7488,
+                           "address" : "Зелёный проспект, 8"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "5",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "174"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7686,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991727931"
+                              }
+                           ],
+                           "phone" : "+74991727931",
+                           "city" : "Москва",
+                           "latitude" : 55.7,
+                           "address" : "улица Юных Ленинцев, 73 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "2",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "175"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6491,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999684911"
+                              }
+                           ],
+                           "phone" : "+74999684911",
+                           "city" : "Москва",
+                           "latitude" : 55.654,
+                           "address" : "Каширское шоссе, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "175"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7844,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74993678872"
+                              }
+                           ],
+                           "phone" : "+74993678872",
+                           "city" : "Москва",
+                           "latitude" : 55.7905,
+                           "address" : "3-я Парковая улица, 8/19"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "112"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4914,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ДискомСтандарт",
+                           "phones" : [
+                              {
+                                 "number" : "+74954344268"
+                              }
+                           ],
+                           "phone" : "+74954344268",
+                           "city" : "Москва",
+                           "latitude" : 55.6672,
+                           "address" : "проспект Вернадского, 97 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "176.54"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4213,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955021435"
+                              }
+                           ],
+                           "phone" : "+74955021435",
+                           "city" : "Москва",
+                           "latitude" : 55.7706,
+                           "address" : "Крылатская улица, 17 к3"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "113"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6787,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991844155"
+                              }
+                           ],
+                           "phone" : "+74991844155",
+                           "city" : "Москва",
+                           "latitude" : 55.8629,
+                           "address" : "улица Коминтерна, 14"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "2",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "182"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6887,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579701"
+                              }
+                           ],
+                           "phone" : "+74996579701",
+                           "city" : "Москва",
+                           "latitude" : 55.8613,
+                           "address" : "улица Дудинка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "114"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4506,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74954377721"
+                              }
+                           ],
+                           "phone" : "+74954377721",
+                           "city" : "Москва",
+                           "latitude" : 55.6814,
+                           "address" : "улица Наташи Ковшовой, 15"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "183"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7156,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957805527"
+                              }
+                           ],
+                           "phone" : "+74957805527",
+                           "city" : "Москва",
+                           "latitude" : 55.6465,
+                           "address" : "Новочеркасский бульвар, 10 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "2",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "183"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4085,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74954134256"
+                              }
+                           ],
+                           "phone" : "+74954134256",
+                           "city" : "Москва",
+                           "latitude" : 55.7605,
+                           "address" : "Осенний бульвар, 16 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "2",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "113"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4554,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956642416"
+                              }
+                           ],
+                           "phone" : "+74956642416",
+                           "city" : "Москва",
+                           "latitude" : 55.8315,
+                           "address" : "Подмосковная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "2",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "187"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8473,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965287155"
+                              },
+                              {
+                                 "number" : "+74965855515"
+                              }
+                           ],
+                           "phone" : "+74965287155; +74965855515",
+                           "city" : "Реутов",
+                           "latitude" : 55.7679,
+                           "address" : "улица Победы, 30, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "179"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6625,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579700"
+                              }
+                           ],
+                           "phone" : "+74996579700",
+                           "city" : "Москва",
+                           "latitude" : 55.8866,
+                           "address" : "улица Грекова, 8"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "3",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "175"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8634,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538302"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74995538302; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.7437,
+                           "address" : "Суздальская улица, 30/2"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "2",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "183"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.686,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74991854572"
+                              }
+                           ],
+                           "phone" : "+74991854572",
+                           "city" : "Москва",
+                           "latitude" : 55.8846,
+                           "address" : "Тайнинская улица, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "113"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999093368"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74999093368; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8946,
+                           "address" : "Алтуфьевское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "113"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4237,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999684913"
+                              }
+                           ],
+                           "phone" : "+74999684913",
+                           "city" : "Москва",
+                           "latitude" : 55.8588,
+                           "address" : "улица Героев Панфиловцев, 16 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "6",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "174"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6146,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579758"
+                              }
+                           ],
+                           "phone" : "+74996579758",
+                           "city" : "Москва",
+                           "latitude" : 55.5964,
+                           "address" : "Россошанская улица, 13 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "115"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579693"
+                              }
+                           ],
+                           "phone" : "+74996579693",
+                           "city" : "Люберцы",
+                           "latitude" : 55.7051,
+                           "address" : "улица 8 Марта, 59, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "175"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3984,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74959342060"
+                              }
+                           ],
+                           "phone" : "+74959342060",
+                           "city" : "Москва",
+                           "latitude" : 55.6451,
+                           "address" : "улица Авиаторов, 14"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "118"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8929,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74983021350"
+                              },
+                              {
+                                 "number" : "+74983021350"
+                              }
+                           ],
+                           "phone" : "+74983021350; +74983021350",
+                           "city" : "Люберцы",
+                           "latitude" : 55.6879,
+                           "address" : "улица Митрофанова, 2б, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "2",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "175"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5959,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953882348"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74953882348; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.5844,
+                           "address" : "Варшавское шоссе, 158 к2"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "2",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "183"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8451,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955514709"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74955514709; +74955855515",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6349,
+                           "address" : "улица Ленина, 11, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "112"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9629,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579842"
+                              }
+                           ],
+                           "phone" : "+74996579842",
+                           "city" : "Железнодорожный",
+                           "latitude" : 55.7288,
+                           "address" : "Павлино, 11, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "2",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "111"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.507,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957392643"
+                              }
+                           ],
+                           "phone" : "+74957392643",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9374,
+                           "address" : "Новый бульвар, 5"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "181"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4912,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579697"
+                              }
+                           ],
+                           "phone" : "+74996579697",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9411,
+                           "address" : "Лихачёвское шоссе, 11а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "2",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "187"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5081,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538447"
+                              },
+                              {
+                                 "number" : "+74995855515"
+                              },
+                              {
+                                 "number" : "+74995538447"
+                              },
+                              {
+                                 "number" : "+74995855515"
+                              }
+                           ],
+                           "phone" : "+74995538447; +74995855515; +74995538447; +74995855515",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.945,
+                           "address" : "Дирижабельная улица, 24, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "2",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "182"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8418,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74995103548"
+                              }
+                           ],
+                           "phone" : "+74995103548",
+                           "city" : "Королёв",
+                           "latitude" : 55.9134,
+                           "address" : "Калининградская улица, 17к1"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "182"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0096,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7496,
+                           "address" : "Пролетарская улица, 1к2"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "116"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9766,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957397699"
+                              }
+                           ],
+                           "phone" : "+74957397699",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9403,
+                           "address" : "микрорайон Богородский, 10 к1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "112"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9979,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965623025"
+                              }
+                           ],
+                           "phone" : "+74965623025",
+                           "city" : "Щелково",
+                           "latitude" : 55.9284,
+                           "address" : "Комсомольская улица, 9/11"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 200 таб. 100",
+                           "price" : "168"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0692,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965630850"
+                              }
+                           ],
+                           "phone" : "+74965630850",
+                           "city" : "Щелково",
+                           "latitude" : 55.9149,
+                           "address" : "Набережная улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "1",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "112.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4421,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74965114252"
+                              }
+                           ],
+                           "phone" : "+74965114252",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8567,
+                           "address" : "Патриаршая улица, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2965",
+                           "quantity" : "3",
+                           "name" : "Йодбаланс 100 таб. 100",
+                           "price" : "110"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "калия йодид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

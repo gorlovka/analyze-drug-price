@@ -1,0 +1,152 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "isosorbide_mononitrate",
+            "rus_name" : "Изосорбида мононитрат",
+            "form" : "таб. 20 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "isosorbide_mononitrate",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5673,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Целитель+&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957794761"
+                              }
+                           ],
+                           "phone" : "+74957794761",
+                           "city" : "Москва",
+                           "latitude" : 55.6698,
+                           "address" : "Новочерёмушкинская улица, 57"
+                        },
+                        "drug" : {
+                           "descid" : "4803",
+                           "quantity" : "1",
+                           "name" : "Изосорбида мононитрат 20мг таб 30 компл: табл 30+пор 20мг",
+                           "price" : "75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7506,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956602415"
+                              }
+                           ],
+                           "phone" : "+74956602415",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "Краснодонская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "4803",
+                           "quantity" : "2",
+                           "name" : "Изосорбида мононитрат тбл 20мг 30",
+                           "price" : "75.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5619,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лотос&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957172581"
+                              }
+                           ],
+                           "phone" : "+74957172581",
+                           "city" : "Москва",
+                           "latitude" : 55.5454,
+                           "address" : "Изюмская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "4803",
+                           "quantity" : "2",
+                           "name" : "Изосорбида мононитрат 0,02 n30 табл",
+                           "price" : "70"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5483,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ситифарма",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Подольск",
+                           "latitude" : 55.434,
+                           "address" : "проспект Ленина, 146/66"
+                        },
+                        "drug" : {
+                           "descid" : "4803",
+                           "quantity" : "1",
+                           "name" : "Изосорбида мононитрат 0,02 n30 табл",
+                           "price" : "79"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.551,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; ЛОТОС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957790903"
+                              }
+                           ],
+                           "phone" : "+74957790903",
+                           "city" : "Подольск",
+                           "latitude" : 55.4285,
+                           "address" : "Матросская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "4803",
+                           "quantity" : "2",
+                           "name" : "Изосорбида мононитрат 0,02 n30 табл",
+                           "price" : "72"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "изосорбида мононитрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

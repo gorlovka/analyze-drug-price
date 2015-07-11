@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "pramipexole",
+            "rus_name" : "Прамипексол",
+            "form" : "таб. 0.5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "pramipexole",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4506,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74954377721"
+                              }
+                           ],
+                           "phone" : "+74954377721",
+                           "city" : "Москва",
+                           "latitude" : 55.6814,
+                           "address" : "улица Наташи Ковшовой, 15"
+                        },
+                        "drug" : {
+                           "descid" : "8658",
+                           "quantity" : "1",
+                           "name" : "Прамипексол таб. 0,5мг 30",
+                           "price" : "614"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3644,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ооо &quot;НЕО-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538455"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74995538455; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8507,
+                           "address" : "Пятницкое шоссе, 29"
+                        },
+                        "drug" : {
+                           "descid" : "8658",
+                           "quantity" : "1",
+                           "name" : "Прамипексол таб. 0,5мг 30",
+                           "price" : "575"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "прамипексола дигидрохлорида моногидрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

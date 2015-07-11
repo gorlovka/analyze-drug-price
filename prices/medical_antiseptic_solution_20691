@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "medical_antiseptic_solution",
+            "rus_name" : "Медицинский антисептический раствор",
+            "form" : "р-р д/наружн. прим. 95%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "medical_antiseptic_solution",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7581,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармацевт Уздеников г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74953455000"
+                              },
+                              {
+                                 "number" : "+74953450310"
+                              }
+                           ],
+                           "phone" : "+74953455000; +74953450310",
+                           "city" : "Москва",
+                           "latitude" : 55.6496,
+                           "address" : "Мячковский бульвар, 18 к1"
+                        },
+                        "drug" : {
+                           "descid" : "4383",
+                           "quantity" : "20",
+                           "name" : "Медицинский антисептический раствор жидк 95% 100мл фл",
+                           "price" : "14.7"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "этанол 70% + этанол 40% + этанол 90% + этанол 95% + этанол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

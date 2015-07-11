@@ -1,0 +1,184 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "prograf",
+            "rus_name" : "Програф®",
+            "form" : "капс. 0.5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 6,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "prograf",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6384,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;С-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959955500"
+                              }
+                           ],
+                           "phone" : "+74959955500",
+                           "city" : "Москва",
+                           "latitude" : 55.7725,
+                           "address" : "Большая Сухаревская площадь, 9"
+                        },
+                        "drug" : {
+                           "descid" : "3313",
+                           "quantity" : "2",
+                           "name" : "Програф 0,5мг капс 50 * 2уп",
+                           "price" : "5486"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.601,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Формула Здоровья Запад&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957410180"
+                              }
+                           ],
+                           "phone" : "+74957410180",
+                           "city" : "Москва",
+                           "latitude" : 55.7844,
+                           "address" : "Сущёвская улица, 31"
+                        },
+                        "drug" : {
+                           "descid" : "3313",
+                           "quantity" : "3",
+                           "name" : "Програф капс 0.5мг 50 астеллас",
+                           "price" : "2100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.463,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Н2О-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957988752"
+                              }
+                           ],
+                           "phone" : "+74957988752",
+                           "city" : "Москва",
+                           "latitude" : 55.8086,
+                           "address" : "улица Маршала Василевского, 17"
+                        },
+                        "drug" : {
+                           "descid" : "3313",
+                           "quantity" : "3",
+                           "name" : "Програф 0,5мг капс 50 * 2уп",
+                           "price" : "5486"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4172,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МЕДЦЕНТР-МОСИНТУР ЛТД&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955061407"
+                              },
+                              {
+                                 "number" : "+74952238910"
+                              }
+                           ],
+                           "phone" : "+74955061407; +74952238910",
+                           "city" : "Москва",
+                           "latitude" : 55.7302,
+                           "address" : "Кунцевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "3313",
+                           "quantity" : "5",
+                           "name" : "Програф капсулы 0,5 мг 50",
+                           "price" : "2541.24"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "3313",
+                           "quantity" : "10",
+                           "name" : "Програф капс 0,5мг 50",
+                           "price" : "2342.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9864,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула здоровья",
+                           "phones" : [
+                              {
+                                 "number" : "+74955055909"
+                              }
+                           ],
+                           "phone" : "+74955055909",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7981,
+                           "address" : "шоссе Энтузиастов, 80"
+                        },
+                        "drug" : {
+                           "descid" : "3313",
+                           "quantity" : "3",
+                           "name" : "Програф капс 0.5мг 50",
+                           "price" : "2420"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "такролимус"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

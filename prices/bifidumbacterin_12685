@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "bifidumbacterin",
+            "rus_name" : "Бифидумбактерин",
+            "form" : "супп. д/вагинальн. или ректальн. введения 10 млн.КОЕ (1 доза)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "bifidumbacterin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5251,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЮНИКС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991514961"
+                              }
+                           ],
+                           "phone" : "+74991514961",
+                           "city" : "Москва",
+                           "latitude" : 55.803,
+                           "address" : "Ленинградский проспект, 66"
+                        },
+                        "drug" : {
+                           "descid" : "3624",
+                           "quantity" : "3",
+                           "name" : "Бифидумбактерин супп. ваг/рект 1доза 10",
+                           "price" : "82.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Берклий&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79269030728"
+                              },
+                              {
+                                 "number" : "+74997042889"
+                              }
+                           ],
+                           "phone" : "+79269030728; +74997042889",
+                           "city" : "Москва",
+                           "latitude" : 55.6355,
+                           "address" : "Профсоюзная улица, 103а"
+                        },
+                        "drug" : {
+                           "descid" : "3624",
+                           "quantity" : "1",
+                           "name" : "Бифидумбактерин супп. ваг/рект 1доза 10",
+                           "price" : "86.8"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "бифидобактерии бифидум (Bifidobacterium bifidum) + Bifidobacterium longum + Bifidobacterium bifidum"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

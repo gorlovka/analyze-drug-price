@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "promedol",
+            "rus_name" : "Промедол",
+            "form" : "р-р д/инъекц. 1% (10 мг/1 мл)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "promedol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1071,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 059",
+                           "phones" : [
+                              {
+                                 "number" : "+74955569009"
+                              },
+                              {
+                                 "number" : "+74984823465"
+                              }
+                           ],
+                           "phone" : "+74955569009; +74984823465",
+                           "city" : "Жуковский",
+                           "latitude" : 55.609,
+                           "address" : "Клубная улица, 11, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2680",
+                           "quantity" : "6",
+                           "name" : "Промедол р-р д/ин. 1% 1мл n10",
+                           "price" : "243"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2123,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 330",
+                           "phones" : [
+                              {
+                                 "number" : "+74964671529"
+                              }
+                           ],
+                           "phone" : "+74964671529",
+                           "city" : "Раменское",
+                           "latitude" : 55.5887,
+                           "address" : "Коммунистическая улица, 20, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2680",
+                           "quantity" : "2",
+                           "name" : "Промедол р-р д/ин. 1% 1мл n10",
+                           "price" : "245"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тримеперидин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

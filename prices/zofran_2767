@@ -1,0 +1,328 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "zofran",
+            "rus_name" : "Зофран®",
+            "form" : "р-р д/в/в и в/м введения 4 мг/2 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 11,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "zofran",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6364,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Люция&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959531618"
+                              },
+                              {
+                                 "number" : "+74959530128"
+                              }
+                           ],
+                           "phone" : "+74959531618; +74959530128",
+                           "city" : "Москва",
+                           "latitude" : 55.7316,
+                           "address" : "Новокузнецкая улица, 43/16"
+                        },
+                        "drug" : {
+                           "descid" : "156",
+                           "quantity" : "1",
+                           "name" : "Зофран, р-р д/ин амп 4мг/2мл 5",
+                           "price" : "1749"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955451350"
+                              },
+                              {
+                                 "number" : "+79262305469"
+                              }
+                           ],
+                           "phone" : "+74955451350; +79262305469",
+                           "city" : "Москва",
+                           "latitude" : 55.7384,
+                           "address" : "Марксистская улица, 3 с1"
+                        },
+                        "drug" : {
+                           "descid" : "156",
+                           "quantity" : "1",
+                           "name" : "Зофран р-р д/и 4мг 2мл амп n5",
+                           "price" : "1770"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5117,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Марена-Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74959914072"
+                              },
+                              {
+                                 "number" : "+74957732879"
+                              }
+                           ],
+                           "phone" : "+74959914072; +74957732879",
+                           "city" : "Москва",
+                           "latitude" : 55.8517,
+                           "address" : "Кронштадтский бульвар, 47"
+                        },
+                        "drug" : {
+                           "descid" : "156",
+                           "quantity" : "2",
+                           "name" : "Зофран, р-р д/ин амп 4мг/2мл 5",
+                           "price" : "1852"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5255,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарм-Хаус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217801"
+                              },
+                              {
+                                 "number" : "+74959914587"
+                              }
+                           ],
+                           "phone" : "+74959217801; +74959914587",
+                           "city" : "Москва",
+                           "latitude" : 55.6441,
+                           "address" : "Профсоюзная улица, 102/47"
+                        },
+                        "drug" : {
+                           "descid" : "156",
+                           "quantity" : "1",
+                           "name" : "Зофран, р-р д/ин амп 4мг/2мл 5",
+                           "price" : "1665"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.637,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Будь здоров!",
+                           "phones" : [
+                              {
+                                 "number" : "+74954725533"
+                              }
+                           ],
+                           "phone" : "+74954725533",
+                           "city" : "Москва",
+                           "latitude" : 55.8725,
+                           "address" : "Полярная улица, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "156",
+                           "quantity" : "1",
+                           "name" : "Зофран р-р д/в/в и в/м введ. 4мг 2мл 5",
+                           "price" : "1807"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4079,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (24, Маршала Катукова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957505050"
+                              }
+                           ],
+                           "phone" : "+74957505050",
+                           "city" : "Москва",
+                           "latitude" : 55.8081,
+                           "address" : "улица Маршала Катукова, 17 к1"
+                        },
+                        "drug" : {
+                           "descid" : "156",
+                           "quantity" : "1",
+                           "name" : "Зофран р-р д/в/в и в/м введ. 4мг 2мл 5",
+                           "price" : "1861"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999093368"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74999093368; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8946,
+                           "address" : "Алтуфьевское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "156",
+                           "quantity" : "1",
+                           "name" : "Зофран р-р д/ин. 4мг 2мл 5",
+                           "price" : "1832"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Авиценна",
+                           "phones" : [
+                              {
+                                 "number" : "+79295627410"
+                              }
+                           ],
+                           "phone" : "+79295627410",
+                           "city" : "Химки",
+                           "latitude" : 55.8973,
+                           "address" : "Совхозная улица, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "156",
+                           "quantity" : "1",
+                           "name" : "Зофран р-р для в/в и в/м введ 4мг амп 2мл 5",
+                           "price" : "1727.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8689,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1752",
+                                    "1761"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1752, 1761",
+                           "city" : "Королёв",
+                           "latitude" : 55.9162,
+                           "address" : "проспект Космонавтов, 23/37, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "156",
+                           "quantity" : "1",
+                           "name" : "Зофран р-р д/в/в и в/м введ. 4мг 2мл 5",
+                           "price" : "1777"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7726,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (225, Корнеева)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1387"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1387",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4359,
+                           "address" : "улица Корнеева, 8"
+                        },
+                        "drug" : {
+                           "descid" : "156",
+                           "quantity" : "1",
+                           "name" : "Зофран р-р д/в/в и в/м введ. 4мг 2мл 5",
+                           "price" : "1777"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4915,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (236, Ленина)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965192777"
+                              }
+                           ],
+                           "phone" : "+74965192777",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8882,
+                           "address" : "улица Ленина, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "156",
+                           "quantity" : "1",
+                           "name" : "Зофран р-р д/в/в и в/м введ. 4мг 2мл 5",
+                           "price" : "1837"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ондансетрон (в форме гидрохлорида дигидрата) + ондансетрон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

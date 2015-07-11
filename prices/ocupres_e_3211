@@ -1,0 +1,634 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ocupres_e",
+            "rus_name" : "Окупрес-е",
+            "form" : "капли глазные 0.25%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 23,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ocupres_e",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6714,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОПТИФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678604"
+                              }
+                           ],
+                           "phone" : "+74999678604",
+                           "city" : "Москва",
+                           "latitude" : 55.7428,
+                           "address" : "Большая Андроньевская улица, 11/13"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "2",
+                           "name" : "Окупрес-е капли гл. 0.25% 5мл",
+                           "price" : "27"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6745,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «Фармаинтер»",
+                           "phones" : [
+                              {
+                                 "number" : "+74956756326"
+                              }
+                           ],
+                           "phone" : "+74956756326",
+                           "city" : "Москва",
+                           "latitude" : 55.7186,
+                           "address" : "Шарикоподшипниковская улица, 18"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "5",
+                           "name" : "Окупрес е гл. капли 0.25% фл",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5375,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1618",
+                                    "1619"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1618, 1619",
+                           "city" : "Москва",
+                           "latitude" : 55.7619,
+                           "address" : "улица Литвина-Седого, 13с2"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "1",
+                           "name" : "Окупрес е капли гл. 0,25% 5мл",
+                           "price" : "32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.536,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР&quot; 50 (УЛЬМАС)",
+                           "phones" : [
+                              {
+                                 "number" : "+79661763214"
+                              }
+                           ],
+                           "phone" : "+79661763214",
+                           "city" : "Москва",
+                           "latitude" : 55.7328,
+                           "address" : "3-й Сетуньский проезд, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "2",
+                           "name" : "Окупрес е 0,25%-5мл капли.",
+                           "price" : "26.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7183,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Белиссимо-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959883195"
+                              }
+                           ],
+                           "phone" : "+74959883195",
+                           "city" : "Москва",
+                           "latitude" : 55.7511,
+                           "address" : "шоссе Энтузиастов, 24/43"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "1",
+                           "name" : "Окупрес-е капли гл. 0.25% 5мл",
+                           "price" : "30.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5196,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1788",
+                                    "1789"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1788, 1789",
+                           "city" : "Москва",
+                           "latitude" : 55.7356,
+                           "address" : "площадь Победы, 1 кб"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "1",
+                           "name" : "Окупрес е капли гл. 0,25% 5мл",
+                           "price" : "31"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6863,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Здоровый стиль&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959589295"
+                              }
+                           ],
+                           "phone" : "+74959589295",
+                           "city" : "Москва",
+                           "latitude" : 55.7038,
+                           "address" : "улица Трофимова, 36 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "1",
+                           "name" : "Окупрес-е 0,25% 5мл гл капли флак/кап",
+                           "price" : "33.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.661,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Кобальт&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956834571"
+                              }
+                           ],
+                           "phone" : "+74956834571",
+                           "city" : "Москва",
+                           "latitude" : 55.8146,
+                           "address" : "Рижский проезд, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "1",
+                           "name" : "Окупрес-е капли гл. 0.25% 5мл",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5059,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 6 (ООО Феерия Фарм Запад)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991981909"
+                              }
+                           ],
+                           "phone" : "+74991981909",
+                           "city" : "Москва",
+                           "latitude" : 55.8,
+                           "address" : "улица Алабяна, 13"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "2",
+                           "name" : "Окупрес-е, капли гл. 0.25% 5мл",
+                           "price" : "26"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5273,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Улыбка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997838587"
+                              }
+                           ],
+                           "phone" : "+74997838587",
+                           "city" : "Москва",
+                           "latitude" : 55.6789,
+                           "address" : "улица Марии Ульяновой, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "1",
+                           "name" : "Окупрес-е, капли гл. 0.25% 5мл",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5936,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Феерия г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74955855080"
+                              },
+                              {
+                                 "number" : "+74955459469"
+                              }
+                           ],
+                           "phone" : "+74955855080; +74955459469",
+                           "city" : "Москва",
+                           "latitude" : 55.6516,
+                           "address" : "улица Каховка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "2",
+                           "name" : "Окупрес-е, капли гл. 0.25% 5мл",
+                           "price" : "32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 17",
+                           "phones" : [
+                              {
+                                 "number" : "+74959842179"
+                              }
+                           ],
+                           "phone" : "+74959842179",
+                           "city" : "Москва",
+                           "latitude" : 55.868,
+                           "address" : "Северный бульвар, 10"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "1",
+                           "name" : "Окупрес-е, капли гл. 0.25% 5мл",
+                           "price" : "22.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5117,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЛИНФарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997479912"
+                              }
+                           ],
+                           "phone" : "+74997479912",
+                           "city" : "Москва",
+                           "latitude" : 55.8517,
+                           "address" : "Кронштадтский бульвар, 47"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "3",
+                           "name" : "Окупрес е 0,25% 5мл гл.капли",
+                           "price" : "28.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 25",
+                           "phones" : [
+                              {
+                                 "number" : "+79645349561"
+                              }
+                           ],
+                           "phone" : "+79645349561",
+                           "city" : "Москва",
+                           "latitude" : 55.8606,
+                           "address" : "улица Лавочкина, 42"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "2",
+                           "name" : "Окупрес е 0,25%-5мл капли.",
+                           "price" : "31"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8269,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (5, Хабаровская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957708948"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1981",
+                                    "1302"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957708948; +74952311697, доб. 1981, 1302",
+                           "city" : "Москва",
+                           "latitude" : 55.8214,
+                           "address" : "Хабаровская улица, 12/23"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "1",
+                           "name" : "Окупрес е капли гл. 0,25% 5мл",
+                           "price" : "31.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6625,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579700"
+                              }
+                           ],
+                           "phone" : "+74996579700",
+                           "city" : "Москва",
+                           "latitude" : 55.8866,
+                           "address" : "улица Грекова, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "3",
+                           "name" : "Окупрес-е капли гл. 0,25% 5мл",
+                           "price" : "31"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8502,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Цветочки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959732898"
+                              }
+                           ],
+                           "phone" : "+74959732898",
+                           "city" : "Москва",
+                           "latitude" : 55.7013,
+                           "address" : "Лермонтовский проспект, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "2",
+                           "name" : "Окупрес-е, капли гл. 0.25% 5мл",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579693"
+                              }
+                           ],
+                           "phone" : "+74996579693",
+                           "city" : "Люберцы",
+                           "latitude" : 55.7051,
+                           "address" : "улица 8 Марта, 59, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "5",
+                           "name" : "Окупрес-е капли гл. 0,25% 5мл",
+                           "price" : "31"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6553,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НИКА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79252111558"
+                              }
+                           ],
+                           "phone" : "+79252111558",
+                           "city" : "Москва",
+                           "latitude" : 55.5836,
+                           "address" : "Булатниковский проезд, 14 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "1",
+                           "name" : "Окупрес е 0,25% 5мл гл.капли",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8504,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (252, пл. Дмитрия Донского)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1903",
+                                    "1989"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1903, 1989",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6299,
+                           "address" : "площадь Дмитрия Донского, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "2",
+                           "name" : "Окупрес е капли гл. 0,25% 5мл",
+                           "price" : "32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5557,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Бадди г.Москва (Аптека на Скобелевской)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957179509"
+                              },
+                              {
+                                 "number" : "+74957179527"
+                              }
+                           ],
+                           "phone" : "+74957179509; +74957179527",
+                           "city" : "Москва",
+                           "latitude" : 55.5496,
+                           "address" : "Скобелевская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "2",
+                           "name" : "Окупрес е гл. капли 0.25% фл. 5мл индия cadila lab.",
+                           "price" : "29.86"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9735,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965666019"
+                              },
+                              {
+                                 "number" : "+74965666019"
+                              }
+                           ],
+                           "phone" : "+74965666019; +74965666019",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9222,
+                           "address" : "Центральная улица, 49, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "3",
+                           "name" : "Окупрес-е капли гл. 0,25% 5мл",
+                           "price" : "31"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4402,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (247, Краснополянский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538440"
+                              }
+                           ],
+                           "phone" : "+74995538440",
+                           "city" : "Лобня",
+                           "latitude" : 56.0084,
+                           "address" : "Краснополянский проезд, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1646",
+                           "quantity" : "1",
+                           "name" : "Окупрес е капли гл. 0,25% 5мл",
+                           "price" : "28"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тимолол (в форме малеата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

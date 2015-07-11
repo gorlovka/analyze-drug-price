@@ -1,0 +1,159 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "water_for_injections_vial",
+            "rus_name" : "Вода для инъекций-виал",
+            "form" : "растворитель д/пригот. лек. форм д/и",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "water_for_injections_vial",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6208,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 25",
+                           "phones" : [
+                              {
+                                 "number" : "+74959840741"
+                              }
+                           ],
+                           "phone" : "+74959840741",
+                           "city" : "Москва",
+                           "latitude" : 55.7087,
+                           "address" : "Большая Тульская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "8050",
+                           "quantity" : "6",
+                           "name" : "Вода для инъекций-виал, амп 5мл 10",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7913,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 5",
+                           "phones" : [
+                              {
+                                 "number" : "+74956444035"
+                              }
+                           ],
+                           "phone" : "+74956444035",
+                           "city" : "Москва",
+                           "latitude" : 55.754,
+                           "address" : "3-я Владимирская улица, 27"
+                        },
+                        "drug" : {
+                           "descid" : "8050",
+                           "quantity" : "12",
+                           "name" : "Вода для инъекций-виал, амп 5мл 10",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4309,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Парамед Интел, ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74956460747"
+                              }
+                           ],
+                           "phone" : "+74956460747",
+                           "city" : "Москва",
+                           "latitude" : 55.7391,
+                           "address" : "Рублёвское шоссе, 83 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8050",
+                           "quantity" : "2",
+                           "name" : "Вода для инъекций-виал р-ль д/приг. лек. форм д/ин. 5мл амп. х10 (r) сиэсписи оуи фармасьютикал ко.лтд (китай)",
+                           "price" : "25"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Рэдберн&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954917449"
+                              },
+                              {
+                                 "number" : "+74954917818"
+                              }
+                           ],
+                           "phone" : "+74954917449; +74954917818",
+                           "city" : "Москва",
+                           "latitude" : 55.8267,
+                           "address" : "Волоколамский проезд, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8050",
+                           "quantity" : "2",
+                           "name" : "Вода для инъекций-виал р-ль д/лф 5мл 10 пк [виал]",
+                           "price" : "29.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8253,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954660767"
+                              }
+                           ],
+                           "phone" : "+74954660767",
+                           "city" : "Москва",
+                           "latitude" : 55.8189,
+                           "address" : "Хабаровская улица, 9"
+                        },
+                        "drug" : {
+                           "descid" : "8050",
+                           "quantity" : "14",
+                           "name" : "Вода для инъекций -виал 5мл 10 амп",
+                           "price" : "27.34"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "вода д/и"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

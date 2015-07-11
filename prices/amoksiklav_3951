@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "amoksiklav",
+            "rus_name" : "Амоксиклав®",
+            "form" : "порошок д/пригот. р-ра д/в/в введения 500 мг+100 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "amoksiklav",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8546,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Инновация&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79852892871"
+                              }
+                           ],
+                           "phone" : "+79852892871",
+                           "city" : "Москва",
+                           "latitude" : 55.7008,
+                           "address" : "Лермонтовский проспект, 19 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1954",
+                           "quantity" : "1",
+                           "name" : "Амоксиклав пор д/р-ра для в/в введ 500мг 100мг n5 фл пк",
+                           "price" : "430"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амоксициллин (в форме тригидрата) + клавулановая кислота (в форме калиевой соли) + клавулановая кислота (в форме клавуланата калия) + амоксициллин (в форме натриевой соли)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,87 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "diclogen",
+            "rus_name" : "Диклоген",
+            "form" : "гель д/наружн. прим. 5%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "diclogen",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74991450139"
+                              },
+                              {
+                                 "number" : "+74959703494"
+                              }
+                           ],
+                           "phone" : "+74991450139; +74959703494",
+                           "city" : "Москва",
+                           "latitude" : 55.7467,
+                           "address" : "Большая Филёвская улица, 21 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2126",
+                           "quantity" : "3",
+                           "name" : "Диклоген гель 5% 30.0",
+                           "price" : "50"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1913,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "МП ПМ &quot;Аптека 19&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74962534666"
+                              },
+                              {
+                                 "number" : "+74965675019"
+                              }
+                           ],
+                           "phone" : "+74962534666; +74965675019",
+                           "city" : "Монино",
+                           "latitude" : 55.8438,
+                           "address" : "Комсомольская улица, 3, Московская область, Щёлковский район"
+                        },
+                        "drug" : {
+                           "descid" : "2126",
+                           "quantity" : "5",
+                           "name" : "Диклоген гель д/нар. прим. 5 % туба 30.х1",
+                           "price" : "44.3"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "диклофенак натрия"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

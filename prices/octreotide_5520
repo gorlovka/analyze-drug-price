@@ -1,0 +1,554 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "octreotide",
+            "rus_name" : "Октреотид",
+            "form" : "р-р д/в/в и п/к введения 50 мкг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 20,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "octreotide",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5981,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956900719"
+                              }
+                           ],
+                           "phone" : "+74956900719",
+                           "city" : "Москва",
+                           "latitude" : 55.7608,
+                           "address" : "Большая Бронная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "1",
+                           "name" : "Октреотид р-р д/инъ 50мкг 1мл амп 5",
+                           "price" : "952"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5853,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аклауд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992504120"
+                              },
+                              {
+                                 "number" : "+74992504001"
+                              }
+                           ],
+                           "phone" : "+74992504120; +74992504001",
+                           "city" : "Москва",
+                           "latitude" : 55.7736,
+                           "address" : "2-я Брестская улица, 37 с1"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "2",
+                           "name" : "Октреотид, р-р д/инъ 50мкг 1мл амп 10",
+                           "price" : "1395"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "2",
+                           "name" : "Октреотид фс р-р д/инъ 50мкг 1мл амп 10",
+                           "price" : "1310.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "1",
+                           "name" : "Октреотид фс р-р д/инъ 50мкг 1мл амп 10",
+                           "price" : "1279"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959402329"
+                              }
+                           ],
+                           "phone" : "+74959402329",
+                           "city" : "Москва",
+                           "latitude" : 55.7724,
+                           "address" : "5-я Магистральная улица, 10"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "1",
+                           "name" : "Октреотид, р-р д/инъ 50мкг 1мл амп 5",
+                           "price" : "739"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6708,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678623"
+                              }
+                           ],
+                           "phone" : "+74999678623",
+                           "city" : "Москва",
+                           "latitude" : 55.7032,
+                           "address" : "улица Трофимова, 13"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "1",
+                           "name" : "Октреотид фс р-р д/инъ 50мкг 1мл амп 10",
+                           "price" : "1199"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5619,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991250777"
+                              }
+                           ],
+                           "phone" : "+74991250777",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "улица Кржижановского, 3"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "1",
+                           "name" : "Октреотид, р-р д/инъ 50мкг 1мл амп 5",
+                           "price" : "689"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4906,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЛекФарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959913603"
+                              },
+                              {
+                                 "number" : "+74959912803"
+                              }
+                           ],
+                           "phone" : "+74959913603; +74959912803",
+                           "city" : "Москва",
+                           "latitude" : 55.7973,
+                           "address" : "улица Маршала Рыбалко, 9"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "1",
+                           "name" : "Октреотид, р-р д/инъ 50мкг 1мл амп 10",
+                           "price" : "1209"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АКМ фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952116138"
+                              },
+                              {
+                                 "number" : "+74952116147"
+                              }
+                           ],
+                           "phone" : "+74952116138; +74952116147",
+                           "city" : "Москва",
+                           "latitude" : 55.7969,
+                           "address" : "улица Маршала Бирюзова, 26"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "1",
+                           "name" : "Октреотид, р-р д/инъ 50мкг 1мл амп 10",
+                           "price" : "1365"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7913,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 5",
+                           "phones" : [
+                              {
+                                 "number" : "+74956444035"
+                              }
+                           ],
+                           "phone" : "+74956444035",
+                           "city" : "Москва",
+                           "latitude" : 55.754,
+                           "address" : "3-я Владимирская улица, 27"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "1",
+                           "name" : "Октреотид, р-р д/инъ в/в и п/к 50мкг 1мл амп 5",
+                           "price" : "939"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.774,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Квартет-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957294831"
+                              }
+                           ],
+                           "phone" : "+74957294831",
+                           "city" : "Москва",
+                           "latitude" : 55.6994,
+                           "address" : "улица Юных Ленинцев, 87 с1"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "1",
+                           "name" : "Октреотид фс р-р д/инъ 50мкг 1мл амп 10",
+                           "price" : "1359.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7936,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 16",
+                           "phones" : [
+                              {
+                                 "number" : "+74957274257"
+                              }
+                           ],
+                           "phone" : "+74957274257",
+                           "city" : "Москва",
+                           "latitude" : 55.7175,
+                           "address" : "Рязанский проспект, 75 к2"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "1",
+                           "name" : "Октреотид, р-р д/инъ в/в и п/к 50мкг 1мл амп 5",
+                           "price" : "941.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957879355"
+                              }
+                           ],
+                           "phone" : "+74957879355",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "5-я Парковая улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "1",
+                           "name" : "Октреотид, р-р д/инъ 50мкг 1мл амп 5",
+                           "price" : "709"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8088,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Авиценна Фарма",
+                           "phones" : [
+                              {
+                                 "number" : "+74956038512"
+                              },
+                              {
+                                 "number" : "+79671612272"
+                              }
+                           ],
+                           "phone" : "+74956038512; +79671612272",
+                           "city" : "Москва",
+                           "latitude" : 55.791,
+                           "address" : "Нижняя Первомайская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "1",
+                           "name" : "Октреотид, р-р д/инъ 50мкг 1мл амп 5",
+                           "price" : "919"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7724,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Радуга&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79859917203"
+                              },
+                              {
+                                 "number" : "+79859913803"
+                              }
+                           ],
+                           "phone" : "+79859917203; +79859913803",
+                           "city" : "Москва",
+                           "latitude" : 55.676,
+                           "address" : "Краснодарская улица, 65/18к1"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "1",
+                           "name" : "Октреотид, р-р д/инъ 50мкг 1мл амп 5",
+                           "price" : "680"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4138,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО Звездочка",
+                           "phones" : [
+                              {
+                                 "number" : "+74991416569"
+                              },
+                              {
+                                 "number" : "+74959978003"
+                              },
+                              {
+                                 "number" : "+74959978053"
+                              }
+                           ],
+                           "phone" : "+74991416569; +74959978003; +74959978053",
+                           "city" : "Москва",
+                           "latitude" : 55.7383,
+                           "address" : "Ярцевская улица, 22 с1"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "1",
+                           "name" : "Октреотид, р-р д/инъ 50мкг 1мл амп 5",
+                           "price" : "955"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8203,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авиценна Фарма 3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957403143"
+                              },
+                              {
+                                 "number" : "+79269147136"
+                              }
+                           ],
+                           "phone" : "+74957403143; +79269147136",
+                           "city" : "Москва",
+                           "latitude" : 55.7916,
+                           "address" : "Нижняя Первомайская улица, 77"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "2",
+                           "name" : "Октреотид, р-р д/инъ 50мкг 1мл амп 5",
+                           "price" : "952.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5887,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Ромашки",
+                           "phones" : [
+                              {
+                                 "number" : "+74999083503"
+                              },
+                              {
+                                 "number" : "+74999678645"
+                              }
+                           ],
+                           "phone" : "+74999083503; +74999678645",
+                           "city" : "Москва",
+                           "latitude" : 55.8993,
+                           "address" : "Алтуфьевское шоссе, 88"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "3",
+                           "name" : "Октреотид, р-р д/инъ 50мкг 1мл амп 5",
+                           "price" : "947"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5994,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Оксалин&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952013616"
+                              }
+                           ],
+                           "phone" : "+74952013616",
+                           "city" : "Москва",
+                           "latitude" : 55.5934,
+                           "address" : "Варшавское шоссе, 152"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "2",
+                           "name" : "Октреотид, р-р д/инъ 50мкг 1мл амп 10",
+                           "price" : "1400"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Атрика&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8106,
+                           "address" : "проспект Ленина, 06, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2473",
+                           "quantity" : "1",
+                           "name" : "Октреотид фс р-р д/инъ 50мкг 1мл амп 10",
+                           "price" : "1305"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "октреотид (в форме свободного пептида) + октреотид (в форме ацетата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

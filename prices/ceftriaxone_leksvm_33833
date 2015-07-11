@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ceftriaxone_leksvm",
+            "rus_name" : "Цефтриаксон-лексвм",
+            "form" : "порошок д/пригот. р-ра д/в/в и в/м введен. 1 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ceftriaxone_leksvm",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Фирма Здоровье г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74957381041"
+                              }
+                           ],
+                           "phone" : "+74957381041",
+                           "city" : "Москва",
+                           "latitude" : 55.7659,
+                           "address" : "Филёвский бульвар, 11"
+                        },
+                        "drug" : {
+                           "descid" : "7168",
+                           "quantity" : "17",
+                           "name" : "Цефтриаксон - лексвм пор. д/приг. р-ра для в/в и в/м введ. фл. 1г 1 (инд.уп.)",
+                           "price" : "20.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8587,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Вивафарм ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957038888"
+                              }
+                           ],
+                           "phone" : "+74957038888",
+                           "city" : "Москва",
+                           "latitude" : 55.7403,
+                           "address" : "Новокосинская улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "7168",
+                           "quantity" : "1",
+                           "name" : "Цефтриаксон - лексвм пор. д/приг. р-ра для в/в и в/м введ. фл. 1г 50",
+                           "price" : "739.7"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цефтриаксон (в форме натриевой соли)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "gentamicin",
+            "rus_name" : "Гентамицин",
+            "form" : "капли глазные 3 мг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "gentamicin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.637,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АС&quot;Эвалар&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959531087"
+                              }
+                           ],
+                           "phone" : "+74959531087",
+                           "city" : "Москва",
+                           "latitude" : 55.7315,
+                           "address" : "улица Зацепский Вал, 14"
+                        },
+                        "drug" : {
+                           "descid" : "1101",
+                           "quantity" : "6",
+                           "name" : "Гентамицин-декса 5мл глаз капли",
+                           "price" : "144"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "гентамицин + гентамицин (в форме сульфата) + гентамицина сульфат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

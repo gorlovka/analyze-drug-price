@@ -1,0 +1,1332 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "simvacard",
+            "rus_name" : "Симвакард®",
+            "form" : "таб., покр. оболочкой, 5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 51,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "simvacard",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6314,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №481",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.744,
+                           "address" : "Большой Овчинниковский переулок, 12 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "581"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6124,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №817",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7346,
+                           "address" : "улица Большая Якиманка, 32"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "631"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6343,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №80",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7668,
+                           "address" : "Сретенский бульвар, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "631"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6627,
+                           "roundtheclock" : 1,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №983",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7617,
+                           "address" : "Нижний Сусальный переулок, 4 с3"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "606"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6355,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья г.Москва Север",
+                           "phones" : [
+                              {
+                                 "number" : "+74951236674"
+                              },
+                              {
+                                 "number" : "+74957750824"
+                              }
+                           ],
+                           "phone" : "+74951236674; +74957750824",
+                           "city" : "Москва",
+                           "latitude" : 55.7846,
+                           "address" : "проспект Мира, 56 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард тб 20мг 28 (зентива)",
+                           "price" : "329"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6774,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №816",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7733,
+                           "address" : "Спартаковская улица, 21"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "4",
+                           "name" : "Симвакард табл.п.о. 10мг n28",
+                           "price" : "100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6801,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «МФК Помощь на Волгоградке»",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633814"
+                              }
+                           ],
+                           "phone" : "+74953633814",
+                           "city" : "Москва",
+                           "latitude" : 55.7267,
+                           "address" : "Волгоградский проспект, 26а"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард 40мг 28 таб п/о",
+                           "price" : "386"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6755,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №953",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7202,
+                           "address" : "Шарикоподшипниковская улица, 11 с6"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "530"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5327,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №979",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7515,
+                           "address" : "Тестовская улица, 10"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 10мг n28",
+                           "price" : "265"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.526,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №573",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7291,
+                           "address" : "улица Пырьева, 20"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "586"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6554,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лотос&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956826565"
+                              }
+                           ],
+                           "phone" : "+74956826565",
+                           "city" : "Москва",
+                           "latitude" : 55.8119,
+                           "address" : "улица Павла Корчагина, 2/1"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард 0,02 n28 табл п/о",
+                           "price" : "313"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7134,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Мебиус&quot; на Преображенке",
+                           "phones" : [
+                              {
+                                 "number" : "+74959632224"
+                              }
+                           ],
+                           "phone" : "+74959632224",
+                           "city" : "Москва",
+                           "latitude" : 55.7937,
+                           "address" : "улица Преображенский Вал, 4"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард 20мг 28 тб..",
+                           "price" : "301"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7469,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №236",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7136,
+                           "address" : "95-й Волжский бульвар квартал, квартал 95 корпус 11"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "599"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7501,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №696 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7149,
+                           "address" : "улица Васильцовский Стан, 7 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "628"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4732,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №994",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.788,
+                           "address" : "улица Берзарина, 23"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "3",
+                           "name" : "Симвакард табл.п.о. 20мг n28",
+                           "price" : "243.06"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7591,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №682 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7007,
+                           "address" : "улица Юных Ленинцев, 42 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 10мг n28",
+                           "price" : "224.07"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6203,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;Экофарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993179363"
+                              },
+                              {
+                                 "number" : "+79150100092"
+                              }
+                           ],
+                           "phone" : "+74993179363; +79150100092",
+                           "city" : "Москва",
+                           "latitude" : 55.6565,
+                           "address" : "Варшавское шоссе, 81 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард, табл. п.п.о. 20 мг 28",
+                           "price" : "315"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7512,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР&quot; 49 (УЛЬМАС)",
+                           "phones" : [
+                              {
+                                 "number" : "+79661762765"
+                              }
+                           ],
+                           "phone" : "+79661762765",
+                           "city" : "Москва",
+                           "latitude" : 55.8201,
+                           "address" : "Открытое шоссе, 22"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард таб. п/о плен. 10мг 28",
+                           "price" : "242.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4448,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №243",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7218,
+                           "address" : "Можайское шоссе, 3/1"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "669"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5431,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №139",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6557,
+                           "address" : "Профсоюзная улица, 61а"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 10мг n28",
+                           "price" : "113"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6553,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма на Амундсена.",
+                           "phones" : [
+                              {
+                                 "number" : "+74956566154"
+                              },
+                              {
+                                 "number" : "+74995179009"
+                              }
+                           ],
+                           "phone" : "+74956566154; +74995179009",
+                           "city" : "Москва",
+                           "latitude" : 55.8547,
+                           "address" : "улица Амундсена, 19"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "2",
+                           "name" : "Симвакард, тбл п/о 20мг 28",
+                           "price" : "303.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Малина&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999038725"
+                              }
+                           ],
+                           "phone" : "+74999038725",
+                           "city" : "Москва",
+                           "latitude" : 55.8593,
+                           "address" : "Алтуфьевское шоссе, 22"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард, тбл п/о 10мг 28",
+                           "price" : "254"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6537,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Живика",
+                           "phones" : [
+                              {
+                                 "number" : "+74953250622"
+                              }
+                           ],
+                           "phone" : "+74953250622",
+                           "city" : "Москва",
+                           "latitude" : 55.6367,
+                           "address" : "Пролетарский проспект, 14/49 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард таб.п/о 20мг 28",
+                           "price" : "270"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7504,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №417",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6607,
+                           "address" : "улица Перерва, 49"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "565"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5015,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №170 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8538,
+                           "address" : "Флотская улица, 50"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "2",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "628"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7413,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №150 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6512,
+                           "address" : "Люблинская улица, 108а"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "3",
+                           "name" : "Симвакард табл.п.о. 10мг n28",
+                           "price" : "100"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4969,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №52",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8686,
+                           "address" : "Клинская улица, 8 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "543"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5851,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №157",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8989,
+                           "address" : "Череповецкая улица, 17"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "670"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7039,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (258, Юбилейная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1906"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1906",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9053,
+                           "address" : "Юбилейная улица, 38 к3, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард таб.п/о 10мг 28",
+                           "price" : "205"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.546,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Голубинская",
+                           "phones" : [
+                              {
+                                 "number" : "+74954232169"
+                              },
+                              {
+                                 "number" : "+74954238372"
+                              },
+                              {
+                                 "number" : "+74954233522"
+                              }
+                           ],
+                           "phone" : "+74954232169; +74954238372; +74954233522",
+                           "city" : "Москва",
+                           "latitude" : 55.5939,
+                           "address" : "Голубинская улица, 32/2"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард 10мг n28 таб.",
+                           "price" : "84.96"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8722,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955596075"
+                              },
+                              {
+                                 "number" : "+74955590344"
+                              }
+                           ],
+                           "phone" : "+74955596075; +74955590344",
+                           "city" : "Люберцы",
+                           "latitude" : 55.6704,
+                           "address" : "Юбилейная улица, 17а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 20мг n28",
+                           "price" : "280"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3375,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №1 123",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8164,
+                           "address" : "улица Чайковского, 8а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "618"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3373,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955610855"
+                              }
+                           ],
+                           "phone" : "+74955610855",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8168,
+                           "address" : "улица Чайковского, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "618"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4539,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №89",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74955727471"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74955727471",
+                           "city" : "Химки",
+                           "latitude" : 55.8998,
+                           "address" : "проспект Мира, 18/5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "541"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7608,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарм Крафт&quot;5",
+                           "phones" : [
+                              {
+                                 "number" : "+79264684755"
+                              },
+                              {
+                                 "number" : "+79264539423"
+                              }
+                           ],
+                           "phone" : "+79264684755; +79264539423",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9155,
+                           "address" : "Шараповский проезд, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард таб п.п.о. 20мг n28 уп кнт-яч пк &amp;lt;14*2&amp;gt;",
+                           "price" : "318"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8655,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №424 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+79684012760"
+                              }
+                           ],
+                           "phone" : "+79684012760",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6292,
+                           "address" : "Лесная улица, 18, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "4",
+                           "name" : "Симвакард табл.п.о. 10мг n28",
+                           "price" : "255"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.349,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №978",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6445,
+                           "address" : "улица Скульптора Мухиной, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "670"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3072,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 485",
+                           "phones" : [
+                              {
+                                 "number" : "+78498565044"
+                              }
+                           ],
+                           "phone" : "+78498565044",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8385,
+                           "address" : "улица Карбышева, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "631"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3684,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГудМедикал&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959711538"
+                              }
+                           ],
+                           "phone" : "+74959711538",
+                           "city" : "Московский",
+                           "latitude" : 55.5929,
+                           "address" : "Радужная улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард таб. п.п.о. 10мг 28",
+                           "price" : "252.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7233,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1715",
+                                    "1716"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1715, 1716",
+                           "city" : "Видное",
+                           "latitude" : 55.543,
+                           "address" : "Ольховая улица, 11, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "2",
+                           "name" : "Симвакард таб.п/о 10мг 28",
+                           "price" : "205"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4741,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (222, Ленина)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955088363"
+                              }
+                           ],
+                           "phone" : "+74955088363",
+                           "city" : "Лобня",
+                           "latitude" : 56.0109,
+                           "address" : "улица Ленина, 23 к3, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "2",
+                           "name" : "Симвакард таб.п/о 20мг 28",
+                           "price" : "266"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9865,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (212,Сиреневая)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965692188"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1376"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965692188; +74952311697, доб. 1376",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9282,
+                           "address" : "Сиреневая улица, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард таб.п/о 10мг 28",
+                           "price" : "202"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1161,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 9",
+                           "phones" : [
+                              {
+                                 "number" : "+74955108695"
+                              }
+                           ],
+                           "phone" : "+74955108695",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7532,
+                           "address" : "Шоссейная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард 0,01 n28 табл п/о",
+                           "price" : "245.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0591,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строй-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79011846532"
+                              }
+                           ],
+                           "phone" : "+79011846532",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9009,
+                           "address" : "улица Ленина, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард таб. 10мг 28",
+                           "price" : "246"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0586,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 393",
+                           "phones" : [
+                              {
+                                 "number" : "+74965640872"
+                              }
+                           ],
+                           "phone" : "+74965640872",
+                           "city" : "Фрязино",
+                           "latitude" : 55.9547,
+                           "address" : "проспект Мира, 20, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "3",
+                           "name" : "Симвакард табл.п.о. 10мг n28",
+                           "price" : "114"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2057,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №846",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 56.0004,
+                           "address" : "Зеленоград, к403а"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "3",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "591"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.0433,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 130",
+                           "phones" : [
+                              {
+                                 "number" : "+74955903373"
+                              },
+                              {
+                                 "number" : "+74955902488"
+                              }
+                           ],
+                           "phone" : "+74955903373; +74955902488",
+                           "city" : "Краснознаменск",
+                           "latitude" : 55.5947,
+                           "address" : "проспект Мира, 13, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "539"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.9726,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 224",
+                           "phones" : [
+                              {
+                                 "number" : "+74986940170"
+                              }
+                           ],
+                           "phone" : "+74986940170",
+                           "city" : "поселок Летний Отдых",
+                           "latitude" : 55.6396,
+                           "address" : "Зелёная улица, 1а"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 10мг n28",
+                           "price" : "218.02"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4411,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Мособлфармация",
+                           "phones" : [
+                              {
+                                 "number" : "+74996816209"
+                              }
+                           ],
+                           "phone" : "+74996816209",
+                           "city" : "Электросталь",
+                           "latitude" : 55.792,
+                           "address" : "проспект Ленина, 30/13, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 20мг n28",
+                           "price" : "232"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.444,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 451",
+                           "phones" : [
+                              {
+                                 "number" : "+74965736022"
+                              },
+                              {
+                                 "number" : "+79104810634"
+                              }
+                           ],
+                           "phone" : "+74965736022; +79104810634",
+                           "city" : "Электросталь",
+                           "latitude" : 55.7774,
+                           "address" : "улица Мира, 18, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "471"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4687,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 201",
+                           "phones" : [
+                              {
+                                 "number" : "+74965151514"
+                              },
+                              {
+                                 "number" : "+74965154860"
+                              }
+                           ],
+                           "phone" : "+74965151514; +74965154860",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8784,
+                           "address" : "Аптечный переулок, 12, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1353",
+                           "quantity" : "1",
+                           "name" : "Симвакард табл.п.о. 40мг n28",
+                           "price" : "505"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "симвастатин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

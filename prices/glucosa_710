@@ -1,0 +1,1282 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "glucosa",
+            "rus_name" : "Глюкоза",
+            "form" : "р-р д/инф. 10%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 50,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "glucosa",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6366,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "4812",
+                                    "4813"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 4812, 4813",
+                           "city" : "Москва",
+                           "latitude" : 55.7547,
+                           "address" : "Большой Спасоглинищевский переулок, 9/1"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "2",
+                           "name" : "Глюкоза р-р д/инф. 10% 200мл",
+                           "price" : "36.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6187,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Сиджам&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992380505"
+                              }
+                           ],
+                           "phone" : "+74992380505",
+                           "city" : "Москва",
+                           "latitude" : 55.7359,
+                           "address" : "улица Большая Полянка, 28 к1"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "5",
+                           "name" : "Глюкоза р-р д/инфуз 10% фл 200мл n1",
+                           "price" : "20"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.61,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (10, Крымский Вал)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992389577"
+                              }
+                           ],
+                           "phone" : "+74992389577",
+                           "city" : "Москва",
+                           "latitude" : 55.7309,
+                           "address" : "улица Крымский Вал, 6"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "2",
+                           "name" : "Глюкоза р-р д/инф. 10% 400мл",
+                           "price" : "37.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5947,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Официна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992513420"
+                              },
+                              {
+                                 "number" : "+79859995613"
+                              }
+                           ],
+                           "phone" : "+74992513420; +79859995613",
+                           "city" : "Москва",
+                           "latitude" : 55.7725,
+                           "address" : "3-я Тверская-Ямская улица, 21/23"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "2",
+                           "name" : "Глюкоза р-р д/инф. 10% 250мл 1 (полимер)",
+                           "price" : "46"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5847,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диасфарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266856"
+                              },
+                              {
+                                 "number" : "+74956266857"
+                              }
+                           ],
+                           "phone" : "+74956266856; +74956266857",
+                           "city" : "Москва",
+                           "latitude" : 55.7756,
+                           "address" : "1-я Брестская улица, 66"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "5",
+                           "name" : "Глюкоза 10% 200мл р-р д/инф",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5531,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №416",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.745,
+                           "address" : "улица Раевского, 3/6"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 200мл",
+                           "price" : "35.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6709,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула здоровья (Сокольники)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992688240"
+                              }
+                           ],
+                           "phone" : "+74992688240",
+                           "city" : "Москва",
+                           "latitude" : 55.7912,
+                           "address" : "улица Сокольнический Вал, 38"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "3",
+                           "name" : "Глюкоза раствор д/инф 10% 500мл",
+                           "price" : "38.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959402329"
+                              }
+                           ],
+                           "phone" : "+74959402329",
+                           "city" : "Москва",
+                           "latitude" : 55.7724,
+                           "address" : "5-я Магистральная улица, 10"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "2",
+                           "name" : "Глюкоза, р-р д/инф 10% 200мл",
+                           "price" : "27"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7066,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 5",
+                           "phones" : [
+                              {
+                                 "number" : "+74959796597"
+                              }
+                           ],
+                           "phone" : "+74959796597",
+                           "city" : "Москва",
+                           "latitude" : 55.782,
+                           "address" : "Большая Семёновская улица, 26"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "9",
+                           "name" : "Глюкоза р-р 10% 400мл",
+                           "price" : "48.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7084,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №486",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7818,
+                           "address" : "Большая Семёновская улица, 32"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 200мл",
+                           "price" : "32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7185,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ВОСТОК",
+                           "phones" : [
+                              {
+                                 "number" : "+74957853979"
+                              }
+                           ],
+                           "phone" : "+74957853979",
+                           "city" : "Москва",
+                           "latitude" : 55.7841,
+                           "address" : "улица Измайловский Вал, 2а"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза раствор д/инф 10% 200мл курская биофабрика",
+                           "price" : "27"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5927,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №578 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6866,
+                           "address" : "улица Винокурова, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 200мл n24",
+                           "price" : "804"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.73,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Авиценна Фарма 2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79263818740"
+                              },
+                              {
+                                 "number" : "+74997489553"
+                              }
+                           ],
+                           "phone" : "+79263818740; +74997489553",
+                           "city" : "Москва",
+                           "latitude" : 55.7795,
+                           "address" : "Измайловское шоссе, 29"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "120",
+                           "name" : "Глюкоза, р-р д/инф 10% 400мл",
+                           "price" : "47"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5724,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Солнышко-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959914592"
+                              }
+                           ],
+                           "phone" : "+74959914592",
+                           "city" : "Москва",
+                           "latitude" : 55.6848,
+                           "address" : "Профсоюзная улица, 5/9"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "5",
+                           "name" : "Глюкоза, р-р д/инф 10% 200мл",
+                           "price" : "40"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.595,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 33",
+                           "phones" : [
+                              {
+                                 "number" : "+74996432190"
+                              }
+                           ],
+                           "phone" : "+74996432190",
+                           "city" : "Москва",
+                           "latitude" : 55.6734,
+                           "address" : "Нагорный бульвар, 7"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза, р-р д/инф 10% 200мл 24",
+                           "price" : "787.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7277,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74991688104"
+                              }
+                           ],
+                           "phone" : "+74991688104",
+                           "city" : "Москва",
+                           "latitude" : 55.8069,
+                           "address" : "Открытое шоссе, 2 к12"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "5",
+                           "name" : "Глюкоза р-р д/инф. 10% 200мл",
+                           "price" : "36"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6631,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №356",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.8336,
+                           "address" : "улица Бажова, 8"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 200мл n24",
+                           "price" : "782"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4571,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №649",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7818,
+                           "address" : "Живописная улица, 6 к1"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "10",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 400мл",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5834,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №87",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6549,
+                           "address" : "Керченская улица, 1б"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "5",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 400мл",
+                           "price" : "36"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7883,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "206 аптека На Рязанском проспекте г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991703501"
+                              }
+                           ],
+                           "phone" : "+74991703501",
+                           "city" : "Москва",
+                           "latitude" : 55.7187,
+                           "address" : "Рязанский проспект, 71 к1"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза р-р д/инф. 10% фл. 200мл",
+                           "price" : "39"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6079,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №424",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6394,
+                           "address" : "Чертановская улица, 1в к1"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 200мл n24",
+                           "price" : "799"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8205,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ИЗМАЙЛОВО",
+                           "phones" : [
+                              {
+                                 "number" : "+74956625463"
+                              }
+                           ],
+                           "phone" : "+74956625463",
+                           "city" : "Москва",
+                           "latitude" : 55.7745,
+                           "address" : "Большой Купавенский проезд, 4"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза раствор д/инф 10% 400мл эском",
+                           "price" : "35.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6876,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СОБИ-Фарм Восток&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955148591"
+                              }
+                           ],
+                           "phone" : "+74955148591",
+                           "city" : "Москва",
+                           "latitude" : 55.8621,
+                           "address" : "улица Дудинка, 3"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "20",
+                           "name" : "Глюкоза р-р д/инф 10% 200мл фл",
+                           "price" : "28.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7504,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №417",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6607,
+                           "address" : "улица Перерва, 49"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "9",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 400мл",
+                           "price" : "36"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "12",
+                           "name" : "Глюкоза р-р д/инф. 10% 400 мл 1 бутылки, биосинтез оао",
+                           "price" : "33.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.764,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №367",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6637,
+                           "address" : "Перервинский бульвар, 1"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "5",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 400мл",
+                           "price" : "29.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4898,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (21, Авангардная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954598264"
+                              }
+                           ],
+                           "phone" : "+74954598264",
+                           "city" : "Москва",
+                           "latitude" : 55.8481,
+                           "address" : "Авангардная улица, 18"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "3",
+                           "name" : "Глюкоза р-р д/инф. 10% 400мл",
+                           "price" : "35.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7974,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №482",
+                           "phones" : [
+                              {
+                                 "number" : "+79250943805"
+                              }
+                           ],
+                           "phone" : "+79250943805",
+                           "city" : "Москва",
+                           "latitude" : 55.8202,
+                           "address" : "Уральская улица, 17"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "7",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 400мл",
+                           "price" : "33.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.814,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74954682066"
+                              }
+                           ],
+                           "phone" : "+74954682066",
+                           "city" : "Москва",
+                           "latitude" : 55.8105,
+                           "address" : "Щёлковское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза р-р д/инф. 10% 500мл конт. полим",
+                           "price" : "35.22"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Рэдберн&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954917449"
+                              },
+                              {
+                                 "number" : "+74954917818"
+                              }
+                           ],
+                           "phone" : "+74954917449; +74954917818",
+                           "city" : "Москва",
+                           "latitude" : 55.8267,
+                           "address" : "Волоколамский проезд, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза р-р инф 10% 250мл",
+                           "price" : "28.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4396,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Флория Север&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994979834"
+                              }
+                           ],
+                           "phone" : "+74994979834",
+                           "city" : "Москва",
+                           "latitude" : 55.843,
+                           "address" : "Сходненская улица, 36/11"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "3",
+                           "name" : "Глюкоза р-р д/инф. 10% 200 мл 1 бутылки, биосинтез оао",
+                           "price" : "26.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3956,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №485",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.806,
+                           "address" : "Строгинский бульвар, 1"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "2",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 200мл",
+                           "price" : "36.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8336,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 35",
+                           "phones" : [
+                              {
+                                 "number" : "+74996432279"
+                              }
+                           ],
+                           "phone" : "+74996432279",
+                           "city" : "Москва",
+                           "latitude" : 55.8211,
+                           "address" : "Алтайская улица, 33/7"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза, р-р д/инф 10% 400мл",
+                           "price" : "30.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8502,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Цветочки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959732898"
+                              }
+                           ],
+                           "phone" : "+74959732898",
+                           "city" : "Москва",
+                           "latitude" : 55.7013,
+                           "address" : "Лермонтовский проспект, 8"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "4",
+                           "name" : "Глюкоза, р-р д/инф 10% 400мл",
+                           "price" : "33"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8562,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Андервуд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997966630"
+                              }
+                           ],
+                           "phone" : "+74997966630",
+                           "city" : "Москва",
+                           "latitude" : 55.6865,
+                           "address" : "улица Генерала Кузнецова, 20"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза, р-р д/инф 10% 200мл",
+                           "price" : "34"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7328,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "4816",
+                                    "4817"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 4816, 4817",
+                           "city" : "Москва",
+                           "latitude" : 55.612,
+                           "address" : "Ореховый бульвар, 22а"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "2",
+                           "name" : "Глюкоза р-р д/инф. 10% 200мл",
+                           "price" : "38.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7389,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №433",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538314"
+                              }
+                           ],
+                           "phone" : "+74995538314",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9063,
+                           "address" : "улица Щербакова, 2 к1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "14",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 200мл",
+                           "price" : "27.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4214,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №116",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74956516313"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74956516313",
+                           "city" : "Химки",
+                           "latitude" : 55.8862,
+                           "address" : "Юбилейный проспект, 5а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "8",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 200мл",
+                           "price" : "20.85"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3469,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека Ново-Переделкино&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957330127"
+                              },
+                              {
+                                 "number" : "+74957330128"
+                              }
+                           ],
+                           "phone" : "+74957330127; +74957330128",
+                           "city" : "Москва",
+                           "latitude" : 55.643,
+                           "address" : "улица Скульптора Мухиной, 6"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "2",
+                           "name" : "Глюкоза р-р д/инф 10% 200мл фл",
+                           "price" : "35.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8418,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74995103548"
+                              }
+                           ],
+                           "phone" : "+74995103548",
+                           "city" : "Королёв",
+                           "latitude" : 55.9134,
+                           "address" : "Калининградская улица, 17к1"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "5",
+                           "name" : "Глюкоза р-р д/инф. 10% 200мл",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9864,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула здоровья",
+                           "phones" : [
+                              {
+                                 "number" : "+74955055909"
+                              }
+                           ],
+                           "phone" : "+74955055909",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7981,
+                           "address" : "шоссе Энтузиастов, 80"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "10",
+                           "name" : "Глюкоза раствор д/инф 10% 400мл эском",
+                           "price" : "32.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3684,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГудМедикал&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959711538"
+                              }
+                           ],
+                           "phone" : "+74959711538",
+                           "city" : "Московский",
+                           "latitude" : 55.5929,
+                           "address" : "Радужная улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "2",
+                           "name" : "Глюкоза р-р д/инф. 10% 200мл",
+                           "price" : "28.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0096,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7496,
+                           "address" : "Пролетарская улица, 1к2"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "12",
+                           "name" : "Глюкоза р-р д/инф. 10% 400мл (кор!)",
+                           "price" : "35"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0107,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВИТА-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955229477"
+                              }
+                           ],
+                           "phone" : "+74955229477",
+                           "city" : "Балашиха",
+                           "latitude" : 55.749,
+                           "address" : "Пролетарская улица, 3"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "3",
+                           "name" : "Глюкоза 10% р-р д/ин. 200 мл 1 эском нпк / россия(россия)",
+                           "price" : "33.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9964,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №188",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Щёлково",
+                           "latitude" : 55.92,
+                           "address" : "Пролетарский проспект, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "7",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 200мл",
+                           "price" : "21"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4641,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 142",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Лобня",
+                           "latitude" : 56.0142,
+                           "address" : "улица Циолковского, 10а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 200мл n24",
+                           "price" : "840"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2162,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека-225",
+                           "phones" : [
+                              {
+                                 "number" : "+74954548085"
+                              }
+                           ],
+                           "phone" : "+74954548085",
+                           "city" : "Зеленоград",
+                           "latitude" : 55.9913,
+                           "address" : "Савёлкинский проезд, 4, Москва"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза р-р д/инф 10% 200мл фл",
+                           "price" : "39.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2188,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №506",
+                           "phones" : [
+                              {
+                                 "number" : "+74965240687"
+                              }
+                           ],
+                           "phone" : "+74965240687",
+                           "city" : "Электроугли",
+                           "latitude" : 55.7172,
+                           "address" : "Школьная улица, 33, Московская область, Ногинский район"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 400мл",
+                           "price" : "36"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4374,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 449",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74965764916"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74965764916",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8001,
+                           "address" : "проспект Ленина, 8, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "1",
+                           "name" : "Глюкоза р-р д/инф. флак. 10% 200мл n24",
+                           "price" : "23.29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4353,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "4823",
+                                    "4825"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 4823, 4825",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8691,
+                           "address" : "2-я Глуховская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "370",
+                           "quantity" : "2",
+                           "name" : "Глюкоза р-р д/инф. 10% 400мл",
+                           "price" : "36"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "декстроза + декстрозы моногидрат + декстроза (в форме моногидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

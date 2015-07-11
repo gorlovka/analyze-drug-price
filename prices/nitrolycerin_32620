@@ -1,0 +1,109 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "nitrolycerin",
+            "rus_name" : "Нитроглицерин",
+            "form" : "спрей дозир. для сублингв. прим. 0.4 мг/доза",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "nitrolycerin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6723,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 8",
+                           "phones" : [
+                              {
+                                 "number" : "+74955101755"
+                              }
+                           ],
+                           "phone" : "+74955101755",
+                           "city" : "Москва",
+                           "latitude" : 55.7819,
+                           "address" : "Русаковская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "3903",
+                           "quantity" : "1",
+                           "name" : "Нитроглицерин спрей п/язык дозир 0.4мг/доза 200дз фл доз нас",
+                           "price" : "84.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7177,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 23",
+                           "phones" : [
+                              {
+                                 "number" : "+74991628323"
+                              }
+                           ],
+                           "phone" : "+74991628323",
+                           "city" : "Москва",
+                           "latitude" : 55.8046,
+                           "address" : "Просторная улица, 8"
+                        },
+                        "drug" : {
+                           "descid" : "3903",
+                           "quantity" : "1",
+                           "name" : "Нитроглицерин спрей подъязычн. дозир. 0,4 мг/доза 200 доз фл. с насадкой-распыли",
+                           "price" : "83.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3652,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 1",
+                           "phones" : [
+                              {
+                                 "number" : "+74957940135"
+                              },
+                              {
+                                 "number" : "+74957510010"
+                              }
+                           ],
+                           "phone" : "+74957940135; +74957510010",
+                           "city" : "Москва",
+                           "latitude" : 55.8433,
+                           "address" : "Митинская улица, 21"
+                        },
+                        "drug" : {
+                           "descid" : "3903",
+                           "quantity" : "1",
+                           "name" : "Нитроглицерин, спрей подъязычный 0,4мг/доза 200доз,10мл*",
+                           "price" : "84.8"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "глицерил тринитрат (нитроглицерин) + нитроглицерин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

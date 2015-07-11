@@ -1,0 +1,4626 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ecolevid",
+            "rus_name" : "Эколевид®",
+            "form" : "таб., покр. пленочной оболочкой, 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 172,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ecolevid",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (18, Маросейка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0970",
+                                    "1307"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0970, 1307",
+                           "city" : "Москва",
+                           "latitude" : 55.7572,
+                           "address" : "улица Маросейка, 2/15 с1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6187,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Сиджам&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992380505"
+                              }
+                           ],
+                           "phone" : "+74992380505",
+                           "city" : "Москва",
+                           "latitude" : 55.7359,
+                           "address" : "улица Большая Полянка, 28 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "5",
+                           "name" : "Эколевид тб плен/об 500мг бл n5",
+                           "price" : "501"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959535296"
+                              }
+                           ],
+                           "phone" : "+74959535296",
+                           "city" : "Москва",
+                           "latitude" : 55.7362,
+                           "address" : "Новокузнецкая улица, 20/21-19 с5"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид, таб п/о 500мг. 5",
+                           "price" : "529"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб. п/о 500 мг 5",
+                           "price" : "533"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид 500мг 5 табл п/о",
+                           "price" : "530"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5933,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Будь Здоров&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1348"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1348",
+                           "city" : "Москва",
+                           "latitude" : 55.733,
+                           "address" : "Комсомольский проспект, 3 с1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "626"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6376,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (89, Дубининская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952358205"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1340"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952358205; +74952311697, доб. 1340",
+                           "city" : "Москва",
+                           "latitude" : 55.7277,
+                           "address" : "Дубининская улица, 11/17 к2"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-1&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957293797"
+                              }
+                           ],
+                           "phone" : "+74957293797",
+                           "city" : "Москва",
+                           "latitude" : 55.7638,
+                           "address" : "Малая Грузинская улица, 12"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид, таб п/о 500мг. 5",
+                           "price" : "598"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5813,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (86, Грузинский Вал)",
+                           "phones" : [
+                              {
+                                 "number" : "+74997912864"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1338"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74997912864; +74952311697, доб. 1338",
+                           "city" : "Москва",
+                           "latitude" : 55.7743,
+                           "address" : "улица Грузинский Вал, 26 с1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.671,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 11",
+                           "phones" : [
+                              {
+                                 "number" : "+74959111480"
+                              }
+                           ],
+                           "phone" : "+74959111480",
+                           "city" : "Москва",
+                           "latitude" : 55.7401,
+                           "address" : "Таганская улица, 31/22"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид, тбл п/пл/о 500мг 5*",
+                           "price" : "581.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5474,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1610"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1610",
+                           "city" : "Москва",
+                           "latitude" : 55.7571,
+                           "address" : "Шмитовский проезд, 19"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5999,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1742"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1742",
+                           "city" : "Москва",
+                           "latitude" : 55.7919,
+                           "address" : "улица Сущёвский Вал, 12"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6723,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 8",
+                           "phones" : [
+                              {
+                                 "number" : "+74955101755"
+                              }
+                           ],
+                           "phone" : "+74955101755",
+                           "city" : "Москва",
+                           "latitude" : 55.7819,
+                           "address" : "Русаковская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "3",
+                           "name" : "Эколевид тб плен/об 500мг бл n5",
+                           "price" : "399"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6221,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (110, Большая Тульская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955425572"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1347",
+                                    "0935"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74955425572; +74952311697, доб. 1347, 0935",
+                           "city" : "Москва",
+                           "latitude" : 55.7087,
+                           "address" : "Большая Тульская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "569"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6767,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Живика",
+                           "phones" : [
+                              {
+                                 "number" : "+74959158854"
+                              }
+                           ],
+                           "phone" : "+74959158854",
+                           "city" : "Москва",
+                           "latitude" : 55.79,
+                           "address" : "Сокольническая площадь, 4"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "541"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;КедрФарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994093601"
+                              }
+                           ],
+                           "phone" : "+74994093601",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "Хорошёвское шоссе, 46"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "5",
+                           "name" : "Эколевид тб плен/об 500мг бл n5",
+                           "price" : "495"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6168,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (48, Шереметьевская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1948"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1948",
+                           "city" : "Москва",
+                           "latitude" : 55.8063,
+                           "address" : "Шереметьевская улица, 66Ас2"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "569"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6631,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956798094"
+                              }
+                           ],
+                           "phone" : "+74956798094",
+                           "city" : "Москва",
+                           "latitude" : 55.7028,
+                           "address" : "улица Трофимова, 4"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "589.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7222,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармацевтическая гильдия&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952217904"
+                              }
+                           ],
+                           "phone" : "+74952217904",
+                           "city" : "Москва",
+                           "latitude" : 55.7805,
+                           "address" : "Вельяминовская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "7",
+                           "name" : "Эколевид тбл п/о 500мг 5",
+                           "price" : "595"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7306,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 31",
+                           "phones" : [
+                              {
+                                 "number" : "+74953662819"
+                              }
+                           ],
+                           "phone" : "+74953662819",
+                           "city" : "Москва",
+                           "latitude" : 55.7681,
+                           "address" : "проспект Будённого, 29/1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "520.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.573,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999764410"
+                              }
+                           ],
+                           "phone" : "+74999764410",
+                           "city" : "Москва",
+                           "latitude" : 55.8118,
+                           "address" : "улица Костякова, 6/5"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "491.69"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.499,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москава (4, Багратионовская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991451276",
+                                 "additional" : [
+                                    "1988",
+                                    "1328"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74991451276, доб. 1988, 1328",
+                           "city" : "Москва",
+                           "latitude" : 55.7449,
+                           "address" : "улица Барклая, 12/12"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5368,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ГорФарма на Аэропортовской",
+                           "phones" : [
+                              {
+                                 "number" : "+74995179009"
+                              },
+                              {
+                                 "number" : "+74995179088"
+                              }
+                           ],
+                           "phone" : "+74995179009; +74995179088",
+                           "city" : "Москва",
+                           "latitude" : 55.8012,
+                           "address" : "1-я Аэропортовская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен 500мг 5",
+                           "price" : "605"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7372,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Престиж-групп&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997489982"
+                              }
+                           ],
+                           "phone" : "+74997489982",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "5-я улица Соколиной Горы, 19 к2"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид тбл п/о 500мг 5",
+                           "price" : "614.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5714,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997241703"
+                              },
+                              {
+                                 "number" : "+74995855515"
+                              }
+                           ],
+                           "phone" : "+74997241703; +74995855515",
+                           "city" : "Москва",
+                           "latitude" : 55.689,
+                           "address" : "улица Дмитрия Ульянова, 17 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "560"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5587,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957397665"
+                              }
+                           ],
+                           "phone" : "+74957397665",
+                           "city" : "Москва",
+                           "latitude" : 55.8108,
+                           "address" : "улица Вучетича, 18 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "554"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармакон-Мед&quot; Аптека 14",
+                           "phones" : [
+                              {
+                                 "number" : "+74956101646"
+                              },
+                              {
+                                 "number" : "+74956113494"
+                              }
+                           ],
+                           "phone" : "+74956101646; +74956113494",
+                           "city" : "Москва",
+                           "latitude" : 55.8141,
+                           "address" : "Тимирязевская улица, 23"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид 500мг n5 таб.",
+                           "price" : "520"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5288,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 1 (ООО Феерия Фарм)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991572172"
+                              }
+                           ],
+                           "phone" : "+74991572172",
+                           "city" : "Москва",
+                           "latitude" : 55.7994,
+                           "address" : "улица Викторенко, 2/1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "577"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6328,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (19, Академика Королева)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956830802"
+                              }
+                           ],
+                           "phone" : "+74956830802",
+                           "city" : "Москва",
+                           "latitude" : 55.8209,
+                           "address" : "улица Академика Королёва, 3"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (47, Дмитровское)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959777736"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1324"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74959777736; +74952311697, доб. 1324",
+                           "city" : "Москва",
+                           "latitude" : 55.8191,
+                           "address" : "Дмитровское шоссе, 15 к2"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 18",
+                           "phones" : [
+                              {
+                                 "number" : "+79039616643"
+                              }
+                           ],
+                           "phone" : "+79039616643",
+                           "city" : "Москва",
+                           "latitude" : 55.7986,
+                           "address" : "Большая Черкизовская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "520.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7195,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956639773"
+                              }
+                           ],
+                           "phone" : "+74956639773",
+                           "city" : "Москва",
+                           "latitude" : 55.8005,
+                           "address" : "улица Хромова, 7/1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "3",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "555"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5619,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАЯК-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991250777"
+                              }
+                           ],
+                           "phone" : "+74991250777",
+                           "city" : "Москва",
+                           "latitude" : 55.6832,
+                           "address" : "улица Кржижановского, 3"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид, таб п/о 500мг. 5",
+                           "price" : "545"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4899,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (5, Маршала Жукова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1914"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1914",
+                           "city" : "Москва",
+                           "latitude" : 55.7753,
+                           "address" : "проспект Маршала Жукова, 19 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7043,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Будь Здоров&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991681306"
+                              }
+                           ],
+                           "phone" : "+74991681306",
+                           "city" : "Москва",
+                           "latitude" : 55.8109,
+                           "address" : "Краснобогатырская улица, 27"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "569"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7269,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (35, Б. Черкизовская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991689237"
+                              }
+                           ],
+                           "phone" : "+74991689237",
+                           "city" : "Москва",
+                           "latitude" : 55.7985,
+                           "address" : "Большая Черкизовская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "675"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5724,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991245010"
+                              }
+                           ],
+                           "phone" : "+74991245010",
+                           "city" : "Москва",
+                           "latitude" : 55.679,
+                           "address" : "улица Кржижановского, 20/30 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "6",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "629.15"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6588,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (140, Нагатинская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74996120178"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1973"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74996120178; +74952311697, доб. 1973",
+                           "city" : "Москва",
+                           "latitude" : 55.6778,
+                           "address" : "Нагатинская улица, 31"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "675"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (31, Энтузиастов)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956721388"
+                              }
+                           ],
+                           "phone" : "+74956721388",
+                           "city" : "Москва",
+                           "latitude" : 55.7585,
+                           "address" : "шоссе Энтузиастов, 48/1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "675"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6965,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (28, Миллионная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991694210"
+                              }
+                           ],
+                           "phone" : "+74991694210",
+                           "city" : "Москва",
+                           "latitude" : 55.8167,
+                           "address" : "Миллионная улица, 11 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5162,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Будь здоров!",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1361"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1361",
+                           "city" : "Москва",
+                           "latitude" : 55.8053,
+                           "address" : "Ленинградский проспект, 74 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.595,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 33",
+                           "phones" : [
+                              {
+                                 "number" : "+74996432190"
+                              }
+                           ],
+                           "phone" : "+74996432190",
+                           "city" : "Москва",
+                           "latitude" : 55.6734,
+                           "address" : "Нагорный бульвар, 7"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид, тбл п/пл/о 500мг 5",
+                           "price" : "528.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4806,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (52, Народного ополчения)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991918571"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1326"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74991918571; +74952311697, доб. 1326",
+                           "city" : "Москва",
+                           "latitude" : 55.7771,
+                           "address" : "улица Народного Ополчения, 20 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "559"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6782,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (58, Новинки)",
+                           "phones" : [
+                              {
+                                 "number" : "+74996172092"
+                              }
+                           ],
+                           "phone" : "+74996172092",
+                           "city" : "Москва",
+                           "latitude" : 55.6766,
+                           "address" : "улица Новинки, 31"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5364,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (130, Ленинский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991318716"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1360"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74991318716; +74952311697, доб. 1360",
+                           "city" : "Москва",
+                           "latitude" : 55.6827,
+                           "address" : "Ленинский проспект, 78"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "636"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4971,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (105, Мичуринский проспект)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311696",
+                                 "additional" : [
+                                    "1927"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311696, доб. 1927",
+                           "city" : "Москва",
+                           "latitude" : 55.6976,
+                           "address" : "Мичуринский проспект, 36"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5292,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (31, Академическая)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1312"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1312",
+                           "city" : "Москва",
+                           "latitude" : 55.824,
+                           "address" : "Большая Академическая улица, 24 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.748,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;РИГЛА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1657",
+                                    "1658"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1657, 1658",
+                           "city" : "Москва",
+                           "latitude" : 55.697,
+                           "address" : "7-я улица Текстильщиков, 7"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7801,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953684765"
+                              }
+                           ],
+                           "phone" : "+74953684765",
+                           "city" : "Москва",
+                           "latitude" : 55.7574,
+                           "address" : "улица Металлургов, 7/18"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "595.01"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.502,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (43, Космодемьянских)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0918"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0918",
+                           "city" : "Москва",
+                           "latitude" : 55.8183,
+                           "address" : "улица Зои и Александра Космодемьянских, 4 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.738,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АСАКИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957770006"
+                              },
+                              {
+                                 "number" : "+74953501401"
+                              }
+                           ],
+                           "phone" : "+74957770006; +74953501401",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Люблинская улица, 50 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "560"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ЗДОРОВЬЕ ПЛЮС",
+                           "phones" : [
+                              {
+                                 "number" : "+74991223092"
+                              }
+                           ],
+                           "phone" : "+74991223092",
+                           "city" : "Москва",
+                           "latitude" : 55.6542,
+                           "address" : "улица Каховка, 10к3"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "3",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "603.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7836,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991652530"
+                              }
+                           ],
+                           "phone" : "+74991652530",
+                           "city" : "Москва",
+                           "latitude" : 55.7904,
+                           "address" : "3-я Парковая улица, 7/17"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "560.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7897,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993676006"
+                              }
+                           ],
+                           "phone" : "+74993676006",
+                           "city" : "Москва",
+                           "latitude" : 55.7928,
+                           "address" : "Первомайская улица, 46/50"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "609.71"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957879355"
+                              }
+                           ],
+                           "phone" : "+74957879355",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "5-я Парковая улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид, таб п/о 500мг. 5",
+                           "price" : "615"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7562,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991675698"
+                              }
+                           ],
+                           "phone" : "+74991675698",
+                           "city" : "Москва",
+                           "latitude" : 55.824,
+                           "address" : "Открытое шоссе, 21 к4"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "4",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "498.57"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7459,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953510641"
+                              }
+                           ],
+                           "phone" : "+74953510641",
+                           "city" : "Москва",
+                           "latitude" : 55.6725,
+                           "address" : "улица Судакова, 14"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "618.64"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7603,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (26, Открытое)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991677362"
+                              }
+                           ],
+                           "phone" : "+74991677362",
+                           "city" : "Москва",
+                           "latitude" : 55.8246,
+                           "address" : "Открытое шоссе, 24 к36"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4533,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (37, Авиационная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1940"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1940",
+                           "city" : "Москва",
+                           "latitude" : 55.8099,
+                           "address" : "Авиационная улица, 70 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "675"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74953517130"
+                              }
+                           ],
+                           "phone" : "+74953517130",
+                           "city" : "Москва",
+                           "latitude" : 55.6769,
+                           "address" : "Краснодарская улица, 57 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "515"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8047,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (62, Первомайская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954612049"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1329"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74954612049; +74952311697, доб. 1329",
+                           "city" : "Москва",
+                           "latitude" : 55.7936,
+                           "address" : "Первомайская улица, 89"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6787,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991844155"
+                              }
+                           ],
+                           "phone" : "+74991844155",
+                           "city" : "Москва",
+                           "latitude" : 55.8629,
+                           "address" : "улица Коминтерна, 14"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "586"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.827,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 27",
+                           "phones" : [
+                              {
+                                 "number" : "+74953755628"
+                              }
+                           ],
+                           "phone" : "+74953755628",
+                           "city" : "Москва",
+                           "latitude" : 55.7403,
+                           "address" : "улица Старый Гай, 8б"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "520.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7156,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957805527"
+                              }
+                           ],
+                           "phone" : "+74957805527",
+                           "city" : "Москва",
+                           "latitude" : 55.6465,
+                           "address" : "Новочеркасский бульвар, 10 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "606"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4085,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74954134256"
+                              }
+                           ],
+                           "phone" : "+74954134256",
+                           "city" : "Москва",
+                           "latitude" : 55.7605,
+                           "address" : "Осенний бульвар, 16 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "605"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4489,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 20",
+                           "phones" : [
+                              {
+                                 "number" : "+79015040424"
+                              }
+                           ],
+                           "phone" : "+79015040424",
+                           "city" : "Москва",
+                           "latitude" : 55.6814,
+                           "address" : "улица Наташи Ковшовой, 8к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "520.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4082,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579702"
+                              }
+                           ],
+                           "phone" : "+74996579702",
+                           "city" : "Москва",
+                           "latitude" : 55.763,
+                           "address" : "Осенний бульвар, 20 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "581"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид табл. п/о пленочной 500 мг 5, авва рус оао",
+                           "price" : "609.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8314,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959185428"
+                              }
+                           ],
+                           "phone" : "+74959185428",
+                           "city" : "Москва",
+                           "latitude" : 55.7542,
+                           "address" : "улица Молостовых, 14 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "610.17"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6748,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (52, Летчика Бабушкина)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954715459"
+                              }
+                           ],
+                           "phone" : "+74954715459",
+                           "city" : "Москва",
+                           "latitude" : 55.8671,
+                           "address" : "улица Лётчика Бабушкина, 23"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4042,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74954174116"
+                              }
+                           ],
+                           "phone" : "+74954174116",
+                           "city" : "Москва",
+                           "latitude" : 55.7422,
+                           "address" : "Оршанская улица, 9"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "603"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7591,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москава (23, Братиславская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0971",
+                                    "1309"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0971, 1309",
+                           "city" : "Москва",
+                           "latitude" : 55.6598,
+                           "address" : "Братиславская улица, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4028,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1774",
+                                    "1778"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1774, 1778",
+                           "city" : "Москва",
+                           "latitude" : 55.7554,
+                           "address" : "Рублёвское шоссе, 52а"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993207983"
+                              }
+                           ],
+                           "phone" : "+74993207983",
+                           "city" : "Москва",
+                           "latitude" : 55.6332,
+                           "address" : "улица Медиков, 16"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "4",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "603.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4051,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74997927686"
+                              }
+                           ],
+                           "phone" : "+74997927686",
+                           "city" : "Москва",
+                           "latitude" : 55.7256,
+                           "address" : "улица Маршала Неделина, 15"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "6",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "568"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6048,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953120632"
+                              }
+                           ],
+                           "phone" : "+74953120632",
+                           "city" : "Москва",
+                           "latitude" : 55.6286,
+                           "address" : "Чертановская улица, 9 к3"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "4",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "487.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1754",
+                                    "1764"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1754, 1764",
+                           "city" : "Москва",
+                           "latitude" : 55.8459,
+                           "address" : "Ленинградское шоссе, 68"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "675"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6646,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (23, Енисейская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954713724"
+                              }
+                           ],
+                           "phone" : "+74954713724",
+                           "city" : "Москва",
+                           "latitude" : 55.8729,
+                           "address" : "Енисейская улица, 29"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7486,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (28, Новомарьинская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953455411"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1311"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74953455411; +74952311697, доб. 1311",
+                           "city" : "Москва",
+                           "latitude" : 55.6509,
+                           "address" : "Новомарьинская улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8074,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 16",
+                           "phones" : [
+                              {
+                                 "number" : "+74996827245"
+                              }
+                           ],
+                           "phone" : "+74996827245",
+                           "city" : "Москва",
+                           "latitude" : 55.8175,
+                           "address" : "Байкальская улица, 29"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "520.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5375,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 39",
+                           "phones" : [
+                              {
+                                 "number" : "+79150210737"
+                              }
+                           ],
+                           "phone" : "+79150210737",
+                           "city" : "Москва",
+                           "latitude" : 55.6324,
+                           "address" : "улица Островитянова, 43а"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "520.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7414,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74993561909"
+                              }
+                           ],
+                           "phone" : "+74993561909",
+                           "city" : "Москва",
+                           "latitude" : 55.6434,
+                           "address" : "Батайский проезд, 63"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид, тбл п/пл/о 500мг 5*",
+                           "price" : "581.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8473,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965287155"
+                              },
+                              {
+                                 "number" : "+74965855515"
+                              }
+                           ],
+                           "phone" : "+74965287155; +74965855515",
+                           "city" : "Реутов",
+                           "latitude" : 55.7679,
+                           "address" : "улица Победы, 30, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "630"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6676,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (126, Луганская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953223901"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1356"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74953223901; +74952311697, доб. 1356",
+                           "city" : "Москва",
+                           "latitude" : 55.6247,
+                           "address" : "Луганская улица, 7 к2"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "7",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "633"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5216,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лавка здоровья и красоты&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954209711"
+                              },
+                              {
+                                 "number" : "+74954202188"
+                              }
+                           ],
+                           "phone" : "+74954209711; +74954202188",
+                           "city" : "Москва",
+                           "latitude" : 55.633,
+                           "address" : "Профсоюзная улица, 109"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид табл. п.п.о. 500мг n5 россия",
+                           "price" : "527.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4079,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (24, Маршала Катукова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957505050"
+                              }
+                           ],
+                           "phone" : "+74957505050",
+                           "city" : "Москва",
+                           "latitude" : 55.8081,
+                           "address" : "улица Маршала Катукова, 17 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "3",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6528,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла (100, Шокальского)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0994"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0994",
+                           "city" : "Москва",
+                           "latitude" : 55.8819,
+                           "address" : "проезд Шокальского, 41"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "569"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5173,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997246656"
+                              }
+                           ],
+                           "phone" : "+74997246656",
+                           "city" : "Москва",
+                           "latitude" : 55.6324,
+                           "address" : "Профсоюзная улица, 126"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "562.74"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4715,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (14, Ленинградское ш)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0985",
+                                    "1921"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0985, 1921",
+                           "city" : "Москва",
+                           "latitude" : 55.8547,
+                           "address" : "Ленинградское шоссе, 92/1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4963,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (15, Петрозаводская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0986",
+                                    "1922"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0986, 1922",
+                           "city" : "Москва",
+                           "latitude" : 55.8652,
+                           "address" : "Петрозаводская улица, 9 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "675"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5105,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ИРЖЕН&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999058796"
+                              }
+                           ],
+                           "phone" : "+74999058796",
+                           "city" : "Москва",
+                           "latitude" : 55.8711,
+                           "address" : "Ангарская улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "576.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8269,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (5, Хабаровская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957708948"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1981",
+                                    "1302"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957708948; +74952311697, доб. 1981, 1302",
+                           "city" : "Москва",
+                           "latitude" : 55.8214,
+                           "address" : "Хабаровская улица, 12/23"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "626"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8611,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 3",
+                           "phones" : [
+                              {
+                                 "number" : "+74986618944"
+                              }
+                           ],
+                           "phone" : "+74986618944",
+                           "city" : "Реутов",
+                           "latitude" : 55.751,
+                           "address" : "Южная улица, 3в, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид 0,5 г 5 таб",
+                           "price" : "570.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6625,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996579700"
+                              }
+                           ],
+                           "phone" : "+74996579700",
+                           "city" : "Москва",
+                           "latitude" : 55.8866,
+                           "address" : "улица Грекова, 8"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "556"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.686,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74991854572"
+                              }
+                           ],
+                           "phone" : "+74991854572",
+                           "city" : "Москва",
+                           "latitude" : 55.8846,
+                           "address" : "Тайнинская улица, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "599"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8336,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 35",
+                           "phones" : [
+                              {
+                                 "number" : "+74996432279"
+                              }
+                           ],
+                           "phone" : "+74996432279",
+                           "city" : "Москва",
+                           "latitude" : 55.8211,
+                           "address" : "Алтайская улица, 33/7"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид, тбл п/пл/о 500мг 5*",
+                           "price" : "414.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.438,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954959618"
+                              }
+                           ],
+                           "phone" : "+74954959618",
+                           "city" : "Москва",
+                           "latitude" : 55.8531,
+                           "address" : "улица Героев Панфиловцев, 1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "8",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "600.69"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999093368"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74999093368; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8946,
+                           "address" : "Алтуфьевское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "605"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8555,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 42",
+                           "phones" : [
+                              {
+                                 "number" : "+74957041418"
+                              }
+                           ],
+                           "phone" : "+74957041418",
+                           "city" : "Москва",
+                           "latitude" : 55.6917,
+                           "address" : "Саранская улица, 4/24"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "523"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4217,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959490314"
+                              }
+                           ],
+                           "phone" : "+74959490314",
+                           "city" : "Москва",
+                           "latitude" : 55.8494,
+                           "address" : "Туристская улица, 13 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "4",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "568.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8583,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (39, Генерала Кузнецова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1318",
+                                    "0973"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1318, 0973",
+                           "city" : "Москва",
+                           "latitude" : 55.6895,
+                           "address" : "улица Генерала Кузнецова, 14 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "532"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5887,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Ромашки",
+                           "phones" : [
+                              {
+                                 "number" : "+74999083503"
+                              },
+                              {
+                                 "number" : "+74999678645"
+                              }
+                           ],
+                           "phone" : "+74999083503; +74999678645",
+                           "city" : "Москва",
+                           "latitude" : 55.8993,
+                           "address" : "Алтуфьевское шоссе, 88"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид, тбл п/п/о 500мг 5",
+                           "price" : "599"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4321,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья Юг",
+                           "phones" : [
+                              {
+                                 "number" : "+74959710100"
+                              }
+                           ],
+                           "phone" : "+74959710100",
+                           "city" : "Москва",
+                           "latitude" : 55.8571,
+                           "address" : "улица Героев Панфиловцев, 7"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид тб 500мг 5",
+                           "price" : "589.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7309,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (2, Ореховый)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953939500"
+                              }
+                           ],
+                           "phone" : "+74953939500",
+                           "city" : "Москва",
+                           "latitude" : 55.6165,
+                           "address" : "Ореховый проезд, 41"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "636"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957040851"
+                              }
+                           ],
+                           "phone" : "+74957040851",
+                           "city" : "Москва",
+                           "latitude" : 55.6876,
+                           "address" : "улица Генерала Кузнецова, 13 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "4",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "540.89"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3651,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 10",
+                           "phones" : [
+                              {
+                                 "number" : "+74959840526"
+                              }
+                           ],
+                           "phone" : "+74959840526",
+                           "city" : "Новоивановское",
+                           "latitude" : 55.705,
+                           "address" : "улица Агрохимиков, 2, Московская область, Одинцовский район"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "520.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4199,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (20, Туристская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959484681"
+                              }
+                           ],
+                           "phone" : "+74959484681",
+                           "city" : "Москва",
+                           "latitude" : 55.8558,
+                           "address" : "Туристская улица, 27 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7199,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 46",
+                           "phones" : [
+                              {
+                                 "number" : "+74983017066"
+                              }
+                           ],
+                           "phone" : "+74983017066",
+                           "city" : "Мытищи",
+                           "latitude" : 55.8945,
+                           "address" : "улица Веры Волошиной, 20, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "641.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5281,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фирма ПОДВОРЬЕ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954214866"
+                              }
+                           ],
+                           "phone" : "+74954214866",
+                           "city" : "Москва",
+                           "latitude" : 55.6063,
+                           "address" : "Новоясеневский проспект, 22 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "580.88"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6636,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (46, Бирюлевская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953262065"
+                              },
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74953262065; +74952311697",
+                           "city" : "Москва",
+                           "latitude" : 55.5992,
+                           "address" : "Бирюлёвская улица, 7 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "675"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.716,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (263, Волошиной)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955880374"
+                              }
+                           ],
+                           "phone" : "+74955880374",
+                           "city" : "Мытищи",
+                           "latitude" : 55.8965,
+                           "address" : "улица Веры Волошиной, 24, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5425,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954226311"
+                              }
+                           ],
+                           "phone" : "+74954226311",
+                           "city" : "Москва",
+                           "latitude" : 55.6024,
+                           "address" : "улица Паустовского, 1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "4",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "563.95"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла (Пятницкое шоссе)",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.8358,
+                           "address" : "Пятницкое шоссе, 3"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4232,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997622503"
+                              }
+                           ],
+                           "phone" : "+74997622503",
+                           "city" : "Москва",
+                           "latitude" : 55.8626,
+                           "address" : "улица Вилиса Лациса, 21 к2"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "6",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "604.41"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7131,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 13",
+                           "phones" : [
+                              {
+                                 "number" : "+74952297377"
+                              }
+                           ],
+                           "phone" : "+74952297377",
+                           "city" : "Москва",
+                           "latitude" : 55.6021,
+                           "address" : "Домодедовская улица, 42"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид, тбл п/пл/о 500мг 5*",
+                           "price" : "608.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6444,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 21",
+                           "phones" : [
+                              {
+                                 "number" : "+74953850836"
+                              }
+                           ],
+                           "phone" : "+74953850836",
+                           "city" : "Москва",
+                           "latitude" : 55.5933,
+                           "address" : "Медынская улица, 6а"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "520.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3985,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (37, Солнцевский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0972",
+                                    "1316"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0972, 1316",
+                           "city" : "Москва",
+                           "latitude" : 55.6514,
+                           "address" : "Солнцевский проспект, 5"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "643"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8932,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1779",
+                                    "1780"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1779, 1780",
+                           "city" : "Люберцы",
+                           "latitude" : 55.7054,
+                           "address" : "улица 8 Марта, 61, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7585,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 19",
+                           "phones" : [
+                              {
+                                 "number" : "+74953977600"
+                              }
+                           ],
+                           "phone" : "+74953977600",
+                           "city" : "Москва",
+                           "latitude" : 55.6101,
+                           "address" : "Гурьевский проезд, 31 к2"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "520.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3984,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74959342060"
+                              }
+                           ],
+                           "phone" : "+74959342060",
+                           "city" : "Москва",
+                           "latitude" : 55.6451,
+                           "address" : "улица Авиаторов, 14"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "3",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "581"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8929,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74983021350"
+                              },
+                              {
+                                 "number" : "+74983021350"
+                              }
+                           ],
+                           "phone" : "+74983021350; +74983021350",
+                           "city" : "Люберцы",
+                           "latitude" : 55.6879,
+                           "address" : "улица Митрофанова, 2б, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "4",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "555"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9019,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 3",
+                           "phones" : [
+                              {
+                                 "number" : "+74983021710"
+                              }
+                           ],
+                           "phone" : "+74983021710",
+                           "city" : "Люберцы",
+                           "latitude" : 55.6962,
+                           "address" : "улица Воинов-Интернационалистов, 3, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "3",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "634.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3652,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 1",
+                           "phones" : [
+                              {
+                                 "number" : "+74957940135"
+                              },
+                              {
+                                 "number" : "+74957510010"
+                              }
+                           ],
+                           "phone" : "+74957940135; +74957510010",
+                           "city" : "Москва",
+                           "latitude" : 55.8433,
+                           "address" : "Митинская улица, 21"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид, тбл п/пл/о 500мг 5",
+                           "price" : "442.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8411,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1747",
+                                    "1748"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1747, 1748",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6374,
+                           "address" : "улица Ленина, 2а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "670"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3555,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957540600"
+                              }
+                           ],
+                           "phone" : "+74957540600",
+                           "city" : "Москва",
+                           "latitude" : 55.8353,
+                           "address" : "улица Генерала Белобородова, 16"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "608"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6741,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 32",
+                           "phones" : [
+                              {
+                                 "number" : "+74957451404"
+                              }
+                           ],
+                           "phone" : "+74957451404",
+                           "city" : "Москва",
+                           "latitude" : 55.5816,
+                           "address" : "Загорьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "520.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8451,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955514709"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74955514709; +74955855515",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6349,
+                           "address" : "улица Ленина, 11, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "581"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9067,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 7",
+                           "phones" : [
+                              {
+                                 "number" : "+79637103417"
+                              }
+                           ],
+                           "phone" : "+79637103417",
+                           "city" : "Люберцы",
+                           "latitude" : 55.6911,
+                           "address" : "Комсомольский проспект, 16/2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "638.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3644,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ооо &quot;НЕО-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538455"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74995538455; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8507,
+                           "address" : "Пятницкое шоссе, 29"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "546"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5779,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЛОГИН-АЛЬФА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957111281"
+                              }
+                           ],
+                           "phone" : "+74957111281",
+                           "city" : "Москва",
+                           "latitude" : 55.5753,
+                           "address" : "Ратная улица, 10 к2"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "4",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "498.76"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3308,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (253, Пионерская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955632479"
+                              }
+                           ],
+                           "phone" : "+74955632479",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8272,
+                           "address" : "Пионерская улица, 14, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3654,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Москва",
+                           "latitude" : 55.6431,
+                           "address" : "Новопеределкинская улица, 16к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "636"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3479,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Москва",
+                           "latitude" : 55.8517,
+                           "address" : "Ангелов переулок, 7"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3965,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла (Куркинское шоссе)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0946",
+                                    "0955"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0946, 0955",
+                           "city" : "Москва",
+                           "latitude" : 55.885,
+                           "address" : "Куркинское шоссе, 17 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8623,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 13",
+                           "phones" : [
+                              {
+                                 "number" : "+79015140401"
+                              }
+                           ],
+                           "phone" : "+79015140401",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6276,
+                           "address" : "Томилинская улица, 7, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "604.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9357,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ПРОГРЕСС-ФАРМА&quot; 2",
+                           "phones" : [
+                              {
+                                 "number" : "+74965219407"
+                              }
+                           ],
+                           "phone" : "+74965219407",
+                           "city" : "Балашиха",
+                           "latitude" : 55.804,
+                           "address" : "Советская улица, 21, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид 0,5 г 5 таб",
+                           "price" : "530.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5712,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (38, Дмитрия Донского)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956591245"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1317"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74956591245; +74952311697, доб. 1317",
+                           "city" : "Москва",
+                           "latitude" : 55.5643,
+                           "address" : "бульвар Дмитрия Донского, 16"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "562"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9571,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (260, г. Железнодорожный)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1908"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1908",
+                           "city" : "Железнодорожный",
+                           "latitude" : 55.7501,
+                           "address" : "Центральная улица, 41, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3462,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Москва",
+                           "latitude" : 55.635,
+                           "address" : "Боровское шоссе, 56"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "635"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5193,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (203, Рыночная площадь)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954088753"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1369"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74954088753; +74952311697, доб. 1369",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9402,
+                           "address" : "улица Рыночная площадь, 5"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9692,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538026"
+                              }
+                           ],
+                           "phone" : "+74995538026",
+                           "city" : "Железнодорожный",
+                           "latitude" : 55.7442,
+                           "address" : "Береговая улица, 4а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "3",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "525"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5102,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (224, Дирижабельная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954086138"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1386"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74954086138; +74952311697, доб. 1386",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9407,
+                           "address" : "Дирижабельная улица, 10, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5081,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538447"
+                              },
+                              {
+                                 "number" : "+74995855515"
+                              },
+                              {
+                                 "number" : "+74995538447"
+                              },
+                              {
+                                 "number" : "+74995855515"
+                              }
+                           ],
+                           "phone" : "+74995538447; +74995855515; +74995538447; +74995855515",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.945,
+                           "address" : "Дирижабельная улица, 24, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "3",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "612"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5041,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (230, Проспект Пацаева)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956907934",
+                                 "additional" : [
+                                    "1388"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74956907934, доб. 1388",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9474,
+                           "address" : "проспект Пацаева, 7 к2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5724,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москава (25, Синельниковская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957128727",
+                                 "additional" : [
+                                    "1310"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957128727, доб. 1310",
+                           "city" : "Москва",
+                           "latitude" : 55.5425,
+                           "address" : "Синельниковская улица, 47"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "616"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.971,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (105, Свердлова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1705"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1705",
+                           "city" : "Балашиха",
+                           "latitude" : 55.8296,
+                           "address" : "улица Свердлова, 37, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "607"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8689,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1752",
+                                    "1761"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1752, 1761",
+                           "city" : "Королёв",
+                           "latitude" : 55.9162,
+                           "address" : "проспект Космонавтов, 23/37, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "628"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8452,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла (МО, г. Юбилейный)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0950"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0950",
+                           "city" : "Королёв",
+                           "latitude" : 55.9286,
+                           "address" : "Ленинская улица, 12, Московская область, Юбилейный"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "628"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0096,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7496,
+                           "address" : "Пролетарская улица, 1к2"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб п.о 500мг 5",
+                           "price" : "598"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0104,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1604"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1604",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7514,
+                           "address" : "Советская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "638"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3055,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 14",
+                           "phones" : [
+                              {
+                                 "number" : "+79637503289"
+                              }
+                           ],
+                           "phone" : "+79637503289",
+                           "city" : "Химки",
+                           "latitude" : 55.9448,
+                           "address" : "Юбилейный проезд, 8, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "638.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4729,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 24",
+                           "phones" : [
+                              {
+                                 "number" : "+74957308967"
+                              }
+                           ],
+                           "phone" : "+74957308967",
+                           "city" : "Лобня",
+                           "latitude" : 56.0081,
+                           "address" : "Крупской улица, 24"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "520.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.994,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (209, 1-й Советский пер)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965670288"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1374"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965670288; +74952311697, доб. 1374",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9195,
+                           "address" : "1-й Советский переулок, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4741,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (222, Ленина)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955088363"
+                              }
+                           ],
+                           "phone" : "+74955088363",
+                           "city" : "Лобня",
+                           "latitude" : 56.0109,
+                           "address" : "улица Ленина, 23 к3, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9865,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (212,Сиреневая)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965692188"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1376"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965692188; +74952311697, доб. 1376",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9282,
+                           "address" : "Сиреневая улица, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4822,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (219, Ленина)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959158947"
+                              }
+                           ],
+                           "phone" : "+74959158947",
+                           "city" : "Лобня",
+                           "latitude" : 56.0124,
+                           "address" : "улица Ленина, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4402,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (247, Краснополянский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538440"
+                              }
+                           ],
+                           "phone" : "+74995538440",
+                           "city" : "Лобня",
+                           "latitude" : 56.0084,
+                           "address" : "Краснополянский проезд, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8633,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лэнд-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965358525"
+                              }
+                           ],
+                           "phone" : "+74965358525",
+                           "city" : "Пушкино",
+                           "latitude" : 55.9958,
+                           "address" : "Пушкинское шоссе, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "600.87"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8643,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лэнд-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965357660"
+                              }
+                           ],
+                           "phone" : "+74965357660",
+                           "city" : "Пушкино",
+                           "latitude" : 55.9957,
+                           "address" : "Пушкинское шоссе, 4а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид,тбл п/п/о 500мг 5",
+                           "price" : "605.15"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0542,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (262, Школьная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0900",
+                                    "1389"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0900, 1389",
+                           "city" : "Фрязино",
+                           "latitude" : 55.9551,
+                           "address" : "Школьная улица, 1а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "632"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5501,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1724",
+                                    "1725"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1724, 1725",
+                           "city" : "Подольск",
+                           "latitude" : 55.4301,
+                           "address" : "Советская улица, 20/44"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5598,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (266, Февральская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74967636380"
+                              }
+                           ],
+                           "phone" : "+74967636380",
+                           "city" : "Подольск",
+                           "latitude" : 55.4275,
+                           "address" : "Февральская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7726,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (225, Корнеева)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1387"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1387",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4359,
+                           "address" : "улица Корнеева, 8"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.546,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла 271",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1767",
+                                    "1768"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1767, 1768",
+                           "city" : "Подольск",
+                           "latitude" : 55.4197,
+                           "address" : "Большая Серпуховская улица, 32"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "511"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2214,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 15",
+                           "phones" : [
+                              {
+                                 "number" : "+79637825591"
+                              }
+                           ],
+                           "phone" : "+79637825591",
+                           "city" : "Солнечногорский район",
+                           "latitude" : 56.0131,
+                           "address" : "Ржавки, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб. п/о плен. 500мг 5",
+                           "price" : "609.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.1517,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311698",
+                                 "additional" : [
+                                    "1773",
+                                    "1777"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311698, доб. 1773, 1777",
+                           "city" : "Москва",
+                           "latitude" : 55.985,
+                           "address" : "Зеленоград, к1446"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "560"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8354,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (205, Академикака Туполева)",
+                           "phones" : [
+                              {
+                                 "number" : "+74967923066"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0910",
+                                    "1371"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74967923066; +74952311697, доб. 0910, 1371",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4166,
+                           "address" : "проспект Академика Туполева, 2"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.3975,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (217, III Интернационала)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965110033"
+                              },
+                              {
+                                 "number" : "+74965193242"
+                              }
+                           ],
+                           "phone" : "+74965110033; +74965193242",
+                           "city" : "Ногинск",
+                           "latitude" : 55.84,
+                           "address" : "3-го Интернационала улица, 252"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "638"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4394,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (215, Комсомольская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965143171"
+                              },
+                              {
+                                 "number" : "+74965191501"
+                              }
+                           ],
+                           "phone" : "+74965143171; +74965191501",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8515,
+                           "address" : "Комсомольская улица, 76, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "2",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (216, III-Интернационала)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965141927"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1380"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965141927; +74952311697, доб. 1380",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8576,
+                           "address" : "улица 3 Интернационала, 44"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4735,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО(210, Золотухи)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965791414",
+                                 "additional" : [
+                                    "0921"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965791414, доб. 0921",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8053,
+                           "address" : "улица Золотухи, 8, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "558"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4915,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (236, Ленина)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965192777"
+                              }
+                           ],
+                           "phone" : "+74965192777",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8882,
+                           "address" : "улица Ленина, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5820",
+                           "quantity" : "1",
+                           "name" : "Эколевид таб.п/о плен. 500мг 5",
+                           "price" : "638"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "левофлоксацин (в форме гемигидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

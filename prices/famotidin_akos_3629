@@ -1,0 +1,131 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "famotidin_akos",
+            "rus_name" : "Фамотидин-акос",
+            "form" : "таб., покр. пленочной обол., 20 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "famotidin_akos",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "1831",
+                           "quantity" : "11",
+                           "name" : "Фамотидин-акос, табл. п.п.о. 20 мг 20",
+                           "price" : "11"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7801,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953684765"
+                              }
+                           ],
+                           "phone" : "+74953684765",
+                           "city" : "Москва",
+                           "latitude" : 55.7574,
+                           "address" : "улица Металлургов, 7/18"
+                        },
+                        "drug" : {
+                           "descid" : "1831",
+                           "quantity" : "4",
+                           "name" : "Фамотидин-акос, тбл п/о 20мг 20",
+                           "price" : "11.53"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993207983"
+                              }
+                           ],
+                           "phone" : "+74993207983",
+                           "city" : "Москва",
+                           "latitude" : 55.6332,
+                           "address" : "улица Медиков, 16"
+                        },
+                        "drug" : {
+                           "descid" : "1831",
+                           "quantity" : "2",
+                           "name" : "Фамотидин-акос, тбл п/о 20мг 20",
+                           "price" : "11.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5425,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954226311"
+                              }
+                           ],
+                           "phone" : "+74954226311",
+                           "city" : "Москва",
+                           "latitude" : 55.6024,
+                           "address" : "улица Паустовского, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1831",
+                           "quantity" : "4",
+                           "name" : "Фамотидин-акос, тбл п/о 20мг 20",
+                           "price" : "11.63"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "фамотидин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

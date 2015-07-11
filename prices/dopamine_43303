@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "dopamine",
+            "rus_name" : "Допамин",
+            "form" : "концентрат д/пригот. р-ра д/инф. 5 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "dopamine",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5994,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «МФК Помощь»",
+                           "phones" : [
+                              {
+                                 "number" : "+74999079744"
+                              }
+                           ],
+                           "phone" : "+74999079744",
+                           "city" : "Москва",
+                           "latitude" : 55.8634,
+                           "address" : "улица Санникова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "4498",
+                           "quantity" : "1",
+                           "name" : "Допамин конц. д/р-ра д/инф. 5 мг/мл 5 мл 10 ампулы (0676)",
+                           "price" : "70.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "допамина гидрохлорид"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

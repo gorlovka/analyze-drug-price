@@ -1,0 +1,358 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "cefazolin_akos",
+            "rus_name" : "Цефазолин-акос",
+            "form" : "порошок д/пригот. р-ра д/в/в и в/м введения 1 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 13,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "cefazolin_akos",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "1573",
+                           "quantity" : "7",
+                           "name" : "Цефазолин-акос, пор. д/приг. р-ра для в/в и в/м введ. 1 г д/стац.",
+                           "price" : "14.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7236,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Законность&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953540277"
+                              }
+                           ],
+                           "phone" : "+74953540277",
+                           "city" : "Москва",
+                           "latitude" : 55.6766,
+                           "address" : "Шоссейная улица, 39"
+                        },
+                        "drug" : {
+                           "descid" : "1573",
+                           "quantity" : "1",
+                           "name" : "Цефазолин-акос пор.в/в в/м 1.0г фл.",
+                           "price" : "13"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7913,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 5",
+                           "phones" : [
+                              {
+                                 "number" : "+74956444035"
+                              }
+                           ],
+                           "phone" : "+74956444035",
+                           "city" : "Москва",
+                           "latitude" : 55.754,
+                           "address" : "3-я Владимирская улица, 27"
+                        },
+                        "drug" : {
+                           "descid" : "1573",
+                           "quantity" : "1",
+                           "name" : "Цефазолин-акос, пор д/инъ в/в и в/м введения 1г 50 фл*",
+                           "price" : "735"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7897,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993676006"
+                              }
+                           ],
+                           "phone" : "+74993676006",
+                           "city" : "Москва",
+                           "latitude" : 55.7928,
+                           "address" : "Первомайская улица, 46/50"
+                        },
+                        "drug" : {
+                           "descid" : "1573",
+                           "quantity" : "60",
+                           "name" : "Цефазолин-акос в/в и в/м, пор д/инъ 1г 1",
+                           "price" : "21.86"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8134,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 31",
+                           "phones" : [
+                              {
+                                 "number" : "+74999840768"
+                              }
+                           ],
+                           "phone" : "+74999840768",
+                           "city" : "Москва",
+                           "latitude" : 55.7265,
+                           "address" : "улица Молдагуловой, 12а"
+                        },
+                        "drug" : {
+                           "descid" : "1573",
+                           "quantity" : "1",
+                           "name" : "Цефазолин-акос, пор д/инъ в/в и в/м введения 1г 50 фл*",
+                           "price" : "740"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 17",
+                           "phones" : [
+                              {
+                                 "number" : "+74959842179"
+                              }
+                           ],
+                           "phone" : "+74959842179",
+                           "city" : "Москва",
+                           "latitude" : 55.868,
+                           "address" : "Северный бульвар, 10"
+                        },
+                        "drug" : {
+                           "descid" : "1573",
+                           "quantity" : "43",
+                           "name" : "Цефазолин-акос, пор. д/инъ в/м и в/в введения 1г 1 фл",
+                           "price" : "23.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4472,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МРБ Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957822526"
+                              }
+                           ],
+                           "phone" : "+74957822526",
+                           "city" : "Москва",
+                           "latitude" : 55.8547,
+                           "address" : "Химкинский бульвар, 14 к4"
+                        },
+                        "drug" : {
+                           "descid" : "1573",
+                           "quantity" : "4",
+                           "name" : "Цефазолин-акос пор вв,вм фл 1г х 1",
+                           "price" : "17.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5711,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВЕРАФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74997440387"
+                              }
+                           ],
+                           "phone" : "+74997440387",
+                           "city" : "Москва",
+                           "latitude" : 55.5773,
+                           "address" : "Ратная улица, 16 к3"
+                        },
+                        "drug" : {
+                           "descid" : "1573",
+                           "quantity" : "1",
+                           "name" : "Цефазолин-акос порошок для приг. р-ра для в/в и в/м введения 1г фл. 1 (груп.уп.",
+                           "price" : "18"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.513,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 033",
+                           "phones" : [
+                              {
+                                 "number" : "+74959679553"
+                              }
+                           ],
+                           "phone" : "+74959679553",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9417,
+                           "address" : "улица Павлова, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1573",
+                           "quantity" : "36",
+                           "name" : "Цефазолин-акос пор.д/ин.в/в и в/м 1г n1",
+                           "price" : "18"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6716,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЗАБОТА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79037977747"
+                              }
+                           ],
+                           "phone" : "+79037977747",
+                           "city" : "Видное",
+                           "latitude" : 55.5427,
+                           "address" : "Совхозная улица, 5к3А"
+                        },
+                        "drug" : {
+                           "descid" : "1573",
+                           "quantity" : "9",
+                           "name" : "Цефазолин-акос порошок для приг. р-ра для в/в и в/м введения 1г фл. 1 (груп.уп.)",
+                           "price" : "18"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5429,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 266",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74967570710"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74967570710",
+                           "city" : "Подольск",
+                           "latitude" : 55.4275,
+                           "address" : "улица Свердлова, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1573",
+                           "quantity" : "28",
+                           "name" : "Цефазолин-акос пор.д/ин.в/в и в/м 1г n1",
+                           "price" : "18.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5751,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №1 271",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74967540838"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74967540838",
+                           "city" : "Подольск",
+                           "latitude" : 55.4203,
+                           "address" : "Северная улица, 7"
+                        },
+                        "drug" : {
+                           "descid" : "1573",
+                           "quantity" : "47",
+                           "name" : "Цефазолин-акос пор.д/ин.в/в и в/м 1г n1",
+                           "price" : "18.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.863,
+                           "roundtheclock" : 1,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 066",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Истра",
+                           "latitude" : 55.9131,
+                           "address" : "улица 9 Гвардейской Дивизии, 42, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1573",
+                           "quantity" : "157",
+                           "name" : "Цефазолин-акос пор.д/ин.в/в и в/м 1г n1",
+                           "price" : "18.3"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цефазолин (в форме натриевой соли)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

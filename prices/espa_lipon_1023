@@ -1,0 +1,184 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "espa_lipon",
+            "rus_name" : "Эспа-липон",
+            "form" : "концентрат д/пригот. р-ра д/инф. 300 мг/12 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 6,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "espa_lipon",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АС&quot;Эвалар&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992463637"
+                              }
+                           ],
+                           "phone" : "+74992463637",
+                           "city" : "Москва",
+                           "latitude" : 55.7357,
+                           "address" : "Зубовский бульвар, 13 с1"
+                        },
+                        "drug" : {
+                           "descid" : "544",
+                           "quantity" : "1",
+                           "name" : "Эспа-липон конц. д/инф. 300мг/12мл 10",
+                           "price" : "818"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5173,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СУМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991980543"
+                              },
+                              {
+                                 "number" : "+74991570970"
+                              }
+                           ],
+                           "phone" : "+74991980543; +74991570970",
+                           "city" : "Москва",
+                           "latitude" : 55.7947,
+                           "address" : "2-я Песчаная улица, 4"
+                        },
+                        "drug" : {
+                           "descid" : "544",
+                           "quantity" : "1",
+                           "name" : "Эспа-липон 300мг/12мл n10 концентрат д/приготовления р-ра д/инфузий",
+                           "price" : "795"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Терра Вита&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996189219"
+                              }
+                           ],
+                           "phone" : "+74996189219",
+                           "city" : "Москва",
+                           "latitude" : 55.6806,
+                           "address" : "Нагатинская набережная, 16к3"
+                        },
+                        "drug" : {
+                           "descid" : "544",
+                           "quantity" : "1",
+                           "name" : "Эспа-липон конц. д/инф. 300мг/12мл 10",
+                           "price" : "785"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6474,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Московская аптека ( 335 у ВДНХ)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956831423"
+                              }
+                           ],
+                           "phone" : "+74956831423",
+                           "city" : "Москва",
+                           "latitude" : 55.8256,
+                           "address" : "проспект Мира, 182"
+                        },
+                        "drug" : {
+                           "descid" : "544",
+                           "quantity" : "1",
+                           "name" : "Эспа-липон 300мг/12мл n10 концентрат д/приготовления р-ра д/инфузий",
+                           "price" : "837"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7883,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "206 аптека На Рязанском проспекте г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991703501"
+                              }
+                           ],
+                           "phone" : "+74991703501",
+                           "city" : "Москва",
+                           "latitude" : 55.7187,
+                           "address" : "Рязанский проспект, 71 к1"
+                        },
+                        "drug" : {
+                           "descid" : "544",
+                           "quantity" : "1",
+                           "name" : "Эспа-липон конц. пригот. р-ра д/инф. 300 мг/12 мл амп. 10",
+                           "price" : "795"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6666,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "АПТЕКА ЦАРИЦЫНСКАЯ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957283766"
+                              }
+                           ],
+                           "phone" : "+74957283766",
+                           "city" : "Москва",
+                           "latitude" : 55.6188,
+                           "address" : "Каспийская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "544",
+                           "quantity" : "1",
+                           "name" : "Эспа-липон конц. д/инф. 300мг/12мл 10",
+                           "price" : "785"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тиоктовая (-липоевая) кислота"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

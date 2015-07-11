@@ -1,0 +1,851 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "valparin_xr",
+            "rus_name" : "Вальпарин® хр",
+            "form" : "таб. пролонгир. действия, покр. оболочкой, 300 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 32,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "valparin_xr",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр таб. пролонг.п/о 300мг 100",
+                           "price" : "535"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр 300мг 100 табл",
+                           "price" : "699"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "2",
+                           "name" : "Вальпарин хр таб 300мг 10стрип 10",
+                           "price" : "550"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746221143"
+                              }
+                           ],
+                           "phone" : "+74746221143",
+                           "city" : "Москва",
+                           "latitude" : 55.7896,
+                           "address" : "Октябрьская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "2",
+                           "name" : "Вальпарин хр 0.5 n30 табл пролонг п/о",
+                           "price" : "438.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6208,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 25",
+                           "phones" : [
+                              {
+                                 "number" : "+74959840741"
+                              }
+                           ],
+                           "phone" : "+74959840741",
+                           "city" : "Москва",
+                           "latitude" : 55.7087,
+                           "address" : "Большая Тульская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр, тбл п/о ретард 300мг 100",
+                           "price" : "732.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр тбл п/о ретард 300мг 30",
+                           "price" : "122"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6662,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6776,
+                           "address" : "улица Новинки, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "2",
+                           "name" : "Вальпарин хр таб.п/о300мг 30",
+                           "price" : "138"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7183,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 12",
+                           "phones" : [
+                              {
+                                 "number" : "+74991609686"
+                              }
+                           ],
+                           "phone" : "+74991609686",
+                           "city" : "Москва",
+                           "latitude" : 55.8117,
+                           "address" : "Бойцовая улица, 17 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр, тбл п/о ретард 300мг 100",
+                           "price" : "732.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4571,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Авиценна г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991925743"
+                              },
+                              {
+                                 "number" : "+74957461322"
+                              }
+                           ],
+                           "phone" : "+74991925743; +74957461322",
+                           "city" : "Москва",
+                           "latitude" : 55.7844,
+                           "address" : "Живописная улица, 12 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр таб. пролонг. дейст. п/о плёночной 300мг 30 стрипы",
+                           "price" : "149.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4734,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармгрупп&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957896028"
+                              }
+                           ],
+                           "phone" : "+74957896028",
+                           "city" : "Москва",
+                           "latitude" : 55.8033,
+                           "address" : "улица Маршала Василевского, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр тбл п/о ретард 300мг 100",
+                           "price" : "492.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО ЗДОРОВЬЕ ПЛЮС",
+                           "phones" : [
+                              {
+                                 "number" : "+74991223092"
+                              }
+                           ],
+                           "phone" : "+74991223092",
+                           "city" : "Москва",
+                           "latitude" : 55.6542,
+                           "address" : "улица Каховка, 10к3"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр ретард 300мг n30 таб.",
+                           "price" : "164.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5936,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Феерия г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74955855080"
+                              },
+                              {
+                                 "number" : "+74955459469"
+                              }
+                           ],
+                           "phone" : "+74955855080; +74955459469",
+                           "city" : "Москва",
+                           "latitude" : 55.6516,
+                           "address" : "улица Каховка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр, тбл п/п/о ретард 300мг 30",
+                           "price" : "157"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.774,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Квартет-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957294831"
+                              }
+                           ],
+                           "phone" : "+74957294831",
+                           "city" : "Москва",
+                           "latitude" : 55.6994,
+                           "address" : "улица Юных Ленинцев, 87 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр тбл п/о ретард 300мг 100",
+                           "price" : "440"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4687,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Янтарь Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959425985"
+                              }
+                           ],
+                           "phone" : "+74959425985",
+                           "city" : "Москва",
+                           "latitude" : 55.8142,
+                           "address" : "Волоколамское шоссе, 45"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр 03 n100 табл пролонг п/о",
+                           "price" : "588"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8017,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.7936,
+                           "address" : "Первомайская улица, 81"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр таб.п/о300мг 30",
+                           "price" : "190"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8134,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 31",
+                           "phones" : [
+                              {
+                                 "number" : "+74999840768"
+                              }
+                           ],
+                           "phone" : "+74999840768",
+                           "city" : "Москва",
+                           "latitude" : 55.7265,
+                           "address" : "улица Молдагуловой, 12а"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр, тбл п/о ретард 300мг 100",
+                           "price" : "732.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4707,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 38",
+                           "phones" : [
+                              {
+                                 "number" : "+74957802852"
+                              }
+                           ],
+                           "phone" : "+74957802852",
+                           "city" : "улица Мичуринский Проспект",
+                           "latitude" : 55.6754,
+                           "address" : "Олимпийская Деревня, 4 к3, Москва"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр 0,5 100 табл пролонг п/о",
+                           "price" : "1320.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7533,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 26",
+                           "phones" : [
+                              {
+                                 "number" : "+74956406230"
+                              }
+                           ],
+                           "phone" : "+74956406230",
+                           "city" : "Москва",
+                           "latitude" : 55.6641,
+                           "address" : "Братиславская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр, тбл п/о ретард 300мг 100",
+                           "price" : "732.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.827,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 27",
+                           "phones" : [
+                              {
+                                 "number" : "+74953755628"
+                              }
+                           ],
+                           "phone" : "+74953755628",
+                           "city" : "Москва",
+                           "latitude" : 55.7403,
+                           "address" : "улица Старый Гай, 8б"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр 0,5 100 табл пролонг п/о",
+                           "price" : "1320.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6674,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490243"
+                              }
+                           ],
+                           "phone" : "+74996490243",
+                           "city" : "Москва",
+                           "latitude" : 55.8689,
+                           "address" : "улица Менжинского, 21"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "10",
+                           "name" : "Вальпарин хр таб п/о пролонг 300мг 30",
+                           "price" : "229.88"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6968,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 33",
+                           "phones" : [
+                              {
+                                 "number" : "+74999408039"
+                              }
+                           ],
+                           "phone" : "+74999408039",
+                           "city" : "Москва",
+                           "latitude" : 55.6373,
+                           "address" : "Каширское шоссе, 57 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр 0,5 100 табл пролонг п/о",
+                           "price" : "1354.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490240"
+                              }
+                           ],
+                           "phone" : "+74996490240",
+                           "city" : "Москва",
+                           "latitude" : 55.6513,
+                           "address" : "Люблинская улица, 163/1"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "10",
+                           "name" : "Вальпарин хр таб п/о пролонг 300мг 30",
+                           "price" : "230.32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.814,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74954682066"
+                              }
+                           ],
+                           "phone" : "+74954682066",
+                           "city" : "Москва",
+                           "latitude" : 55.8105,
+                           "address" : "Щёлковское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "3",
+                           "name" : "Вальпарин хр пролонг тб 300мг 100",
+                           "price" : "684"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4009,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Калина Фарм МСК",
+                           "phones" : [
+                              {
+                                 "number" : "+74954481534"
+                              },
+                              {
+                                 "number" : "+74954470039"
+                              },
+                              {
+                                 "number" : "+78005500321"
+                              }
+                           ],
+                           "phone" : "+74954481534; +74954470039; +78005500321",
+                           "city" : "Москва",
+                           "latitude" : 55.7202,
+                           "address" : "улица Толбухина, 7 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр, тбл п/о ретард 300мг 30",
+                           "price" : "153"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4132,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 20",
+                           "phones" : [
+                              {
+                                 "number" : "+74956385692"
+                              },
+                              {
+                                 "number" : "+74957562026"
+                              }
+                           ],
+                           "phone" : "+74956385692; +74957562026",
+                           "city" : "Москва",
+                           "latitude" : 55.8057,
+                           "address" : "улица Маршала Катукова, 23"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр, тбл п/о ретард 300мг 100",
+                           "price" : "732.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7414,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74993561909"
+                              }
+                           ],
+                           "phone" : "+74993561909",
+                           "city" : "Москва",
+                           "latitude" : 55.6434,
+                           "address" : "Батайский проезд, 63"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр, тбл п/о ретард 300мг 100",
+                           "price" : "732.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7199,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ФармМедТрейд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6128,
+                           "address" : "Ореховый бульвар, 15"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "5",
+                           "name" : "Вальпарин хр таб.п/о300мг 30",
+                           "price" : "225"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9338,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7949,
+                           "address" : "Советская улица, 1/7, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр таб.п/о300мг 30",
+                           "price" : "135"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3883,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 9",
+                           "phones" : [
+                              {
+                                 "number" : "+74959158336"
+                              }
+                           ],
+                           "phone" : "+74959158336",
+                           "city" : "Москва",
+                           "latitude" : 55.89,
+                           "address" : "Воротынская улица, 18"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр, тбл п/о ретард 300мг 100",
+                           "price" : "732.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5251,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ФармМедТрейд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.5337,
+                           "address" : "Южнобутовская улица, 81"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "2",
+                           "name" : "Вальпарин хр таб.п/о300мг 30",
+                           "price" : "169"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9914,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ИНТЕКО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965671185"
+                              }
+                           ],
+                           "phone" : "+74965671185",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9228,
+                           "address" : "площадь Ленина, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр 0,5 30 табл пролонг п/о",
+                           "price" : "368.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Атрика&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8106,
+                           "address" : "проспект Ленина, 06, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1748",
+                           "quantity" : "1",
+                           "name" : "Вальпарин хр тбл п/о ретард 300мг 30",
+                           "price" : "140"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "вальпроевая кислота + вальпроат натрия"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,112 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "pramipexole",
+            "rus_name" : "Прамипексол",
+            "form" : "таб. 1 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "pramipexole",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6089,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999045455"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74999045455; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8623,
+                           "address" : "улица Декабристов, 20 к2"
+                        },
+                        "drug" : {
+                           "descid" : "8658",
+                           "quantity" : "1",
+                           "name" : "Прамипексол таб. 1мг 30",
+                           "price" : "1695"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "8658",
+                           "quantity" : "33",
+                           "name" : "Прамипексол 1 мг таб. 100",
+                           "price" : "1763"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.521,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999684912"
+                              }
+                           ],
+                           "phone" : "+74999684912",
+                           "city" : "Москва",
+                           "latitude" : 55.6361,
+                           "address" : "Профсоюзная улица, 118"
+                        },
+                        "drug" : {
+                           "descid" : "8658",
+                           "quantity" : "1",
+                           "name" : "Прамипексол таб. 1мг 30",
+                           "price" : "1839"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "прамипексола дигидрохлорида моногидрат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

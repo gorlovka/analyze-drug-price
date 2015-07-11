@@ -1,0 +1,436 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "mercazolil",
+            "rus_name" : "Мерказолил",
+            "form" : "таб. 5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 16,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "mercazolil",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5517,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; Фармкомпания на Пироговской&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955085494"
+                              }
+                           ],
+                           "phone" : "+74955085494",
+                           "city" : "Москва",
+                           "latitude" : 55.801,
+                           "address" : "Новый Зыковский проезд, 4а"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "5",
+                           "name" : "Мерказолил таб. 5мг 50",
+                           "price" : "28"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6554,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Лотос&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956826565"
+                              }
+                           ],
+                           "phone" : "+74956826565",
+                           "city" : "Москва",
+                           "latitude" : 55.8119,
+                           "address" : "улица Павла Корчагина, 2/1"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "4",
+                           "name" : "Мерказолил 5мг 50 тб.",
+                           "price" : "32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4874,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Здоровейка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957383189"
+                              }
+                           ],
+                           "phone" : "+74957383189",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "Филёвский бульвар, 10"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "2",
+                           "name" : "Мерказолил таб 5мг 50",
+                           "price" : "28"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6474,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Московская аптека ( 335 у ВДНХ)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956831423"
+                              }
+                           ],
+                           "phone" : "+74956831423",
+                           "city" : "Москва",
+                           "latitude" : 55.8256,
+                           "address" : "проспект Мира, 182"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "27",
+                           "name" : "Мерказолил 5мг n50 таб.",
+                           "price" : "31.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7934,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИНАД-ЭКСПЕРТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956522369"
+                              },
+                              {
+                                 "number" : "+74956522370"
+                              }
+                           ],
+                           "phone" : "+74956522369; +74956522370",
+                           "city" : "Москва",
+                           "latitude" : 55.7997,
+                           "address" : "7-я Парковая улица, 19"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "30",
+                           "name" : "Мерказолил 5 мг таб. 50",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6666,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "АПТЕКА ЦАРИЦЫНСКАЯ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957283766"
+                              }
+                           ],
+                           "phone" : "+74957283766",
+                           "city" : "Москва",
+                           "latitude" : 55.6188,
+                           "address" : "Каспийская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "5",
+                           "name" : "Мерказолил таб. 5мг 50",
+                           "price" : "28.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7199,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 46",
+                           "phones" : [
+                              {
+                                 "number" : "+74983017066"
+                              }
+                           ],
+                           "phone" : "+74983017066",
+                           "city" : "Мытищи",
+                           "latitude" : 55.8945,
+                           "address" : "улица Веры Волошиной, 20, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "7",
+                           "name" : "Мерказолил 5мг 50 тб.",
+                           "price" : "32.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4147,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОГУП «Липецкфармация»",
+                           "phones" : [
+                              {
+                                 "number" : "+74746321981"
+                              }
+                           ],
+                           "phone" : "+74746321981",
+                           "city" : "Москва",
+                           "latitude" : 55.6481,
+                           "address" : "улица 50 лет Октября, 1"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "5",
+                           "name" : "Мерказолил таб 0.005г n50",
+                           "price" : "28.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3244,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НОТА-БЕНА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994096060"
+                              },
+                              {
+                                 "number" : "+74955658916"
+                              }
+                           ],
+                           "phone" : "+74994096060; +74955658916",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8067,
+                           "address" : "Южный бульвар, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "3",
+                           "name" : "Мерказолил табл. 5 мг х50",
+                           "price" : "33"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9338,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7949,
+                           "address" : "Советская улица, 1/7, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "3",
+                           "name" : "Мерказолил таб. 5мг 50",
+                           "price" : "32"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.352,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АНТЕВА",
+                           "phones" : [
+                              {
+                                 "number" : "+74957314399"
+                              }
+                           ],
+                           "phone" : "+74957314399",
+                           "city" : "Москва",
+                           "latitude" : 55.6395,
+                           "address" : "улица Шолохова, 12"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "1",
+                           "name" : "Мерказолил 5мг n50 таб.",
+                           "price" : "38"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5557,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Бадди г.Москва (Аптека на Скобелевской)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957179509"
+                              },
+                              {
+                                 "number" : "+74957179527"
+                              }
+                           ],
+                           "phone" : "+74957179509; +74957179527",
+                           "city" : "Москва",
+                           "latitude" : 55.5496,
+                           "address" : "Скобелевская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "2",
+                           "name" : "Мерказолил таб. 5мг 50 россия акрихин хфк оао",
+                           "price" : "29.74"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9864,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула здоровья",
+                           "phones" : [
+                              {
+                                 "number" : "+74955055909"
+                              }
+                           ],
+                           "phone" : "+74955055909",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7981,
+                           "address" : "шоссе Энтузиастов, 80"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "11",
+                           "name" : "Мерказолил тб 5мг 50 здоровье",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3055,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 14",
+                           "phones" : [
+                              {
+                                 "number" : "+79637503289"
+                              }
+                           ],
+                           "phone" : "+79637503289",
+                           "city" : "Химки",
+                           "latitude" : 55.9448,
+                           "address" : "Юбилейный проезд, 8, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "1",
+                           "name" : "Мерказолил 5мг 50 тб.",
+                           "price" : "30.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0591,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Строй-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79011846532"
+                              }
+                           ],
+                           "phone" : "+79011846532",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9009,
+                           "address" : "улица Ленина, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "2",
+                           "name" : "Мерказолил таб. 5мг 50",
+                           "price" : "28"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Атрика&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8106,
+                           "address" : "проспект Ленина, 06, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "728",
+                           "quantity" : "2",
+                           "name" : "Мерказолил тбл 5мг 50",
+                           "price" : "25"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тиамазол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

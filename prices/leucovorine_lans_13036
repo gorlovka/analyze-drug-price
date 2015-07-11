@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "leucovorine_lans",
+            "rus_name" : "Лейковорин-лэнс",
+            "form" : "р-р д/в/в и в/м введения 50 мг/10 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "leucovorine_lans",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6732,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Добрая аптека",
+                           "phones" : [
+                              {
+                                 "number" : "+74997500250"
+                              }
+                           ],
+                           "phone" : "+74997500250",
+                           "city" : "Москва",
+                           "latitude" : 55.7049,
+                           "address" : "5-я Кожуховская улица, 18 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3742",
+                           "quantity" : "117",
+                           "name" : "Лейковорин -лэнс р-р для в/в и в/м вв.50мг 5",
+                           "price" : "776"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кальция фолинат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

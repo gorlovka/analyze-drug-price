@@ -1,0 +1,206 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "dobutamin_hexal",
+            "rus_name" : "Добутамин гексал",
+            "form" : "лиофилизат д/пригот. р-ра д/инф. 250 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 7,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "dobutamin_hexal",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "136",
+                           "quantity" : "20",
+                           "name" : "Добутамин-гексал лиоф. д/р-р д/инфуз 250 мг фл. х1",
+                           "price" : "280"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6114,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Фармацевтическая компания &quot;БЕЛЫЙ ЛОТОС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959804897"
+                              }
+                           ],
+                           "phone" : "+74959804897",
+                           "city" : "Москва",
+                           "latitude" : 55.7268,
+                           "address" : "улица Шаболовка, 2"
+                        },
+                        "drug" : {
+                           "descid" : "136",
+                           "quantity" : "6",
+                           "name" : "Добутамин гексал 250мг лиоф д/инф х1",
+                           "price" : "400"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6281,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 464",
+                           "phones" : [
+                              {
+                                 "number" : "+79265195853"
+                              }
+                           ],
+                           "phone" : "+79265195853",
+                           "city" : "Москва",
+                           "latitude" : 55.7848,
+                           "address" : "улица Щепкина, 61/2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "136",
+                           "quantity" : "2",
+                           "name" : "Добутамин-гексал лиоф.р-р д/инф. флак. 250мг",
+                           "price" : "418.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;КедрФарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994093601"
+                              }
+                           ],
+                           "phone" : "+74994093601",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "Хорошёвское шоссе, 46"
+                        },
+                        "drug" : {
+                           "descid" : "136",
+                           "quantity" : "5",
+                           "name" : "Добутамин гексал лиоф д/инф 250мг фл n1",
+                           "price" : "310"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "136",
+                           "quantity" : "20",
+                           "name" : "Добутамин гексал лиоф д/инф 250мг фл n1",
+                           "price" : "372"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "136",
+                           "quantity" : "2",
+                           "name" : "Добутамин гексал лиоф. д/р-ра д/инф. 250 мг 1 флаконы, гексал аг, произведено вассербургер арцнеймиттелверк гмбх",
+                           "price" : "385"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4402,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (247, Краснополянский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538440"
+                              }
+                           ],
+                           "phone" : "+74995538440",
+                           "city" : "Лобня",
+                           "latitude" : 56.0084,
+                           "address" : "Краснополянский проезд, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "136",
+                           "quantity" : "1",
+                           "name" : "Добутамин гексал лиоф.пор.д/ин. 250мг",
+                           "price" : "374"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "добутамина гидрохлорид + добутамин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

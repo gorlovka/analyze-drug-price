@@ -1,0 +1,284 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "amlodipine_prana",
+            "rus_name" : "Амлодипин-прана",
+            "form" : "таб. 5 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 10,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "amlodipine_prana",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Терра Вита&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996189219"
+                              }
+                           ],
+                           "phone" : "+74996189219",
+                           "city" : "Москва",
+                           "latitude" : 55.6806,
+                           "address" : "Нагатинская набережная, 16к3"
+                        },
+                        "drug" : {
+                           "descid" : "5622",
+                           "quantity" : "6",
+                           "name" : "Амлодипин-прана 5мг 30 тб.",
+                           "price" : "26.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5251,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЮНИКС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991514961"
+                              }
+                           ],
+                           "phone" : "+74991514961",
+                           "city" : "Москва",
+                           "latitude" : 55.803,
+                           "address" : "Ленинградский проспект, 66"
+                        },
+                        "drug" : {
+                           "descid" : "5622",
+                           "quantity" : "5",
+                           "name" : "Амлодипин-прана таб. 5мг 30",
+                           "price" : "27.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.738,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АСАКИ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957770006"
+                              },
+                              {
+                                 "number" : "+74953501401"
+                              }
+                           ],
+                           "phone" : "+74957770006; +74953501401",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Люблинская улица, 50 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5622",
+                           "quantity" : "3",
+                           "name" : "Амлодипин-прана, тбл 5мг 20",
+                           "price" : "38"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5679,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО Прагматэкс",
+                           "phones" : [
+                              {
+                                 "number" : "+74994817242"
+                              }
+                           ],
+                           "phone" : "+74994817242",
+                           "city" : "Москва",
+                           "latitude" : 55.8576,
+                           "address" : "Дубнинская улица, 2 к6"
+                        },
+                        "drug" : {
+                           "descid" : "5622",
+                           "quantity" : "8",
+                           "name" : "Амлодипин-прана таб 5мг 30",
+                           "price" : "47"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7457,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490240"
+                              }
+                           ],
+                           "phone" : "+74996490240",
+                           "city" : "Москва",
+                           "latitude" : 55.6513,
+                           "address" : "Люблинская улица, 163/1"
+                        },
+                        "drug" : {
+                           "descid" : "5622",
+                           "quantity" : "10",
+                           "name" : "Амлодипин-прана таб 5мг 30",
+                           "price" : "27.66"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6048,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953120632"
+                              }
+                           ],
+                           "phone" : "+74953120632",
+                           "city" : "Москва",
+                           "latitude" : 55.6286,
+                           "address" : "Чертановская улица, 9 к3"
+                        },
+                        "drug" : {
+                           "descid" : "5622",
+                           "quantity" : "4",
+                           "name" : "Амлодипин-прана, тбл 5мг 30",
+                           "price" : "30.69"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6666,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "АПТЕКА ЦАРИЦЫНСКАЯ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957283766"
+                              }
+                           ],
+                           "phone" : "+74957283766",
+                           "city" : "Москва",
+                           "latitude" : 55.6188,
+                           "address" : "Каспийская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "5622",
+                           "quantity" : "8",
+                           "name" : "Амлодипин-прана 5мг 30 тб.",
+                           "price" : "27"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8598,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармик&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79011842771"
+                              }
+                           ],
+                           "phone" : "+79011842771",
+                           "city" : "Москва",
+                           "latitude" : 55.7432,
+                           "address" : "Суздальская улица, 26а"
+                        },
+                        "drug" : {
+                           "descid" : "5622",
+                           "quantity" : "2",
+                           "name" : "Амлодипин-прана 5мг n30 таб.",
+                           "price" : "26"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5711,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВЕРАФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74997440387"
+                              }
+                           ],
+                           "phone" : "+74997440387",
+                           "city" : "Москва",
+                           "latitude" : 55.5773,
+                           "address" : "Ратная улица, 16 к3"
+                        },
+                        "drug" : {
+                           "descid" : "5622",
+                           "quantity" : "1",
+                           "name" : "Амлодипин- прана табл. 5 мг х30",
+                           "price" : "9.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3684,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГудМедикал&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959711538"
+                              }
+                           ],
+                           "phone" : "+74959711538",
+                           "city" : "Московский",
+                           "latitude" : 55.5929,
+                           "address" : "Радужная улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "5622",
+                           "quantity" : "4",
+                           "name" : "Амлодипин-прана таб. 5мг 30",
+                           "price" : "29.1"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "амлодипин (в форме безилата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

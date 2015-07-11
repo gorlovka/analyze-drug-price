@@ -1,0 +1,162 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "glucose_braun",
+            "rus_name" : "Глюкоза браун",
+            "form" : "р-р д/инф. 5%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "glucose_braun",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.601,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Формула Здоровья Запад&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957410180"
+                              }
+                           ],
+                           "phone" : "+74957410180",
+                           "city" : "Москва",
+                           "latitude" : 55.7844,
+                           "address" : "Сущёвская улица, 31"
+                        },
+                        "drug" : {
+                           "descid" : "3686",
+                           "quantity" : "10",
+                           "name" : "Глюкоза браун р-р д/инф. 5% 500 мл х1",
+                           "price" : "31.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5248,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЛАТИС-ТОРГ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991381001"
+                              },
+                              {
+                                 "number" : "+74991381065"
+                              },
+                              {
+                                 "number" : "+79166721665"
+                              }
+                           ],
+                           "phone" : "+74991381001; +74991381065; +79166721665",
+                           "city" : "Москва",
+                           "latitude" : 55.6846,
+                           "address" : "улица Крупской, 19/17"
+                        },
+                        "drug" : {
+                           "descid" : "3686",
+                           "quantity" : "5",
+                           "name" : "Глюкоза браун р-р д/инф 5% 250мл бутыл п/э 1",
+                           "price" : "29.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4942,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека-225&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74954561606"
+                              }
+                           ],
+                           "phone" : "+74954561606",
+                           "city" : "Москва",
+                           "latitude" : 55.859,
+                           "address" : "Фестивальная улица, 12/20"
+                        },
+                        "drug" : {
+                           "descid" : "3686",
+                           "quantity" : "10",
+                           "name" : "Глюкоза браун р-р д/инф 5% 250мл фл пласт",
+                           "price" : "29.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5178,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997935489"
+                              }
+                           ],
+                           "phone" : "+74997935489",
+                           "city" : "Москва",
+                           "latitude" : 55.6331,
+                           "address" : "Профсоюзная улица, 124"
+                        },
+                        "drug" : {
+                           "descid" : "3686",
+                           "quantity" : "2",
+                           "name" : "Глюкоза браун р-р д/инф 5% 250мл бутыл п/э 10",
+                           "price" : "221.34"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5173,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997246656"
+                              }
+                           ],
+                           "phone" : "+74997246656",
+                           "city" : "Москва",
+                           "latitude" : 55.6324,
+                           "address" : "Профсоюзная улица, 126"
+                        },
+                        "drug" : {
+                           "descid" : "3686",
+                           "quantity" : "2",
+                           "name" : "Глюкоза браун р-р д/инф 5% 500мл бутыл п/э 10",
+                           "price" : "274.35"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "декстроза"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

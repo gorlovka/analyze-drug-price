@@ -1,0 +1,181 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "pregnyl",
+            "rus_name" : "Прегнил®",
+            "form" : "лиофилизат д/пригот. р-ра д/в/м и п/к введения 5000 МЕ",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 6,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "pregnyl",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6732,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Добрая аптека",
+                           "phones" : [
+                              {
+                                 "number" : "+74997500250"
+                              }
+                           ],
+                           "phone" : "+74997500250",
+                           "city" : "Москва",
+                           "latitude" : 55.7049,
+                           "address" : "5-я Кожуховская улица, 18 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2087",
+                           "quantity" : "7",
+                           "name" : "Прегнил лиоф.для приг.р-ра для в/м м п/к вв.5000ме амп. 1",
+                           "price" : "225"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7185,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ВОСТОК",
+                           "phones" : [
+                              {
+                                 "number" : "+74957853979"
+                              }
+                           ],
+                           "phone" : "+74957853979",
+                           "city" : "Москва",
+                           "latitude" : 55.7841,
+                           "address" : "улица Измайловский Вал, 2а"
+                        },
+                        "drug" : {
+                           "descid" : "2087",
+                           "quantity" : "15",
+                           "name" : "Прегнил лиофил д/ин 5000ме 1 органон",
+                           "price" : "215"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "2087",
+                           "quantity" : "150",
+                           "name" : "Прегнил лиоф для в/м и п/к вв 5000ме амп комп с раств n1",
+                           "price" : "214"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8205,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ИЗМАЙЛОВО",
+                           "phones" : [
+                              {
+                                 "number" : "+74956625463"
+                              }
+                           ],
+                           "phone" : "+74956625463",
+                           "city" : "Москва",
+                           "latitude" : 55.7745,
+                           "address" : "Большой Купавенский проезд, 4"
+                        },
+                        "drug" : {
+                           "descid" : "2087",
+                           "quantity" : "12",
+                           "name" : "Прегнил лиоф д/ин 5000ме 1",
+                           "price" : "219"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.814,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья - 6",
+                           "phones" : [
+                              {
+                                 "number" : "+74954682066"
+                              }
+                           ],
+                           "phone" : "+74954682066",
+                           "city" : "Москва",
+                           "latitude" : 55.8105,
+                           "address" : "Щёлковское шоссе, 82"
+                        },
+                        "drug" : {
+                           "descid" : "2087",
+                           "quantity" : "15",
+                           "name" : "Прегнил лиоф д/ин 5000ме 1",
+                           "price" : "220"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9864,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула здоровья",
+                           "phones" : [
+                              {
+                                 "number" : "+74955055909"
+                              }
+                           ],
+                           "phone" : "+74955055909",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7981,
+                           "address" : "шоссе Энтузиастов, 80"
+                        },
+                        "drug" : {
+                           "descid" : "2087",
+                           "quantity" : "15",
+                           "name" : "Прегнил лиоф д/ин 5000ме 1",
+                           "price" : "216.4"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "человеческий хорионический гонадотропин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "carvedilol_obolenskoje",
+            "rus_name" : "Карведилол оболенское",
+            "form" : "таб. 25 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "carvedilol_obolenskoje",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5724,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Авиа-Чайка г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999087181"
+                              }
+                           ],
+                           "phone" : "+74999087181",
+                           "city" : "Москва",
+                           "latitude" : 55.9037,
+                           "address" : "Абрамцевская улица, 9 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2856",
+                           "quantity" : "1",
+                           "name" : "Карведилол оболенское таб. 25мг 30",
+                           "price" : "106"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "карведилол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

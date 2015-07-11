@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "taxotere",
+            "rus_name" : "Таксотер®",
+            "form" : "конц. д/пригот. р-ра д/инф. 20 мг/0.5 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "taxotere",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6732,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Добрая аптека",
+                           "phones" : [
+                              {
+                                 "number" : "+74997500250"
+                              }
+                           ],
+                           "phone" : "+74997500250",
+                           "city" : "Москва",
+                           "latitude" : 55.7049,
+                           "address" : "5-я Кожуховская улица, 18 к1"
+                        },
+                        "drug" : {
+                           "descid" : "419",
+                           "quantity" : "3",
+                           "name" : "Таксотер конц.для приг.р-ра для инф. 20мг",
+                           "price" : "6440"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6144,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Масстрейд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217856"
+                              },
+                              {
+                                 "number" : "+74959217885"
+                              }
+                           ],
+                           "phone" : "+74959217856; +74959217885",
+                           "city" : "Москва",
+                           "latitude" : 55.6537,
+                           "address" : "Чонгарский бульвар, 10к1"
+                        },
+                        "drug" : {
+                           "descid" : "419",
+                           "quantity" : "2",
+                           "name" : "Таксотер, конц д/инф 20мг/0,5мл 1",
+                           "price" : "5600"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "доцетаксел (в форме доцетаксела тригидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

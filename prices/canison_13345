@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "canison",
+            "rus_name" : "Канизон",
+            "form" : "таб. вагин. 100 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "canison",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6019,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "&quot;БОГАТЫРЬ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953140060"
+                              },
+                              {
+                                 "number" : "+74957896029"
+                              }
+                           ],
+                           "phone" : "+74953140060; +74957896029",
+                           "city" : "Москва",
+                           "latitude" : 55.6094,
+                           "address" : "Кировоградская улица, 28 к1"
+                        },
+                        "drug" : {
+                           "descid" : "3873",
+                           "quantity" : "1",
+                           "name" : "Канизон тбл вагин. 100мг 6",
+                           "price" : "6.8"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "клотримазол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

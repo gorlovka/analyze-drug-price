@@ -1,0 +1,131 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "diphenin",
+            "rus_name" : "Дифенин",
+            "form" : "таб. 100 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "diphenin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7154,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №165 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8152,
+                           "address" : "бульвар Маршала Рокоссовского, 31с2"
+                        },
+                        "drug" : {
+                           "descid" : "2704",
+                           "quantity" : "4",
+                           "name" : "Дифенин табл. 100мг n20",
+                           "price" : "46.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5173,
+                           "roundtheclock" : 1,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №69",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6676,
+                           "address" : "Ленинский проспект, 99"
+                        },
+                        "drug" : {
+                           "descid" : "2704",
+                           "quantity" : "1",
+                           "name" : "Дифенин табл. 100мг n20",
+                           "price" : "50"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6716,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;Социальные аптеки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79168565716"
+                              }
+                           ],
+                           "phone" : "+79168565716",
+                           "city" : "Москва",
+                           "latitude" : 55.8927,
+                           "address" : "Студёный проезд, 36"
+                        },
+                        "drug" : {
+                           "descid" : "2704",
+                           "quantity" : "1",
+                           "name" : "Дифенин табл. 100мг n10",
+                           "price" : "27.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.1982,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 489",
+                           "phones" : [
+                              {
+                                 "number" : "+79265191941"
+                              }
+                           ],
+                           "phone" : "+79265191941",
+                           "city" : "Лосино-Петровский",
+                           "latitude" : 55.8732,
+                           "address" : "улица Ленина, 10с1"
+                        },
+                        "drug" : {
+                           "descid" : "2704",
+                           "quantity" : "2",
+                           "name" : "Дифенин табл. 100мг n10",
+                           "price" : "34"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "фенитоин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

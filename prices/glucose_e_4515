@@ -1,0 +1,93 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "glucose_e",
+            "rus_name" : "Глюкоза-э",
+            "form" : "р-р д/инф. 10%",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "glucose_e",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5878,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Калина Фарм МСК",
+                           "phones" : [
+                              {
+                                 "number" : "+74991267745"
+                              },
+                              {
+                                 "number" : "+74956646053"
+                              },
+                              {
+                                 "number" : "+74956646056"
+                              },
+                              {
+                                 "number" : "+78005500321"
+                              }
+                           ],
+                           "phone" : "+74991267745; +74956646053; +74956646056; +78005500321",
+                           "city" : "Москва",
+                           "latitude" : 55.6915,
+                           "address" : "улица Шверника, 12/2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2115",
+                           "quantity" : "5",
+                           "name" : "Глюкоза-э, р-р д/инф 10% 200мл",
+                           "price" : "32.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5363,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ДиВо&quot; 2",
+                           "phones" : [
+                              {
+                                 "number" : "+74967557091"
+                              },
+                              {
+                                 "number" : "+74994003421"
+                              }
+                           ],
+                           "phone" : "+74967557091; +74994003421",
+                           "city" : "Подольск",
+                           "latitude" : 55.4224,
+                           "address" : "улица Свердлова, 36а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2115",
+                           "quantity" : "2",
+                           "name" : "Глюкоза-э, р-р д/инф 10% 200мл",
+                           "price" : "22.33"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "декстроза"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

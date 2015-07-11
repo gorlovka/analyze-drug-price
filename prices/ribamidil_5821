@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ribamidil",
+            "rus_name" : "Рибамидил",
+            "form" : "таб. 200 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ribamidil",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7581,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармацевт Уздеников г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74953455000"
+                              },
+                              {
+                                 "number" : "+74953450310"
+                              }
+                           ],
+                           "phone" : "+74953455000; +74953450310",
+                           "city" : "Москва",
+                           "latitude" : 55.6496,
+                           "address" : "Мячковский бульвар, 18 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2574",
+                           "quantity" : "64",
+                           "name" : "Рибамидил тб 200мг блист n10x2",
+                           "price" : "430"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "рибавирин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

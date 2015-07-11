@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ascovit",
+            "rus_name" : "Асковит",
+            "form" : "порошок д/пригот. р-ра д/приема внутрь 1000 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ascovit",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7262,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Авиценнафарма Халтуринская, 18",
+                           "phones" : [
+                              {
+                                 "number" : "+74956031967"
+                              },
+                              {
+                                 "number" : "+79652088880"
+                              }
+                           ],
+                           "phone" : "+74956031967; +79652088880",
+                           "city" : "Москва",
+                           "latitude" : 55.8053,
+                           "address" : "Халтуринская улица, 18"
+                        },
+                        "drug" : {
+                           "descid" : "3839",
+                           "quantity" : "2",
+                           "name" : "Асковит вит с пор д/вн. прим-я 1г пак n10",
+                           "price" : "158"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "аскорбиновая кислота"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

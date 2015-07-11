@@ -1,0 +1,156 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "minirin",
+            "rus_name" : "Минирин®",
+            "form" : "таб. 100 мкг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 5,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "minirin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5923,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АС&quot;Эвалар&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992463637"
+                              }
+                           ],
+                           "phone" : "+74992463637",
+                           "city" : "Москва",
+                           "latitude" : 55.7357,
+                           "address" : "Зубовский бульвар, 13 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1215",
+                           "quantity" : "2",
+                           "name" : "Минирин 0,0002 n30 табл",
+                           "price" : "2532.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6118,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;АС&quot;Эвалар&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992301871"
+                              }
+                           ],
+                           "phone" : "+74992301871",
+                           "city" : "Москва",
+                           "latitude" : 55.7282,
+                           "address" : "Калужская площадь, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "1215",
+                           "quantity" : "2",
+                           "name" : "Минирин 0,0002 n30 табл",
+                           "price" : "2520.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5862,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "Фармсервис медикал",
+                           "phones" : [
+                              {
+                                 "number" : "+74992501012"
+                              }
+                           ],
+                           "phone" : "+74992501012",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "1-я Тверская-Ямская улица, 36 с1"
+                        },
+                        "drug" : {
+                           "descid" : "1215",
+                           "quantity" : "3",
+                           "name" : "Минирин 0,2 таб 30",
+                           "price" : "2430"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6633,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фарматон г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74954711119"
+                              }
+                           ],
+                           "phone" : "+74954711119",
+                           "city" : "Москва",
+                           "latitude" : 55.8704,
+                           "address" : "улица Менжинского, 36"
+                        },
+                        "drug" : {
+                           "descid" : "1215",
+                           "quantity" : "2",
+                           "name" : "Минирин таб. 100мкг 30",
+                           "price" : "1339"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9914,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ИНТЕКО&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965671185"
+                              }
+                           ],
+                           "phone" : "+74965671185",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9228,
+                           "address" : "площадь Ленина, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "1215",
+                           "quantity" : "1",
+                           "name" : "Минирин 0,0001 30 табл",
+                           "price" : "1389"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "десмопрессина ацетат"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

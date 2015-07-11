@@ -1,0 +1,1839 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "diclofenac",
+            "rus_name" : "Диклофенак",
+            "form" : "р-р д/в/м введения 25 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 68,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "diclofenac",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (18, Маросейка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0970",
+                                    "1307"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0970, 1307",
+                           "city" : "Москва",
+                           "latitude" : 55.7572,
+                           "address" : "улица Маросейка, 2/15 с1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "3",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "55"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6159,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (13, Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0984"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0984",
+                           "city" : "Москва",
+                           "latitude" : 55.7411,
+                           "address" : "улица Большая Полянка, 4/10"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "4",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "54"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6335,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла (Сретенский тупик)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0944"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0944",
+                           "city" : "Москва",
+                           "latitude" : 55.7712,
+                           "address" : "Сретенский тупик, 4"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "2",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "60"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5843,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (109, Смоленский бульвар)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957807971"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0923",
+                                    "1346"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957807971; +74952311697, доб. 0923, 1346",
+                           "city" : "Москва",
+                           "latitude" : 55.7404,
+                           "address" : "Смоленский бульвар, 7"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "52"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6363,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва (133, Павелецкая)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1363"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1363",
+                           "city" : "Москва",
+                           "latitude" : 55.7297,
+                           "address" : "Павелецкая площадь, 2 с3"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "54.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6376,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (89, Дубининская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952358205"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1340"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952358205; +74952311697, доб. 1340",
+                           "city" : "Москва",
+                           "latitude" : 55.7277,
+                           "address" : "Дубининская улица, 11/17 к2"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "55.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6617,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соби-Фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955451350"
+                              },
+                              {
+                                 "number" : "+79262305469"
+                              }
+                           ],
+                           "phone" : "+74955451350; +79262305469",
+                           "city" : "Москва",
+                           "latitude" : 55.7384,
+                           "address" : "Марксистская улица, 3 с1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/и в/м 25мг/мл 3мл амп n5",
+                           "price" : "30"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5575,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79269093008"
+                              }
+                           ],
+                           "phone" : "+79269093008",
+                           "city" : "Москва",
+                           "latitude" : 55.7568,
+                           "address" : "Мантулинская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "8",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5 хемофарм",
+                           "price" : "50"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.665,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74952628054"
+                              }
+                           ],
+                           "phone" : "+74952628054",
+                           "city" : "Москва",
+                           "latitude" : 55.7786,
+                           "address" : "Краснопрудная улица, 24"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "5",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5 хемофарм",
+                           "price" : "48.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;КедрФарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994093601"
+                              }
+                           ],
+                           "phone" : "+74994093601",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "Хорошёвское шоссе, 46"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "20",
+                           "name" : "Диклофенак р-р д/и 25мг/мл амп 3мл n5",
+                           "price" : "46"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5425,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74991523829"
+                              },
+                              {
+                                 "number" : "+74995855515"
+                              }
+                           ],
+                           "phone" : "+74991523829; +74995855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8011,
+                           "address" : "Красноармейская улица, 24"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "4",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5 хемофарм",
+                           "price" : "46"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.499,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москава (4, Багратионовская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991451276",
+                                 "additional" : [
+                                    "1988",
+                                    "1328"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74991451276, доб. 1988, 1328",
+                           "city" : "Москва",
+                           "latitude" : 55.7449,
+                           "address" : "улица Барклая, 12/12"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "60"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4966,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1335",
+                                    "1336",
+                                    "1337"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1335, 1336, 1337",
+                           "city" : "Москва",
+                           "latitude" : 55.7459,
+                           "address" : "улица Барклая, 16 к1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "5",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "55.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 18",
+                           "phones" : [
+                              {
+                                 "number" : "+79039616643"
+                              }
+                           ],
+                           "phone" : "+79039616643",
+                           "city" : "Москва",
+                           "latitude" : 55.7986,
+                           "address" : "Большая Черкизовская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "5",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "51.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4899,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (5, Маршала Жукова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1914"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1914",
+                           "city" : "Москва",
+                           "latitude" : 55.7753,
+                           "address" : "проспект Маршала Жукова, 19 к1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "8",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "49"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7177,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 23",
+                           "phones" : [
+                              {
+                                 "number" : "+74991628323"
+                              }
+                           ],
+                           "phone" : "+74991628323",
+                           "city" : "Москва",
+                           "latitude" : 55.8046,
+                           "address" : "Просторная улица, 8"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "6",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "51"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6572,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74996122568"
+                              }
+                           ],
+                           "phone" : "+74996122568",
+                           "city" : "Москва",
+                           "latitude" : 55.6774,
+                           "address" : "Нагатинская улица, 28"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "22",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5 хемофарм",
+                           "price" : "46"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4806,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (52, Народного ополчения)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991918571"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1326"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74991918571; +74952311697, доб. 1326",
+                           "city" : "Москва",
+                           "latitude" : 55.7771,
+                           "address" : "улица Народного Ополчения, 20 к1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "53.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7277,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74991688104"
+                              }
+                           ],
+                           "phone" : "+74991688104",
+                           "city" : "Москва",
+                           "latitude" : 55.8069,
+                           "address" : "Открытое шоссе, 2 к12"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "23",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5 хемофарм",
+                           "price" : "47.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5583,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1613",
+                                    "1614"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1613, 1614",
+                           "city" : "Москва",
+                           "latitude" : 55.6698,
+                           "address" : "улица Гарибальди, 27 к4"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "3",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "54.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4548,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (11, Живописная)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959479584"
+                              }
+                           ],
+                           "phone" : "+74959479584",
+                           "city" : "Москва",
+                           "latitude" : 55.7883,
+                           "address" : "Живописная улица, 24"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "3",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "54"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4485,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва (135, Новикова Прибоя)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1365"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1365",
+                           "city" : "Москва",
+                           "latitude" : 55.7839,
+                           "address" : "набережная Новикова-Прибоя, 10 к1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "55.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7844,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74993678872"
+                              }
+                           ],
+                           "phone" : "+74993678872",
+                           "city" : "Москва",
+                           "latitude" : 55.7905,
+                           "address" : "3-я Парковая улица, 8/19"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "28",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5 хемофарм",
+                           "price" : "46"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8047,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (62, Первомайская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954612049"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1329"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74954612049; +74952311697, доб. 1329",
+                           "city" : "Москва",
+                           "latitude" : 55.7936,
+                           "address" : "Первомайская улица, 89"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "54"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5987,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека 159 Ригла",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1974"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1974",
+                           "city" : "Москва",
+                           "latitude" : 55.6371,
+                           "address" : "Чертаново Северное микрорайон, 1 корпус 2"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "53"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4942,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 17",
+                           "phones" : [
+                              {
+                                 "number" : "+79637620520"
+                              }
+                           ],
+                           "phone" : "+79637620520",
+                           "city" : "Москва",
+                           "latitude" : 55.6579,
+                           "address" : "улица 26-ти Бакинских Комиссаров, 4к2"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "5",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "51.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.827,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 27",
+                           "phones" : [
+                              {
+                                 "number" : "+74953755628"
+                              }
+                           ],
+                           "phone" : "+74953755628",
+                           "city" : "Москва",
+                           "latitude" : 55.7403,
+                           "address" : "улица Старый Гай, 8б"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "51.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4489,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 20",
+                           "phones" : [
+                              {
+                                 "number" : "+79015040424"
+                              }
+                           ],
+                           "phone" : "+79015040424",
+                           "city" : "Москва",
+                           "latitude" : 55.6814,
+                           "address" : "улица Наташи Ковшовой, 8к1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "10",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "50.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6338,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Полюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994732334"
+                              }
+                           ],
+                           "phone" : "+74994732334",
+                           "city" : "Москва",
+                           "latitude" : 55.8701,
+                           "address" : "проезд Дежнёва, 27 к1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "4",
+                           "name" : "Диклофенак р-р д/и в/м 25мг/мл 3мл амп n5",
+                           "price" : "55"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8279,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 44",
+                           "phones" : [
+                              {
+                                 "number" : "+74957412770"
+                              }
+                           ],
+                           "phone" : "+74957412770",
+                           "city" : "Москва",
+                           "latitude" : 55.7789,
+                           "address" : "Челябинская улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "3",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл 5",
+                           "price" : "51.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7591,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москава (23, Братиславская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0971",
+                                    "1309"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0971, 1309",
+                           "city" : "Москва",
+                           "latitude" : 55.6598,
+                           "address" : "Братиславская улица, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "3",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "55"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6968,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 33",
+                           "phones" : [
+                              {
+                                 "number" : "+74999408039"
+                              }
+                           ],
+                           "phone" : "+74999408039",
+                           "city" : "Москва",
+                           "latitude" : 55.6373,
+                           "address" : "Каширское шоссе, 57 к2"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "3",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "52"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8074,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 16",
+                           "phones" : [
+                              {
+                                 "number" : "+74996827245"
+                              }
+                           ],
+                           "phone" : "+74996827245",
+                           "city" : "Москва",
+                           "latitude" : 55.8175,
+                           "address" : "Байкальская улица, 29"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "5",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "50.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5646,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (73, Керамический)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959001172"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1333"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74959001172; +74952311697, доб. 1333",
+                           "city" : "Москва",
+                           "latitude" : 55.8755,
+                           "address" : "Керамический проезд, 51 к2"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "54.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5375,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 39",
+                           "phones" : [
+                              {
+                                 "number" : "+79150210737"
+                              }
+                           ],
+                           "phone" : "+79150210737",
+                           "city" : "Москва",
+                           "latitude" : 55.6324,
+                           "address" : "улица Островитянова, 43а"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "3",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "50.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 25",
+                           "phones" : [
+                              {
+                                 "number" : "+79645349561"
+                              }
+                           ],
+                           "phone" : "+79645349561",
+                           "city" : "Москва",
+                           "latitude" : 55.8606,
+                           "address" : "улица Лавочкина, 42"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "7",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "52.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6964,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «ТОРГМЕТ»",
+                           "phones" : [
+                              {
+                                 "number" : "+74956600255"
+                              }
+                           ],
+                           "phone" : "+74956600255",
+                           "city" : "Москва",
+                           "latitude" : 55.8798,
+                           "address" : "улица Малыгина, 5 к1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак-хемофарм р-р д/ин. 25мг/мл 3 мл амп. х5 б м",
+                           "price" : "53.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6666,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "АПТЕКА ЦАРИЦЫНСКАЯ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957283766"
+                              }
+                           ],
+                           "phone" : "+74957283766",
+                           "city" : "Москва",
+                           "latitude" : 55.6188,
+                           "address" : "Каспийская улица, 36"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "7",
+                           "name" : "Диклофенак р-р для в/м введ. 25мг/мл амп. 3мл 5.",
+                           "price" : "54.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5122,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959679536"
+                              }
+                           ],
+                           "phone" : "+74959679536",
+                           "city" : "Москва",
+                           "latitude" : 55.6279,
+                           "address" : "Профсоюзная улица, 138"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "6",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5 хемофарм",
+                           "price" : "48"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Поляна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955437314"
+                              }
+                           ],
+                           "phone" : "+74955437314",
+                           "city" : "Москва",
+                           "latitude" : 55.8884,
+                           "address" : "Алтуфьевское шоссе, 70"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/и в/м 25мг/мл 3мл амп n5",
+                           "price" : "52"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7446,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 30",
+                           "phones" : [
+                              {
+                                 "number" : "+79647294704"
+                              }
+                           ],
+                           "phone" : "+79647294704",
+                           "city" : "Москва",
+                           "latitude" : 55.6329,
+                           "address" : "улица Борисовские Пруды, 14 к4"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "15",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "51.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.668,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЖА Аптека&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994768475"
+                              }
+                           ],
+                           "phone" : "+74994768475",
+                           "city" : "Москва",
+                           "latitude" : 55.8925,
+                           "address" : "Студёный проезд, 28"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "9",
+                           "name" : "Диклофенак р-р для в/м введ 25мг/мл 3мл n5 амп уп кнт-яч пк &amp;lt;5*1&amp;gt;",
+                           "price" : "53"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5918,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (40, Шенкурский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1942"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1942",
+                           "city" : "Москва",
+                           "latitude" : 55.8975,
+                           "address" : "Шенкурский проезд, 14"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "8",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "54"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8546,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптечная сеть Оз г.Москва (66, Жулебинский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957045202"
+                              }
+                           ],
+                           "phone" : "+74957045202",
+                           "city" : "Москва",
+                           "latitude" : 55.6891,
+                           "address" : "Жулебинский бульвар, 30 к1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "52.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6968,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (34, Шипиловский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74953434230"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1314"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74953434230; +74952311697, доб. 1314",
+                           "city" : "Москва",
+                           "latitude" : 55.6113,
+                           "address" : "Шипиловский проезд, 39 к1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "4",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "54.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7199,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 46",
+                           "phones" : [
+                              {
+                                 "number" : "+74983017066"
+                              }
+                           ],
+                           "phone" : "+74983017066",
+                           "city" : "Мытищи",
+                           "latitude" : 55.8945,
+                           "address" : "улица Веры Волошиной, 20, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "2",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "52.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла (Пятницкое шоссе)",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.8358,
+                           "address" : "Пятницкое шоссе, 3"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "5",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "54"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8734,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 26",
+                           "phones" : [
+                              {
+                                 "number" : "+74955446098"
+                              }
+                           ],
+                           "phone" : "+74955446098",
+                           "city" : "Люберцы",
+                           "latitude" : 55.681,
+                           "address" : "улица 3-е Почтовое Отделение, 49к1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "3",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "52.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8932,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1779",
+                                    "1780"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1779, 1780",
+                           "city" : "Люберцы",
+                           "latitude" : 55.7054,
+                           "address" : "улица 8 Марта, 61, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "53"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9019,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 3",
+                           "phones" : [
+                              {
+                                 "number" : "+74983021710"
+                              }
+                           ],
+                           "phone" : "+74983021710",
+                           "city" : "Люберцы",
+                           "latitude" : 55.6962,
+                           "address" : "улица Воинов-Интернационалистов, 3, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "12",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "51.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3555,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74957540600"
+                              }
+                           ],
+                           "phone" : "+74957540600",
+                           "city" : "Москва",
+                           "latitude" : 55.8353,
+                           "address" : "улица Генерала Белобородова, 16"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "16",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5 хемофарм",
+                           "price" : "53"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3298,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538222"
+                              },
+                              {
+                                 "number" : "+74955538222"
+                              }
+                           ],
+                           "phone" : "+74995538222; +74955538222",
+                           "city" : "Одинцово",
+                           "latitude" : 55.6948,
+                           "address" : "улица Чистяковой, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "3",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5 хемофарм",
+                           "price" : "47.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6741,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 32",
+                           "phones" : [
+                              {
+                                 "number" : "+74957451404"
+                              }
+                           ],
+                           "phone" : "+74957451404",
+                           "city" : "Москва",
+                           "latitude" : 55.5816,
+                           "address" : "Загорьевская улица, 1 к1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "4",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "51"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9067,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 7",
+                           "phones" : [
+                              {
+                                 "number" : "+79637103417"
+                              }
+                           ],
+                           "phone" : "+79637103417",
+                           "city" : "Люберцы",
+                           "latitude" : 55.6911,
+                           "address" : "Комсомольский проспект, 16/2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "10",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "52.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8504,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (252, пл. Дмитрия Донского)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1903",
+                                    "1989"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1903, 1989",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6299,
+                           "address" : "площадь Дмитрия Донского, 6, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "2",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "55"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3965,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла (Куркинское шоссе)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0946",
+                                    "0955"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0946, 0955",
+                           "city" : "Москва",
+                           "latitude" : 55.885,
+                           "address" : "Куркинское шоссе, 17 к1"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "56"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8623,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 13",
+                           "phones" : [
+                              {
+                                 "number" : "+79015140401"
+                              }
+                           ],
+                           "phone" : "+79015140401",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6276,
+                           "address" : "Томилинская улица, 7, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "5",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "52.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5041,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (230, Проспект Пацаева)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956907934",
+                                 "additional" : [
+                                    "1388"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74956907934, доб. 1388",
+                           "city" : "Долгопрудный",
+                           "latitude" : 55.9474,
+                           "address" : "проспект Пацаева, 7 к2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "53"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.971,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (105, Свердлова)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1705"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1705",
+                           "city" : "Балашиха",
+                           "latitude" : 55.8296,
+                           "address" : "улица Свердлова, 37, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "54.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9735,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965666019"
+                              },
+                              {
+                                 "number" : "+74965666019"
+                              }
+                           ],
+                           "phone" : "+74965666019; +74965666019",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9222,
+                           "address" : "Центральная улица, 49, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "23",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5 хемофарм",
+                           "price" : "47"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9986,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74965669412"
+                              },
+                              {
+                                 "number" : "+74965669412"
+                              }
+                           ],
+                           "phone" : "+74965669412; +74965669412",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9147,
+                           "address" : "Краснознаменская улица, 12, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "15",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5 хемофарм",
+                           "price" : "46"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4729,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 24",
+                           "phones" : [
+                              {
+                                 "number" : "+74957308967"
+                              }
+                           ],
+                           "phone" : "+74957308967",
+                           "city" : "Лобня",
+                           "latitude" : 56.0081,
+                           "address" : "Крупской улица, 24"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "4",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "52.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4822,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (219, Ленина)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959158947"
+                              }
+                           ],
+                           "phone" : "+74959158947",
+                           "city" : "Лобня",
+                           "latitude" : 56.0124,
+                           "address" : "улица Ленина, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "2",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "60.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4402,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (247, Краснополянский)",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538440"
+                              }
+                           ],
+                           "phone" : "+74995538440",
+                           "city" : "Лобня",
+                           "latitude" : 56.0084,
+                           "address" : "Краснополянский проезд, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "4",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5",
+                           "price" : "56"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.045,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957397697"
+                              }
+                           ],
+                           "phone" : "+74957397697",
+                           "city" : "Фрязино",
+                           "latitude" : 55.9557,
+                           "address" : "Октябрьская улица, 10, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "51",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5 хемофарм",
+                           "price" : "46"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4943,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74991495475"
+                              }
+                           ],
+                           "phone" : "+74991495475",
+                           "city" : "Московская область",
+                           "latitude" : 55.4292,
+                           "address" : "Подольск, 29b"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "1",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5 хемофарм",
+                           "price" : "54"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5373,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74967557043"
+                              }
+                           ],
+                           "phone" : "+74967557043",
+                           "city" : "Подольск",
+                           "latitude" : 55.4233,
+                           "address" : "улица Свердлова, 30/1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "5",
+                           "name" : "Диклофенак р-р д/ин. 25мг/мл 3мл 5 хемофарм",
+                           "price" : "47.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2214,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 15",
+                           "phones" : [
+                              {
+                                 "number" : "+79637825591"
+                              }
+                           ],
+                           "phone" : "+79637825591",
+                           "city" : "Солнечногорский район",
+                           "latitude" : 56.0131,
+                           "address" : "Ржавки, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "585",
+                           "quantity" : "7",
+                           "name" : "Диклофенак р-р д/ин 25мг/мл амп. 3мл n5 сербия",
+                           "price" : "50.6"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "диклофенак натрия + диклофенак диэтиламина"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

@@ -1,0 +1,131 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "lucetam",
+            "rus_name" : "Луцетам®",
+            "form" : "таб., покр. пленочной оболочкой, 400 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "lucetam",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6761,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Целитель г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956326238"
+                              }
+                           ],
+                           "phone" : "+74956326238",
+                           "city" : "Москва",
+                           "latitude" : 55.7377,
+                           "address" : "Малая Калитниковская улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "656",
+                           "quantity" : "1",
+                           "name" : "Луцетам 1.2 n20 табл п/о эгис фармацевтический завод зао (венгрия)",
+                           "price" : "118.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6035,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ТЭКС-ФАРМ ОТРАДНОЕ",
+                           "phones" : [
+                              {
+                                 "number" : "+74997452967"
+                              }
+                           ],
+                           "phone" : "+74997452967",
+                           "city" : "Москва",
+                           "latitude" : 55.8655,
+                           "address" : "улица Декабристов, 15"
+                        },
+                        "drug" : {
+                           "descid" : "656",
+                           "quantity" : "3",
+                           "name" : "Луцетам таб. 1200 20",
+                           "price" : "98"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6988,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МАКС-М&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955486445"
+                              }
+                           ],
+                           "phone" : "+74955486445",
+                           "city" : "Московская область",
+                           "latitude" : 55.5551,
+                           "address" : "Видное, 9"
+                        },
+                        "drug" : {
+                           "descid" : "656",
+                           "quantity" : "2",
+                           "name" : "Луцетам 1,2 20 табл п/о",
+                           "price" : "104"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6716,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЗАБОТА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+79037977747"
+                              }
+                           ],
+                           "phone" : "+79037977747",
+                           "city" : "Видное",
+                           "latitude" : 55.5427,
+                           "address" : "Совхозная улица, 5к3А"
+                        },
+                        "drug" : {
+                           "descid" : "656",
+                           "quantity" : "4",
+                           "name" : "Луцетам 1,2 n20 табл п/о",
+                           "price" : "116"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "пирацетам"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

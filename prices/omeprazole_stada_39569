@@ -1,0 +1,451 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "omeprazole_stada",
+            "rus_name" : "Омепразол штада",
+            "form" : "капс. кишечнорастворимые 20 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 15,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "omeprazole_stada",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6302,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Эра Здоровья&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959886458"
+                              },
+                              {
+                                 "number" : "+74957786458"
+                              }
+                           ],
+                           "phone" : "+74959886458; +74957786458",
+                           "city" : "Москва",
+                           "latitude" : 55.7431,
+                           "address" : "Пятницкий переулок, 3"
+                        },
+                        "drug" : {
+                           "descid" : "8057",
+                           "quantity" : "1",
+                           "name" : "Омепразол-штада капс 0,02 30",
+                           "price" : "57"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5474,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1610"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1610",
+                           "city" : "Москва",
+                           "latitude" : 55.7571,
+                           "address" : "Шмитовский проезд, 19"
+                        },
+                        "drug" : {
+                           "descid" : "8057",
+                           "quantity" : "1",
+                           "name" : "Омепразол штада капс. 20мг 30",
+                           "price" : "67"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7883,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "206 аптека На Рязанском проспекте г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74991703501"
+                              }
+                           ],
+                           "phone" : "+74991703501",
+                           "city" : "Москва",
+                           "latitude" : 55.7187,
+                           "address" : "Рязанский проспект, 71 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8057",
+                           "quantity" : "6",
+                           "name" : "Омепразол штада капс. кш/раств. 20мг 30",
+                           "price" : "57.6"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4009,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Калина Фарм МСК",
+                           "phones" : [
+                              {
+                                 "number" : "+74954481534"
+                              },
+                              {
+                                 "number" : "+74954470039"
+                              },
+                              {
+                                 "number" : "+78005500321"
+                              }
+                           ],
+                           "phone" : "+74954481534; +74954470039; +78005500321",
+                           "city" : "Москва",
+                           "latitude" : 55.7202,
+                           "address" : "улица Толбухина, 7 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8057",
+                           "quantity" : "30",
+                           "name" : "Омепразол штада, капс 20мг 30",
+                           "price" : "58.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6528,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла (100, Шокальского)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0994"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0994",
+                           "city" : "Москва",
+                           "latitude" : 55.8819,
+                           "address" : "проезд Шокальского, 41"
+                        },
+                        "drug" : {
+                           "descid" : "8057",
+                           "quantity" : "7",
+                           "name" : "Омепразол штада капс. 20мг 30",
+                           "price" : "62.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8545,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1756",
+                                    "1757"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1756, 1757",
+                           "city" : "Москва",
+                           "latitude" : 55.7112,
+                           "address" : "Большая Косинская улица, 16 к1"
+                        },
+                        "drug" : {
+                           "descid" : "8057",
+                           "quantity" : "7",
+                           "name" : "Омепразол штада капс. 20мг 30",
+                           "price" : "62.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7328,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "4816",
+                                    "4817"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 4816, 4817",
+                           "city" : "Москва",
+                           "latitude" : 55.612,
+                           "address" : "Ореховый бульвар, 22а"
+                        },
+                        "drug" : {
+                           "descid" : "8057",
+                           "quantity" : "2",
+                           "name" : "Омепразол штада капс. 20мг 30",
+                           "price" : "67"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7305,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Живика",
+                           "phones" : [
+                              {
+                                 "number" : "+74986872693"
+                              }
+                           ],
+                           "phone" : "+74986872693",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9119,
+                           "address" : "улица Матросова, 14/16"
+                        },
+                        "drug" : {
+                           "descid" : "8057",
+                           "quantity" : "14",
+                           "name" : "Омепразол штада капс. 20мг 30",
+                           "price" : "49.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3308,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (253, Пионерская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74955632479"
+                              }
+                           ],
+                           "phone" : "+74955632479",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8272,
+                           "address" : "Пионерская улица, 14, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8057",
+                           "quantity" : "7",
+                           "name" : "Омепразол штада капс. 20мг 30",
+                           "price" : "62.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5724,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москава (25, Синельниковская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74957128727",
+                                 "additional" : [
+                                    "1310"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74957128727, доб. 1310",
+                           "city" : "Москва",
+                           "latitude" : 55.5425,
+                           "address" : "Синельниковская улица, 47"
+                        },
+                        "drug" : {
+                           "descid" : "8057",
+                           "quantity" : "9",
+                           "name" : "Омепразол штада капс. 20мг 30",
+                           "price" : "62.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.994,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (209, 1-й Советский пер)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965670288"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1374"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965670288; +74952311697, доб. 1374",
+                           "city" : "Щёлково",
+                           "latitude" : 55.9195,
+                           "address" : "1-й Советский переулок, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8057",
+                           "quantity" : "3",
+                           "name" : "Омепразол штада капс. 20мг 30",
+                           "price" : "62.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.3975,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (217, III Интернационала)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965110033"
+                              },
+                              {
+                                 "number" : "+74965193242"
+                              }
+                           ],
+                           "phone" : "+74965110033; +74965193242",
+                           "city" : "Ногинск",
+                           "latitude" : 55.84,
+                           "address" : "3-го Интернационала улица, 252"
+                        },
+                        "drug" : {
+                           "descid" : "8057",
+                           "quantity" : "5",
+                           "name" : "Омепразол штада капс. 20мг 30",
+                           "price" : "62.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4353,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "4820",
+                                    "4824"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 4820, 4824",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8074,
+                           "address" : "проспект Ленина, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8057",
+                           "quantity" : "21",
+                           "name" : "Омепразол штада капс. 20мг 30",
+                           "price" : "57"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4394,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (215, Комсомольская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965143171"
+                              },
+                              {
+                                 "number" : "+74965191501"
+                              }
+                           ],
+                           "phone" : "+74965143171; +74965191501",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8515,
+                           "address" : "Комсомольская улица, 76, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8057",
+                           "quantity" : "2",
+                           "name" : "Омепразол штада капс. 20мг 30",
+                           "price" : "64"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4735,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО(210, Золотухи)",
+                           "phones" : [
+                              {
+                                 "number" : "+74965791414",
+                                 "additional" : [
+                                    "0921"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74965791414, доб. 0921",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8053,
+                           "address" : "улица Золотухи, 8, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "8057",
+                           "quantity" : "5",
+                           "name" : "Омепразол штада капс. 20мг 30",
+                           "price" : "62.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "омепразол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

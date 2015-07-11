@@ -1,0 +1,131 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "paracetamol",
+            "rus_name" : "Парацетамол",
+            "form" : "супп. рект. д/детей 50 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "paracetamol",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.596,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678549"
+                              }
+                           ],
+                           "phone" : "+74999678549",
+                           "city" : "Москва",
+                           "latitude" : 55.7861,
+                           "address" : "Новослободская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "3404",
+                           "quantity" : "1",
+                           "name" : "Парацетамол супп рект д/детей 50мг 10",
+                           "price" : "23"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5281,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Сиджам&quot;1",
+                           "phones" : [
+                              {
+                                 "number" : "+74992497562"
+                              }
+                           ],
+                           "phone" : "+74992497562",
+                           "city" : "Москва",
+                           "latitude" : 55.7379,
+                           "address" : "Кутузовский проспект, 43"
+                        },
+                        "drug" : {
+                           "descid" : "3404",
+                           "quantity" : "2",
+                           "name" : "Парацетамол 0.5 10 супп",
+                           "price" : "42"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6084,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека на Плещеева (Юнайтедфарм)",
+                           "phones" : [
+                              {
+                                 "number" : "+74999017918"
+                              }
+                           ],
+                           "phone" : "+74999017918",
+                           "city" : "Москва",
+                           "latitude" : 55.8848,
+                           "address" : "улица Плещеева, 8"
+                        },
+                        "drug" : {
+                           "descid" : "3404",
+                           "quantity" : "3",
+                           "name" : "Парацетамол, супп д/детей 50мг 10",
+                           "price" : "38"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4074,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО&quot;ИФК&quot; 4",
+                           "phones" : [
+                              {
+                                 "number" : "+74986011113"
+                              }
+                           ],
+                           "phone" : "+74986011113",
+                           "city" : "Химки",
+                           "latitude" : 55.9012,
+                           "address" : "проспект Мельникова, 2Б"
+                        },
+                        "drug" : {
+                           "descid" : "3404",
+                           "quantity" : "1",
+                           "name" : "Парацетамол, супп д/детей 50мг 10",
+                           "price" : "32.1"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "парацетамол"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

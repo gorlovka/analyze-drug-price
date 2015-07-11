@@ -1,0 +1,131 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "cyanocobalamin_vial",
+            "rus_name" : "Цианокобаламин-виал",
+            "form" : "р-р д/инъекц. 200 мкг/1 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "cyanocobalamin_vial",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6384,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;С-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959955500"
+                              }
+                           ],
+                           "phone" : "+74959955500",
+                           "city" : "Москва",
+                           "latitude" : 55.7725,
+                           "address" : "Большая Сухаревская площадь, 9"
+                        },
+                        "drug" : {
+                           "descid" : "5100",
+                           "quantity" : "3",
+                           "name" : "Цианокобаламин-виал /вит.в12/, р-р д/инъ амп 200мкг 1мл 10",
+                           "price" : "23.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7978,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ИП Полторак Н.В",
+                           "phones" : [
+                              {
+                                 "number" : "+74992130143"
+                              }
+                           ],
+                           "phone" : "+74992130143",
+                           "city" : "Москва",
+                           "latitude" : 55.755,
+                           "address" : "Новогиреевская улица, 29 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5100",
+                           "quantity" : "2",
+                           "name" : "Цианокобаламин-виал /вит.в12/, р-р д/инъ амп 200мкг 1мл 10",
+                           "price" : "24"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6048,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953120632"
+                              }
+                           ],
+                           "phone" : "+74953120632",
+                           "city" : "Москва",
+                           "latitude" : 55.6286,
+                           "address" : "Чертановская улица, 9 к3"
+                        },
+                        "drug" : {
+                           "descid" : "5100",
+                           "quantity" : "2",
+                           "name" : "Цианокобаламин-виал /вит.в12/, р-р д/инъ амп 200мкг 1мл 10",
+                           "price" : "21.48"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4439,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ФГУП &quot;Аптека 21&quot;, г.Электросталь",
+                           "phones" : [
+                              {
+                                 "number" : "+74967029162"
+                              }
+                           ],
+                           "phone" : "+74967029162",
+                           "city" : "Электросталь",
+                           "latitude" : 55.7854,
+                           "address" : "проспект Ленина, 44/14, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "5100",
+                           "quantity" : "1",
+                           "name" : "Цианокобаламин-виал /вит.в12/, р-р д/инъ амп 200мкг 1мл 10",
+                           "price" : "25.9"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "цианокобаламин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

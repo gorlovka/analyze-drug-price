@@ -1,0 +1,106 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ecomed",
+            "rus_name" : "Экомед®",
+            "form" : "таб., покр. пленочной оболочкой, 250 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ecomed",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5862,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "Фармсервис медикал",
+                           "phones" : [
+                              {
+                                 "number" : "+74992501012"
+                              }
+                           ],
+                           "phone" : "+74992501012",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "1-я Тверская-Ямская улица, 36 с1"
+                        },
+                        "drug" : {
+                           "descid" : "5821",
+                           "quantity" : "1",
+                           "name" : "Экомед 0,5 n3 таб",
+                           "price" : "254"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5724,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Авиа-Чайка г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999087181"
+                              }
+                           ],
+                           "phone" : "+74999087181",
+                           "city" : "Москва",
+                           "latitude" : 55.9037,
+                           "address" : "Абрамцевская улица, 9 к1"
+                        },
+                        "drug" : {
+                           "descid" : "5821",
+                           "quantity" : "2",
+                           "name" : "Экомед 0,5 n3 табл п/плен/оболоч",
+                           "price" : "258"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0107,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ВИТА-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955229477"
+                              }
+                           ],
+                           "phone" : "+74955229477",
+                           "city" : "Балашиха",
+                           "latitude" : 55.749,
+                           "address" : "Пролетарская улица, 3"
+                        },
+                        "drug" : {
+                           "descid" : "5821",
+                           "quantity" : "1",
+                           "name" : "Экомед 0.5 n3 табл п/плен/оболоч авва рус. оао (россия)",
+                           "price" : "264"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "азитромицин (в форме дигидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

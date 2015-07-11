@@ -1,0 +1,3256 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "lisinoton",
+            "rus_name" : "Лизинотон",
+            "form" : "таб. 20 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 129,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "lisinoton",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6064,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №362",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7534,
+                           "address" : "улица Воздвиженка, 10"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "86"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6314,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №481",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.744,
+                           "address" : "Большой Овчинниковский переулок, 12 с1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "219"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959535296"
+                              }
+                           ],
+                           "phone" : "+74959535296",
+                           "city" : "Москва",
+                           "latitude" : 55.7362,
+                           "address" : "Новокузнецкая улица, 20/21-19 с5"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон-h, тбл 20мг 28",
+                           "price" : "339"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва (Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992382865"
+                              },
+                              {
+                                 "number" : "+74992387410"
+                              }
+                           ],
+                           "phone" : "+74992382865; +74992387410",
+                           "city" : "Москва",
+                           "latitude" : 55.7341,
+                           "address" : "улица Большая Полянка, 30"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон таб 20мг 28",
+                           "price" : "215"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон таб 20мг 28",
+                           "price" : "219"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5832,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №929",
+                           "phones" : [
+                              {
+                                 "number" : "+74957950984"
+                              }
+                           ],
+                           "phone" : "+74957950984",
+                           "city" : "Москва",
+                           "latitude" : 55.7477,
+                           "address" : "улица Арбат, 54/2"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "77.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6516,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Диасфарм Таганка",
+                           "phones" : [
+                              {
+                                 "number" : "+74959151137"
+                              },
+                              {
+                                 "number" : "+74997649000"
+                              },
+                              {
+                                 "number" : "+74992201185"
+                              }
+                           ],
+                           "phone" : "+74959151137; +74997649000; +74992201185",
+                           "city" : "Москва",
+                           "latitude" : 55.743,
+                           "address" : "Нижняя Радищевская улица, 2"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "4",
+                           "name" : "Лизинотон 20мг 28 табл",
+                           "price" : "208"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.594,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №262",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.767,
+                           "address" : "Большая Садовая улица, 10"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "174"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6316,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №48",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7308,
+                           "address" : "Валовая улица, 8/18"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "228"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6384,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;С-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959955500"
+                              }
+                           ],
+                           "phone" : "+74959955500",
+                           "city" : "Москва",
+                           "latitude" : 55.7725,
+                           "address" : "Большая Сухаревская площадь, 9"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "161"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6075,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №390",
+                           "phones" : [
+                              {
+                                 "number" : "+74999788881"
+                              }
+                           ],
+                           "phone" : "+74999788881",
+                           "city" : "Москва",
+                           "latitude" : 55.7767,
+                           "address" : "Краснопролетарская улица, 14/2"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "207"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6319,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №656",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7812,
+                           "address" : "проспект Мира, 39 с2"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "216"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6094,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобал-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217612"
+                              },
+                              {
+                                 "number" : "+74959217601"
+                              }
+                           ],
+                           "phone" : "+74959217612; +74959217601",
+                           "city" : "Москва",
+                           "latitude" : 55.7208,
+                           "address" : "улица Шаболовка, 24"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "188"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6697,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №963",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.739,
+                           "address" : "Таганская улица, 44"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "209"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6061,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЗАО &quot;Социальные аптеки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952156319"
+                              }
+                           ],
+                           "phone" : "+74952156319",
+                           "city" : "Москва",
+                           "latitude" : 55.7199,
+                           "address" : "Донская улица, 31"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "206"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6087,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.7192,
+                           "address" : "улица Шаболовка, 30/12"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "4",
+                           "name" : "Лизинотон таб. 20мг 28",
+                           "price" : "165"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6761,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Целитель г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74956326238"
+                              }
+                           ],
+                           "phone" : "+74956326238",
+                           "city" : "Москва",
+                           "latitude" : 55.7377,
+                           "address" : "Малая Калитниковская улица, 1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон 20мг таб. х28 (r) актавис лтд. (мальта)",
+                           "price" : "233.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.596,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678549"
+                              }
+                           ],
+                           "phone" : "+74999678549",
+                           "city" : "Москва",
+                           "latitude" : 55.7861,
+                           "address" : "Новослободская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон тбл 20мг 28",
+                           "price" : "179"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5531,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №416",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.745,
+                           "address" : "улица Раевского, 3/6"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "76"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6645,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678514"
+                              }
+                           ],
+                           "phone" : "+74999678514",
+                           "city" : "Москва",
+                           "latitude" : 55.7234,
+                           "address" : "улица Симоновский Вал, 13 с3"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон-h тбл 20мг 28",
+                           "price" : "228"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6776,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;РУСАПТЕКА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993433207"
+                              }
+                           ],
+                           "phone" : "+74993433207",
+                           "city" : "Москва",
+                           "latitude" : 55.7712,
+                           "address" : "Бауманская улица, 38 с2"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "202.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6133,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №292 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+79684012831"
+                              }
+                           ],
+                           "phone" : "+79684012831",
+                           "city" : "Москва",
+                           "latitude" : 55.7111,
+                           "address" : "улица Серпуховский Вал, 17"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "218"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5433,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №19",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7437,
+                           "address" : "Кутузовский проспект, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "18",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "158.29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5834,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №896 ",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7917,
+                           "address" : "улица Нижняя Масловка, 5"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "220"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5828,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;ТС Аптечка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996816144"
+                              }
+                           ],
+                           "phone" : "+74996816144",
+                           "city" : "Москва",
+                           "latitude" : 55.7916,
+                           "address" : "улица Нижняя Масловка, 5"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "220"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.661,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Азалия (Солнышко Автозаводская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74956757992"
+                              }
+                           ],
+                           "phone" : "+74956757992",
+                           "city" : "Москва",
+                           "latitude" : 55.7094,
+                           "address" : "Автозаводская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "3",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "172"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.709,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диалог&quot; г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74953632262"
+                              }
+                           ],
+                           "phone" : "+74953632262",
+                           "city" : "Москва",
+                           "latitude" : 55.7622,
+                           "address" : "Авиамоторная улица, 2 к17"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон таб. 20мг 28",
+                           "price" : "234"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5325,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Джонталд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991473085"
+                              },
+                              {
+                                 "number" : "+74991431096"
+                              }
+                           ],
+                           "phone" : "+74991473085; +74991431096",
+                           "city" : "Москва",
+                           "latitude" : 55.7257,
+                           "address" : "Мосфильмовская улица, 2В"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "214"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5263,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк-3&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959402329"
+                              }
+                           ],
+                           "phone" : "+74959402329",
+                           "city" : "Москва",
+                           "latitude" : 55.7724,
+                           "address" : "5-я Магистральная улица, 10"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "209"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6708,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармасервис&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678623"
+                              }
+                           ],
+                           "phone" : "+74999678623",
+                           "city" : "Москва",
+                           "latitude" : 55.7032,
+                           "address" : "улица Трофимова, 13"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон-h тбл 20мг 28",
+                           "price" : "317"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.526,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №573",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7291,
+                           "address" : "улица Пырьева, 20"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "207"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.721,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарматун-2&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956733758"
+                              }
+                           ],
+                           "phone" : "+74956733758",
+                           "city" : "Москва",
+                           "latitude" : 55.7463,
+                           "address" : "Авиамоторная улица, 51"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон тбл 20мг 28",
+                           "price" : "75"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5196,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1788",
+                                    "1789"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 1788, 1789",
+                           "city" : "Москва",
+                           "latitude" : 55.7356,
+                           "address" : "площадь Победы, 1 кб"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон таб. 20мг 28",
+                           "price" : "175"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6093,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №581",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6928,
+                           "address" : "Севастопольский проспект, 3б"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "218"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5116,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ТРИКА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991424869"
+                              }
+                           ],
+                           "phone" : "+74991424869",
+                           "city" : "Москва",
+                           "latitude" : 55.7454,
+                           "address" : "Багратионовский проезд, 1 с1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон тбл 20мг 28",
+                           "price" : "230"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5102,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №585 АПТЕКА А5",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.745,
+                           "address" : "Багратионовский проезд, 3"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "3",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "199"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5676,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №995",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.8098,
+                           "address" : "Тимирязевская улица, 13"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "6",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "76.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7222,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фармацевтическая гильдия&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952217904"
+                              }
+                           ],
+                           "phone" : "+74952217904",
+                           "city" : "Москва",
+                           "latitude" : 55.7805,
+                           "address" : "Вельяминовская улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон-h тбл 20мг 28",
+                           "price" : "337"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5927,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №578 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6866,
+                           "address" : "улица Винокурова, 15 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "214"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6618,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №344",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8144,
+                           "address" : "Рижский проезд, 8"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "207"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.661,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Кобальт&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956834571"
+                              }
+                           ],
+                           "phone" : "+74956834571",
+                           "city" : "Москва",
+                           "latitude" : 55.8146,
+                           "address" : "Рижский проезд, 7"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон-h тбл 20мг 28",
+                           "price" : "214"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7372,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Престиж-групп&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997489982"
+                              }
+                           ],
+                           "phone" : "+74997489982",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "5-я улица Соколиной Горы, 19 к2"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон тбл 20мг 28",
+                           "price" : "239.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5443,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №210",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6897,
+                           "address" : "Ленинский проспект, 68/10"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "3",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "205"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7027,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека в Люблино&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678611"
+                              }
+                           ],
+                           "phone" : "+74999678611",
+                           "city" : "Москва",
+                           "latitude" : 55.8111,
+                           "address" : "Краснобогатырская улица, 23"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон тбл 20мг 28",
+                           "price" : "235"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5653,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Снарк г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74999698180"
+                              }
+                           ],
+                           "phone" : "+74999698180",
+                           "city" : "Москва",
+                           "latitude" : 55.6794,
+                           "address" : "Профсоюзная улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "20",
+                           "name" : "Лизинотон тб 20мг бл n14x2",
+                           "price" : "199"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5352,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №490",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79099722438"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79099722438",
+                           "city" : "Москва",
+                           "latitude" : 55.6889,
+                           "address" : "улица Строителей, 6 к4"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "10",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "195"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6662,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6776,
+                           "address" : "улица Новинки, 1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон таб. 20мг 28",
+                           "price" : "191"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5059,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Феерия&quot; 6 (ООО Феерия Фарм Запад)",
+                           "phones" : [
+                              {
+                                 "number" : "+74991981909"
+                              }
+                           ],
+                           "phone" : "+74991981909",
+                           "city" : "Москва",
+                           "latitude" : 55.8,
+                           "address" : "улица Алабяна, 13"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон-h, тбл 20мг 28",
+                           "price" : "223"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.775,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОПТИФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953686195"
+                              }
+                           ],
+                           "phone" : "+74953686195",
+                           "city" : "Москва",
+                           "latitude" : 55.757,
+                           "address" : "1-я Владимирская улица, 14"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон-h тбл 20мг 28",
+                           "price" : "100.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5273,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Улыбка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997838587"
+                              }
+                           ],
+                           "phone" : "+74997838587",
+                           "city" : "Москва",
+                           "latitude" : 55.6789,
+                           "address" : "улица Марии Ульяновой, 3 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "169"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7376,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №480 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74957252698"
+                              }
+                           ],
+                           "phone" : "+74957252698",
+                           "city" : "Москва",
+                           "latitude" : 55.8149,
+                           "address" : "Открытое шоссе, 9с1а"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "225"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5017,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №254",
+                           "phones" : [
+                              {
+                                 "number" : "+74991501364"
+                              }
+                           ],
+                           "phone" : "+74991501364",
+                           "city" : "Москва",
+                           "latitude" : 55.8166,
+                           "address" : "Ленинградское шоссе, 8/2к1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "215"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6043,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЭВЕРЕСТ&quot;.",
+                           "phones" : [
+                              {
+                                 "number" : "+74999678592"
+                              }
+                           ],
+                           "phone" : "+74999678592",
+                           "city" : "Москва",
+                           "latitude" : 55.6579,
+                           "address" : "Болотниковская улица, 12 к3"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "3",
+                           "name" : "Лизинотон тбл 20мг 28",
+                           "price" : "212.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4571,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №649",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7818,
+                           "address" : "Живописная улица, 6 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "216"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.777,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;КВАРТЕТ-ФАРМА&quot;",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7126,
+                           "address" : "Зеленодольская улица, 22/14"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон тбл 20мг 28",
+                           "price" : "219"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6187,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «ФармПрогресс»",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6536,
+                           "address" : "Чонгарский бульвар, вл2А"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон таб. 20мг 28",
+                           "price" : "225"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5834,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №87",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6549,
+                           "address" : "Керченская улица, 1б"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "75.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7878,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Формула Здоровья-4&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266768"
+                              }
+                           ],
+                           "phone" : "+74956266768",
+                           "city" : "Москва",
+                           "latitude" : 55.7158,
+                           "address" : "1-я Новокузьминская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон тб 20мг 28",
+                           "price" : "224.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7922,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;РИГЛА&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Москва",
+                           "latitude" : 55.7168,
+                           "address" : "Рязанский проспект, 46"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "5",
+                           "name" : "Лизинотон таб. 20мг 28",
+                           "price" : "206"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.463,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Н2О-фарм&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957988752"
+                              }
+                           ],
+                           "phone" : "+74957988752",
+                           "city" : "Москва",
+                           "latitude" : 55.8086,
+                           "address" : "улица Маршала Василевского, 17"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "233"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4687,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Янтарь Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959425985"
+                              }
+                           ],
+                           "phone" : "+74959425985",
+                           "city" : "Москва",
+                           "latitude" : 55.8142,
+                           "address" : "Волоколамское шоссе, 45"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон таб. 20мг 28",
+                           "price" : "213.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7877,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Маяк&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957879355"
+                              }
+                           ],
+                           "phone" : "+74957879355",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "5-я Парковая улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон-h, тбл 20мг 28",
+                           "price" : "359"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7656,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Ригла&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697"
+                              }
+                           ],
+                           "phone" : "+74952311697",
+                           "city" : "Москва",
+                           "latitude" : 55.6775,
+                           "address" : "Краснодарская улица, 51 к2"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон таб. 20мг 28",
+                           "price" : "216"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8017,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.7936,
+                           "address" : "Первомайская улица, 81"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон таб. 20мг 28",
+                           "price" : "187"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5994,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «МФК Помощь»",
+                           "phones" : [
+                              {
+                                 "number" : "+74999079744"
+                              }
+                           ],
+                           "phone" : "+74999079744",
+                           "city" : "Москва",
+                           "latitude" : 55.8634,
+                           "address" : "улица Санникова, 17"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон 20мг 28 таб",
+                           "price" : "249"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8184,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7529,
+                           "address" : "Свободный проспект, 33а"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "84.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8047,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла г.Москва (62, Первомайская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74954612049"
+                              },
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "1329"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74954612049; +74952311697, доб. 1329",
+                           "city" : "Москва",
+                           "latitude" : 55.7936,
+                           "address" : "Первомайская улица, 89"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон таб. 20мг 28",
+                           "price" : "164"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6051,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека А5",
+                           "phones" : [
+                              {
+                                 "number" : "+74956601628"
+                              }
+                           ],
+                           "phone" : "+74956601628",
+                           "city" : "Москва",
+                           "latitude" : 55.865,
+                           "address" : "улица Декабристов, 17"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "195"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8088,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Авиценна Фарма",
+                           "phones" : [
+                              {
+                                 "number" : "+74956038512"
+                              },
+                              {
+                                 "number" : "+79671612272"
+                              }
+                           ],
+                           "phone" : "+74956038512; +79671612272",
+                           "city" : "Москва",
+                           "latitude" : 55.791,
+                           "address" : "Нижняя Первомайская улица, 46"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "231"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4154,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №1",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.741,
+                           "address" : "Ярцевская улица, 25а"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "217"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4895,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №646",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.8414,
+                           "address" : "Кронштадтский бульвар, 9"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "195"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4849,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №955",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6638,
+                           "address" : "проспект Вернадского, 105 к3"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "76"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8205,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ИЗМАЙЛОВО",
+                           "phones" : [
+                              {
+                                 "number" : "+74956625463"
+                              }
+                           ],
+                           "phone" : "+74956625463",
+                           "city" : "Москва",
+                           "latitude" : 55.7745,
+                           "address" : "Большой Купавенский проезд, 4"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон тб 20мг 28",
+                           "price" : "231.3"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6918,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ЭЛ Фарм",
+                           "phones" : [
+                              {
+                                 "number" : "+74952275378"
+                              },
+                              {
+                                 "number" : "+74952275379"
+                              }
+                           ],
+                           "phone" : "+74952275378; +74952275379",
+                           "city" : "Москва",
+                           "latitude" : 55.8621,
+                           "address" : "Ярославское шоссе, 55"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "3",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "213"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5255,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Фарм-Хаус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959217801"
+                              },
+                              {
+                                 "number" : "+74959914587"
+                              }
+                           ],
+                           "phone" : "+74959217801; +74959914587",
+                           "city" : "Москва",
+                           "latitude" : 55.6441,
+                           "address" : "Профсоюзная улица, 102/47"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "178"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6593,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Глобус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74993234174"
+                              }
+                           ],
+                           "phone" : "+74993234174",
+                           "city" : "Москва",
+                           "latitude" : 55.6341,
+                           "address" : "Пролетарский проспект, 33 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "5",
+                           "name" : "Лизинотон табл. 20 мг 28, актавис ао",
+                           "price" : "206"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8219,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №584",
+                           "phones" : [
+                              {
+                                 "number" : "+74996816135"
+                              }
+                           ],
+                           "phone" : "+74996816135",
+                           "city" : "Москва",
+                           "latitude" : 55.7161,
+                           "address" : "Вешняковская улица, 43"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "235"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8192,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №414",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7064,
+                           "address" : "Ферганская улица, 17"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "210"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7413,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №150 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6512,
+                           "address" : "Люблинская улица, 108а"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "215"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон 20 мг таб. 28",
+                           "price" : "219"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7607,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «Арт-Фарм»",
+                           "phones" : [
+                              {
+                                 "number" : "+74959684613"
+                              }
+                           ],
+                           "phone" : "+74959684613",
+                           "city" : "Москва",
+                           "latitude" : 55.6563,
+                           "address" : "Братиславская улица, 20"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "215"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.746,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ДИАЛОГ-ФМТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6496,
+                           "address" : "Люблинская улица, 165 к2"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "3",
+                           "name" : "Лизинотон таб. 20мг 28",
+                           "price" : "231"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7473,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №488",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6459,
+                           "address" : "Люблинская улица, 175"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "218"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6115,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №479",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6218,
+                           "address" : "Кировоградская улица, 9 к4"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "195"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6528,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла (100, Шокальского)",
+                           "phones" : [
+                              {
+                                 "number" : "+74952311697",
+                                 "additional" : [
+                                    "0994"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74952311697, доб. 0994",
+                           "city" : "Москва",
+                           "latitude" : 55.8819,
+                           "address" : "проезд Шокальского, 41"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон таб. 20мг 28",
+                           "price" : "249"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8603,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ТС &quot;АПТЕЧКА&quot;.  Аптека №1 808",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Реутов",
+                           "latitude" : 55.7532,
+                           "address" : "улица Дзержинского, 20в, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "206"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3956,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №485",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.806,
+                           "address" : "Строгинский бульвар, 1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "206"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.658,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №74",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79684052611"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79684052611",
+                           "city" : "Москва",
+                           "latitude" : 55.8883,
+                           "address" : "Широкая улица, 9 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "205"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8502,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Цветочки&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959732898"
+                              }
+                           ],
+                           "phone" : "+74959732898",
+                           "city" : "Москва",
+                           "latitude" : 55.7013,
+                           "address" : "Лермонтовский проспект, 8"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "195"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6019,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "&quot;БОГАТЫРЬ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953140060"
+                              },
+                              {
+                                 "number" : "+74957896029"
+                              }
+                           ],
+                           "phone" : "+74953140060; +74957896029",
+                           "city" : "Москва",
+                           "latitude" : 55.6094,
+                           "address" : "Кировоградская улица, 28 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон тбл 20мг 28",
+                           "price" : "230"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4859,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №166 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+79684012281"
+                              }
+                           ],
+                           "phone" : "+74956453565; +79684012281",
+                           "city" : "Москва",
+                           "latitude" : 55.6291,
+                           "address" : "улица Тёплый Стан, 10"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "206"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5887,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека Ромашки",
+                           "phones" : [
+                              {
+                                 "number" : "+74999083503"
+                              },
+                              {
+                                 "number" : "+74999678645"
+                              }
+                           ],
+                           "phone" : "+74999083503; +74999678645",
+                           "city" : "Москва",
+                           "latitude" : 55.8993,
+                           "address" : "Алтуфьевское шоссе, 88"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "210"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8562,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Андервуд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997966630"
+                              }
+                           ],
+                           "phone" : "+74997966630",
+                           "city" : "Москва",
+                           "latitude" : 55.6865,
+                           "address" : "улица Генерала Кузнецова, 20"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "185"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7199,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ФармМедТрейд&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6128,
+                           "address" : "Ореховый бульвар, 15"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "4",
+                           "name" : "Лизинотон таб. 20мг 28",
+                           "price" : "222"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4205,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №988",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8541,
+                           "address" : "Туристская улица, 23"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "221"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7199,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 46",
+                           "phones" : [
+                              {
+                                 "number" : "+74983017066"
+                              }
+                           ],
+                           "phone" : "+74983017066",
+                           "city" : "Мытищи",
+                           "latitude" : 55.8945,
+                           "address" : "улица Веры Волошиной, 20, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон 20мг таб. х28",
+                           "price" : "242.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4075,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №126",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74996816164"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74996816164",
+                           "city" : "Москва",
+                           "latitude" : 55.6481,
+                           "address" : "улица Щорса, 2"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "3",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "213"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5994,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Оксалин&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74952013616"
+                              }
+                           ],
+                           "phone" : "+74952013616",
+                           "city" : "Москва",
+                           "latitude" : 55.5934,
+                           "address" : "Варшавское шоссе, 152"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "147"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3505,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 484",
+                           "phones" : [
+                              {
+                                 "number" : "+79269042076"
+                              },
+                              {
+                                 "number" : "+74986022215"
+                              }
+                           ],
+                           "phone" : "+79269042076; +74986022215",
+                           "city" : "Московская область",
+                           "latitude" : 55.8193,
+                           "address" : "Красногорск, 1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "78"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.712,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 178",
+                           "phones" : [
+                              {
+                                 "number" : "+74955819487"
+                              },
+                              {
+                                 "number" : "+79684937459"
+                              },
+                              {
+                                 "number" : "+79169332802"
+                              }
+                           ],
+                           "phone" : "+74955819487; +79684937459; +79169332802",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9084,
+                           "address" : "Юбилейная улица, 23 к1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "205"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7311,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 174",
+                           "phones" : [
+                              {
+                                 "number" : "+74955820113"
+                              }
+                           ],
+                           "phone" : "+74955820113",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9079,
+                           "address" : "Новомытищинский проспект, 48, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "203"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7389,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №433",
+                           "phones" : [
+                              {
+                                 "number" : "+74995538314"
+                              }
+                           ],
+                           "phone" : "+74995538314",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9063,
+                           "address" : "улица Щербакова, 2 к1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "199"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9019,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 3",
+                           "phones" : [
+                              {
+                                 "number" : "+74983021710"
+                              }
+                           ],
+                           "phone" : "+74983021710",
+                           "city" : "Люберцы",
+                           "latitude" : 55.6962,
+                           "address" : "улица Воинов-Интернационалистов, 3, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон 20мг таб. х28",
+                           "price" : "231.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3485,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №140",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8509,
+                           "address" : "Ангелов переулок, 7 к1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "216"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7846,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №510",
+                           "phones" : [
+                              {
+                                 "number" : "+74955862374"
+                              },
+                              {
+                                 "number" : "+79057312295"
+                              }
+                           ],
+                           "phone" : "+74955862374; +79057312295",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9191,
+                           "address" : "улица Академика Каргина, 38 к1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "199"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7733,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека А5&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565",
+                                 "additional" : [
+                                    "0944"
+                                 ]
+                              }
+                           ],
+                           "phone" : "+74956453565, доб. 0944",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9231,
+                           "address" : "улица Попова, 1С2"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "207"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7788,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №1 176",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9237,
+                           "address" : "улица Попова, 2"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "207"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2862,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №931 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Одинцово",
+                           "latitude" : 55.672,
+                           "address" : "Союзная улица, 1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "74.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8612,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. АПТЕКИ А5 Московская область.  Аптека №1 807",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Королёв",
+                           "latitude" : 55.9134,
+                           "address" : "улица Горького, 27, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "10",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "139"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8562,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. АПТЕКИ А5 Московская область.  Аптека №1 806",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Королёв",
+                           "latitude" : 55.9192,
+                           "address" : "улица Дзержинского, 16/1"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "8",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "203"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9099,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР&quot; 57",
+                           "phones" : [
+                              {
+                                 "number" : "+74955523284"
+                              }
+                           ],
+                           "phone" : "+74955523284",
+                           "city" : "Московская область",
+                           "latitude" : 55.5773,
+                           "address" : "Лыткарино, 5"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон 20мг таб. х28",
+                           "price" : "232.7"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9083,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 156",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Лыткарино",
+                           "latitude" : 55.575,
+                           "address" : "Октябрьская улица, 20"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "212"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3088,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Фармавир",
+                           "phones" : [
+                              {
+                                 "number" : "+74956423425"
+                              }
+                           ],
+                           "phone" : "+74956423425",
+                           "city" : "Химки",
+                           "latitude" : 55.939,
+                           "address" : "Усковский проезд, 2"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон, тбл 20мг 28",
+                           "price" : "225"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7428,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №1 038",
+                           "phones" : [
+                              {
+                                 "number" : "+74967936481"
+                              }
+                           ],
+                           "phone" : "+74967936481",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4502,
+                           "address" : "улица Гагарина, 50, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "241"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7439,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ОАО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74967936484"
+                              }
+                           ],
+                           "phone" : "+74967936484",
+                           "city" : "Домодедово",
+                           "latitude" : 55.4503,
+                           "address" : "улица Гагарина, 50"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "241"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.551,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; ЛОТОС&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957790903"
+                              }
+                           ],
+                           "phone" : "+74957790903",
+                           "city" : "Подольск",
+                           "latitude" : 55.4285,
+                           "address" : "Матросская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон 20мг 28 таб",
+                           "price" : "217"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5598,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Ригла МО (266, Февральская)",
+                           "phones" : [
+                              {
+                                 "number" : "+74967636380"
+                              }
+                           ],
+                           "phone" : "+74967636380",
+                           "city" : "Подольск",
+                           "latitude" : 55.4275,
+                           "address" : "Февральская улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон таб. 20мг 28",
+                           "price" : "196"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5027,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №431",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Подольск",
+                           "latitude" : 55.4255,
+                           "address" : "Ленинградский проезд, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "216"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2964,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №259",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Троицк",
+                           "latitude" : 55.4697,
+                           "address" : "Сиреневый бульвар, 7, Москва"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "209"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2188,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №506",
+                           "phones" : [
+                              {
+                                 "number" : "+74965240687"
+                              }
+                           ],
+                           "phone" : "+74965240687",
+                           "city" : "Электроугли",
+                           "latitude" : 55.7172,
+                           "address" : "Школьная улица, 33, Московская область, Ногинский район"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "205"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8431,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 475 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "микрорайон Авиационный",
+                           "latitude" : 55.4134,
+                           "address" : "улица Ильюшина, 13/19, Московская область, Домодедово"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "77"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2089,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №614",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Раменское",
+                           "latitude" : 55.5758,
+                           "address" : "улица Чугунова, 15б, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "210"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2306,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №613",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Раменское",
+                           "latitude" : 55.5711,
+                           "address" : "Красноармейская улица, 4б, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "226"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.9788,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 193",
+                           "phones" : [
+                              {
+                                 "number" : "+74963423321"
+                              }
+                           ],
+                           "phone" : "+74963423321",
+                           "city" : "поселок городского типа Селятино",
+                           "latitude" : 55.5114,
+                           "address" : "Больничная улица, 23А"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "220"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4368,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 460",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Электросталь",
+                           "latitude" : 55.7929,
+                           "address" : "улица Пушкина, 5"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "4",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "232"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4374,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 449",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74965764916"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74965764916",
+                           "city" : "Электросталь",
+                           "latitude" : 55.8001,
+                           "address" : "проспект Ленина, 8, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "203"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.444,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 451",
+                           "phones" : [
+                              {
+                                 "number" : "+74965736022"
+                              },
+                              {
+                                 "number" : "+79104810634"
+                              }
+                           ],
+                           "phone" : "+74965736022; +79104810634",
+                           "city" : "Электросталь",
+                           "latitude" : 55.7774,
+                           "address" : "улица Мира, 18, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "204"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4657,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №511",
+                           "phones" : [
+                              {
+                                 "number" : "+79167007204"
+                              },
+                              {
+                                 "number" : "+74965750355"
+                              }
+                           ],
+                           "phone" : "+79167007204; +74965750355",
+                           "city" : "Электросталь",
+                           "latitude" : 55.7982,
+                           "address" : "улица Карла Маркса, 30а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "2",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "177.1"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4967,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №1 329",
+                           "phones" : [
+                              {
+                                 "number" : "+74964647608"
+                              },
+                              {
+                                 "number" : "+74964644719"
+                              }
+                           ],
+                           "phone" : "+74964647608; +74964644719",
+                           "city" : "Раменский район",
+                           "latitude" : 55.5884,
+                           "address" : "Электроизолятор, 29, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2353",
+                           "quantity" : "1",
+                           "name" : "Лизинотон табл. 20мг n28",
+                           "price" : "226"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "лизиноприл"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

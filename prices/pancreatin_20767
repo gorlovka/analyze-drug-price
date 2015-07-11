@@ -1,0 +1,131 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "pancreatin",
+            "rus_name" : "Панкреатин",
+            "form" : "таб., покр. кишечнорастворимой оболочкой, 100 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "pancreatin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4874,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Здоровейка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957383189"
+                              }
+                           ],
+                           "phone" : "+74957383189",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "Филёвский бульвар, 10"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "1",
+                           "name" : "Панкреатин табл. п/о киш.раст. 0.1 г уп.яч.конт 20",
+                           "price" : "29"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4761,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МРБ Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959470206"
+                              }
+                           ],
+                           "phone" : "+74959470206",
+                           "city" : "Москва",
+                           "latitude" : 55.7792,
+                           "address" : "улица Народного Ополчения, 23 к3"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "3",
+                           "name" : "Панкреатин табл. п/о киш.раст. 0.1 г уп.яч.конт х20",
+                           "price" : "26.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3373,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МОСОБЛФАРМАЦИЯ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955610855"
+                              }
+                           ],
+                           "phone" : "+74955610855",
+                           "city" : "Красногорск",
+                           "latitude" : 55.8168,
+                           "address" : "улица Чайковского, 7"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "16",
+                           "name" : "Панкреатин табл.п.о.раствор./кишечн. 0,1г n60 авва рус",
+                           "price" : "61"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0586,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 393",
+                           "phones" : [
+                              {
+                                 "number" : "+74965640872"
+                              }
+                           ],
+                           "phone" : "+74965640872",
+                           "city" : "Фрязино",
+                           "latitude" : 55.9547,
+                           "address" : "проспект Мира, 20, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3403",
+                           "quantity" : "12",
+                           "name" : "Панкреатин табл.п.о.раствор./кишечн. 0,1г n60 авва рус",
+                           "price" : "72"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "панкреатин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

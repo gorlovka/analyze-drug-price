@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "clarythromycin_retard_obl",
+            "rus_name" : "Кларитромицин ретард-obl",
+            "form" : "таб. пролонгир. действия, покр. оболочкой, 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "clarythromycin_retard_obl",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЭпиФарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956655943"
+                              }
+                           ],
+                           "phone" : "+74956655943",
+                           "city" : "Москва",
+                           "latitude" : 55.7332,
+                           "address" : "Нижегородская улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "5239",
+                           "quantity" : "1",
+                           "name" : "Кларитромицин ретард-obl таб.пролонг.п.о. 500мг 14",
+                           "price" : "410"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.2162,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Аптека-225",
+                           "phones" : [
+                              {
+                                 "number" : "+74954548085"
+                              }
+                           ],
+                           "phone" : "+74954548085",
+                           "city" : "Зеленоград",
+                           "latitude" : 55.9913,
+                           "address" : "Савёлкинский проезд, 4, Москва"
+                        },
+                        "drug" : {
+                           "descid" : "5239",
+                           "quantity" : "1",
+                           "name" : "Кларитромицин ретард obl тб ретард 500мг блист n7",
+                           "price" : "235.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "кларитромицин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

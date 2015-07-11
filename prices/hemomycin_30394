@@ -1,0 +1,81 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "hemomycin",
+            "rus_name" : "Хемомицин",
+            "form" : "лиофилизат д/пригот. р-ра д/инф. 500 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "hemomycin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7177,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 23",
+                           "phones" : [
+                              {
+                                 "number" : "+74991628323"
+                              }
+                           ],
+                           "phone" : "+74991628323",
+                           "city" : "Москва",
+                           "latitude" : 55.8046,
+                           "address" : "Просторная улица, 8"
+                        },
+                        "drug" : {
+                           "descid" : "1352",
+                           "quantity" : "1",
+                           "name" : "Хемомицин лиоф. д/пригот. р-ра д/инф. 500мг фл.",
+                           "price" : "337.9"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5891,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956639771"
+                              }
+                           ],
+                           "phone" : "+74956639771",
+                           "city" : "Москва",
+                           "latitude" : 55.8743,
+                           "address" : "Высоковольтный проезд, 1 к2"
+                        },
+                        "drug" : {
+                           "descid" : "1352",
+                           "quantity" : "1",
+                           "name" : "Хемомицин лиоф. д/р-ра д/ин. 500мг 1",
+                           "price" : "311"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "азитромицин + азитромицин (в форме дигидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

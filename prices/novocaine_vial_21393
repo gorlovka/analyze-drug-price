@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "novocaine_vial",
+            "rus_name" : "Новокаин-виал",
+            "form" : "р-р д/инъекц. 25 мг/5 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "novocaine_vial",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7139,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ЭпиФарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956655943"
+                              }
+                           ],
+                           "phone" : "+74956655943",
+                           "city" : "Москва",
+                           "latitude" : 55.7332,
+                           "address" : "Нижегородская улица, 33"
+                        },
+                        "drug" : {
+                           "descid" : "5146",
+                           "quantity" : "2",
+                           "name" : "Новокаин-виал р-р 0,005/мл 5мл 10",
+                           "price" : "34.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "прокаин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

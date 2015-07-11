@@ -1,0 +1,134 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "espa_lipon",
+            "rus_name" : "Эспа-липон",
+            "form" : "концентрат д/пригот. р-ра д/инф. 600 мг/24 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 4,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "espa_lipon",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5498,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Феникс-Мир",
+                           "phones" : [
+                              {
+                                 "number" : "+74956563926"
+                              }
+                           ],
+                           "phone" : "+74956563926",
+                           "city" : "Москва",
+                           "latitude" : 55.798,
+                           "address" : "Красноармейская улица, 2 к1"
+                        },
+                        "drug" : {
+                           "descid" : "544",
+                           "quantity" : "1",
+                           "name" : "Эспа-липон 600мг конц. для р-р д/инфуз. амп. х5 б м (r) esparma gmbh(германия)",
+                           "price" : "742"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар (Преображенская площадь)",
+                           "phones" : [
+                              {
+                                 "number" : "+74959636100"
+                              }
+                           ],
+                           "phone" : "+74959636100",
+                           "city" : "Москва",
+                           "latitude" : 55.7974,
+                           "address" : "Большая Черкизовская улица, 5 к1"
+                        },
+                        "drug" : {
+                           "descid" : "544",
+                           "quantity" : "2",
+                           "name" : "Эспа-липон 600мг 24мл n5 концентрат д/приготовления р-ра д/инфузий",
+                           "price" : "737"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7786,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Зеленый проспект",
+                           "phones" : [
+                              {
+                                 "number" : "+74956729129"
+                              }
+                           ],
+                           "phone" : "+74956729129",
+                           "city" : "Москва",
+                           "latitude" : 55.7503,
+                           "address" : "Зелёный проспект, 13"
+                        },
+                        "drug" : {
+                           "descid" : "544",
+                           "quantity" : "2",
+                           "name" : "Эспа-липон 600мг 24мл n5 концентрат д/приготовления р-ра д/инфузий",
+                           "price" : "664.59"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5266,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot; АВС &quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74997931645"
+                              },
+                              {
+                                 "number" : "+74997931554"
+                              }
+                           ],
+                           "phone" : "+74997931645; +74997931554",
+                           "city" : "Москва",
+                           "latitude" : 55.5467,
+                           "address" : "улица Горчакова, 5"
+                        },
+                        "drug" : {
+                           "descid" : "544",
+                           "quantity" : "1",
+                           "name" : "Эспа-липон 600мг 24мл n5 концентрат д/приготовления р-ра д/инфузий",
+                           "price" : "728"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тиоктовая (-липоевая) кислота"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

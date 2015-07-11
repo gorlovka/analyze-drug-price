@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "remedia",
+            "rus_name" : "Ремедиа",
+            "form" : "таб., покр. пленочной обол., 250 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "remedia",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4874,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Здоровейка&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957383189"
+                              }
+                           ],
+                           "phone" : "+74957383189",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "Филёвский бульвар, 10"
+                        },
+                        "drug" : {
+                           "descid" : "5703",
+                           "quantity" : "1",
+                           "name" : "Ремедиа 0,5 10 табл",
+                           "price" : "680"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "левофлоксацин (в форме гемигидрата)"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

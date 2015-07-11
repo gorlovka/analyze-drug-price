@@ -1,0 +1,245 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "convulex",
+            "rus_name" : "Конвулекс®",
+            "form" : "р-р д/в/в введения 100мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 8,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "convulex",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5944,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74997664927"
+                              },
+                              {
+                                 "number" : "+74992459103"
+                              }
+                           ],
+                           "phone" : "+74997664927; +74992459103",
+                           "city" : "Москва",
+                           "latitude" : 55.7376,
+                           "address" : "Кропоткинский переулок, 4с1"
+                        },
+                        "drug" : {
+                           "descid" : "696",
+                           "quantity" : "2",
+                           "name" : "Конвулекс р-р д/ин в/в100мг/мл 5мл 5",
+                           "price" : "1344"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.467,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Самсон-Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74996490241"
+                              }
+                           ],
+                           "phone" : "+74996490241",
+                           "city" : "Москва",
+                           "latitude" : 55.8165,
+                           "address" : "Волоколамское шоссе, 56 к1"
+                        },
+                        "drug" : {
+                           "descid" : "696",
+                           "quantity" : "10",
+                           "name" : "Конвулекс р-р д/ин 100мг/мл 5мл амп 5",
+                           "price" : "1363.78"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4154,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №1",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.741,
+                           "address" : "Ярцевская улица, 25а"
+                        },
+                        "drug" : {
+                           "descid" : "696",
+                           "quantity" : "2",
+                           "name" : "Конвулекс р-р для в/в введения 100мг/мл 5мл n5",
+                           "price" : "1207"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4389,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "ООО «Лилия»",
+                           "phones" : [
+                              {
+                                 "number" : "+74956646042"
+                              },
+                              {
+                                 "number" : "+74956646041"
+                              }
+                           ],
+                           "phone" : "+74956646042; +74956646041",
+                           "city" : "Москва",
+                           "latitude" : 55.8497,
+                           "address" : "Сходненская улица, 37"
+                        },
+                        "drug" : {
+                           "descid" : "696",
+                           "quantity" : "1",
+                           "name" : "Конвулекс, р-р для в/в 100мг/мл амп 5мл 5",
+                           "price" : "980"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8874,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №904",
+                           "phones" : [
+                              {
+                                 "number" : "+79253178170"
+                              },
+                              {
+                                 "number" : "+78929997415"
+                              },
+                              {
+                                 "number" : "+79296131995"
+                              }
+                           ],
+                           "phone" : "+79253178170; +78929997415; +79296131995",
+                           "city" : "Москва",
+                           "latitude" : 55.7167,
+                           "address" : "улица Рудневка, 19"
+                        },
+                        "drug" : {
+                           "descid" : "696",
+                           "quantity" : "1",
+                           "name" : "Конвулекс р-р для в/в введения 100мг/мл 5мл n5",
+                           "price" : "1503"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8603,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 022",
+                           "phones" : [
+                              {
+                                 "number" : "+74955512145"
+                              }
+                           ],
+                           "phone" : "+74955512145",
+                           "city" : "Дзержинский",
+                           "latitude" : 55.6269,
+                           "address" : "улица Лермонтова, 12а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "696",
+                           "quantity" : "1",
+                           "name" : "Конвулекс р-р для в/в введения 100мг/мл 5мл n5",
+                           "price" : "1293"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8406,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 114",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              },
+                              {
+                                 "number" : "+74955114454"
+                              },
+                              {
+                                 "number" : "+74955113937"
+                              }
+                           ],
+                           "phone" : "+74956453565; +74955114454; +74955113937",
+                           "city" : "Королёв",
+                           "latitude" : 55.9215,
+                           "address" : "проспект Королёва, 5, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "696",
+                           "quantity" : "2",
+                           "name" : "Конвулекс р-р для в/в введения 100мг/мл 5мл n5",
+                           "price" : "1122"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8612,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. АПТЕКИ А5 Московская область.  Аптека №1 807",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Королёв",
+                           "latitude" : 55.9134,
+                           "address" : "улица Горького, 27, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "696",
+                           "quantity" : "1",
+                           "name" : "Конвулекс р-р для в/в введения 100мг/мл 5мл n5",
+                           "price" : "1378"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "вальпроевая кислота + вальпроат натрия"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

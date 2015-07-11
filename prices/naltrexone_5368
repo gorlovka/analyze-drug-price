@@ -1,0 +1,87 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "naltrexone",
+            "rus_name" : "Налтрексон",
+            "form" : "капс. 50 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "naltrexone",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "2419",
+                           "quantity" : "1",
+                           "name" : "Налтрексон 50 мг капс. 10",
+                           "price" : "599"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5363,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ДиВо&quot; 2",
+                           "phones" : [
+                              {
+                                 "number" : "+74967557091"
+                              },
+                              {
+                                 "number" : "+74994003421"
+                              }
+                           ],
+                           "phone" : "+74967557091; +74994003421",
+                           "city" : "Подольск",
+                           "latitude" : 55.4224,
+                           "address" : "улица Свердлова, 36а, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "2419",
+                           "quantity" : "2",
+                           "name" : "Налтрексон, капс 50мг 10",
+                           "price" : "672.91"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "налтрексона гидрохлорид + налтрексон"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

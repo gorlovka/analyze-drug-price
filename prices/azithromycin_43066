@@ -1,0 +1,230 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "azithromycin",
+            "rus_name" : "Азитромицин",
+            "form" : "таб., покр. пленочной оболочкой, 125 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 8,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "azithromycin",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6091,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Домашняя медицина&quot;.",
+                           "phones" : [
+                              {
+                                 "number" : "+74956299468"
+                              }
+                           ],
+                           "phone" : "+74956299468",
+                           "city" : "Москва",
+                           "latitude" : 55.7641,
+                           "address" : "Тверская улица, 12 с8"
+                        },
+                        "drug" : {
+                           "descid" : "1909",
+                           "quantity" : "3",
+                           "name" : "Азитромицин тб плен/об 125мг бл n6",
+                           "price" : "212"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5981,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Соломон Фарма&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956900719"
+                              }
+                           ],
+                           "phone" : "+74956900719",
+                           "city" : "Москва",
+                           "latitude" : 55.7608,
+                           "address" : "Большая Бронная улица, 5"
+                        },
+                        "drug" : {
+                           "descid" : "1909",
+                           "quantity" : "2",
+                           "name" : "Азитромицин тбл п/о 125мг 6 вертекс",
+                           "price" : "189.5"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7015,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Омега&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957071279"
+                              },
+                              {
+                                 "number" : "+74959782004"
+                              }
+                           ],
+                           "phone" : "+74957071279; +74959782004",
+                           "city" : "Москва",
+                           "latitude" : 55.7648,
+                           "address" : "Солдатская улица, 6а"
+                        },
+                        "drug" : {
+                           "descid" : "1909",
+                           "quantity" : "10",
+                           "name" : "Азитромицин тбл п/о 125мг 6 вертекс",
+                           "price" : "199"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.709,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Диалог&quot; г. Москва",
+                           "phones" : [
+                              {
+                                 "number" : "+74953632262"
+                              }
+                           ],
+                           "phone" : "+74953632262",
+                           "city" : "Москва",
+                           "latitude" : 55.7622,
+                           "address" : "Авиамоторная улица, 2 к17"
+                        },
+                        "drug" : {
+                           "descid" : "1909",
+                           "quantity" : "1",
+                           "name" : "Азитромицин таб. п/о 125мг 6",
+                           "price" : "214"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7143,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Диалог Столица",
+                           "phones" : [
+                              {
+                                 "number" : "+74957756560"
+                              }
+                           ],
+                           "phone" : "+74957756560",
+                           "city" : "Москва",
+                           "latitude" : 55.7583,
+                           "address" : "Авиамоторная улица, 6"
+                        },
+                        "drug" : {
+                           "descid" : "1909",
+                           "quantity" : "1",
+                           "name" : "Азитромицин таб. п/о 125мг 6",
+                           "price" : "176"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6063,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Симферопольская",
+                           "phones" : [
+                              {
+                                 "number" : "+74996195508"
+                              }
+                           ],
+                           "phone" : "+74996195508",
+                           "city" : "Москва",
+                           "latitude" : 55.6464,
+                           "address" : "Симферопольский бульвар, 29 к3"
+                        },
+                        "drug" : {
+                           "descid" : "1909",
+                           "quantity" : "1",
+                           "name" : "Азитромицин 125мг n6 таб. вертекс",
+                           "price" : "219"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7482,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Верхние поля",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6655,
+                           "address" : "улица Верхние Поля, 9 к2 с4"
+                        },
+                        "drug" : {
+                           "descid" : "1909",
+                           "quantity" : "1",
+                           "name" : "Азитромицин 125мг n6 таб. вертекс",
+                           "price" : "219"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.35,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Фармастар Митино",
+                           "phones" : [
+                              {
+                                 "number" : "+74957527800"
+                              }
+                           ],
+                           "phone" : "+74957527800",
+                           "city" : "Москва",
+                           "latitude" : 55.8486,
+                           "address" : "3-й Митинский переулок, 1"
+                        },
+                        "drug" : {
+                           "descid" : "1909",
+                           "quantity" : "1",
+                           "name" : "Азитромицин 125мг n6 таб. вертекс",
+                           "price" : "219"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "азитромицин (в форме дигидрата) + азитромицин"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

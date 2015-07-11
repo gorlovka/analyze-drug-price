@@ -1,0 +1,102 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "thiopental",
+            "rus_name" : "Тиопентал",
+            "form" : "порошок д/пригот. р-ра д/в/в введения 1 г",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 3,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "thiopental",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6879,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 132",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Видное",
+                           "latitude" : 55.5463,
+                           "address" : "Булатниковская улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "3715",
+                           "quantity" : "30",
+                           "name" : "Тиопентал пор.д/ин.в/в 1000мг n1",
+                           "price" : "48"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.0586,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 393",
+                           "phones" : [
+                              {
+                                 "number" : "+74965640872"
+                              }
+                           ],
+                           "phone" : "+74965640872",
+                           "city" : "Фрязино",
+                           "latitude" : 55.9547,
+                           "address" : "проспект Мира, 20, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "3715",
+                           "quantity" : "2",
+                           "name" : "Тиопентал пор.д/ин.в/в 1000мг n50",
+                           "price" : "2103"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.9788,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 193",
+                           "phones" : [
+                              {
+                                 "number" : "+74963423321"
+                              }
+                           ],
+                           "phone" : "+74963423321",
+                           "city" : "поселок городского типа Селятино",
+                           "latitude" : 55.5114,
+                           "address" : "Больничная улица, 23А"
+                        },
+                        "drug" : {
+                           "descid" : "3715",
+                           "quantity" : "50",
+                           "name" : "Тиопентал пор.д/ин.в/в 1000мг n1",
+                           "price" : "43.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "тиопентал натрий"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

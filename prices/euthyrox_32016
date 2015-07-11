@@ -1,0 +1,985 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "euthyrox",
+            "rus_name" : "Эутирокс®",
+            "form" : "таб. 137 мкг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 39,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "euthyrox",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6189,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Диасфарм г.Москва (Большая Полянка)",
+                           "phones" : [
+                              {
+                                 "number" : "+74992382865"
+                              },
+                              {
+                                 "number" : "+74992387410"
+                              }
+                           ],
+                           "phone" : "+74992382865; +74992387410",
+                           "city" : "Москва",
+                           "latitude" : 55.7341,
+                           "address" : "улица Большая Полянка, 30"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс таб 137мкг 100",
+                           "price" : "168"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5815,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Клевер-Фарма ООО",
+                           "phones" : [
+                              {
+                                 "number" : "+74957959628"
+                              }
+                           ],
+                           "phone" : "+74957959628",
+                           "city" : "Москва",
+                           "latitude" : 55.7496,
+                           "address" : "проезд Шломина, 6"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс таб 137мкг 100",
+                           "price" : "159"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.659,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №914",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7572,
+                           "address" : "улица Земляной Вал, 33"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "184"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6627,
+                           "roundtheclock" : 1,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №983",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7617,
+                           "address" : "Нижний Сусальный переулок, 4 с3"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "188"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5862,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "Фармсервис медикал",
+                           "phones" : [
+                              {
+                                 "number" : "+74992501012"
+                              }
+                           ],
+                           "phone" : "+74992501012",
+                           "city" : "Москва",
+                           "latitude" : 55.7761,
+                           "address" : "1-я Тверская-Ямская улица, 36 с1"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "2",
+                           "name" : "Эутирокс 137мкг таб. 100",
+                           "price" : "175"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6087,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.7192,
+                           "address" : "улица Шаболовка, 30/12"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "3",
+                           "name" : "Эутирокс таб. 137мкг 100",
+                           "price" : "153"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6359,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Аптека ВЕР.РУ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959898703"
+                              },
+                              {
+                                 "number" : "+78002003168"
+                              }
+                           ],
+                           "phone" : "+74959898703; +78002003168",
+                           "city" : "Москва",
+                           "latitude" : 55.786,
+                           "address" : "проспект Мира, 64"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс,таблетки,137мкг 100шт",
+                           "price" : "177"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5433,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №19",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7437,
+                           "address" : "Кутузовский проспект, 26 к1"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "2",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "187"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5787,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №2",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.7942,
+                           "address" : "1-я Квесисская улица, 18"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "189"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6863,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Здоровый стиль&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959589295"
+                              }
+                           ],
+                           "phone" : "+74959589295",
+                           "city" : "Москва",
+                           "latitude" : 55.7038,
+                           "address" : "улица Трофимова, 36 к1"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс 137мкг n100 табл",
+                           "price" : "189"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.573,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;СТАТУС ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999764410"
+                              }
+                           ],
+                           "phone" : "+74999764410",
+                           "city" : "Москва",
+                           "latitude" : 55.8118,
+                           "address" : "улица Костякова, 6/5"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "4",
+                           "name" : "Эутирокс, тбл 137мкг 100",
+                           "price" : "175.03"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6662,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6776,
+                           "address" : "улица Новинки, 1"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "3",
+                           "name" : "Эутирокс таб. 137мкг 100",
+                           "price" : "153"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7154,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №165 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8152,
+                           "address" : "бульвар Маршала Рокоссовского, 31с2"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "3",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "162"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.497,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №621 ",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6989,
+                           "address" : "Мичуринский проспект, 34"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "185"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7843,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. ФАРМАДАР.  Аптека №790 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.7529,
+                           "address" : "2-я Владимирская улица, 37 к1"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "187"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5057,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «ФармПрогресс»",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6754,
+                           "address" : "проспект Вернадского, 39"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс таб. 137мкг 100",
+                           "price" : "125"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7836,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ОМЕГА ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74991652530"
+                              }
+                           ],
+                           "phone" : "+74991652530",
+                           "city" : "Москва",
+                           "latitude" : 55.7904,
+                           "address" : "3-я Парковая улица, 7/17"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "2",
+                           "name" : "Эутирокс, тбл 137мкг 100",
+                           "price" : "172.89"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6089,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;НЕО-ФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74999045455"
+                              },
+                              {
+                                 "number" : "+74955855515"
+                              }
+                           ],
+                           "phone" : "+74999045455; +74955855515",
+                           "city" : "Москва",
+                           "latitude" : 55.8623,
+                           "address" : "улица Декабристов, 20 к2"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс таб. 137мкг 100",
+                           "price" : "165"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8205,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Формула Здоровья ИЗМАЙЛОВО",
+                           "phones" : [
+                              {
+                                 "number" : "+74956625463"
+                              }
+                           ],
+                           "phone" : "+74956625463",
+                           "city" : "Москва",
+                           "latitude" : 55.7745,
+                           "address" : "Большой Купавенский проезд, 4"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс тб 137мкг 100",
+                           "price" : "185.2"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8241,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. ФАРМАДАР.  Аптека №674",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.719,
+                           "address" : "Вешняковская улица, 39а"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "185"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8279,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;МИЦАР-Н&quot; 44",
+                           "phones" : [
+                              {
+                                 "number" : "+74957412770"
+                              }
+                           ],
+                           "phone" : "+74957412770",
+                           "city" : "Москва",
+                           "latitude" : 55.7789,
+                           "address" : "Челябинская улица, 15"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс таб. 137 мкг 100",
+                           "price" : "183.8"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5329,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №637",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Москва",
+                           "latitude" : 55.6401,
+                           "address" : "улица Миклухо-Маклая, 36а"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "156"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7413,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №150 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.6512,
+                           "address" : "Люблинская улица, 108а"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "165"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.746,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ДИАЛОГ-ФМТ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Москва",
+                           "latitude" : 55.6496,
+                           "address" : "Люблинская улица, 165 к2"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "4",
+                           "name" : "Эутирокс таб. 137мкг 100",
+                           "price" : "181"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5217,
+                           "roundtheclock" : 1,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №916",
+                           "phones" : [
+                              {
+                                 "number" : "+74957898205"
+                              }
+                           ],
+                           "phone" : "+74957898205",
+                           "city" : "Москва",
+                           "latitude" : 55.8777,
+                           "address" : "Ангарская улица, 28 к2"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "169"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5889,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Поляна&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955437314"
+                              }
+                           ],
+                           "phone" : "+74955437314",
+                           "city" : "Москва",
+                           "latitude" : 55.8884,
+                           "address" : "Алтуфьевское шоссе, 70"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс тб 137мкг блист n25x4",
+                           "price" : "181"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4416,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №969",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8493,
+                           "address" : "Химкинский бульвар, 23"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "3",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "179"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.605,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "А5.  Аптека №372",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Москва",
+                           "latitude" : 55.8974,
+                           "address" : "улица Лескова, 14"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "4",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "162"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.718,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №123 САП",
+                           "phones" : [
+                              {
+                                 "number" : "+79258976923"
+                              }
+                           ],
+                           "phone" : "+79258976923",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9056,
+                           "address" : "Лётная улица, 27, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "183"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7256,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №39",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9048,
+                           "address" : "Новомытищинский проспект, 76, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "170"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4798,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО Авиценна",
+                           "phones" : [
+                              {
+                                 "number" : "+79295627410"
+                              }
+                           ],
+                           "phone" : "+79295627410",
+                           "city" : "Химки",
+                           "latitude" : 55.8973,
+                           "address" : "Совхозная улица, 9, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс таб. 137 мкг 100",
+                           "price" : "187.4"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.712,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "A5. НОРМА.  Аптека №1 178",
+                           "phones" : [
+                              {
+                                 "number" : "+74955819487"
+                              },
+                              {
+                                 "number" : "+79684937459"
+                              },
+                              {
+                                 "number" : "+79169332802"
+                              }
+                           ],
+                           "phone" : "+74955819487; +79684937459; +79169332802",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9084,
+                           "address" : "Юбилейная улица, 23 к1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "169"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7185,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №680",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Мытищи",
+                           "latitude" : 55.9088,
+                           "address" : "Лётная улица, 28 к1, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "160"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.9338,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;ГиппоРубер&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Балашиха",
+                           "latitude" : 55.7949,
+                           "address" : "Советская улица, 1/7, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "3",
+                           "name" : "Эутирокс таб. 137мкг 100",
+                           "price" : "160"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8612,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. АПТЕКИ А5 Московская область.  Аптека №1 807",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Королёв",
+                           "latitude" : 55.9134,
+                           "address" : "улица Горького, 27, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "3",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "162"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5636,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО «ФармПрогресс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74953633500"
+                              }
+                           ],
+                           "phone" : "+74953633500",
+                           "city" : "Щербинка",
+                           "latitude" : 55.5103,
+                           "address" : "Пушкинская улица, 2, Москва"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс таб. 137мкг 100",
+                           "price" : "180"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2059,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №603",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Лосино-Петровский",
+                           "latitude" : 55.8683,
+                           "address" : "улица Ленина, 2, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "156"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.2306,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "A5. НОРМА.  Аптека №613",
+                           "phones" : [],
+                           "phone" : "",
+                           "city" : "Раменское",
+                           "latitude" : 55.5711,
+                           "address" : "Красноармейская улица, 4б, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс табл. 137мкг n100",
+                           "price" : "166"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 38.4421,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО НЕО-ФАРМ",
+                           "phones" : [
+                              {
+                                 "number" : "+74965114252"
+                              }
+                           ],
+                           "phone" : "+74965114252",
+                           "city" : "Ногинск",
+                           "latitude" : 55.8567,
+                           "address" : "Патриаршая улица, 4, Московская область"
+                        },
+                        "drug" : {
+                           "descid" : "550",
+                           "quantity" : "1",
+                           "name" : "Эутирокс таб. 137мкг 100",
+                           "price" : "180"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "левотироксин натрия"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

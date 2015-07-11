@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ascorbic_acid",
+            "rus_name" : "Аскорбиновая кислота",
+            "form" : "р-р д/в/в и в/м введения 5% (50 мг/1 мл)",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ascorbic_acid",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 36.8634,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "А5.  Аптека №99",
+                           "phones" : [
+                              {
+                                 "number" : "+74956453565"
+                              }
+                           ],
+                           "phone" : "+74956453565",
+                           "city" : "Московская область",
+                           "latitude" : 55.7259,
+                           "address" : "Звенигород, 16"
+                        },
+                        "drug" : {
+                           "descid" : "1974",
+                           "quantity" : "1",
+                           "name" : "Аскорбиновая кислота р-р д/ин. 5% 1мл n10",
+                           "price" : "22.5"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "аскорбиновая кислота"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}

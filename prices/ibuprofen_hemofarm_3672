@@ -1,0 +1,84 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "12410bd",
+         "response" : {
+            "latin_name" : "ibuprofen_hemofarm",
+            "rus_name" : "Ибупрофен-хемофарм",
+            "form" : "сусп. д/приема внутрь 100 мг/5 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 2,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "ibuprofen_hemofarm",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4315,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Мёбиус",
+                           "phones" : [
+                              {
+                                 "number" : "+74954442072"
+                              }
+                           ],
+                           "phone" : "+74954442072",
+                           "city" : "Москва",
+                           "latitude" : 55.7202,
+                           "address" : "Можайское шоссе, 17"
+                        },
+                        "drug" : {
+                           "descid" : "1852",
+                           "quantity" : "1",
+                           "name" : "Ибупрофен-хемофарм сусп. д/приема внутрь 100мг/5мл фл. 100мл",
+                           "price" : "68"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7975,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "ООО &quot;Мебиус&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74959659820"
+                              },
+                              {
+                                 "number" : "+74959659819"
+                              }
+                           ],
+                           "phone" : "+74959659820; +74959659819",
+                           "city" : "Москва",
+                           "latitude" : 55.8024,
+                           "address" : "9-я Парковая улица, 43/26"
+                        },
+                        "drug" : {
+                           "descid" : "1852",
+                           "quantity" : "2",
+                           "name" : "Ибупрофен-хемофарм сусп. д/приема внутрь 100мг/5мл фл. 100мл",
+                           "price" : "70"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "ибупрофен"
+         },
+         "version" : "3.12.0"
+      }
+   }
+}
