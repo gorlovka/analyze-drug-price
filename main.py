@@ -7,6 +7,7 @@ import sys
 import re
 import json
 from collections import namedtuple, OrderedDict, defaultdict, Counter
+from itertools import count
 
 import requests
 
@@ -671,6 +672,12 @@ def stats_stats(stats):
 
 
 def normalize_pharmacy(pharmacy):
+    pharmacy = pharmacy.replace('&quot;', '"')
+    pharmacy = pharmacy.replace(u'A5', u'А5')
+    return pharmacy
+
+
+def get_pharmacy_group(pharmacy):
     patterns = [
         u'А5',
         u'Аптечная сеть Оз',
@@ -694,8 +701,7 @@ def normalize_pharmacy(pharmacy):
         u'Формула Здоровья',
         u'НЕО-ФАРМ'
     ]
-    pharmacy = pharmacy.replace('&quot;', '"')
-    pharmacy = pharmacy.replace(u'A5', u'А5')
+    pharmacy = normalize_pharmacy(pharmacy)
     for pattern in patterns:
         if pattern.lower() in pharmacy.lower():
             return pattern
@@ -710,9 +716,11 @@ def get_titles_popularity(join, prices, top=100):
             options = prices[name, id]
             popular[name, id] = len(options)
             mapping[name, id] = (title, form)
+    filter = defaultdict(Counter)
     for (name, id), popularity in popular.most_common(top):
         title, form = mapping[name, id]
-        yield popularity, name, title, id, form
+        filter[name, title][id, form] = popularity
+    return filter
     
 
 def get_real_max_price(price):
@@ -730,27 +738,54 @@ def get_real_max_price(price):
     return price
 
 
-def shows_stats(stats, popular=None):
-    if popular:
-        popular = {(name, title, id, form)
-                   for popularity, name, title, id, form in popular}
+def filter_stats(stats, filter):
+    slice = defaultdict(dict)
     for (name, title), forms in stats.iteritems():
-        if popular and any(((name, title, id, form) in popular)
-                           for id, form in forms):
-            print title
+        if (name, title) in filter:
             for (id, form), (max, all) in forms.iteritems():
-                if popular and (name, title, id, form) in popular:
-                    print '  ', form
-                    for amount, forms in max.iteritems():
-                        for form, price in forms.iteritems():
-                            print '    * ', amount, form, price, get_real_max_price(price)
-                        titles = Counter()
-                        options = Counter()
-                        for title, price, pharmacy in all[amount]:
-                            titles[title] += 1
-                            pharmacy = normalize_pharmacy(pharmacy)
-                            options[pharmacy, price] += 1
-                        for title, count in titles.most_common(10):
-                            print '    - ', count, '\t', title
-                        for (pharmacy, price), count in options.most_common(10):
-                            print '    # ', count, '\t', pharmacy, price
+                if (id, form) in filter[name, title]:
+                    slice[name, title][id, form] = (max, all)
+    return slice
+
+
+def shows_stats(stats):
+    for (name, title), forms in stats.iteritems():
+        print title
+        for (id, form), (max, all) in forms.iteritems():
+            print '  ', form
+            for amount, forms in max.iteritems():
+                for form, price in forms.iteritems():
+                    print '    * ', amount, form, price, get_real_max_price(price)
+                titles = Counter()
+                options = Counter()
+                for title, price, pharmacy in all[amount]:
+                    titles[title] += 1
+                    pharmacy = get_pharmacy_group(pharmacy)
+                    options[pharmacy, price] += 1
+                for title, count in titles.most_common(10):
+                    print '    - ', count, '\t', title
+                for (pharmacy, price), count in options.most_common(10):
+                    print '    # ', count, '\t', pharmacy, price
+
+
+def dump_stats(stats, path='viz/data.json'):
+    pharmacies = defaultdict(count().next)
+    dump = defaultdict(lambda: defaultdict(dict))
+    for (name, title), forms in stats.iteritems():
+        for (id, form), (max, all) in forms.iteritems():
+            for amount, limits in max.iteritems():
+                prices = {}
+                if amount in all:
+                    for option in all[amount]:
+                        pharmacy = normalize_pharmacy(option.pharmacy)
+                        price = option.price
+                        prices[pharmacies[pharmacy]] = price
+                dump[name][id][amount] = {
+                    'name': form,
+                    'limits': limits,
+                    'prices': prices
+                }
+    pharmacies = {id: pharmacy for pharmacy, id
+                  in pharmacies.iteritems()}
+    with open(path, 'w') as file:
+        json.dump([pharmacies, dump], file)
