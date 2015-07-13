@@ -708,18 +708,16 @@ def get_pharmacy_group(pharmacy):
     return pharmacy
 
 
-def get_titles_popularity(join, prices, top=100):
+def get_titles_popularity(stats, top=100):
     popular = Counter()
-    mapping = {}
-    for (name, title), forms in join.iteritems():
-        for (id, form), match in forms.iteritems():
-            options = prices[name, id]
-            popular[name, id] = len(options)
-            mapping[name, id] = (title, form)
-    filter = defaultdict(Counter)
-    for (name, id), popularity in popular.most_common(top):
-        title, form = mapping[name, id]
-        filter[name, title][id, form] = popularity
+    for (name, title), forms in stats.iteritems():
+        for (id, form), (max, all) in forms.iteritems():
+            for amount in max:
+                if amount in all:
+                    popular[name, title, id, form, amount] = len(all[amount])
+    filter = defaultdict(lambda: defaultdict(Counter))
+    for (name, title, id, form, amount), popularity in popular.most_common(top):
+        filter[name, title][id, form][amount] = popularity
     return filter
     
 
@@ -744,6 +742,11 @@ def filter_stats(stats, filter):
         if (name, title) in filter:
             for (id, form), (max, all) in forms.iteritems():
                 if (id, form) in filter[name, title]:
+                    amounts = filter[name, title][id, form]
+                    max = {amount: forms for amount, forms
+                           in max.iteritems() if amount in amounts}
+                    all = {amount: prices for amount, prices
+                           in all.iteritems() if amount in amounts}
                     slice[name, title][id, form] = (max, all)
     return slice
 
@@ -770,18 +773,23 @@ def shows_stats(stats):
 
 def dump_stats(stats, path='viz/data.json'):
     pharmacies = defaultdict(count().next)
-    dump = defaultdict(lambda: defaultdict(dict))
+    dump = defaultdict(dict)
     for (name, title), forms in stats.iteritems():
         for (id, form), (max, all) in forms.iteritems():
+            dump[name][id] = {
+                'name': form,
+                'amounts': {}
+            }
             for amount, limits in max.iteritems():
+                limits = {form: get_real_max_price(price)
+                          for form, price in limits.iteritems()}
                 prices = {}
                 if amount in all:
                     for option in all[amount]:
                         pharmacy = normalize_pharmacy(option.pharmacy)
                         price = option.price
                         prices[pharmacies[pharmacy]] = price
-                dump[name][id][amount] = {
-                    'name': form,
+                dump[name][id]['amounts'][amount] = {
                     'limits': limits,
                     'prices': prices
                 }
