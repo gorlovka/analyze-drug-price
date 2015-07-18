@@ -1,0 +1,187 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "a9708d5",
+         "response" : {
+            "latin_name" : "tysabri",
+            "rus_name" : "Тизабри",
+            "form" : "концентрат д/пригот. р-ра д/инфузий 20 мг/мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 6,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "tysabri",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6355,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "Формула Здоровья г.Москва Север",
+                           "phones" : [
+                              {
+                                 "number" : "+74951236674"
+                              },
+                              {
+                                 "number" : "+74957750824"
+                              }
+                           ],
+                           "phone" : "+74951236674; +74957750824",
+                           "city" : "Москва",
+                           "latitude" : 55.7846,
+                           "address" : "проспект Мира, 56 с1"
+                        },
+                        "drug" : {
+                           "descid" : "8108",
+                           "quantity" : "1",
+                           "name" : "Тизабри??? конц д/инф 20мг/мл 15мл 1",
+                           "price" : "76300"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5366,
+                           "roundtheclock" : 0,
+                           "delivery" : 1,
+                           "name" : "Pharmacorp Ltd",
+                           "phones" : [
+                              {
+                                 "number" : "+74993911628"
+                              }
+                           ],
+                           "phone" : "+74993911628",
+                           "city" : "Москва",
+                           "latitude" : 55.7471,
+                           "address" : "Пресненская набережная, 10блокС"
+                        },
+                        "drug" : {
+                           "descid" : "8108",
+                           "quantity" : "2",
+                           "name" : "Тизабри конц д/ин 20мг/мл 15мл 1",
+                           "price" : "117900"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6826,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "ООО &quot;Фарматун-7&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992685606"
+                              }
+                           ],
+                           "phone" : "+74992685606",
+                           "city" : "Москва",
+                           "latitude" : 55.7903,
+                           "address" : "улица Стромынка, 1"
+                        },
+                        "drug" : {
+                           "descid" : "8108",
+                           "quantity" : "1",
+                           "name" : "Тизабри конц д/р-ра д/инф 20мг/мл фл 15мл 1",
+                           "price" : "74900"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.7878,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "ООО &quot;Формула Здоровья-4&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74956266768"
+                              }
+                           ],
+                           "phone" : "+74956266768",
+                           "city" : "Москва",
+                           "latitude" : 55.7158,
+                           "address" : "1-я Новокузьминская улица, 11"
+                        },
+                        "drug" : {
+                           "descid" : "8108",
+                           "quantity" : "1",
+                           "name" : "Тизабри??? конц раствор д/инф 20мг/мл 15",
+                           "price" : "70850"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.8204,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "ООО &quot;ОНФАРМ&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74957704141"
+                              },
+                              {
+                                 "number" : "+74957704255"
+                              }
+                           ],
+                           "phone" : "+74957704141; +74957704255",
+                           "city" : "Москва",
+                           "latitude" : 55.7978,
+                           "address" : "15-я Парковая улица, 20а"
+                        },
+                        "drug" : {
+                           "descid" : "8108",
+                           "quantity" : "33",
+                           "name" : "Тизабри 20 мг/мл 15 мл конц-т 1",
+                           "price" : "124660"
+                        }
+                     }
+                  },
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.3465,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "ООО &quot;Еврофармекс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74955174654"
+                              }
+                           ],
+                           "phone" : "+74955174654",
+                           "city" : "Москва",
+                           "latitude" : 55.85,
+                           "address" : "Ангелов переулок, 9 к2"
+                        },
+                        "drug" : {
+                           "descid" : "8108",
+                           "quantity" : "2",
+                           "name" : "Тизабри конц д/р-ра для инфузий 20мг/мл фл 15мл n1",
+                           "price" : "82000"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "натализумаб"
+         },
+         "version" : "3.13.0"
+      }
+   }
+}

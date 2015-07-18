@@ -1,0 +1,65 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "a9708d5",
+         "response" : {
+            "latin_name" : "myconyl",
+            "rus_name" : "Майконил",
+            "form" : "р-р д/инф. 200 мг/100 мл",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "myconyl",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.6541,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "Сеть аптек &quot;Самсон-Фарма&quot;. Аптека на Воронцовом поле",
+                           "phones" : [
+                              {
+                                 "number" : "+74959171275"
+                              },
+                              {
+                                 "number" : "+74959170321"
+                              },
+                              {
+                                 "number" : "+74959133552"
+                              },
+                              {
+                                 "number" : "+74997649803"
+                              }
+                           ],
+                           "phone" : "+74959171275; +74959170321; +74959133552; +74997649803",
+                           "city" : "Москва",
+                           "latitude" : 55.7529,
+                           "address" : "улица Воронцово Поле, 14"
+                        },
+                        "drug" : {
+                           "descid" : "6322",
+                           "quantity" : "46",
+                           "name" : "Майконил р-р д/инф 2мг/мл 100мл №1",
+                           "price" : "265.3"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "флуконазол"
+         },
+         "version" : "3.13.0"
+      }
+   }
+}

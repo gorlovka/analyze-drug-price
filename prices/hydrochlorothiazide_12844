@@ -1,0 +1,59 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "a9708d5",
+         "response" : {
+            "latin_name" : "hydrochlorothiazide",
+            "rus_name" : "Гидрохлоротиазид",
+            "form" : "таб. 25 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "hydrochlorothiazide",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.5856,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "ООО &quot;Люксор - Фарм Плюс&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74992005500"
+                              },
+                              {
+                                 "number" : "+79260961147"
+                              }
+                           ],
+                           "phone" : "+74992005500; +79260961147",
+                           "city" : "Москва",
+                           "latitude" : 55.8932,
+                           "address" : "Алтуфьевское шоссе, 87"
+                        },
+                        "drug" : {
+                           "descid" : "3736",
+                           "quantity" : "2",
+                           "name" : "Гидрохлоротиазид табл. 25 мг 20, атолл ооо, произведено озон ооо",
+                           "price" : "46.3"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "гидрохлоротиазид"
+         },
+         "version" : "3.13.0"
+      }
+   }
+}

@@ -1,0 +1,56 @@
+{
+   "kmdata" : {
+      "spybug" : "0",
+      "data" : {
+         "revision" : "a9708d5",
+         "response" : {
+            "latin_name" : "trinitrolong",
+            "rus_name" : "Тринитролонг",
+            "form" : "пленки д/наклеивания на десну 2 мг",
+            "has_desc" : true,
+            "type" : "drugassortment",
+            "results" : {
+               "count" : 1,
+               "longitude" : 37.6186,
+               "page" : 1,
+               "radius" : 60000,
+               "for" : "trinitrolong",
+               "orderby" : 0,
+               "latitude" : 55.7516,
+               "limit" : 950,
+               "items" : [
+                  {
+                     "item" : {
+                        "pharmacy" : {
+                           "longitude" : 37.4396,
+                           "roundtheclock" : 0,
+                           "delivery" : 0,
+                           "name" : "ООО &quot;Флория Север&quot;",
+                           "phones" : [
+                              {
+                                 "number" : "+74994979834"
+                              }
+                           ],
+                           "phone" : "+74994979834",
+                           "city" : "Москва",
+                           "latitude" : 55.843,
+                           "address" : "Сходненская улица, 36/11"
+                        },
+                        "drug" : {
+                           "descid" : "5712",
+                           "quantity" : "1",
+                           "name" : "Тринитролонг пленки д/наклеивания на десну 2 мг 10, гнпркц цскб-прогресс фгуп",
+                           "price" : "98"
+                        }
+                     }
+                  }
+               ],
+               "pages" : 1,
+               "offset" : 0
+            },
+            "act_matter" : "нитроглицерин"
+         },
+         "version" : "3.13.0"
+      }
+   }
+}

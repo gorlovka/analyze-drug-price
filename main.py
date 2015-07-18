@@ -6,12 +6,16 @@ import os.path
 import sys
 import re
 import json
+from hashlib import md5
 from collections import namedtuple, OrderedDict, defaultdict, Counter
 from itertools import count
 
 import requests
+requests.packages.urllib3.disable_warnings()
 
 import pandas as pd
+import numpy as np
+from matplotlib import pyplot as plt
 
 
 def bad_price_format(match):
@@ -64,6 +68,28 @@ def read_data(url="https://www.rosminzdrav.ru/opendata/7707778246-Gos%20reestr%2
     return data
 
 
+def read_xls_data(path='data.xls'):
+    data = pd.read_excel('data.xls', header=2)
+    data.columns = ['name', 'title', 'dosage', 'firm',
+                    'amount', 'price', 'price2', 'id',
+                    'date_code1', 'code2']
+    data.name = [(None if _ in ('~', '-') else _) for _ in data.name]
+    data.name = [(_.strip() if _ else None) for _ in data.name]
+    data.title = [(_.strip() if _ else None) for _ in data.title]
+    data.dosage = [(_.strip() if _ else None) for _ in data.dosage]
+    dates = []
+    codes = []
+    for _ in data.date_code1:
+        match = re.match('(\d\d.\d\d.\d\d\d\d)\s?\((.+)\)', _)
+        date, code1 = match.groups()
+        dates.append(date)
+        codes.append(code1)
+    data['date'] = pd.to_datetime(date)
+    data['code1'] = codes
+    del data['date_code1']
+    return data
+
+
 def get_max_prices(data):
     groups = defaultdict(lambda: defaultdict(list))
     for _, row in data.iterrows():
@@ -76,19 +102,26 @@ def get_max_prices(data):
     return prices
 
 
-def list_serp_cache(cache='serps'):
-    for filename in os.listdir(cache):
-        yield filename.decode('utf8')
+def get_title_hash(title):
+    return md5(title.encode('utf8')).hexdigest()
+
+
+def load_serp_cache(cache='serps', registry='registry.json'):
+    with open(os.path.join(cache, registry)) as file:
+        return json.load(file)
+
+
+def dump_serp_cache(dump, cache='serps', registry='registry.json'):
+    with open(os.path.join(cache, registry), 'w') as file:
+        json.dump(dump, file)
 
 
 def get_serp(query, cache='serps', pattern=u'http://med.sputnik.ru/search?q={}'):
     url = pattern.format(query)
-    # To store files by query
-    query = query.replace('/', '|')
-    query = query[:120]
-    serps = set(list_serp_cache(cache))
-    path = os.path.join(cache, query)
-    if query in serps:
+    serps = load_serp_cache(cache)
+    id = get_title_hash(query)
+    path = os.path.join(cache, id)
+    if id in serps:
         with open(path) as file:
             return file.read().decode('utf8')
     else:
@@ -96,6 +129,8 @@ def get_serp(query, cache='serps', pattern=u'http://med.sputnik.ru/search?q={}')
         print >>sys.stderr, 'Fetch', query
         with open(path, 'w') as file:
             file.write(response.content)
+        serps[id] = query
+        dump_serp_cache(serps)
         return response.text
 
 
@@ -129,7 +164,8 @@ def search(query):
 
 
 def load_serps(cache='serps'):
-    return {_: search(_) for _ in list_serp_cache(cache)}
+    cache = load_serp_cache(cache)
+    return {title: search(title) for id, title in cache.iteritems()}
 
 
 def get_prices(title, form=None, cache='prices', pattern='http://med.sputnik.ru/js_assortment?limit=950&extf_lat=55.75155956879236&extf_long=37.6186466217041&offset=0&radius=60000&q={}&form_id={}&orderby=distance_asc'):
@@ -150,6 +186,15 @@ def get_prices(title, form=None, cache='prices', pattern='http://med.sputnik.ru/
         with open(path, 'w') as file:
             file.write(response.content)
         return response.json()
+
+
+def download_prices(join):
+    prices = set()
+    for (name, title), forms in join.iteritems():
+        for (id, form), match in forms.iteritems():
+            prices.add((name, id))
+    for name, id in prices:
+        get_prices(name, id)
 
 
 class Price(namedtuple('Price', 'title, price, pharmacy')):
@@ -555,15 +600,18 @@ def join_stats(serps, max_prices, not_found, no_forms, join):
     total = 0
     matches = 0
     no_matches = {}
+    coverage = 0
     for (name, title), forms in join.iteritems():
         for (id, form), match in forms.iteritems():
             total += 1
             if match:
                 matches += 1
+                coverage += len(match)
             else:
                 no_matches[form] = max_prices[title]
     print 'Forms:', total
-    print 'Matches:', matches,
+    print 'Matches:', matches
+    print 'Data coverage:', coverage,
     return no_matches
     
 
@@ -721,19 +769,41 @@ def get_titles_popularity(stats, top=100):
     return filter
     
 
-def get_real_max_price(price):
-    price *= 1.13        # nds
-    if price <= 50.0:
+def plot_steps(smooth=False):
+    fig, (ax1, ax2) = plt.subplots(1,2 )
+    x = np.arange(0, 60, 0.01)
+    y = [get_real_max_price(_, smooth=smooth) for _ in x]
+    ax1.plot(x, y)
+    x = np.arange(300, 600, 0.01)
+    y = [get_real_max_price(_, smooth=smooth) for _ in x]
+    ax2.plot(x, y)
+
+    x = np.arange(0, 600, 0.01)
+    for previous, current in zip(x, x[1:]):
+        previous_real = get_real_max_price(previous, smooth=smooth)
+        real = get_real_max_price(current, smooth=smooth)
+        if real < previous_real:
+            print '{}: {}, {}: {}'.format(previous, previous_real, current, real)
+
+
+def get_real_max_price(price, smooth=True):
+    nds = price * 1.10
+    if nds <= 50.0:
         bulk = 0.2
         retail = 0.32
-    elif price <= 500.0:
+    elif nds <= 500.0:
         bulk = 0.15
         retail = 0.28
     else:
         bulk = 0.10
         retail = 0.15
-    price *= (1 + bulk + retail)
-    return price
+    real = nds * (1 + bulk + retail)
+    if smooth:
+        if price > 45.45:
+            real = max(real, 75.9924)
+        if price > 454.54:
+            real = max(real, 714.99142)
+    return real
 
 
 def filter_stats(stats, filter):
