@@ -1,3 +1,67 @@
+d3.json('steps.json', function(error, data) {
+    function plot(container, data) {
+	var margin = {top: 20, right: 20, bottom: 30, left: 50},
+	    width = 500 - margin.left - margin.right,
+	    height = 300 - margin.top - margin.bottom;
+
+	var x = d3.scale.linear()
+	    .range([0, width]);
+
+	var y = d3.scale.linear()
+	    .range([height, 0]);
+
+	var xAxis = d3.svg.axis()
+	    .scale(x)
+	    .orient('bottom');
+
+	var yAxis = d3.svg.axis()
+	    .scale(y)
+	    .orient('left');
+
+	var line = d3.svg.line()
+	    .x(function(d) { return x(d.x); })
+	    .y(function(d) { return y(d.y); });
+
+	var svg = container.append('svg')
+	    .attr('width', width + margin.left + margin.right)
+	    .attr('height', height + margin.top + margin.bottom)
+	    .append('g')
+	    .attr('transform',
+		  'translate(' + margin.left + ',' + margin.top + ')');
+
+	x.domain(d3.extent(data, function(d) { return d.x; }));
+	y.domain(d3.extent(data, function(d) { return d.y; }));
+
+	svg.append('g')
+	    .attr('class', 'x axis')
+	    .attr('transform', 'translate(0,' + height + ')')
+	    .call(xAxis)
+	    .append('text')
+	    .attr('x', width)
+	    .attr('y', -6)
+	    .style('text-anchor', 'end')
+	    .text('Цена производителя, ₽');
+
+	svg.append('g')
+	    .attr('class', 'y axis')
+	    .call(yAxis)
+	    .append('text')
+	    .attr('transform', 'rotate(-90)')
+	    .attr('y', 6)
+	    .attr('dy', '.71em')
+	    .style('text-anchor', 'end')
+	    .text('Ценник, ₽');
+
+	svg.append('path')
+	    .datum(data)
+	    .attr('class', 'line')
+	    .attr('d', line);
+    }
+
+    plot(d3.select('#steps'), data.steps);
+    plot(d3.select('#smooth'), data.smooth);
+});
+
 d3.json('data.json', function(error, data) {
     var pharmacies = data[0];
     var data = data[1];
@@ -62,6 +126,9 @@ d3.json('data.json', function(error, data) {
     var columns = d3.selectAll('.column')[0];
     var capacity = Math.ceil(items.length / columns.length);
     items.forEach(function(item, index) {
+	if (index != 0) {
+	    return;
+	}
 	var column = columns[Math.floor(index / capacity)];
 	column = d3.select(column);
 	var card = column.append('div')

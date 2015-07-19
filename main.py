@@ -786,6 +786,30 @@ def plot_steps(smooth=False):
             print '{}: {}, {}: {}'.format(previous, previous_real, current, real)
 
 
+def dump_steps(path='viz/steps.json'):
+    x = np.arange(0, 600, 1)
+    steps = [
+        {
+            'x': _,
+            'y': get_real_max_price(_, smooth=False)
+        }
+        for _ in x
+    ]
+    smooth = [
+        {
+            'x': _,
+            'y': get_real_max_price(_, smooth=True)
+        }
+        for _ in x
+    ]
+    data = {
+        'steps': steps,
+        'smooth': smooth
+    }
+    with open(path, 'w') as dump:
+        json.dump(data, dump)
+
+
 def get_real_max_price(price, smooth=True, trace=False):
     nds = price * 1.10
     if nds <= 50.0:

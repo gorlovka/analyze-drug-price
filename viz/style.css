@@ -38,6 +38,12 @@ ul.vialations li.vialation:before {
     font-size: 10px;
 }
 
+.chart .line {
+    fill: none;
+    stroke: #337ab7;
+    stroke-width: 1px;
+}
+
 .rug {
     stroke-width: 1px;
     shape-rendering: crispEdges;
