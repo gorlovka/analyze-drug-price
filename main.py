@@ -93,11 +93,11 @@ def read_xls_data(path='data.xls'):
 def get_max_prices(data):
     groups = defaultdict(lambda: defaultdict(list))
     for _, row in data.iterrows():
-        groups[row.title][row.dosage, row.amount].append((row.date, row.price))
+        groups[row.title][row.dosage, row.amount].append(row.price)
     prices = defaultdict(dict)
     for title, forms in groups.iteritems():
-        for (form, amount), dates in forms.iteritems():
-            _, price = max(dates)
+        for (form, amount), options in forms.iteritems():
+            price = max(options)
             prices[title][form, amount] = price
     return prices
 
