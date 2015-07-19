@@ -6,15 +6,28 @@ d3.json('data.json', function(error, data) {
 	var forms = data[name];
 	for (var id in forms) {
 	    var form = forms[id];
-	    var title = form.name;
+	    var pattern = form.pattern;
+	    var title = form.title;
 	    var amounts = form.amounts;
 	    for (var amount in amounts) {
 		var stats = amounts[amount];
 		var limits = [];
 		for (var form in stats.limits) {
+		    var limit = stats.limits[form];
+		    var price = limit[0];
+		    var nds = limit[1];
+		    var bulk = limit[2];
+		    var retail = limit[3];
+		    var delta = limit[4];
+		    var value = limit[5];
 		    limits.push({
 			form: form,
-			value: stats.limits[form]
+			price: price,
+			nds: nds,
+			bulk: bulk,
+			retail: retail,
+			delta: delta,
+			value: value
 		    });
 		}
 		limits = limits.sort(function(a, b) {
@@ -30,6 +43,7 @@ d3.json('data.json', function(error, data) {
 		items.push({
 		    name: name,
 		    id: +id,
+		    pattern: pattern,
 		    title: title,
 		    amount: +amount,
 		    limits: limits,
@@ -39,7 +53,7 @@ d3.json('data.json', function(error, data) {
 	}
     }
     items = items.sort(function(a, b) {
-	var result = a.title.localeCompare(b.title);
+	var result = a.pattern.localeCompare(b.pattern);
 	if (result == 0) {
 	    result = b.amount - a.amount;
 	}
@@ -54,13 +68,13 @@ d3.json('data.json', function(error, data) {
 	    .attr('class', 'card')
 	var description = card.append('div')
 	    .attr('class', 'description')
-	var title = description.append('div')
-	    .attr('class', 'title')
-	title.append('a')
+	var pattern = description.append('div')
+	    .attr('class', 'pattern')
+	pattern.append('a')
 	    .attr('href', ('http://med.sputnik.ru/description/'
 			   + item.name + '/' + item.id))
-	    .text(item.title);
-	title.append('span')
+	    .text(item.pattern);
+	pattern.append('span')
 	    .text(', ' + item.amount + 'шт.');
 
 	var margin = {top: 15, right: 20, bottom: 20, left: 20};
@@ -139,8 +153,24 @@ d3.json('data.json', function(error, data) {
 		    .attr('class', 'vialation')
 		    .text(text);
 	    });
-	}	
+	}
 
+	var explain = description.append('div')
+	    .attr('class', 'explain')
+	explain.append('span')
+	    .text(limit.value.toFixed(2) + '₽' + ' = (')
+	explain.append('a')
+	    .attr('href', ('http://grls.rosminzdrav.ru/PriceLims.aspx'
+			   + '?PageSize=99&&Torg=' + item.title))
+	    .text(limit.price + '₽')
+	explain.append('span')
+	    .text(' × ' + (1 + limit.nds) + ') × (1 + '
+		  + limit.bulk + ' + ' + limit.retail + ')')
+	if (limit.delta > 0) {
+	    explain.append('span')
+		.text(' + ' + limit.delta.toFixed(2) + '₽')
+	}
+	
 	var domain = d3.extent(
 	    prices.concat(excess, [limit]),
 	    function(d) {

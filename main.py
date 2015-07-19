@@ -786,7 +786,7 @@ def plot_steps(smooth=False):
             print '{}: {}, {}: {}'.format(previous, previous_real, current, real)
 
 
-def get_real_max_price(price, smooth=True):
+def get_real_max_price(price, smooth=True, trace=False):
     nds = price * 1.10
     if nds <= 50.0:
         bulk = 0.2
@@ -798,12 +798,18 @@ def get_real_max_price(price, smooth=True):
         bulk = 0.10
         retail = 0.15
     real = nds * (1 + bulk + retail)
+    delta = 0
     if smooth:
+        original = real
         if price > 45.45:
             real = max(real, 75.9924)
         if price > 454.54:
             real = max(real, 714.99142)
-    return real
+        delta = real - original
+    if trace:
+        return price, 0.10, bulk, retail, delta, real
+    else:
+        return real
 
 
 def filter_stats(stats, filter):
@@ -847,11 +853,12 @@ def dump_stats(stats, path='viz/data.json'):
     for (name, title), forms in stats.iteritems():
         for (id, form), (max, all) in forms.iteritems():
             dump[name][id] = {
-                'name': form,
+                'pattern': form,
+                'title': title,
                 'amounts': {}
             }
             for amount, limits in max.iteritems():
-                limits = {form: get_real_max_price(price)
+                limits = {form: get_real_max_price(price, smooth=True, trace=True)
                           for form, price in limits.iteritems()}
                 prices = {}
                 if amount in all:
