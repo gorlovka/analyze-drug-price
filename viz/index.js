@@ -126,9 +126,6 @@ d3.json('data.json', function(error, data) {
     var columns = d3.selectAll('.column')[0];
     var capacity = Math.ceil(items.length / columns.length);
     items.forEach(function(item, index) {
-	if (index != 0) {
-	    return;
-	}
 	var column = columns[Math.floor(index / capacity)];
 	column = d3.select(column);
 	var card = column.append('div')
@@ -158,6 +155,13 @@ d3.json('data.json', function(error, data) {
 		'transform',
 		'translate(' + margin.left + ',' + margin.top + ')'
 	    );
+	var raster = true;
+	if (raster) {
+	    var canvas = card.append('canvas')
+		.attr('width', width)
+		.attr('height', height)
+	    var context = canvas.node().getContext('2d');
+	}
 
 	var prices = [];
 	item.prices.forEach(function(price) {
@@ -267,14 +271,23 @@ d3.json('data.json', function(error, data) {
 		y1: y(0),
 		y2: y(height / 2)
 	    };
-	    svg.append('line')
-		.attr('class', 'rug price')
-		.attr({
-		    x1: tick.x,
-		    y1: tick.y1,
-		    x2: tick.x,
-		    y2: tick.y2,
-		})
+	    if (raster) {
+		context.lineWidth = 1;
+		context.strokeStyle = 'rgba(178, 204, 240, 0.1)';
+		context.beginPath();
+		context.moveTo(tick.x, tick.y1);
+		context.lineTo(tick.x, tick.y2);
+		context.stroke();
+	    } else {
+		svg.append('line')
+	    	    .attr('class', 'rug price')
+	    	    .attr({
+	    		x1: tick.x,
+	    		y1: tick.y1,
+	    		x2: tick.x,
+	    		y2: tick.y2,
+	    	    });
+	    }
 	});
 	    
 	excess.forEach(function(price) {
@@ -283,14 +296,23 @@ d3.json('data.json', function(error, data) {
 		y1: y(0),
 		y2: y(height / 2)
 	    };
-	    svg.append('line')
-		.attr('class', 'rug price excess')
-		.attr({
-		    x1: tick.x,
-		    y1: tick.y1,
-		    x2: tick.x,
-		    y2: tick.y2,
-		})
+	    if (raster) {
+		context.lineWidth = 1;
+		context.strokeStyle = 'rgba(255, 0, 0, 0.5)';
+		context.beginPath();
+		context.moveTo(tick.x, tick.y1);
+		context.lineTo(tick.x, tick.y2);
+		context.stroke();
+	    } else {
+		svg.append('line')
+	    	    .attr('class', 'rug price excess')
+	    	    .attr({
+	    		x1: tick.x,
+	    		y1: tick.y1,
+	    		x2: tick.x,
+	    		y2: tick.y2,
+	    	    });
+	    }
 	});
 
 	nofit.forEach(function(price) {
@@ -302,15 +324,33 @@ d3.json('data.json', function(error, data) {
 		y1: y(0),
 		y2: y(height / 2)
 	    };
-	    svg.append('line')
-		.attr('class', 'rug price excess')
-		.attr({
-		    x1: tick.x,
-		    y1: tick.y1,
-		    x2: tick.x,
-		    y2: tick.y2,
-		})
+	    if (raster) {
+		context.lineWidth = 1;
+		context.strokeStyle = 'rgba(255, 0, 0, 0.5)';
+		context.beginPath();
+		context.moveTo(tick.x, tick.y1);
+		context.lineTo(tick.x, tick.y2);
+		context.stroke();
+	    } else {
+		svg.append('line')
+	    	    .attr('class', 'rug price excess')
+	    	    .attr({
+	    		x1: tick.x,
+	    		y1: tick.y1,
+	    		x2: tick.x,
+	    		y2: tick.y2,
+	    	    });
+	    }
 	})
+	if (raster) {
+	    svg.append('image')
+		.attr('x', 1)
+		.attr('y', 0)
+		.attr('width', width)
+		.attr('height', height)
+		.attr('xlink:href', canvas.node().toDataURL())
+	    canvas.remove()
+	}
 
 	var tick = {
 	    x: x(limit.value),
