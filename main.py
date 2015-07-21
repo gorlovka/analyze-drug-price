@@ -747,7 +747,8 @@ def get_pharmacy_group(pharmacy):
         u'Фармакор',
         u'Фармастар',
         u'Формула Здоровья',
-        u'НЕО-ФАРМ'
+        u'НЕО-ФАРМ',
+        u'Самсон-Фарма'
     ]
     pharmacy = normalize_pharmacy(pharmacy)
     for pattern in patterns:
@@ -898,3 +899,41 @@ def dump_stats(stats, path='viz/data.json'):
                   in pharmacies.iteritems()}
     with open(path, 'w') as file:
         json.dump([pharmacies, dump], file)
+
+
+def get_locations(cache='prices'):
+    locations = {}
+    for title, form in list_prices_cache(cache):
+        data = get_prices(title, form)
+        if 'data' in data['kmdata']:
+            response = data['kmdata']['data']['response']
+            if 'results' in response:
+                for item in response['results']['items']:
+                    pharmacy = item['item']['pharmacy']
+                    name = normalize_pharmacy(pharmacy['name'])
+                    lat = pharmacy['latitude']
+                    lon = pharmacy['longitude']
+                    locations[name] = lat, lon
+    return locations
+
+
+def get_excesses(stats, locations):
+    excesses = []
+    for (name, title), forms in stats.iteritems():
+        for (id, form), (maxes, all) in forms.iteritems():
+            for amount, limits in maxes.iteritems():
+                if amount in all:
+                    limit = max(limits.values())
+                    limit = get_real_max_price(limit)
+                    for option in all[amount]:
+                        price = option.price
+                        pharmacy = normalize_pharmacy(option.pharmacy)
+                        lat, lon = locations[pharmacy]
+                        excesses.append(
+                            (form, amount, pharmacy, lat, lon, limit, price)
+                        )
+    return pd.DataFrame(
+        excesses,
+        columns=['form', 'amount', 'pharmacy', 'lat', 'lon', 'limit', 'price']
+    )
+
