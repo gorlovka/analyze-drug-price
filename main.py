@@ -903,6 +903,7 @@ def dump_stats(stats, path='viz/data.json'):
 
 def get_locations(cache='prices'):
     locations = {}
+    coordinates = {}
     for title, form in list_prices_cache(cache):
         data = get_prices(title, form)
         if 'data' in data['kmdata']:
@@ -914,7 +915,10 @@ def get_locations(cache='prices'):
                     lat = pharmacy['latitude']
                     lon = pharmacy['longitude']
                     locations[name] = lat, lon
-    return locations
+                    phone = pharmacy['phone']
+                    address = pharmacy['address']
+                    coordinates[name] = phone, address
+    return locations, coordinates
 
 
 def get_excesses(stats, locations):
@@ -937,3 +941,28 @@ def get_excesses(stats, locations):
         columns=['form', 'amount', 'pharmacy', 'lat', 'lon', 'limit', 'price']
     )
 
+
+def dump_excesses(excesses, locations, coordinates, path='viz/map/data.json'):
+    data = []
+    for pharmacy, group in excesses.groupby('pharmacy'):
+        prices = []
+        group = group.sort('difference', ascending=False, inplace=False)
+        for _, row in group.iterrows():
+            prices.append({
+                'form': row.form,
+                'amount': row.amount,
+                'limit': row.limit,
+                'price': row.price,
+            })
+        lat, lon = locations[pharmacy]
+        phone, address = coordinates[pharmacy]
+        data.append({
+            'pharmacy': pharmacy,
+            'lat': lat,
+            'lon': lon,
+            'phone': phone,
+            'address': address,
+            'prices': prices
+        })
+    with open(path, 'w') as dump:
+        json.dump(data, dump)
