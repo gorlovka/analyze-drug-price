@@ -6,6 +6,11 @@ import os.path
 import sys
 import re
 import json
+import tempfile
+import zipfile
+from shutil import rmtree
+from datetime import datetime, timedelta
+from subprocess import check_call
 from hashlib import md5
 from collections import namedtuple, OrderedDict, defaultdict, Counter
 from itertools import count
@@ -15,6 +20,8 @@ requests.packages.urllib3.disable_warnings()
 
 import pandas as pd
 import numpy as np
+import seaborn
+seaborn.set_style("whitegrid")
 from matplotlib import pyplot as plt
 
 
@@ -69,19 +76,31 @@ def read_data(url="https://www.rosminzdrav.ru/opendata/7707778246-Gos%20reestr%2
 
 
 def read_xls_data(path='data.xls'):
-    data = pd.read_excel('data.xls', header=2)
+    data = pd.read_excel(path, header=2)
+    if 'Unnamed: 1' in data:
+        del data['Unnamed: 1']     # old tables have some strange column
     data.columns = ['name', 'title', 'dosage', 'firm',
                     'amount', 'price', 'price2', 'id',
                     'date_code1', 'code2']
     data.name = [(None if _ in ('~', '-') else _) for _ in data.name]
+    data.name = [(_ if isinstance(_, basestring) else unicode(_))
+                 for _ in data.name]
     data.name = [(_.strip() if _ else None) for _ in data.name]
+    data.title = [(_ if isinstance(_, basestring) else unicode(_))
+                 for _ in data.title]
     data.title = [(_.strip() if _ else None) for _ in data.title]
+    data.dosage = [(_ if isinstance(_, basestring) else unicode(_))
+                 for _ in data.dosage]
     data.dosage = [(_.strip() if _ else None) for _ in data.dosage]
     dates = []
     codes = []
     for _ in data.date_code1:
+        _ = unicode(_)
         match = re.match('(\d\d.\d\d.\d\d\d\d)\s?\((.+)\)', _)
-        date, code1 = match.groups()
+        if match:
+            date, code1 = match.groups()
+        else:
+            date, code1 = None, None
         dates.append(date)
         codes.append(code1)
     data['date'] = pd.to_datetime(date)
@@ -966,3 +985,203 @@ def dump_excesses(excesses, locations, coordinates, path='viz/map/data.json'):
         })
     with open(path, 'w') as dump:
         json.dump(data, dump)
+
+
+def crawl_archive_page(
+        url='http://grls.rosminzdrav.ru/LimPriceArchive.aspx',
+        payload={}
+):
+    print >>sys.stderr, 'Crawl', url, payload
+    response = requests.post(url, data=payload)
+    content = response.content
+    match = re.search(
+        (r'<input type="hidden" name="__VIEWSTATE" '
+         'id="__VIEWSTATE" value="([^"]+)"'),
+        content
+    )
+    state = match.group(1)
+    match = re.search(
+        (r'<input type="hidden" name="__EVENTVALIDATION" '
+         'id="__EVENTVALIDATION" value="([^"]+)"'),
+        content
+    )
+    validation = match.group(1)
+    previous, next = re.findall(r"'(V[^']+)'", content)
+    days = re.findall(
+        r"javascript:__doPostBack\('ctl00\$plate\$ca','(\d+)'\)",
+        content
+    )
+    return state, validation, previous, next, days
+
+
+def crawl_archive_pages(min='V3896'):
+    state, validation, previous, next, indexes = crawl_archive_page()
+    while previous > min:
+        yield state, validation, previous, next, indexes
+        payload = {
+            '__EVENTTARGET': 'ctl00$plate$ca',
+            '__EVENTARGUMENT': previous,
+            '__VIEWSTATE': state,
+            '__EVENTVALIDATION': validation 
+        }
+        state, validation, previous, next, indexes= crawl_archive_page(payload=payload)
+
+
+def load_archive_pages(path='data/pages.json'):
+    with open(path) as file:
+        return json.load(file)
+
+
+def dump_archive_pages(pages, path='data/pages.json'):
+    with open(path, 'w') as file:
+        json.dump(pages, file)
+
+
+def run_crawl_archive_pages():
+    pages = []
+    for page in crawl_archive_pages():
+        pages.append(page)
+        dump_archive_pages(pages)
+
+
+def crawl_archive_date(
+        date, pages,
+        url='http://grls.rosminzdrav.ru/LimPriceArchive.aspx'
+):
+    cridentials = {}
+    for state, validation, _, _, indexes in pages:
+        for index in indexes:
+            cridentials[int(index)] = state, validation
+    start = datetime(2000, 1, 1)
+    index = (date - start).days
+    if index in cridentials:
+        state, validation = cridentials[index]
+        payload = {
+            '__EVENTTARGET': 'ctl00$plate$ca',
+            '__EVENTARGUMENT': index,
+            '__VIEWSTATE': state,
+            '__EVENTVALIDATION': validation 
+        }
+        print >>sys.stderr, 'Crawl', url, payload
+        response = requests.post(url, data=payload)
+        content = response.content
+        return re.findall(
+            r"<a href='(GetLimPrice.aspx\?FileGUID=[^']+)'>",
+            content
+        )
+
+
+def crawl_archive_dates(start, stop, pages):
+    while stop > start:
+        yield stop.isoformat(), crawl_archive_date(stop, pages)
+        stop -= timedelta(days=1)
+        
+
+def load_archive_dates(path='data/dates.json'):
+    with open(path) as file:
+        return json.load(file)
+
+
+def dump_archive_dates(dates, path='data/dates.json'):
+    with open(path, 'w') as file:
+        json.dump(dates, file)
+
+
+def run_crawl_archive_dates():
+    dates = []
+    pages = load_archive_pages()
+    for date in crawl_archive_dates(
+            datetime(2010, 11, 1),
+            datetime(2015, 8, 14),
+            pages
+    ):
+        dates.append(date)
+        dump_archive_dates(dates)
+
+
+def download_archive_date(
+        date,
+        dir='data/zip',
+        url='http://grls.rosminzdrav.ru'
+):
+    date, (zip, xls) = date
+    print >>sys.stderr, 'Wget', date
+    check_call([
+        'wget',
+        os.path.join(url, zip),
+        '-O',
+        os.path.join(dir, date + '.zip')
+    ])
+
+def run_download_archive_dates(dates):
+    for item in dates[::7]:
+        date, urls = item
+        if date < '2013-08-30T00:00:00' and urls:
+            download_archive_date(item)
+
+
+def read_zip_data(path):
+    tmp = tempfile.mkdtemp()
+    with zipfile.ZipFile(path) as zip:
+        name = zip.namelist()[0]
+        zip.extract(name, tmp)
+        try:
+            return read_xls_data(os.path.join(tmp, name))
+        finally:
+            rmtree(tmp)
+
+
+def load_archive_data(dir='data/zip'):
+    archive = {}
+    for filename in os.listdir(dir):
+        date, extension = filename.rsplit('.', 1)
+        if extension == 'zip':
+            date = datetime.strptime(date, '%Y-%m-%dT%H:%M:%S')
+            path = os.path.join(dir, filename)
+            try:
+                data = read_zip_data(path)
+            except:
+                data = None
+            print >>sys.stderr, date, path
+            archive[date] = data
+    return archive
+
+
+def join_archive(archive):
+    data = pd.DataFrame()
+    for date, table in archive.iteritems():
+        if table is not None:
+            table = table[['title', 'dosage', 'firm', 'amount', 'price']]
+            table['date'] = date
+            data = data.append(table)
+    data = data.pivot_table(
+        index=['title', 'dosage', 'firm', 'amount'],
+        columns='date',
+        values='price'
+    )
+    return data
+
+
+def get_archive_join_changes(join):
+    data = []
+    for (title, dosage, firm, amount), prices in join.iterrows():
+        prices = prices.dropna()
+        first = prices[0]
+        prices = prices / first
+        data.append(prices)
+    data = pd.DataFrame(data)
+    data = data.T
+    return data
+
+
+def get_real_changes(changes):
+    selection = []
+    for column in changes.columns:
+        series = changes[column]
+        if sum(~series.isnull() & (series != 1.0)) > 0:
+            selection.append(column)
+    return changes[selection]
+
+
+def show_archive_join_changes(changes):
+    changes.plot(legend=False, colormap="Blues", alpha=0.5, ylim=(0.5, 2.0))
