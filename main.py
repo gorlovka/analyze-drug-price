@@ -8,6 +8,7 @@ import re
 import json
 import tempfile
 import zipfile
+import math
 from shutil import rmtree
 from datetime import datetime, timedelta
 from subprocess import check_call
@@ -19,6 +20,8 @@ import requests
 requests.packages.urllib3.disable_warnings()
 
 import pandas as pd
+pd.options.mode.chained_assignment = None
+
 import numpy as np
 import seaborn
 seaborn.set_style("whitegrid")
@@ -239,7 +242,6 @@ def get_price_amount(price):
         except ValueError:
             return None
         
-
 
 def parse_prices(data):
     if 'data' in data['kmdata']:
@@ -789,6 +791,16 @@ def get_titles_popularity(stats, top=100):
     return filter
     
 
+def get_given_forms(stats, selection):
+    filter = defaultdict(lambda: defaultdict(set))
+    for (name, title), forms in stats.iteritems():
+        for (id, form), (max, all) in forms.iteritems():
+            for amount in max:
+                if amount in all and (form, amount) in selection:
+                    filter[name, title][id, form].add(amount)
+    return filter
+
+
 def plot_steps(smooth=False):
     fig, (ax1, ax2) = plt.subplots(1,2 )
     x = np.arange(0, 60, 0.01)
@@ -806,7 +818,7 @@ def plot_steps(smooth=False):
             print '{}: {}, {}: {}'.format(previous, previous_real, current, real)
 
 
-def dump_steps(path='viz/steps.json'):
+def dump_steps(path='viz/sparks/steps.json'):
     x = np.arange(0, 600, 1)
     steps = [
         {
@@ -891,7 +903,7 @@ def shows_stats(stats):
                     print '    # ', count, '\t', pharmacy, price
 
 
-def dump_stats(stats, path='viz/data.json'):
+def dump_stats(stats, path='viz/sparks/data.json'):
     pharmacies = defaultdict(count().next)
     dump = defaultdict(dict)
     for (name, title), forms in stats.iteritems():
@@ -1113,10 +1125,11 @@ def download_archive_date(
         os.path.join(dir, date + '.zip')
     ])
 
-def run_download_archive_dates(dates):
-    for item in dates[::7]:
+def run_download_archive_dates():
+    dates = load_archive_dates()
+    for item in dates:
         date, urls = item
-        if date < '2013-08-30T00:00:00' and urls:
+        if urls:
             download_archive_date(item)
 
 
@@ -1131,44 +1144,14 @@ def read_zip_data(path):
             rmtree(tmp)
 
 
-def load_archive_data(dir='data/zip'):
-    archive = {}
-    for filename in os.listdir(dir):
-        date, extension = filename.rsplit('.', 1)
-        if extension == 'zip':
-            date = datetime.strptime(date, '%Y-%m-%dT%H:%M:%S')
-            path = os.path.join(dir, filename)
-            try:
-                data = read_zip_data(path)
-            except:
-                data = None
-            print >>sys.stderr, date, path
-            archive[date] = data
-    return archive
-
-
-def join_archive(archive):
-    data = pd.DataFrame()
-    for date, table in archive.iteritems():
-        if table is not None:
-            table = table[['title', 'dosage', 'firm', 'amount', 'price']]
-            table['date'] = date
-            data = data.append(table)
-    data = data.pivot_table(
-        index=['title', 'dosage', 'firm', 'amount'],
-        columns='date',
-        values='price'
-    )
-    return data
-
-
 def get_archive_join_changes(join):
     data = []
     for (title, dosage, firm, amount), prices in join.iterrows():
         prices = prices.dropna()
-        first = prices[0]
-        prices = prices / first
-        data.append(prices)
+        if not prices.empty:
+            first = prices[0]
+            prices = prices / first
+            data.append(prices)
     data = pd.DataFrame(data)
     data = data.T
     return data
@@ -1185,3 +1168,376 @@ def get_real_changes(changes):
 
 def show_archive_join_changes(changes):
     changes.plot(legend=False, colormap="Blues", alpha=0.5, ylim=(0.5, 2.0))
+
+
+def load_archive_aggregate(path='data/aggregate.csv'):
+    data = pd.read_csv(path, encoding='utf8')
+    data = data.set_index(['title', 'dosage', 'firm', 'amount'])
+    return data
+
+
+def dump_archive_aggregate(data, path='data/aggregate.csv'):
+    data = data.reset_index()
+    data.to_csv(path, index=False, encoding='utf8')
+
+
+def make_aggregate_update(data, date):
+    data['date'] = date
+    update = data.pivot_table(
+        index=['title', 'dosage', 'firm', 'amount'],
+        columns='date',
+        values='price',
+        aggfunc=np.max
+    )
+    return update
+
+
+def update_archive_aggregate(aggregate, update):
+    for column in update.columns:
+        aggregate[column] = update[column]
+    return aggregate
+
+
+def run_update_archive_aggregate(dir='data/zip'):
+    aggregate = load_archive_aggregate()
+    for filename in os.listdir(dir):
+        date, extension = filename.rsplit('.', 1)
+        if extension == 'zip':
+            if date >= '2011-11-12T00:00:00' and date <= '2015-08-12T00:00:00':
+                date = datetime.strptime(date, '%Y-%m-%dT%H:%M:%S')
+                path = os.path.join(dir, filename)
+                try:
+                    print >>sys.stderr, date, len(aggregate)
+                    data = read_zip_data(path)
+                    update = make_aggregate_update(data, date)
+                    aggregate = update_archive_aggregate(aggregate, update)
+                    dump_archive_aggregate(aggregate)
+                except Exception as error:
+                    print >>sys.stderr, error
+
+
+def dump_archive_changes(changes, path='viz/pricelist/changes.json'):
+    data = []
+    for column in changes.columns:
+        series = []
+        for date, value in changes[column].dropna().iteritems():
+            if date.day == 1:
+                date = date.strftime('%Y-%m-%d')
+                series.append({
+                    'date': date,
+                    'y': value
+                })
+        data.append(series)
+    with open(path, 'w') as dump:
+        json.dump(data, dump)
+
+
+def get_maxes(aggregate):
+    maxes = aggregate.max(axis=1).reset_index()
+    maxes.columns = ['title', 'dosage', 'firm', 'amount', 'price']
+    return maxes
+
+
+def make_pricelist(data):
+    pricelist = defaultdict(lambda: defaultdict(lambda: defaultdict(dict)))
+    for _, row in data.iterrows():
+        pricelist[row.title][row.dosage][row.amount][row.firm] = get_real_max_price(row.price)
+    return pricelist
+
+
+def remove_price_dublicates(pricelist):
+    dedublicated = defaultdict(
+        lambda: defaultdict(
+            lambda: defaultdict(
+                lambda: {
+                    'firms': {},
+                    'probability': None
+                    }
+                )
+            )
+        )
+    for title, dosages in pricelist.iteritems():
+        for dosage, amounts in dosages.iteritems():
+            for amount, prices in amounts.iteritems():
+                dublicates = defaultdict(list)
+                for firm, price in prices['firms'].iteritems():
+                    dublicates[price].append(firm)
+                probability = prices['probability']
+                prices = {}
+                for price, firms in dublicates.iteritems():
+                    firm = max(firms, key=len)
+                    prices[firm] = price
+                dedublicated[title][dosage][amount]['firms'] = prices
+                dedublicated[title][dosage][amount]['probability'] = probability
+    return dedublicated
+
+
+def get_titles(pricelist):
+    for title in pricelist:
+        yield title
+
+
+def normalize_title(title):
+    mapping = {
+        u'АмброГЕКСАЛ': u'АмброГексал',
+        u'Амброгексал': u'АмброГексал',
+        u'Микофенолата мофетил-ТЛ': u'Микофенолата Мофетил-ТЛ',
+        u'ЦИКЛОФЕРОН': u'Циклоферон',
+        u'Зокор форте': u'Зокор Форте',
+        u'ЦИТОФЛАВИН': u'Цитофлавин',
+        u'Энкорат хроно': u'Энкорат Хроно',
+        u'Кромогексал': u'КромоГексал',
+        u'Индапамид ретард': u'Индапамид Ретард',
+        u'Буденит стери-неб': u'Буденит Стери-Неб',
+        u'МАКЛЕВО': u'Маклево',
+        u'СУПРАСТИН': u'Супрастин',
+        u'Юнидокс солютаб': u'Юнидокс Солютаб',
+        u'Аспарагиназа медак': u'Аспарагиназа Медак',
+        u'КОКСЕРИН': u'Коксерин',
+        u'МИЛДРОНАТ': u'Милдронат',
+        u'ФОКУСИН': u'Фокусин',
+        u'Аллопуринол-ЭГИС': u'Аллопуринол-Эгис',
+        u'Вильпрафен солютаб': u'Вильпрафен Солютаб',
+        u'ЦИКЛОДОЛ': u'Циклодол',
+        u'Ацетилсалициловая кислота "ЙОРК"': u'Ацетилсалициловая кислота "Йорк"',
+        u'МАДОПАР "125"': u'Мадопар "125"',
+        u'РЕАМБЕРИН': u'Реамберин',
+        u'ВИФЕРОН': u'Виферон',
+        u'ПЕНЕСТЕР': u'Пенестер',
+        u'Тизин ксило': u'Тизин Ксило',
+        u'Винпоцетин-САР': u'Винпоцетин-Сар',
+        u'МАКОКС': u'Макокс',
+        u'Глюкофаж лонг': u'Глюкофаж Лонг',
+        u'Лорагексал': u'ЛораГексал',
+        u'натрия хлорид': u'Натрия хлорид',
+        u'ПАС натрия': u'ПАС Натрия',
+        u'Беталок ЗОК': u'Беталок Зок',
+        u'МИТОКСАНТРОН': u'Митоксантрон',
+        u'МАДОПАР ГСС "125"': u'Мадопар ГСС "125"',
+        u'ЭВКАЗОЛИН АКВА': u'Эвказолин Аква',
+        u'КЕТИЛЕПТ': u'Кетилепт',
+        u'КАРВЕДИЛОЛ': u'Карведилол',
+        u'Гонал-ф': u'Гонал-Ф',
+        u'ФОРКОКС': u'Форкокс',
+        u'ВИНОРЕЛБИН': u'Винорелбин',
+        u'ЭПИРУБИЦИН': u'Эпирубицин',
+        u'ДОПЕГИТ': u'Допегит',
+        u'Лоперамид ШТАДА': u'Лоперамид Штада',
+        u'МАКРОЗИД': u'Макрозид',
+        u'артрум': u'Артрум',
+        u'Флуконазол ШТАДА': u'Флуконазол Штада',
+        u'преднизолон': u'Преднизолон',
+        u'флуконазол': u'Флуконазол',
+        u'КАПОЦИН': u'Капоцин',
+        u'Коринфар УНО': u'Коринфар Уно',
+        u'вакцина коревая культуральная живая': u'Вакцина коревая культуральная живая',
+        u'ДОКСОРУБИЦИН': u'Доксорубицин',
+        u'ЭГИЛОК С': u'Эгилок С',
+        u'Дакарбазин медак': u'Дакарбазин Медак',
+        u'Анатоксин дифтерийно-столбнячный очищенный адсорбированный с уменьшенным содержанием антигенов жидкий (АДС-М анатоксин)': u'Анатоксин дифтерийно-столбнячный очищенный адсорбированный с уменьшенным содержанием антигенов жидкий (АДС-М-анатоксин)',
+        u'Инфанрикс Гекса (Вакцина для профилактики дифтерии, столбняка, коклюша (бесклеточная), полиомиелита (инактивированная),гепатита В комбинированная, адсорбированная в комплекте с вакциной для профилактики инфекции, вызываемой Haemophilus influenzae тип b конъюгированной, адсорбированной)': u'Инфанрикс Гекса (Вакцина для профилактики дифтерии, столбняка, коклюша (бесклеточная), полиомиелита (инактивированная), гепатита В комбинированная, адсорбированная в комплекте с вакциной для профилактики инфекции, вызываемой Haemophilus influenzae тип b конъюгированной, адсорбированной)',
+        u'Амоксициллин+Клавуланоая кислота': u'Амоксициллин+Клавулановая кислота',
+        u'Амоксициллин+клавулановая кислота': u'Амоксициллин+Клавулановая кислота',
+    }
+    title = title.replace(u'®', '')
+    title = title.replace('  ', ' ')
+    title = title.replace(' + ', '+')
+    for pattern in (' - ', ' -', '- ', u' –'):
+        title = title.replace(pattern, '-')
+    title = mapping.get(title, title)
+    title = title.replace('-', u'–')
+    return title
+
+
+def remove_title_dublicates(pricelist):
+    dedublicated = defaultdict(
+        lambda: defaultdict(
+            lambda: defaultdict(
+                lambda: {
+                    'firms': {},
+                    'probability': None
+                    }
+                )
+            )
+        )
+    for title, dosages in pricelist.iteritems():
+        title = normalize_title(title)
+        for dosage, amounts in dosages.iteritems():
+            for amount, prices in amounts.iteritems():
+                for firm, price in prices['firms'].iteritems():
+                    dedublicated[title][dosage][amount]['firms'][firm] = price
+                dedublicated[title][dosage][amount]['probability'] = prices['probability']
+    return dedublicated
+
+
+def get_dosages(pricelist):
+    for title, dosages in pricelist.iteritems():
+        for dosage in dosages:
+            yield dosage
+
+
+def sub_quotes(match):
+    if match:
+        slice = match.group(1)
+        return u'«' + slice[1:-1] + u'»'
+
+
+def sub_decimal_point(match):
+    if match:
+        slice = match.group(1)
+        return slice.replace(',', '.')
+
+
+def normalize_dosage(dosage):
+    dosage = re.sub(ur'"бабочка$', u'"бабочка"', dosage)
+    dosage = re.sub(ur'"Твин$', u'"Твин"', dosage)
+    dosage = re.sub(r'("[^"]+")', sub_quotes, dosage)
+    for pattern in ('.- ', '.-'):
+        dosage = dosage.replace(pattern, '. - ')
+    for pattern in (')- ', ')-'):
+        dosage = dosage.replace(pattern, ') - ')
+    for pattern in (u' – ', ' - ', ' -', '- '):
+        dosage = dosage.replace(pattern, ' - ')
+    dosage = dosage.replace(u'мг-', u'мг - ')
+    dosage = dosage.replace(u'мл-', u'мл - ')
+    dosage = dosage.replace(u'шт-', u'шт - ')
+    dosage = dosage.replace('/-', '/ - ')
+    dosage = dosage.replace(' - ', u' — ')
+    dosage = dosage.replace(' %', '%')
+    dosage = re.sub(r'(\d,\d)', sub_decimal_point, dosage)
+    dosage = dosage.replace('\n', ' ')
+    dosage = re.sub(r'\s\s+', ' ', dosage)
+    return dosage
+
+
+def remove_dosage_dublicates(pricelist):
+    dedublicated = defaultdict(
+        lambda: defaultdict(
+            lambda: defaultdict(
+                lambda: {
+                    'firms': {},
+                    'probability': None
+                    }
+                )
+            )
+        )
+    for title, dosages in pricelist.iteritems():
+        for dosage, amounts in dosages.iteritems():
+            dosage = normalize_dosage(dosage)
+            for amount, prices in amounts.iteritems():
+                for firm, price in prices['firms'].iteritems():
+                    dedublicated[title][dosage][amount]['firms'][firm] = price
+                dedublicated[title][dosage][amount]['probability'] = prices['probability']
+    return dedublicated
+
+
+def get_firms(pricelist):
+    for title, dosages in pricelist.iteritems():
+        for dosage, amounts in dosages.iteritems():
+            for amount, prices in amounts.iteritems():
+                for firm in prices['firms']:
+                    yield firm
+
+
+def normalize_firm(firm):
+    firm = firm.strip()
+    firm = firm.rstrip('.')
+    for pattern in ('.- ', '.-'):
+        firm = firm.replace(pattern, '. - ')
+    for pattern in ('- ', ' -'):
+        firm = firm.replace(pattern, ' - ')
+    firm = firm.replace(' - ', u' — ')
+    firm = firm.replace(',', ', ')
+    firm = firm.replace(';', '; ')
+    firm = re.sub(r'("[^\s][^"]*[^\s]")', sub_quotes, firm)
+    firm = firm.replace('"', '')
+    firm = re.sub(r'\s\s+', ' ', firm)
+    return firm
+
+
+def remove_firm_dublicates(pricelist):
+    dedublicated = defaultdict(
+        lambda: defaultdict(
+            lambda: defaultdict(
+                lambda: {
+                    'firms': {},
+                    'probability': None
+                    }
+                )
+            )
+        )
+    for title, dosages in pricelist.iteritems():
+        for dosage, amounts in dosages.iteritems():
+            for amount, prices in amounts.iteritems():
+                for firm, price in prices['firms'].iteritems():
+                    firm = normalize_firm(firm)
+                    dedublicated[title][dosage][amount]['firms'][firm] = price
+                dedublicated[title][dosage][amount]['probability'] = prices['probability']
+    return dedublicated
+
+
+def dump_pricelist(pricelist, path='viz/pricelist/data.json'):
+    with open(path, 'w') as file:
+        json.dump(pricelist, file)
+
+
+LOW = 0
+MEDIUM = 1
+HIGH = 2
+
+
+def get_excesses_group(excesses, total, low_limit=0.00887, medium_limit=0.0714):
+    probability = float(excesses) / total
+    error = math.sqrt(probability * (1 - probability) / total)
+    corrected = probability - error
+    if corrected <= low_limit:
+        return LOW
+    elif corrected <= medium_limit:
+        return MEDIUM
+    else:
+        return HIGH
+
+
+def get_excesses_probabilities(stats):
+    totals = Counter()
+    excesses = Counter()
+    for (name, title), forms in stats.iteritems():
+        for (id, pattern), (maxes, all) in forms.iteritems():
+            for amount, limits in maxes.iteritems():
+                if amount in all:
+                    form = max(limits, key=limits.get)
+                    limit = limits[form]
+                    limit = get_real_max_price(limit)
+                    for option in all[amount]:
+                        price = option.price
+                        totals[title, form, amount] += 1
+                        if price > limit:
+                            excesses[title, form, amount] += 1
+    probabilities = defaultdict(lambda: defaultdict(dict))
+    for (title, form, amount), total in totals.iteritems():
+        excess = excesses[title, form, amount]
+        probability = get_excesses_group(excess, total)
+        probabilities[title][form][amount] = probability
+    return probabilities
+
+
+def join_pricelist_probabilities(pricelist, probabilities):
+    join = defaultdict(lambda: defaultdict(dict))
+    for title, dosages in pricelist.iteritems():
+        for dosage, amounts in dosages.iteritems():
+            for amount, firms in amounts.iteritems():
+                probability = None
+                if title in probabilities:
+                    dosages = probabilities[title]
+                    if dosage in dosages:
+                        amounts = dosages[dosage]
+                        probability = amounts.get(amount)
+                join[title][dosage][amount] = {
+                    'firms': firms,
+                    'probability': probability
+                }
+    return join
+
+
+if __name__ == '__main__':
+    run_update_archive_aggregate()
