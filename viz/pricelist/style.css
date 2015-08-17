@@ -18,6 +18,14 @@ a:hover, a:focus {
     text-decoration: none !important;
 }
 
+#share {
+    margin-top: 0.5em;
+}
+
+#share a {
+    border-bottom: 0;
+}
+
 .chart text {
     font: sans-serif;
     font-size: 10px;
@@ -71,8 +79,8 @@ a:hover, a:focus {
 #pricelist td, #pricelist th  {
     padding-top: 0.5em;
     padding-bottom: 0.5em;
-    padding-left: 1em;
-    padding-right: 1em;
+    padding-left: 0;
+    padding-right: 2em;
     vertical-align: top;
     border-bottom: 1px solid rgb(234, 234, 234);
 }

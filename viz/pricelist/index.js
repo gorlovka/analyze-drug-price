@@ -72,7 +72,7 @@ d3.json('changes.json', function(error, data) {
 
     var x = d3.time.scale()
 	.range([0, width])
-	.domain([parse('2010-11-11'), parse('2014-06-15')]);
+	.domain([parse('2010-11-11'), parse('2015-08-14')]);
 
     var y = d3.scale.linear()
 	.range([height, 0])
