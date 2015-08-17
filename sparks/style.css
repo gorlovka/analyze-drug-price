@@ -1,0 +1,76 @@
+a {
+    border-bottom: 1px solid;
+}
+
+/* Disable bootstrap link underlining */
+a:hover, a:focus {
+    text-decoration: none !important;
+}
+
+.card {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.card .description {
+    font-family: sans-serif;
+    font-size: 12px;
+    letter-spacing: .01em;
+}
+
+ul.vialations {
+    list-style: none;
+    padding: 0;
+}
+
+ul.vialations li.vialation:before {
+    content: "—";
+    color: rgba(255, 0, 0, 0.6);
+    padding-right: .5em;
+}
+
+.chart {
+    margin-top: -0.3em;
+}
+
+.chart text {
+    font: sans-serif;
+    font-size: 10px;
+}
+
+.chart .line {
+    fill: none;
+    stroke: #337ab7;
+    stroke-width: 1px;
+}
+
+.rug {
+    stroke-width: 1px;
+    shape-rendering: crispEdges;
+}
+
+.rug.price {
+    stroke: #b2ccf0;
+    stroke-opacity: 0.1;
+}
+
+.rug.price.excess {
+    stroke: #ff0000;
+    stroke-opacity: 0.5;
+}
+
+.rug.limit line {
+    stroke: #b3b2b2;
+    stroke-opacity: 1.0;
+}
+
+.rug.limit text {
+    text-anchor: middle;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #b3b2b2;
+    shape-rendering: crispEdges;
+}
