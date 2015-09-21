@@ -843,25 +843,25 @@ def dump_steps(path='viz/sparks/steps.json'):
 
 
 def get_real_max_price(price, smooth=True, trace=False):
-    nds = price * 1.10
-    if nds <= 50.0:
+    if price <= 50.0:
         bulk = 0.2
         retail = 0.32
-    elif nds <= 500.0:
+    elif price <= 500.0:
         bulk = 0.15
         retail = 0.28
     else:
         bulk = 0.10
         retail = 0.15
-    real = nds * (1 + bulk + retail)
+    real = price * (1 + bulk + retail) * 1.10
     delta = 0
-    if smooth:
-        original = real
-        if price > 45.45:
-            real = max(real, 75.9924)
-        if price > 454.54:
-            real = max(real, 714.99142)
-        delta = real - original
+    # There is no smoothing in reallity
+    # if smooth:
+    #     original = real
+    #     if price > 45.45:
+    #         real = max(real, 75.9924)
+    #     if price > 454.54:
+    #         real = max(real, 714.99142)
+    #     delta = real - original
     if trace:
         return price, 0.10, bulk, retail, delta, real
     else:
